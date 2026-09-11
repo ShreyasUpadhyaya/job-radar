@@ -1,0 +1,108 @@
+name: Morning job radar
+
+on:
+  schedule:
+    # 03:30 UTC is 09:00 IST. GitHub's scheduler can lag by a few minutes
+    # under load, so treat this as "shortly after nine", not to the second.
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      skip_rendered:
+        description: "Skip portals that need Firecrawl"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: job-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Refresh portal map on Mondays
+        if: github.event.schedule == '30 3 * * *'
+        run: |
+          if [ "$(date -u +%u)" = "1" ]; then
+            python -m radar.resolve --missing || true
+            python -m radar.resolve --audit || true
+          fi
+
+      - name: Read every career portal
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: |
+          # Sundays read the whole registry, including the long tail of
+          # rendered portals. Other days read the priority list, so Firecrawl
+          # credits last the month.
+          CADENCE=daily
+          [ "$(date -u +%u)" = "7" ] && CADENCE=weekly
+          python -m radar.run --cadence "$CADENCE" ${{ inputs.skip_rendered && '--skip-rendered' || '' }}
+
+      - name: Build the digest
+        env:
+          PAGES_URL: ${{ steps.pages.outputs.page_url || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
+        run: python -m radar.notify
+
+      - name: Keep the schedule alive
+        # GitHub disables a cron workflow after 60 days without repository
+        # activity. Most runs commit anyway; this guarantees a write even on a
+        # day when nothing changed, so the schedule never lapses quietly.
+        run: |
+          date -u +"last run %Y-%m-%dT%H:%M:%SZ" > state/heartbeat.txt
+
+      - name: Commit today's board
+        run: |
+          git config user.name "job-radar"
+          git config user.email "actions@github.com"
+          git add docs/jobs.json docs/jobs.csv state/ reports/ resolved.json
+          git diff --staged --quiet || git commit -m "radar: $(date -u +%Y-%m-%d)"
+          git push
+
+      # A GitHub issue is the zero-setup notification: GitHub emails you
+      # because you own the repo and watch it.
+      - name: Open an issue with the new roles
+        if: hashFiles('state/digest.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s state/digest.md ]; then
+            gh issue create \
+              --title "Job radar: $(date -u +'%d %b')" \
+              --body-file state/digest.md \
+              --label "radar" || \
+            gh issue create \
+              --title "Job radar: $(date -u +'%d %b')" \
+              --body-file state/digest.md
+          fi
+
+      # Optional. Add MAIL_USERNAME, MAIL_PASSWORD (a Gmail app password)
+      # and MAIL_TO as repository secrets to also get a plain email.
+      - name: Email the digest
+        if: ${{ secrets.MAIL_USERNAME != '' }}
+        continue-on-error: true
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_TO }}
+          from: Job Radar
+          subject: "Job radar: new roles this morning"
+          convert_markdown: true
+          html_body: file://state/digest.md

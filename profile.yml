@@ -1,0 +1,156 @@
+# Matching profile, derived from Shreyas_Upadhyaya_Resume.pdf.
+# Edit weights here rather than in code.
+
+years_experience: 3
+
+# Titles you want. Weight is how strongly a title hit lifts the score.
+titles:
+  strong:            # weight 30
+    - machine learning engineer
+    - ml engineer
+    - ai engineer
+    - llm engineer
+    - genai engineer
+    - generative ai
+    - agentic
+    - applied scientist
+    - applied ai
+    - data scientist
+    - mlops
+    - ml platform
+  good:              # weight 20
+    - software engineer
+    - backend engineer
+    - python engineer
+    - platform engineer
+    - research engineer
+    - data engineer
+    - full stack engineer
+    - forward deployed
+    - ai architect
+    - ml architect
+    - machine learning
+    - artificial intelligence
+  weak:              # weight 8
+    - analyst
+    - developer
+    - sde
+
+# Titles that disqualify outright, whatever else matches.
+exclude_titles:
+  - sales
+  - account executive
+  - recruiter
+  - talent acquisition
+  - marketing
+  - customer success
+  - solutions consultant
+  - business development
+  - hr business partner
+  - intern
+  - director
+  - vice president
+  - head of
+  - principal
+  - staff engineer
+  - engineering manager
+
+# Skills, weighted. Matched against title + description.
+skills:
+  core:              # weight 6 each, capped
+    - python
+    - pytorch
+    - langchain
+    - langgraph
+    - rag
+    - llm
+    - fastapi
+    - transformers
+    - hugging face
+    - scikit-learn
+    - tensorflow
+    - multi-agent
+    - vector
+    - embeddings
+    - fine-tuning
+    - evaluation
+    - guardrails
+  supporting:        # weight 3 each
+    - c++
+    - cuda
+    - onnx
+    - quantization
+    - inference
+    - kubernetes
+    - docker
+    - aws
+    - sagemaker
+    - postgresql
+    - mongodb
+    - kafka
+    - spark
+    - duckdb
+    - airflow
+    - mlflow
+    - react
+    - typescript
+    - sql
+    - pandas
+    - numpy
+    - xgboost
+    - ci/cd
+    - pytest
+  domain:            # weight 4 each, your differentiators
+    - drone
+    - uav
+    - telemetry
+    - robotics
+    - autonomy
+    - computer vision
+    - edge
+    - real-time
+    - simulation
+
+# Location ordering. Lower rank sorts higher. Anything not listed is dropped
+# unless it is remote-eligible for India.
+location_rank:
+  remote_india: 0
+  noida: 1
+  delhi: 2
+  new delhi: 2
+  ncr: 2
+  gurugram: 3
+  gurgaon: 3
+  bengaluru: 4
+  bangalore: 4
+  hyderabad: 5
+  pune: 6
+  mumbai: 7
+
+# Mumbai only counts if the posting discloses more than this, in LPA.
+mumbai_min_lpa: 24
+
+# Experience buckets. 0 sorts first.
+experience:
+  ideal_min: 2
+  ideal_max: 5
+  senior_from: 6
+
+min_score_to_notify: 45
+
+# ---- borrowed from MadsLorentzen/ai-job-search ----------------------------
+
+# Languages you actually work in. A posting that requires a language absent
+# from this list is hard-rejected; one that asks for a higher level in a
+# language you do have is flagged for your judgement, not dropped.
+languages:
+  - english
+  - hindi
+
+# Free-form deal-breakers. Each is a pattern and the reason shown when it
+# vetoes a posting. Add a line, no code change.
+deal_breakers:
+  - {pattern: "\\b(unpaid|equity[ -]only|no salary offered)\\b", reason: "unpaid"}
+  - {pattern: "\\b(bond|surety|training fee|security deposit)\\b", reason: "asks for a bond or fee"}
+  - {pattern: "\\b(6 days a week|six days a week|saturday working)\\b", reason: "six-day week"}
+  - {pattern: "\\bown (?:laptop|device) (?:is )?(?:required|mandatory)\\b", reason: "bring your own hardware"}

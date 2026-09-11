@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F4F5F7; --card:#FFFFFF; --ink:#1A2430; --dim:#5F6E7A;
+    --rule:#D6DBE0; --accent:#2F3E9E; --gold:#8A5D00; --meter:#0F6B62;
+    --warn:#9A3412; --sel:#E8EBF7;
+    --t0:#2F3E9E; --t1:#0F6B62; --t2:#8B98A4;
+    --sans:'Archivo',system-ui,-apple-system,'Segoe UI',sans-serif;
+    --serif:'Source Serif 4',Georgia,'Times New Roman',serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --paper:#12181E; --card:#182029; --ink:#E7ECF1; --dim:#93A2AF;
+      --rule:#28323C; --accent:#8FA0FF; --gold:#D9A93A; --meter:#4CC0AE;
+      --warn:#E8926A; --sel:#1E2A3E; --t0:#8FA0FF; --t1:#4CC0AE; --t2:#68757F;
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#12181E; --card:#182029; --ink:#E7ECF1; --dim:#93A2AF;
+    --rule:#28323C; --accent:#8FA0FF; --gold:#D9A93A; --meter:#4CC0AE;
+    --warn:#E8926A; --sel:#1E2A3E; --t0:#8FA0FF; --t1:#4CC0AE; --t2:#68757F;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);
+       font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:74rem;margin:0 auto;padding:2.5rem 1.25rem 6rem}
+
+  header{border-bottom:1px solid var(--rule);padding-bottom:1.6rem;margin-bottom:1.25rem}
+  .stamp{font-size:.8rem;letter-spacing:.05em;color:var(--dim);font-weight:500}
+  h1{font-weight:700;font-size:clamp(1.7rem,4.2vw,2.6rem);line-height:1.15;
+     letter-spacing:-.02em;margin:.6rem 0 0;max-width:26ch}
+  h1 b{color:var(--accent)}
+  .sub{color:var(--dim);font-size:.9rem;margin-top:.7rem;max-width:72ch}
+
+  .controls{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.4rem 0 1.6rem}
+  .chip{font:inherit;font-size:.85rem;font-weight:500;color:var(--ink);background:transparent;
+        border:1px solid var(--rule);border-radius:999px;padding:.4rem .85rem;cursor:pointer}
+  .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--paper)}
+  .chip:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  #q{font:inherit;font-size:.85rem;padding:.4rem .75rem;border:1px solid var(--rule);
+     border-radius:999px;background:var(--card);color:var(--ink);min-width:13rem}
+  .slider{display:flex;align-items:center;gap:.5rem;font-size:.82rem;color:var(--dim)}
+  .slider input{accent-color:var(--accent);width:7rem}
+  .spacer{flex:1}
+
+  .tier{margin-bottom:2rem}
+  .tier-head{display:flex;align-items:baseline;gap:.6rem;padding-bottom:.5rem}
+  .tier-head .place{font-weight:600;font-size:1.02rem;letter-spacing:-.01em}
+  .tier-head .n{color:var(--dim);font-size:.85rem}
+
+  .rows{border:1px solid var(--rule);border-radius:8px;overflow:hidden;background:var(--card)}
+  .job{display:grid;grid-template-columns:4px 1fr auto;gap:0 1rem;padding:.9rem 1rem .9rem .85rem;
+       align-items:center;border-top:1px solid var(--rule)}
+  .rows .job:first-child{border-top:none}
+  .job.cursor{background:var(--sel)}
+  .job.gone{opacity:.4}
+  .bar{width:4px;height:2.7rem;border-radius:2px;background:var(--t2)}
+  .bar.t0{background:var(--t0)} .bar.t1{background:var(--t1)}
+
+  a.title{font-family:var(--serif);font-size:1.06rem;font-weight:500;line-height:1.3;
+          color:inherit;text-decoration:none}
+  a.title:hover{text-decoration:underline;text-underline-offset:3px}
+  a.title:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  .meta{font-size:.82rem;color:var(--dim);margin-top:.25rem}
+  .meta span+span::before{content:"  ·  ";opacity:.5}
+  .co{color:var(--ink);font-weight:600}
+  .new{color:var(--accent);font-weight:600;font-size:.72rem;letter-spacing:.04em;margin-left:.45rem}
+  .tags{margin-top:.35rem;display:flex;flex-wrap:wrap;gap:.3rem}
+  .tag{font-size:.72rem;padding:.12rem .45rem;border-radius:4px;border:1px solid var(--rule);color:var(--dim)}
+  .tag.gap{border-style:dashed}
+  .tag.flag{color:var(--warn);border-color:var(--warn)}
+  .right{text-align:right;min-width:7.5rem}
+  .pay{font-weight:600;font-variant-numeric:tabular-nums;color:var(--gold);font-size:.95rem}
+  .nopay{color:var(--dim);font-size:.8rem}
+  .meter{margin:.35rem 0 .1rem auto;height:3px;width:5.5rem;background:var(--rule);border-radius:2px}
+  .meter i{display:block;height:100%;background:var(--meter);border-radius:2px}
+  .score{font-size:.72rem;color:var(--dim);font-variant-numeric:tabular-nums}
+  .status{margin-top:.4rem;display:flex;gap:.25rem;justify-content:flex-end}
+  .sbtn{font:inherit;font-size:.7rem;padding:.15rem .4rem;border:1px solid var(--rule);
+        border-radius:4px;background:transparent;color:var(--dim);cursor:pointer}
+  .sbtn[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--paper)}
+
+  .empty{border:1px dashed var(--rule);border-radius:8px;padding:2rem;color:var(--dim);text-align:center}
+  footer{margin-top:3rem;padding-top:1.25rem;border-top:1px solid var(--rule);color:var(--dim);font-size:.8rem}
+  kbd{font:inherit;font-size:.75rem;border:1px solid var(--rule);border-bottom-width:2px;
+      border-radius:4px;padding:0 .3rem;background:var(--card);color:var(--ink)}
+  @media (max-width:600px){
+    .job{grid-template-columns:4px 1fr;gap:0 .8rem}
+    .right{grid-column:2;text-align:left;margin-top:.6rem;min-width:0}
+    .meter{margin-left:0}.status{justify-content:flex-start}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="stamp" id="stamp">Loading</div>
+    <h1 id="headline">Reading the portals</h1>
+    <div class="sub" id="sub"></div>
+  </header>
+
+  <div class="controls" id="controls" hidden>
+    <input id="q" type="search" placeholder="Filter by title, company, skill" aria-label="Filter jobs">
+    <button class="chip" data-filter="all" aria-pressed="true">Everything</button>
+    <button class="chip" data-filter="new" aria-pressed="false">New</button>
+    <button class="chip" data-filter="remote" aria-pressed="false">Remote</button>
+    <button class="chip" data-filter="ncr" aria-pressed="false">NCR</button>
+    <button class="chip" data-filter="paid" aria-pressed="false">Salary shown</button>
+    <button class="chip" data-filter="clean" aria-pressed="false">No red flags</button>
+    <label class="slider">match <input id="floor" type="range" min="20" max="80" step="5" value="20">
+      <span id="floorVal">20</span></label>
+    <button class="chip" id="hideDone" aria-pressed="false">Hide handled</button>
+    <span class="spacer"></span>
+    <button class="chip" id="csv">Export CSV</button>
+  </div>
+
+  <div id="liveBar" hidden style="display:flex;gap:.6rem;align-items:center;margin:-.6rem 0 1.4rem">
+    <button class="chip" id="refresh">Refresh from portals</button>
+    <span id="refreshNote" style="font-size:.82rem;color:var(--dim)"></span>
+  </div>
+
+  <main id="list"></main>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const P = {"years_experience": 3, "titles": {"strong": ["machine learning engineer", "ml engineer", "ai engineer", "llm engineer", "genai engineer", "generative ai", "agentic", "applied scientist", "applied ai", "data scientist", "mlops", "ml platform"], "good": ["software engineer", "backend engineer", "python engineer", "platform engineer", "research engineer", "data engineer", "full stack engineer", "forward deployed", "ai architect", "ml architect", "machine learning", "artificial intelligence"], "weak": ["analyst", "developer", "sde"]}, "exclude_titles": ["sales", "account executive", "recruiter", "talent acquisition", "marketing", "customer success", "solutions consultant", "business development", "hr business partner", "intern", "director", "vice president", "head of", "principal", "staff engineer", "engineering manager"], "skills": {"core": ["python", "pytorch", "langchain", "langgraph", "rag", "llm", "fastapi", "transformers", "hugging face", "scikit-learn", "tensorflow", "multi-agent", "vector", "embeddings", "fine-tuning", "evaluation", "guardrails"], "supporting": ["c++", "cuda", "onnx", "quantization", "inference", "kubernetes", "docker", "aws", "sagemaker", "postgresql", "mongodb", "kafka", "spark", "duckdb", "airflow", "mlflow", "react", "typescript", "sql", "pandas", "numpy", "xgboost", "ci/cd", "pytest"], "domain": ["drone", "uav", "telemetry", "robotics", "autonomy", "computer vision", "edge", "real-time", "simulation"]}, "location_rank": {"remote_india": 0, "noida": 1, "delhi": 2, "new delhi": 2, "ncr": 2, "gurugram": 3, "gurgaon": 3, "bengaluru": 4, "bangalore": 4, "hyderabad": 5, "pune": 6, "mumbai": 7}, "mumbai_min_lpa": 24, "experience": {"ideal_min": 2, "ideal_max": 5, "senior_from": 6}, "min_score_to_notify": 45, "languages": ["english", "hindi"], "deal_breakers": [{"pattern": "\\b(unpaid|equity[ -]only|no salary offered)\\b", "reason": "unpaid"}, {"pattern": "\\b(bond|surety|training fee|security deposit)\\b", "reason": "asks for a bond or fee"}, {"pattern": "\\b(6 days a week|six days a week|saturday working)\\b", "reason": "six-day week"}, {"pattern": "\\bown (?:laptop|device) (?:is )?(?:required|mandatory)\\b", "reason": "bring your own hardware"}], "gap_vocab": ["go", "golang", "rust", "java", "scala", "ruby", "php", "kotlin", "swift", "terraform", "snowflake", "databricks", "dbt", "bigquery", "redshift", "flink", "beam", "ray", "vertex ai", "bedrock", "gcp", "azure ml", "kubeflow", "triton", "vllm", "tensorrt", "jax", "deepspeed", "salesforce", "sap", "tableau", "power bi", "looker", "figma", "graphql", "grpc", "elasticsearch", "clickhouse", "cassandra", "neo4j"]};
+const PORTALS = [{"company": "Razorpay", "kind": "greenhouse", "slug": "razorpaysoftwareprivatelimited", "tier": "india", "cost": 1}, {"company": "Meesho", "kind": "lever", "slug": "meesho", "tier": "india", "cost": 1}, {"company": "CRED", "kind": "lever", "slug": "cred", "tier": "india", "cost": 1}, {"company": "Zeta", "kind": "lever", "slug": "zeta", "tier": "india", "cost": 1}, {"company": "Groww", "kind": "greenhouse", "slug": "groww", "tier": "india", "cost": 1}, {"company": "Unacademy", "kind": "smartrecruiters", "slug": "unacademy", "tier": "india", "cost": 1}, {"company": "NoBroker", "kind": "smartrecruiters", "slug": "nobroker", "tier": "india", "cost": 1}, {"company": "Atlan", "kind": "ashby", "slug": "atlan", "tier": "india", "cost": 1}, {"company": "Postman", "kind": "greenhouse", "slug": "postman", "tier": "india", "cost": 1}, {"company": "Freshworks", "kind": "smartrecruiters", "slug": "freshworks", "tier": "india", "cost": 1}, {"company": "Swiggy", "kind": "smartrecruiters", "slug": "swiggy", "tier": "india", "cost": 1}, {"company": "GitLab", "kind": "greenhouse", "slug": "gitlab", "tier": "global", "cost": 1}, {"company": "Canonical", "kind": "greenhouse", "slug": "canonical", "tier": "global", "cost": 1}, {"company": "Coinbase", "kind": "greenhouse", "slug": "coinbase", "tier": "global", "cost": 1}, {"company": "Cloudflare", "kind": "greenhouse", "slug": "cloudflare", "tier": "global", "cost": 1}, {"company": "Elastic", "kind": "greenhouse", "slug": "elastic", "tier": "global", "cost": 1}, {"company": "Miro", "kind": "ashby", "slug": "miro", "tier": "global", "cost": 1}, {"company": "Zapier", "kind": "ashby", "slug": "zapier", "tier": "global", "cost": 1}, {"company": "Buffer", "kind": "ashby", "slug": "buffer", "tier": "global", "cost": 1}, {"company": "Turing", "kind": "greenhouse", "slug": "turing", "tier": "global", "cost": 1}, {"company": "Remote", "kind": "greenhouse", "slug": "remote", "tier": "global", "cost": 1}, {"company": "Docker", "kind": "ashby", "slug": "docker", "tier": "global", "cost": 1}, {"company": "Datadog", "kind": "greenhouse", "slug": "datadog", "tier": "global", "cost": 1}, {"company": "Sourcegraph", "kind": "greenhouse", "slug": "sourcegraph91", "tier": "global", "cost": 1}, {"company": "Writer", "kind": "ashby", "slug": "writer", "tier": "global", "cost": 1}, {"company": "Grafana Labs", "kind": "greenhouse", "slug": "grafanalabs", "tier": "global", "cost": 1}, {"company": "Appinventiv", "kind": "render", "slug": "", "url": "https://appinventiv.com/career/", "tier": "noida", "cost": 5}, {"company": "Shiprocket", "kind": "render", "slug": "", "url": "https://careers.shiprocket.in/", "tier": "noida", "cost": 5}, {"company": "Moglix", "kind": "render", "slug": "", "url": "https://www.moglix.com/career", "tier": "noida", "cost": 5}, {"company": "OfBusiness", "kind": "render", "slug": "", "url": "https://www.ofbcareers.com/", "tier": "noida", "cost": 5}];
+/* ---- scoring, a faithful port of radar/score.py --------------------- */
+const DROP = 99;
+const RANKS = P.location_rank, EXPC = P.experience;
+const REMOTE = /\b(remote|home ?based|anywhere|work from home|wfh|distributed)\b/i;
+const INDIA_SCOPE = /\b(india|indian|apac|asia|worldwide|global(?:ly)?|anywhere)\b/i;
+const ELSEWHERE = /\b(usa|u\.s\.|united states|americas?|canada|emea|europe|england|uk|united kingdom|germany|france|poland|spain|portugal|netherlands|sweden|nordics|ireland|australia|singapore|japan|brazil|latam|mexico|dublin|london|berlin|paris|new york|seattle|san francisco|austin|toronto|amsterdam|tel aviv|dubai|malaysia|philippines|indonesia|vietnam)\b/i;
+const esc_rx = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+function locationTier(location, tier) {
+  const loc = (location || '').trim(), low = loc.toLowerCase();
+  const cities = Object.entries(RANKS).filter(([c]) => c !== 'remote_india')
+    .sort((a, b) => a[1] - b[1]);
+  for (const [city, rank] of cities) {
+    if (new RegExp(`\\b${esc_rx(city)}\\b`).test(low))
+      return [rank, city.replace(/\b\w/g, m => m.toUpperCase()) + (REMOTE.test(low) ? ' / Remote' : '')];
+  }
+  if (REMOTE.test(low)) {
+    const m = low.match(INDIA_SCOPE);
+    if (m) {
+      if (ELSEWHERE.test(low) && !/\b(india|apac|asia)\b/.test(low)) return [DROP, loc];
+      return [RANKS.remote_india, 'Remote (' + m[0].replace(/\b\w/, c => c.toUpperCase()) + ')'];
+    }
+    if (ELSEWHERE.test(low)) return [DROP, loc];
+    if (tier === 'india' || tier === 'noida') return [RANKS.remote_india, 'Remote (India)'];
+    return [DROP, loc || 'Remote'];
+  }
+  if (!low) return (tier === 'india' || tier === 'noida')
+    ? [RANKS.remote_india, 'Unspecified'] : [DROP, 'Unspecified'];
+  if (ELSEWHERE.test(low)) return [DROP, loc];
+  if (/\b(india|bharat)\b/.test(low)) return [RANKS.bengaluru, loc];
+  return [DROP, loc];
+}
+
+function parseYears(text) {
+  const w = (text || '').slice(0, 4000);
+  let m = w.match(/(\d+)\s*(?:\+|plus)?\s*(?:-|to|–)\s*(\d+)\s*\+?\s*(?:years|yrs|yoe)/i);
+  if (m) return [+m[1], +m[2]];
+  for (const rx of [/(\d+)\s*\+\s*(?:years|yrs|yoe)/i,
+                    /(?:minimum|min\.?|at least)\s*(\d+)\s*(?:years|yrs)/i,
+                    /(\d+)\s*(?:years|yrs|yoe)/i]) {
+    m = w.match(rx); if (m) return [+m[1], null];
+  }
+  return [null, null];
+}
+
+function experienceBucket(title, desc) {
+  const t = (title || '').toLowerCase();
+  const [lo, hi] = parseYears(`${title} ${desc || ''}`);
+  if (/\b(intern|internship|trainee|fresher|graduate programme)\b/.test(t)) return [3, 'Entry only'];
+  if (/\b(senior|sr\.?|lead|staff|principal|architect|manager|head)\b/.test(t))
+    return (lo !== null && lo <= EXPC.ideal_max) ? [1, `${lo}+ yrs, senior title`] : [2, 'Senior title'];
+  if (lo === null) return [1, 'Years not stated'];
+  if (lo >= EXPC.senior_from) return [2, `${lo}+ yrs`];
+  if (lo <= EXPC.ideal_max && (hi === null || hi >= EXPC.ideal_min))
+    return [0, hi ? `${lo}-${hi} yrs` : `${lo}+ yrs`];
+  if (lo < EXPC.ideal_min) return [0, `${lo}+ yrs`];
+  return [1, `${lo} yrs`];
+}
+
+function parseSalary(text) {
+  const b = (text || '').slice(0, 6000);
+  let m = b.match(/(?:₹|rs\.?|inr)?\s*(\d{1,3}(?:\.\d+)?)\s*(?:-|–|to)?\s*(\d{1,3}(?:\.\d+)?)?\s*(?:lpa|lakhs?|lacs?|l\b)/i);
+  if (m) { const top = Math.max(...[m[1], m[2]].filter(Boolean).map(Number));
+    if (top >= 2 && top <= 200) return Math.round(top * 10) / 10; }
+  m = b.match(/(?:₹|rs\.?|inr)\s*([\d,]{6,12})/i);
+  if (m) { const r = +m[1].replace(/,/g, ''); if (r > 200000) return Math.round(r / 10000) / 10; }
+  m = b.match(/\$\s*([\d,]{5,7})\s*(?:-|–|to)?\s*\$?\s*([\d,]{5,7})?/);
+  if (m) { const top = Math.max(...[m[1], m[2]].filter(Boolean).map(v => +v.replace(/,/g, '')));
+    if (top >= 20000 && top <= 600000) return Math.round(top * 88 / 10000) / 10; }
+  return null;
+}
+
+function matchScore(title, desc, dept) {
+  const t = (title || '').toLowerCase();
+  const blob = `${t} ${(desc || '').toLowerCase()} ${(dept || '').toLowerCase()}`;
+  for (const bad of P.exclude_titles) if (t.includes(bad)) return [0, []];
+  let score = 0; const hits = [];
+  let tp = 0;
+  for (const [tier, pts] of [['strong', 30], ['good', 20], ['weak', 8]])
+    for (const phrase of P.titles[tier])
+      if (t.includes(phrase)) { tp = Math.max(tp, pts); if (pts >= 20) hits.push(phrase); }
+  score += tp;
+  for (const [g, pts, cap] of [['core', 6, 36], ['supporting', 3, 15], ['domain', 4, 12]]) {
+    let got = 0;
+    for (const sk of P.skills[g])
+      if (new RegExp(`(?<![a-z])${esc_rx(sk)}(?![a-z])`).test(blob)) { got += pts; if (hits.length < 12) hits.push(sk); }
+    score += Math.min(got, cap);
+  }
+  if (!desc) score += 5;
+  const tidy = [];
+  for (const h of [...new Set(hits)].sort((a, b) => b.length - a.length))
+    if (!tidy.some(k => k.includes(h) && k !== h)) tidy.push(h);
+  return [Math.min(score, 100), tidy.slice(0, 8)];
+}
+
+function skillGaps(desc) {
+  if (!desc) return [];
+  const blob = desc.toLowerCase();
+  const mine = new Set([].concat(P.skills.core, P.skills.supporting, P.skills.domain));
+  const out = [];
+  for (const term of P.gap_vocab) {
+    if (mine.has(term)) continue;
+    if (new RegExp(`(?<![a-z])${esc_rx(term)}(?![a-z])`).test(blob)) out.push(term);
+  }
+  return out.slice(0, 6);
+}
+
+function ageDays(posted) {
+  if (!posted) return null;
+  const t = Date.parse(posted);
+  if (isNaN(t)) return null;
+  return Math.max(0, Math.floor((Date.now() - t) / 86400000));
+}
+
+function rank(raw, tier) {
+  const title = raw.title, desc = raw.description || '';
+  let [lt, place] = locationTier(raw.location, tier);
+  const [eb, en] = experienceBucket(title, desc);
+  const salary = parseSalary(`${title} ${desc}`);
+  const [score, hits] = matchScore(title, desc, raw.department);
+  if (lt === RANKS.mumbai && /^mumbai/i.test(place) &&
+      (salary === null || salary <= P.mumbai_min_lpa)) lt = DROP;
+  if (lt >= DROP || score < 20) return null;
+  return { title, location: raw.location, url: cleanUrl(raw.url), posted_at: raw.posted_at || null,
+           description: desc, department: raw.department || '',
+           location_tier: lt, location_label: place, experience_bucket: eb, experience_note: en,
+           salary_lpa: salary, match_score: score, match_hits: hits,
+           skill_gaps: skillGaps(desc), flags: [], age_days: ageDays(raw.posted_at), days_listed: 0 };
+}
+
+const JUNK = /^(utm_|gh_|ref$|source$|src$|lever-|trackingid$|from$)/i;
+function cleanUrl(u) {
+  try { const x = new URL(u); [...x.searchParams.keys()].forEach(k => { if (JUNK.test(k)) x.searchParams.delete(k); });
+        x.hash = ''; return x.toString(); } catch (e) { return u; }
+}
+function jobId(company, url) {
+  let h = 0; const s = `${company}|${cleanUrl(url)}`;
+  for (let i = 0; i < s.length; i++) { h = (h * 31 + s.charCodeAt(i)) | 0; }
+  return 'l' + (h >>> 0).toString(16);
+}
+function sortKey(a, b) {
+  const k = j => [j.location_tier, j.experience_bucket,
+                  -Math.floor((j.salary_lpa || 0) / 10), -j.match_score, -(j.salary_lpa || 0)];
+  const A = k(a), B = k(b);
+  for (let i = 0; i < A.length; i++) if (A[i] !== B[i]) return A[i] - B[i];
+  return 0;
+}
+
+</script>
+<script>
+const KEY = 'jobradar.status.v2';
+let status = {};
+try { status = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) {}
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(status)); } catch (e) {} };
+
+const STATES = [['saved','Save'],['applied','Applied'],['rejected','No']];
+let DATA = null, filter = 'all', hideDone = false, floor = 20, query = '', cursor = 0, view = [];
+
+const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g,
+  c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmtDate = iso => new Date(iso).toLocaleDateString('en-IN',
+  { weekday:'long', day:'numeric', month:'long' });
+const fmtTime = iso => new Date(iso).toLocaleTimeString('en-IN', { hour:'numeric', minute:'2-digit' });
+
+function keep(j) {
+  if (j.match_score < floor) return false;
+  if (hideDone && status[j.id]) return false;
+  if (query) {
+    const hay = (j.title + ' ' + j.company + ' ' + j.location_label + ' ' +
+      (j.match_hits || []).join(' ') + ' ' + (j.skill_gaps || []).join(' ')).toLowerCase();
+    if (!hay.includes(query)) return false;
+  }
+  if (filter === 'new') return j.is_new;
+  if (filter === 'remote') return j.location_tier === 0;
+  if (filter === 'ncr') return j.location_tier >= 1 && j.location_tier <= 3;
+  if (filter === 'paid') return j.salary_lpa != null;
+  if (filter === 'clean') return !(j.flags || []).length;
+  return true;
+}
+
+function row(j, idx) {
+  const el = document.createElement('div');
+  el.className = 'job' + (idx === cursor ? ' cursor' : '') +
+    (status[j.id] === 'rejected' ? ' gone' : '');
+  el.dataset.idx = idx;
+
+  const barClass = j.location_tier === 0 ? 't0' : (j.location_tier <= 3 ? 't1' : '');
+  const meta = [
+    `<span class="co">${esc(j.company)}</span>`,
+    `<span>${esc(j.experience_note)}</span>`,
+    j.age_days != null ? `<span>posted ${j.age_days}d ago</span>`
+      : (j.days_listed ? `<span>seen ${j.days_listed}d</span>` : ''),
+    `<span>via ${esc(j.portal)}</span>`
+  ].filter(Boolean).join('');
+
+  const tags = []
+    .concat((j.match_hits || []).slice(0, 4).map(h => `<span class="tag">${esc(h)}</span>`))
+    .concat((j.skill_gaps || []).slice(0, 3).map(g => `<span class="tag gap">${esc(g)}?</span>`))
+    .concat((j.flags || []).slice(0, 2).map(f => `<span class="tag flag">${esc(f)}</span>`))
+    .join('');
+
+  const pay = j.salary_lpa != null
+    ? `<div class="pay">${j.salary_lpa} LPA</div>` : `<div class="nopay">not stated</div>`;
+
+  el.innerHTML = `
+    <div class="bar ${barClass}"></div>
+    <div>
+      <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>${
+        j.is_new ? '<span class="new">NEW</span>' : ''}
+      <div class="meta">${meta}</div>
+      ${tags ? `<div class="tags">${tags}</div>` : ''}
+    </div>
+    <div class="right">
+      ${pay}
+      <div class="meter"><i style="width:${Math.max(6, j.match_score)}%"></i></div>
+      <div class="score">match ${j.match_score}</div>
+      <div class="status">${STATES.map(([k, label]) =>
+        `<button class="sbtn" data-set="${k}" data-id="${j.id}" aria-pressed="${
+          status[j.id] === k}">${label}</button>`).join('')}</div>
+    </div>`;
+  return el;
+}
+
+function render() {
+  if (!DATA) return;
+  const list = document.getElementById('list');
+  view = DATA.jobs.filter(keep);
+  if (cursor >= view.length) cursor = Math.max(0, view.length - 1);
+  list.innerHTML = '';
+
+  if (!view.length) {
+    list.innerHTML = '<p class="empty">Nothing matches these filters. Widen the match slider, ' +
+      'clear the search, or wait for tomorrow morning.</p>';
+    return;
+  }
+
+  const groups = [];
+  view.forEach((j, i) => {
+    const last = groups[groups.length - 1];
+    if (last && last.place === j.location_label) last.jobs.push([j, i]);
+    else groups.push({ place: j.location_label, jobs: [[j, i]] });
+  });
+
+  for (const g of groups) {
+    const sec = document.createElement('section');
+    sec.className = 'tier';
+    sec.innerHTML = `<div class="tier-head"><span class="place">${esc(g.place)}</span>` +
+      `<span class="n">${g.jobs.length} ${g.jobs.length === 1 ? 'role' : 'roles'}</span></div>`;
+    const rows = document.createElement('div');
+    rows.className = 'rows';
+    for (const [j, i] of g.jobs) rows.appendChild(row(j, i));
+    sec.appendChild(rows);
+    list.appendChild(sec);
+  }
+}
+
+function head() {
+  const d = DATA;
+  document.getElementById('stamp').textContent =
+    `${fmtDate(d.generated_at)}, checked ${fmtTime(d.generated_at)}`;
+  const n = d.new_today;
+  document.getElementById('headline').innerHTML = n
+    ? `<b>${n}</b> new ${n === 1 ? 'role' : 'roles'} worth your morning.`
+    : `Nothing new since yesterday. <b>${d.matches}</b> still open.`;
+
+  const rem = d.jobs.filter(j => j.location_tier === 0).length;
+  const ncr = d.jobs.filter(j => j.location_tier >= 1 && j.location_tier <= 3).length;
+  const bits = [
+    `${d.matches} live matches from ${(d.postings_seen || 0).toLocaleString('en-IN')} postings`,
+    `${d.companies_checked} of ${d.companies_total || d.companies_checked} portals read`,
+    `${rem} remote into India, ${ncr} in the NCR`
+  ];
+  if (d.closed_since) bits.push(`${d.closed_since} closed since last run`);
+  if (d.duplicates_merged) bits.push(`${d.duplicates_merged} duplicates merged`);
+  document.getElementById('sub').textContent = bits.join('. ') + '.';
+
+  const ageH = (Date.now() - Date.parse(d.generated_at)) / 3600000;
+  if (ageH > 36) {
+    const s = document.getElementById('stamp');
+    s.textContent += `  ·  ${Math.floor(ageH / 24)} days old`;
+    s.style.color = 'var(--warn)';
+  }
+  const failed = Object.keys(d.companies_failed || {}).length;
+  document.getElementById('foot').innerHTML =
+    'Ranked by location, then experience fit, then disclosed salary, then resume match. ' +
+    'Dashed tags are what a posting wants that your resume does not claim. ' +
+    'Status is kept on this device. ' +
+    '<kbd>j</kbd> <kbd>k</kbd> move, <kbd>o</kbd> open, <kbd>a</kbd> applied, ' +
+    '<kbd>s</kbd> save, <kbd>x</kbd> dismiss, <kbd>/</kbd> search.' +
+    (failed ? ` ${failed} portal${failed === 1 ? '' : 's'} did not answer this run.` : '');
+  document.getElementById('controls').hidden = false;
+}
+
+function setStatus(id, value) {
+  if (status[id] === value) delete status[id]; else status[id] = value;
+  save();
+  render();
+}
+
+document.getElementById('controls').addEventListener('click', e => {
+  const b = e.target.closest('button');
+  if (!b || !DATA) return;
+  if (b.id === 'hideDone') { hideDone = !hideDone; b.setAttribute('aria-pressed', hideDone); }
+  else if (b.id === 'csv') { exportCsv(); return; }
+  else if (b.dataset.filter) {
+    filter = b.dataset.filter;
+    document.querySelectorAll('.chip[data-filter]').forEach(c =>
+      c.setAttribute('aria-pressed', String(c === b)));
+  }
+  cursor = 0;
+  render();
+});
+
+document.getElementById('list').addEventListener('click', e => {
+  if (!DATA) return;
+  const b = e.target.closest('.sbtn');
+  if (b) { setStatus(b.dataset.id, b.dataset.set); return; }
+  const r = e.target.closest('.job');
+  if (r) { cursor = Number(r.dataset.idx); render(); }
+});
+
+document.getElementById('q').addEventListener('input', e => {
+  query = e.target.value.trim().toLowerCase(); cursor = 0; render();
+});
+document.getElementById('floor').addEventListener('input', e => {
+  floor = Number(e.target.value);
+  document.getElementById('floorVal').textContent = floor;
+  cursor = 0; render();
+});
+
+document.addEventListener('keydown', e => {
+  if (!DATA) return;
+  const typing = /^(INPUT|TEXTAREA)$/.test(document.activeElement.tagName);
+  if (e.key === '/' && !typing) { e.preventDefault(); document.getElementById('q').focus(); return; }
+  if (typing) { if (e.key === 'Escape') document.activeElement.blur(); return; }
+  if (!view.length) return;
+  const j = view[cursor];
+  if (e.key === 'j' || e.key === 'ArrowDown') { cursor = Math.min(cursor + 1, view.length - 1); render(); }
+  else if (e.key === 'k' || e.key === 'ArrowUp') { cursor = Math.max(cursor - 1, 0); render(); }
+  else if (e.key === 'o' || e.key === 'Enter') { window.open(j.url, '_blank', 'noopener'); }
+  else if (e.key === 'a') { setStatus(j.id, 'applied'); }
+  else if (e.key === 's') { setStatus(j.id, 'saved'); }
+  else if (e.key === 'x') { setStatus(j.id, 'rejected'); }
+  else return;
+  const el = document.querySelector('.job.cursor');
+  if (el) el.scrollIntoView({ block: 'nearest' });
+});
+
+function exportCsv() {
+  const cols = ['company','title','location_label','experience_note','salary_lpa',
+                'match_score','portal','posted_at','url'];
+  const cell = v => `"${String(v == null ? '' : v).replace(/"/g, '""')}"`;
+  const body = [cols.join(',')].concat(
+    view.map(j => cols.map(c => cell(j[c])).join(','))).join('\n');
+  const url = URL.createObjectURL(new Blob([body], { type: 'text/csv' }));
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `job-radar-${DATA.generated_at.slice(0, 10)}.csv`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function boot(d) {
+  DATA = d;
+  // The pipeline hashes ids with sha1 and the page cannot, so both sides key
+  // off the cleaned apply URL instead. Statuses survive a refresh that way.
+  DATA.jobs.forEach(j => { j.id = cleanUrl(j.url); });
+  head(); render();
+}
+
+if (window.__JOBS__) boot(window.__JOBS__);
+else fetch('jobs.json', { cache: 'no-store' }).then(r => r.json()).then(boot).catch(() => {
+  document.getElementById('headline').textContent = 'No run has landed yet.';
+  document.getElementById('sub').textContent =
+    'The workflow writes docs/jobs.json each morning. Run it once by hand from the Actions tab to fill this page.';
+});
+/* ---- live refresh through the viewer's Firecrawl connector ---------- */
+const FC = "FireCrawl", TOOL = "firecrawl_scrape";
+const EXTRACT = {
+  prompt: "Extract every open job posting listed on this careers page. For each one " +
+          "return the exact job title, the location string as written, the absolute URL " +
+          "of that job's own detail or apply page, and the posted date if shown. " +
+          "Return only postings actually listed on the page.",
+  schema: { type: "object", required: ["jobs"], properties: { jobs: { type: "array", items: {
+    type: "object", required: ["title", "url"], properties: {
+      title: {type:"string"}, location: {type:"string"}, url: {type:"string"},
+      posted_at: {type:"string"}, department: {type:"string"} } } } } }
+};
+
+const boardUrl = p => ({
+  greenhouse: `https://boards-api.greenhouse.io/v1/boards/${p.slug}/jobs?content=false`,
+  lever: `https://api.lever.co/v0/postings/${p.slug}?mode=json`,
+  ashby: `https://api.ashbyhq.com/posting-api/job-board/${p.slug}`,
+  smartrecruiters: `https://api.smartrecruiters.com/v1/companies/${p.slug}/postings?limit=100`,
+}[p.kind]);
+
+function unfence(md) {
+  const m = String(md || "").match(/```(?:json)?\s*([\s\S]*?)```/);
+  return JSON.parse(m ? m[1] : md);
+}
+
+function rowsFrom(p, payload) {
+  if (p.kind === "render") {
+    return ((payload && payload.json && payload.json.jobs) || []).map(j => ({
+      title: j.title || "", location: j.location || "", url: j.url || "",
+      posted_at: j.posted_at || null, description: "", department: j.department || "" }));
+  }
+  const d = unfence(payload && payload.markdown);
+  if (p.kind === "greenhouse") return (d.jobs || []).map(j => ({
+    title: j.title, location: (j.location || {}).name || "", url: j.absolute_url,
+    posted_at: j.first_published || j.updated_at || null, description: "", department: "" }));
+  if (p.kind === "lever") return (d || []).map(j => ({
+    title: j.text, location: (j.categories || {}).location || "",
+    url: j.hostedUrl || j.applyUrl, posted_at: j.createdAt || null,
+    description: (j.descriptionPlain || "").slice(0, 6000),
+    department: (j.categories || {}).team || "" }));
+  if (p.kind === "ashby") return (d.jobs || []).map(j => ({
+    title: j.title, location: j.location || "", url: j.jobUrl,
+    posted_at: j.publishedAt || null,
+    description: String(j.descriptionHtml || "").replace(/<[^>]+>/g, " ").slice(0, 6000),
+    department: j.department || j.team || "" }));
+  if (p.kind === "smartrecruiters") return (d.content || []).map(j => {
+    const L = j.location || {};
+    const city = L.remote ? `${L.city || ""} (Remote)`.trim() : (L.city || "");
+    return { title: j.name, location: [city, L.country].filter(Boolean).join(", "),
+      url: `https://jobs.smartrecruiters.com/${p.slug}/${j.id}`,
+      posted_at: j.releasedDate || null, description: "",
+      department: (j.department || {}).label || "" };
+  });
+  return [];
+}
+
+const callInput = p => p.kind === "render"
+  ? { url: p.url, formats: ["json"], jsonOptions: EXTRACT, waitFor: 4000, maxAge: 0 }
+  : { url: boardUrl(p), formats: ["markdown"], maxAge: 0 };
+
+/* Each code has its own fix. Never one generic banner. */
+function errCopy(code, server) {
+  switch (code) {
+    case "needs_reauth": return `Reconnect ${server} in claude.ai Settings, Connectors.`;
+    case "server_not_connected": return `Add ${server} in claude.ai Settings, Connectors.`;
+    case "selection_required": return `You have more than one ${server} connector. Pick one when claude.ai asks.`;
+    case "blocked_by_policy": return `Your organisation blocks ${server} here.`;
+    case "approval_required": return `This call needs approval that artifacts cannot request yet.`;
+    case "not_granted": case "capability_disabled": case "capability_removed":
+      return "This view cannot reach connectors. Open the artifact from claude.ai.";
+    case "not_in_manifest": return "This board is not allowed to call that tool.";
+    case "rate_limited": return "Too many calls just now. Wait a moment and refresh again.";
+    case "server_unavailable": return "Firecrawl did not answer. Try again shortly.";
+    case "cancelled": return "Refresh cancelled.";
+    default: return "Firecrawl reported a problem reading this portal.";
+  }
+}
+
+let MCP = null, refreshing = false;
+
+async function readPortal(mcp, p) {
+  const attempt = async () => {
+    const r = await mcp.callTool(FC, TOOL, callInput(p), { cache: false });
+    return rowsFrom(p, r.payload);
+  };
+  try { return { rows: await attempt() }; }
+  catch (e) {
+    if (e && e.retryable) {
+      await new Promise(r => setTimeout(r, (e.retryAfterMs || 1500) + Math.random() * 800));
+      try { return { rows: await attempt() }; } catch (e2) { return { error: e2 }; }
+    }
+    return { error: e };
+  }
+}
+
+async function refresh() {
+  if (refreshing || !MCP) return;
+  refreshing = true;
+  const btn = document.getElementById('refresh');
+  const note = document.getElementById('refreshNote');
+  btn.disabled = true;
+
+  const known = new Map(DATA.jobs.map(j => [j.id, j]));
+  const fresh = [], failed = {};
+  let done = 0;
+
+  for (let i = 0; i < PORTALS.length; i += 4) {
+    const batch = PORTALS.slice(i, i + 4);
+    const out = await Promise.all(batch.map(p => readPortal(MCP, p)));
+    out.forEach((res, k) => {
+      const p = batch[k];
+      done++;
+      if (res.error) { failed[p.company] = res.error; return; }
+      for (const raw of res.rows) {
+        if (!raw.title || !raw.url) continue;
+        const r = rank(raw, p.tier);
+        if (!r) continue;
+        r.company = p.company; r.company_tier = p.tier; r.portal = p.kind;
+        r.id = jobId(p.company, r.url);
+        const prior = known.get(r.id);
+        if (prior) {
+          // Keep the fuller score the pipeline computed from a description.
+          r.match_score = Math.max(r.match_score, prior.match_score);
+          r.match_hits = prior.match_hits && prior.match_hits.length ? prior.match_hits : r.match_hits;
+          r.skill_gaps = prior.skill_gaps || r.skill_gaps;
+          r.first_seen = prior.first_seen; r.is_new = false;
+        } else {
+          r.first_seen = new Date().toISOString(); r.is_new = true;
+          if (!r.description) r.title_only = true;
+        }
+        fresh.push(r);
+      }
+    });
+    note.textContent = `Reading portals, ${done} of ${PORTALS.length}`;
+  }
+
+  // Portals that answered replace their own rows. A portal that failed keeps
+  // the rows it had, so one bad connector never empties the board.
+  const refreshedCompanies = new Set(PORTALS.map(p => p.company).filter(c => !failed[c]));
+  const kept = DATA.jobs.filter(j => !refreshedCompanies.has(j.company));
+  const merged = kept.concat(fresh);
+  merged.sort(sortKey);
+
+  DATA = Object.assign({}, DATA, {
+    generated_at: new Date().toISOString(),
+    jobs: merged,
+    matches: merged.length,
+    new_today: merged.filter(j => j.is_new).length,
+    companies_checked: refreshedCompanies.size,
+    live: true,
+    failed_live: Object.fromEntries(Object.entries(failed).map(([k, v]) => [k, v.code || "error"]))
+  });
+
+  await saveBoard();
+  head(); render();
+
+  const codes = [...new Set(Object.values(failed).map(e => e.code))];
+  note.textContent = codes.length
+    ? `${refreshedCompanies.size} portals read. ${Object.keys(failed).length} failed: ` +
+      codes.map(c => errCopy(c, FC)).join(' ')
+    : `${refreshedCompanies.size} portals read just now.`;
+  btn.disabled = false;
+  refreshing = false;
+}
+
+/* ---- persistence so a refresh survives closing the page ------------- */
+let DB = null;
+async function saveBoard() {
+  if (!DB) return;
+  try { await DB.doc('board/latest').set({ saved_at: Date.now(), data: DATA }); }
+  catch (e) { /* the board still works from what is on screen */ }
+}
+async function loadBoard() {
+  if (!DB) return false;
+  try {
+    const snap = await DB.doc('board/latest').get();
+    const v = snap && (snap.data ? snap.data : snap);
+    if (v && v.data && Array.isArray(v.data.jobs) && v.data.jobs.length) { DATA = v.data; return true; }
+  } catch (e) {}
+  return false;
+}
+
+const haveClaude = typeof claude !== 'undefined' && claude && typeof claude.use === 'function';
+
+(async () => {
+  const bar0 = document.getElementById('liveBar');
+  if (!haveClaude) {
+    // A saved copy or any host outside claude.ai: the board still reads,
+    // it just cannot reach the connector.
+    bar0.hidden = false;
+    document.getElementById('refresh').hidden = true;
+    document.getElementById('refreshNote').textContent = window.__JOBS__
+      ? 'Open this from claude.ai to refresh from the portals. This copy shows the run baked in when it was published.'
+      : 'Updated each morning by the workflow. Refreshing by hand needs claude.ai.';
+    return;
+  }
+  DB = await claude.use('db');
+  if (await loadBoard()) { head(); render(); }
+  MCP = await claude.use('mcp');
+  const bar = document.getElementById('liveBar');
+  if (!MCP) { bar.hidden = false;
+    document.getElementById('refreshNote').textContent =
+      'Open this from claude.ai to refresh from the portals. Otherwise it shows the last saved run.';
+    document.getElementById('refresh').hidden = true;
+    return; }
+  bar.hidden = false;
+  document.getElementById('refresh').addEventListener('click', refresh);
+})();
+
+</script>
+</body>
+</html>

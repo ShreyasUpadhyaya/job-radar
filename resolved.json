@@ -1,0 +1,2084 @@
+{
+  "10up": {
+    "ats": "custom",
+    "careers": "https://10up.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "15Five": {
+    "ats": "custom",
+    "careers": "https://www.15five.com/about/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "17hats": {
+    "ats": "custom",
+    "careers": "https://careers.17hats.com/portal/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "1Password": {
+    "ats": "ashby",
+    "careers": "https://1password.com/careers",
+    "slug": "1password",
+    "source": "sniffed"
+  },
+  "42 Technologies": {
+    "ats": "custom",
+    "careers": "https://www.42technologies.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "ABC Consultants": {
+    "ats": "custom",
+    "careers": "https://www.abcconsultants.in/apply-to-abc/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "AE Studio": {
+    "ats": "greenhouse",
+    "careers": "https://ae.studio/join-us",
+    "slug": "aestudio",
+    "source": "sniffed"
+  },
+  "Ably": {
+    "ats": "custom",
+    "careers": "https://ably.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Abstract API": {
+    "ats": "custom",
+    "careers": "https://www.abstractapi.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Ace Turtle": {
+    "ats": "custom",
+    "careers": "https://aceturtle.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Acivilate": {
+    "ats": "custom",
+    "careers": "https://acivilate.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Acquia": {
+    "ats": "greenhouse",
+    "careers": "https://www.acquia.com/careers/open-positions",
+    "slug": "acquia",
+    "source": "sniffed"
+  },
+  "ActiveCampaign": {
+    "ats": "lever",
+    "careers": "https://www.activecampaign.com/careers",
+    "slug": "activecampaign",
+    "source": "guessed slug activecampaign, identity checked"
+  },
+  "Ad Hoc": {
+    "ats": "custom",
+    "careers": "https://adhoc.team/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Adaface": {
+    "ats": "smartrecruiters",
+    "careers": "https://www.adaface.com/",
+    "slug": "adaface",
+    "source": "guessed slug adaface, identity checked"
+  },
+  "AddStructure": {
+    "ats": "lever",
+    "careers": "https://www.bazaarvoice.com/company/careers/",
+    "slug": "bazaarvoice",
+    "source": "guessed slug bazaarvoice, identity checked"
+  },
+  "Adeva": {
+    "ats": "custom",
+    "careers": "https://www.toptal.com/adeva",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Adhaan Solutions": {
+    "ats": "custom",
+    "careers": "https://www.hugedomains.com/domain_profile.cfm?d=adhaan.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Aditya Birla Group": {
+    "ats": "custom",
+    "careers": "https://careers.adityabirla.com/job-search",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Adobe": {
+    "ats": "workday",
+    "careers": "https://careers.adobe.com/us/en/search-results",
+    "slug": "adobe|wd5|external_experienced",
+    "source": "sniffed"
+  },
+  "Advanz 101": {
+    "ats": "custom",
+    "careers": "https://www.advanz101.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Adzuna": {
+    "ats": "custom",
+    "careers": "https://adzuna.co.uk",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Aerolab": {
+    "ats": "recruitee",
+    "careers": "https://aerolab.co/careers",
+    "slug": "aerolab",
+    "source": "sniffed"
+  },
+  "Aerostrat": {
+    "ats": "lever",
+    "careers": "https://aerostratsoftware.com/careers/",
+    "slug": "aerostrat",
+    "source": "sniffed"
+  },
+  "AgFlow": {
+    "ats": "custom",
+    "careers": "https://agflow.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "AgroStar": {
+    "ats": "custom",
+    "careers": "https://agrostar.in/careers?language=mr&state=maharashtra",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Aha!": {
+    "ats": "custom",
+    "careers": "https://www.aha.io/company/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Aikonic": {
+    "ats": "custom",
+    "careers": "https://aikonic.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Aim India": {
+    "ats": "custom",
+    "careers": "https://aimincorp.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "AirGarage": {
+    "ats": "ashby",
+    "careers": "https://www.airgarage.com/careers",
+    "slug": "airgarage",
+    "source": "sniffed"
+  },
+  "AirTreks": {
+    "ats": "custom",
+    "careers": "https://airtreks.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Airbank": {
+    "ats": "custom",
+    "careers": "https://joinairbank.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Airbyte": {
+    "ats": "ashby",
+    "careers": "https://airbyte.com/company/careers",
+    "slug": "airbyte",
+    "source": "guessed slug airbyte, identity checked"
+  },
+  "Aivitex": {
+    "ats": "custom",
+    "careers": "https://aivitex.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Alami": {
+    "ats": "custom",
+    "careers": "https://alamisharia.co.id/karir/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Alliance International": {
+    "ats": "custom",
+    "careers": "https://www.allianceinternational.co.in",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Alliance Recruitment Agency": {
+    "ats": "custom",
+    "careers": "https://www.alliancerecruitmentagency.com/job-seekers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Alvarez & Marsal": {
+    "ats": "custom",
+    "careers": "https://www.alvarezandmarsal.com/careers",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Amazon": {
+    "ats": "custom",
+    "careers": "https://www.amazon.jobs/en/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Amber": {
+    "ats": "custom",
+    "careers": "https://amberstudent.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "American Express": {
+    "ats": "eightfold",
+    "careers": "https://www.americanexpress.com/en-us/careers/",
+    "slug": "aexp",
+    "source": "sniffed"
+  },
+  "Antal International India": {
+    "ats": "custom",
+    "careers": "https://www.antal.com/jobs",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "ApnaKlub": {
+    "ats": "custom",
+    "careers": "https://www.apnaklub.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Appinventiv": {
+    "ats": "custom",
+    "careers": "https://appinventiv.com/career/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Atlan": {
+    "ats": "ashby",
+    "careers": "https://atlan.com/careers/",
+    "slug": "atlan",
+    "source": "pinned"
+  },
+  "Automattic": {
+    "ats": "custom",
+    "careers": "https://automattic.com/work-with-us/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Auxilo Finserve": {
+    "ats": "custom",
+    "careers": "https://www.auxilo.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Avendus": {
+    "ats": "custom",
+    "careers": "https://www.avendus.com/india/careers",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Awign": {
+    "ats": "custom",
+    "careers": "https://www.awign.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Axelerant": {
+    "ats": "custom",
+    "careers": "https://www.axelerant.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Axios": {
+    "ats": "greenhouse",
+    "careers": "https://www.axios.com/careers",
+    "slug": "axios",
+    "source": "sniffed"
+  },
+  "BCG": {
+    "ats": "eightfold",
+    "careers": "https://careers.bcg.com/global/en",
+    "slug": "bcg",
+    "source": "sniffed"
+  },
+  "Bain": {
+    "ats": "custom",
+    "careers": "https://www.bain.com/careers/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "BairesDev": {
+    "ats": "custom",
+    "careers": "https://www.bairesdev.com/join-us/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Balena": {
+    "ats": "workable",
+    "careers": "https://apply.workable.com/balena/",
+    "slug": "balena",
+    "source": "sniffed"
+  },
+  "Balsamiq": {
+    "ats": "custom",
+    "careers": "https://balsamiq.com/company/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "BandLab": {
+    "ats": "custom",
+    "careers": "https://www.bandlab.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bandcamp": {
+    "ats": "custom",
+    "careers": "https://bandcamp.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bandzoogle": {
+    "ats": "custom",
+    "careers": "https://bandzoogle.com/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bank of America": {
+    "ats": "workday",
+    "careers": "https://careers.bankofamerica.com/en-us",
+    "slug": "ghr|wd1|lateral-us",
+    "source": "sniffed"
+  },
+  "Barclays": {
+    "ats": "custom",
+    "careers": "https://home.barclays/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Baremetrics": {
+    "ats": "custom",
+    "careers": "https://baremetrics.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Basecamp": {
+    "ats": "custom",
+    "careers": "https://37signals.com/jobs",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "BeBanjo": {
+    "ats": "custom",
+    "careers": "https://www.bebanjo.com/company/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bear Group": {
+    "ats": "custom",
+    "careers": "https://www.beargroup.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "BeenVerified": {
+    "ats": "custom",
+    "careers": "https://beenverified.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Best Practical": {
+    "ats": "custom",
+    "careers": "https://requesttracker.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "BetaPeak": {
+    "ats": "custom",
+    "careers": "https://betapeak.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Betable": {
+    "ats": "custom",
+    "careers": "https://betable.com/why-betable/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "BetterUp": {
+    "ats": "ashby",
+    "careers": "https://www.betterup.com/",
+    "slug": "betterup",
+    "source": "guessed slug betterup, identity checked"
+  },
+  "Beyond Company": {
+    "ats": "custom",
+    "careers": "https://beyondcompany.com.br/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "BeyondPricing": {
+    "ats": "greenhouse",
+    "careers": "https://beyondpricing.com/about/careers",
+    "slug": "beyond",
+    "source": "sniffed"
+  },
+  "Big Cartel": {
+    "ats": "custom",
+    "careers": "https://www.bigcartel.com/company/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bijnis": {
+    "ats": "custom",
+    "careers": "https://www.bijnis.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bill": {
+    "ats": "greenhouse",
+    "careers": "https://www.bill.com/jobs",
+    "slug": "billcom",
+    "source": "sniffed"
+  },
+  "Bit Zesty": {
+    "ats": "custom",
+    "careers": "https://bitzesty.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bitnami": {
+    "ats": "custom",
+    "careers": "https://bitnami.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bitovi": {
+    "ats": "custom",
+    "careers": "https://www.bitovi.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Bizink": {
+    "ats": "custom",
+    "careers": "https://www.bizinkonline.com/join-us-at-the-myprosperity-roadshow/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Blackstone": {
+    "ats": "workday",
+    "careers": "https://www.blackstone.com/careers/careers-blackstone/",
+    "slug": "blackstone|wd1|Blackstone_Careers",
+    "source": "sniffed"
+  },
+  "Blameless": {
+    "ats": "custom",
+    "careers": "https://firehydrant.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Bloc": {
+    "ats": "workday",
+    "careers": "https://www.chegg.com/skills/",
+    "slug": "osv-chegg|wd5|Chegg",
+    "source": "sniffed"
+  },
+  "BlueCat Networks": {
+    "ats": "lever",
+    "careers": "https://bluecatnetworks.com/careers/",
+    "slug": "bluecatnetworks",
+    "source": "sniffed"
+  },
+  "BrowserStack": {
+    "ats": "workday",
+    "careers": "https://www.browserstack.com/careers",
+    "slug": "browserstack|wd3|External",
+    "source": "pinned"
+  },
+  "Buffer": {
+    "ats": "ashby",
+    "careers": "https://buffer.com/journey",
+    "slug": "buffer",
+    "source": "pinned"
+  },
+  "CIEL HR Services": {
+    "ats": "custom",
+    "careers": "https://www.cielhr.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "CRED": {
+    "ats": "lever",
+    "careers": "https://careers.cred.club/",
+    "slug": "cred",
+    "source": "pinned"
+  },
+  "CVS Health": {
+    "ats": "custom",
+    "careers": "https://jobs.cvshealth.com/us/en",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "CWT": {
+    "ats": "custom",
+    "careers": "https://www.mycwt.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Canonical": {
+    "ats": "greenhouse",
+    "careers": "https://canonical.com/careers",
+    "slug": "canonical",
+    "source": "pinned"
+  },
+  "CareerNet Consulting": {
+    "ats": "custom",
+    "careers": "https://careernet.in/news/jobs-2023-non-tech-5g-fuelled-telecom-to-dominate-hiring/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "CashKaro": {
+    "ats": "custom",
+    "careers": "https://cashkaro.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Chargebee": {
+    "ats": "custom",
+    "careers": "https://www.chargebee.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Chef": {
+    "ats": "custom",
+    "careers": "https://www.chef.io/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "ChefsClub": {
+    "ats": "custom",
+    "careers": "https://chefsclub.com.br",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Chess.com": {
+    "ats": "custom",
+    "careers": "https://www.chess.com/jobs",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Chroma": {
+    "ats": "custom",
+    "careers": "https://www.trychroma.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "CircleCI": {
+    "ats": "custom",
+    "careers": "https://circleci.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Circonus": {
+    "ats": "custom",
+    "careers": "https://www.apica.io",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "CivicActions": {
+    "ats": "custom",
+    "careers": "https://civicactions.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Civo": {
+    "ats": "custom",
+    "careers": "https://careers.civo.com",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "ClearTax": {
+    "ats": "darwinbox",
+    "careers": "https://www.clear.in/s/careers",
+    "slug": "clear",
+    "source": "sniffed"
+  },
+  "Clevertech": {
+    "ats": "custom",
+    "careers": "https://lumenalta.com/remote-jobs",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "ClickUp": {
+    "ats": "custom",
+    "careers": "https://clickup.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Clootrack": {
+    "ats": "custom",
+    "careers": "https://www.clootrack.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Close": {
+    "ats": "ashby",
+    "careers": "https://close.com/careers",
+    "slug": "Close",
+    "source": "sniffed"
+  },
+  "CloudApp": {
+    "ats": "custom",
+    "careers": "https://zight.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Cloudflare": {
+    "ats": "greenhouse",
+    "careers": "https://www.cloudflare.com/careers/",
+    "slug": "cloudflare",
+    "source": "pinned"
+  },
+  "Coalition Technologies": {
+    "ats": "custom",
+    "careers": "https://coalitiontechnologies.com/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Code Like a Girl": {
+    "ats": "custom",
+    "careers": "https://www.codelikeagirl.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "CodePen": {
+    "ats": "custom",
+    "careers": "https://codepen.io/career",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "CodeSandbox": {
+    "ats": "custom",
+    "careers": "https://codesandbox.io/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Codea IT": {
+    "ats": "custom",
+    "careers": "https://www.careers-page.com/codeait",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Codeship": {
+    "ats": "custom",
+    "careers": "https://www.cloudbees.com/blog/introducing-moritz-plassnig-cloudbees-ceo",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Codestunts": {
+    "ats": "custom",
+    "careers": "https://www.codestunts.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Cofense": {
+    "ats": "custom",
+    "careers": "https://cofense.com/about/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Coinbase": {
+    "ats": "greenhouse",
+    "careers": "https://www.coinbase.com/careers",
+    "slug": "coinbase",
+    "source": "pinned"
+  },
+  "Coingape": {
+    "ats": "custom",
+    "careers": "https://coingape.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Collabora": {
+    "ats": "lever",
+    "careers": "https://www.collabora.com/careers.html",
+    "slug": "collabora",
+    "source": "sniffed"
+  },
+  "Comet": {
+    "ats": "greenhouse",
+    "careers": "https://www.comet.co/",
+    "slug": "comet",
+    "source": "guessed slug comet, identity checked"
+  },
+  "Compose": {
+    "ats": "custom",
+    "careers": "https://compose.io",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Compucorp": {
+    "ats": "custom",
+    "careers": "https://compucorp.co.uk",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Connexa": {
+    "ats": "workable",
+    "careers": "https://www.connexa.com/",
+    "slug": "connexa",
+    "source": "guessed slug connexa, identity checked"
+  },
+  "Continu": {
+    "ats": "custom",
+    "careers": "https://continu.co",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Conversio": {
+    "ats": "custom",
+    "careers": "https://conversio.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Convert": {
+    "ats": "custom",
+    "careers": "https://www.convert.com/jobs/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Coodesh": {
+    "ats": "custom",
+    "careers": "https://coodesh.com/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Core-Apps": {
+    "ats": "custom",
+    "careers": "https://core-apps.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "CoreOS": {
+    "ats": "custom",
+    "careers": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Corgibytes": {
+    "ats": "custom",
+    "careers": "https://corgibytes.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Coursera": {
+    "ats": "greenhouse",
+    "careers": "https://www.coursera.org/career-academy/roles/data-scientist",
+    "slug": "coursera",
+    "source": "guessed slug coursera, identity checked"
+  },
+  "Crescendo Global": {
+    "ats": "custom",
+    "careers": "https://www.crescendo-global.com/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Cropin": {
+    "ats": "keka",
+    "careers": "https://www.cropin.com/career/",
+    "slug": "cropinhrms",
+    "source": "sniffed"
+  },
+  "Crossover": {
+    "ats": "custom",
+    "careers": "https://www.crossover.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "CrowdStrike": {
+    "ats": "workday",
+    "careers": "https://www.crowdstrike.com/en-us/careers/",
+    "slug": "crowdstrike|wd5|crowdstrikecareers",
+    "source": "sniffed"
+  },
+  "CrowdTangle": {
+    "ats": "custom",
+    "careers": "https://crowdtangle.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Cueup": {
+    "ats": "custom",
+    "careers": "https://cueup.io/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Customer.io": {
+    "ats": "greenhouse",
+    "careers": "https://customer.io/careers",
+    "slug": "customerio",
+    "source": "sniffed"
+  },
+  "Cuvette": {
+    "ats": "custom",
+    "careers": "https://cuvette.tech/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Cyber Whale": {
+    "ats": "custom",
+    "careers": "https://cyberwhale.tech",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "D.E. Shaw": {
+    "ats": "custom",
+    "careers": "https://www.deshawindia.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "DNSimple": {
+    "ats": "custom",
+    "careers": "https://dnsimple.com/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Dalenys": {
+    "ats": "custom",
+    "careers": "https://dalenys.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "DappRadar": {
+    "ats": "custom",
+    "careers": "https://dappradar.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "DareCode": {
+    "ats": "custom",
+    "careers": "https://darecode.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "DashboardHub": {
+    "ats": "custom",
+    "careers": "https://dashboardhub.io",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Dashlane": {
+    "ats": "greenhouse",
+    "careers": "https://www.dashlane.com/about/careers",
+    "slug": "dashlane",
+    "source": "guessed slug dashlane, identity checked"
+  },
+  "Data Science Brigade": {
+    "ats": "custom",
+    "careers": "https://dsbrigade.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Data Science Dojo": {
+    "ats": "custom",
+    "careers": "https://datasciencedojo.com/about/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "DataCamp": {
+    "ats": "custom",
+    "careers": "https://www.datacamp.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "DataStax": {
+    "ats": "custom",
+    "careers": "https://www.ibm.com/products/datastax",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Datadog": {
+    "ats": "greenhouse",
+    "careers": "https://careers.datadoghq.com/",
+    "slug": "datadog",
+    "source": "pinned"
+  },
+  "Datica": {
+    "ats": "custom",
+    "careers": "https://datica.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "DealDash": {
+    "ats": "custom",
+    "careers": "https://www.dealdash.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Deel": {
+    "ats": "custom",
+    "careers": "https://www.deel.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Delhivery": {
+    "ats": "custom",
+    "careers": "https://www.delhivery.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Deskpass": {
+    "ats": "custom",
+    "careers": "https://app.notion.com/p/Job-Board-6f8b61dd5e9140e0b7ac1dbead58f083",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Deutsche Bank": {
+    "ats": "custom",
+    "careers": "https://careers.db.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Dev Spotlight": {
+    "ats": "custom",
+    "careers": "https://www.devspotlight.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Devsquad": {
+    "ats": "custom",
+    "careers": "https://devsquad.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Dgraph": {
+    "ats": "custom",
+    "careers": "https://docs.dgraph.io",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "DigitalOcean": {
+    "ats": "custom",
+    "careers": "https://www.digitalocean.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Discord": {
+    "ats": "custom",
+    "careers": "https://discord.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Discourse": {
+    "ats": "custom",
+    "careers": "https://www.discourse.org/team",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Docker": {
+    "ats": "ashby",
+    "careers": "https://www.docker.com/career-openings/",
+    "slug": "docker",
+    "source": "sniffed"
+  },
+  "Doist": {
+    "ats": "custom",
+    "careers": "https://www.todoist.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Donut App": {
+    "ats": "custom",
+    "careers": "https://donut.app",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "DroneDeploy": {
+    "ats": "custom",
+    "careers": "https://www.dronedeploy.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Droom": {
+    "ats": "custom",
+    "careers": "https://droom.in/career",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Dropbox": {
+    "ats": "custom",
+    "careers": "https://www.dropbox.jobs/en/jobs/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Drupal Jedi": {
+    "ats": "custom",
+    "careers": "https://drupaljedi.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "DuckDuckGo": {
+    "ats": "custom",
+    "careers": "https://duckduckgo.com/hiring",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "DynaPictures": {
+    "ats": "custom",
+    "careers": "https://dynapictures.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "EBSCO Information Services": {
+    "ats": "icims",
+    "careers": "https://about.ebsco.com/careers",
+    "slug": "careers-ebscoind",
+    "source": "sniffed"
+  },
+  "EPAM": {
+    "ats": "custom",
+    "careers": "https://www.epam.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "EVELO": {
+    "ats": "custom",
+    "careers": "https://evelo.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "EY-Parthenon": {
+    "ats": "custom",
+    "careers": "https://www.ey.com/en_in/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "EarthOfDrones": {
+    "ats": "custom",
+    "careers": "https://earthofdrones.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "EaseMyTrip": {
+    "ats": "custom",
+    "careers": "https://www.easemytrip.com/careers.html",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "EatStreet": {
+    "ats": "custom",
+    "careers": "https://eatstreet.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Eco-Mind": {
+    "ats": "custom",
+    "careers": "https://eco-mind.eu",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Edaify": {
+    "ats": "custom",
+    "careers": "https://edaify.com/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Edgar": {
+    "ats": "custom",
+    "careers": "https://meetedgar.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Edgio": {
+    "ats": "custom",
+    "careers": "https://edg.io",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Edify": {
+    "ats": "custom",
+    "careers": "https://edify.cr/careers/open-positions/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Elastic": {
+    "ats": "greenhouse",
+    "careers": "https://www.elastic.co/careers",
+    "slug": "elastic",
+    "source": "pinned"
+  },
+  "Emsisoft": {
+    "ats": "custom",
+    "careers": "https://www.emsisoft.com/en/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "EngineYard": {
+    "ats": "custom",
+    "careers": "https://engineyard.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Enok": {
+    "ats": "custom",
+    "careers": "https://enok.co",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Entrision": {
+    "ats": "custom",
+    "careers": "https://entrision.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Envato": {
+    "ats": "lever",
+    "careers": "https://jobs.lever.co/envato-2",
+    "slug": "envato-2",
+    "source": "sniffed"
+  },
+  "Envoy": {
+    "ats": "ashby",
+    "careers": "https://envoy.com/jobs",
+    "slug": "envoy",
+    "source": "sniffed"
+  },
+  "Epic Games": {
+    "ats": "custom",
+    "careers": "https://www.epicgames.com/site/careers?lang=en-US",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Epilocal": {
+    "ats": "custom",
+    "careers": "https://www.epilocal.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Episource": {
+    "ats": "custom",
+    "careers": "https://business.optum.com/en/operations-technology/risk-adjustment.html",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Equal Experts": {
+    "ats": "greenhouse",
+    "careers": "https://www.equalexperts.com/join-us/",
+    "slug": "equalexperts",
+    "source": "guessed slug equalexperts, identity checked"
+  },
+  "Ergeon": {
+    "ats": "custom",
+    "careers": "https://www.ergeon.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Estately": {
+    "ats": "custom",
+    "careers": "https://www.estately.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Etch": {
+    "ats": "custom",
+    "careers": "https://etch.co/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Eternal (Zomato)": {
+    "ats": "custom",
+    "careers": "https://www.eternal.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Etsy": {
+    "ats": "custom",
+    "careers": "https://careers.etsy.com/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Everis": {
+    "ats": "ashby",
+    "careers": "https://everis.com/careers",
+    "slug": "everis",
+    "source": "guessed slug everis, identity checked"
+  },
+  "Evil Martians": {
+    "ats": "custom",
+    "careers": "https://evilmartians.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Evrone": {
+    "ats": "custom",
+    "careers": "https://evrone.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "ExportData": {
+    "ats": "custom",
+    "careers": "https://www.exportdata.io/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Eyeo": {
+    "ats": "custom",
+    "careers": "https://eyeo.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "FATMAP": {
+    "ats": "custom",
+    "careers": "https://about.fatmap.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "FFW Agency": {
+    "ats": "custom",
+    "careers": "https://www.jakala.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "FMX": {
+    "ats": "custom",
+    "careers": "https://www.gofmx.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "FactorialHR": {
+    "ats": "custom",
+    "careers": "https://factorialhr.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Fairwinds": {
+    "ats": "custom",
+    "careers": "https://www.fairwinds.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Faithlife": {
+    "ats": "custom",
+    "careers": "https://www.logos.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "FarMart": {
+    "ats": "custom",
+    "careers": "https://www.farmart.co",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Fastly": {
+    "ats": "custom",
+    "careers": "https://www.fastly.com/about/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Fauna": {
+    "ats": "custom",
+    "careers": "https://fauna.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Featurist": {
+    "ats": "custom",
+    "careers": "https://archive.featurist.co.uk/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Filament Group": {
+    "ats": "custom",
+    "careers": "https://www.filamentgroup.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "FingerprintJS": {
+    "ats": "custom",
+    "careers": "https://fingerprint.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Fire Engine Red": {
+    "ats": "custom",
+    "careers": "https://www.carnegiehighered.com/fire-engine-red-student-search/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Fireball Labs": {
+    "ats": "custom",
+    "careers": "https://fireballlabs.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "FirstMeridian": {
+    "ats": "custom",
+    "careers": "https://www.firstmeridian.com/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Fiverr": {
+    "ats": "custom",
+    "careers": "https://www.fiverr.com/jobs",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "FivexL": {
+    "ats": "custom",
+    "careers": "https://fivexl.io/career/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Flexera": {
+    "ats": "workday",
+    "careers": "https://www.flexera.com/about-us/careers",
+    "slug": "flexerasoftware|wd1|FlexeraSoftware",
+    "source": "sniffed"
+  },
+  "FlexiLoans": {
+    "ats": "custom",
+    "careers": "https://flexiloans.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "FlightAware": {
+    "ats": "custom",
+    "careers": "https://www.flightaware.com/about/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Flip": {
+    "ats": "greenhouse",
+    "careers": "https://flip.id/en/careers",
+    "slug": "flip",
+    "source": "guessed slug flip, identity checked"
+  },
+  "Flipkart": {
+    "ats": "custom",
+    "careers": "https://www.flipkartcareers.com/index",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Flowing": {
+    "ats": "custom",
+    "careers": "https://www.claranet.com/it/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Fly.io": {
+    "ats": "custom",
+    "careers": "https://fly.io/jobs/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Focusnetworks": {
+    "ats": "custom",
+    "careers": "https://www.focusnetworks.com.br/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Formidable": {
+    "ats": "greenhouse",
+    "careers": "https://nearform.com/careers/",
+    "slug": "nearform",
+    "source": "sniffed"
+  },
+  "Formstack": {
+    "ats": "ashby",
+    "careers": "https://www.intellistack.com/careers",
+    "slug": "Intellistack",
+    "source": "sniffed"
+  },
+  "Four Kitchens": {
+    "ats": "bamboohr",
+    "careers": "https://www.fourkitchens.com/careers/",
+    "slug": "fourkitchens",
+    "source": "sniffed"
+  },
+  "Fraudio": {
+    "ats": "custom",
+    "careers": "https://www.fraudio.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "FreeAgent": {
+    "ats": "custom",
+    "careers": "https://careers.freeagent.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Freeletics": {
+    "ats": "custom",
+    "careers": "https://www.freeletics.com/en/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Freshworks": {
+    "ats": "smartrecruiters",
+    "careers": "https://www.freshworks.com/company/careers/",
+    "slug": "freshworks",
+    "source": "pinned"
+  },
+  "Fuel Made": {
+    "ats": "custom",
+    "careers": "https://jobs.fuelmade.com/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "FullFabric": {
+    "ats": "custom",
+    "careers": "https://www.fullfabric.com/company/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Functionize": {
+    "ats": "custom",
+    "careers": "https://www.functionize.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "GEO Jobe": {
+    "ats": "custom",
+    "careers": "https://geo-jobe.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "GFT": {
+    "ats": "successfactors",
+    "careers": "https://jobs.gft.com/",
+    "slug": "",
+    "source": "sniffed"
+  },
+  "GI Group Holding India": {
+    "ats": "custom",
+    "careers": "https://www.gigroup.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Gaggle": {
+    "ats": "custom",
+    "careers": "https://www.gaggle.net/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Geckoboard": {
+    "ats": "custom",
+    "careers": "https://www.geckoboard.com/about/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "General Assembly": {
+    "ats": "greenhouse",
+    "careers": "https://www.generalassemb.ly/careers",
+    "slug": "generalassembly",
+    "source": "sniffed"
+  },
+  "General Atlantic": {
+    "ats": "greenhouse",
+    "careers": "https://www.generalatlantic.com/careers/",
+    "slug": "generalatlantic",
+    "source": "sniffed"
+  },
+  "Gerencianet": {
+    "ats": "custom",
+    "careers": "https://sejaefi.com.br/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Ghost": {
+    "ats": "custom",
+    "careers": "https://ghost.org/about/#careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Ghost Foundation": {
+    "ats": "greenhouse",
+    "careers": "https://careers.ghost.org/",
+    "slug": "ghost",
+    "source": "guessed slug ghost, identity checked"
+  },
+  "GitLab": {
+    "ats": "greenhouse",
+    "careers": "https://about.gitlab.com/jobs/",
+    "slug": "gitlab",
+    "source": "pinned"
+  },
+  "Goldman Sachs": {
+    "ats": "custom",
+    "careers": "https://www.goldmansachs.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Google": {
+    "ats": "custom",
+    "careers": "https://www.google.com/about/careers/applications/",
+    "slug": "",
+    "source": "guess failed identity check"
+  },
+  "Grafana Labs": {
+    "ats": "greenhouse",
+    "careers": "https://grafana.com/about/careers/",
+    "slug": "grafanalabs",
+    "source": "pinned"
+  },
+  "Groww": {
+    "ats": "greenhouse",
+    "careers": "https://groww.in/careers",
+    "slug": "groww",
+    "source": "pinned"
+  },
+  "HUL": {
+    "ats": "custom",
+    "careers": "https://www.unilever.com/careers/",
+    "slug": "",
+    "source": "guess failed identity check"
+  },
+  "Hasura": {
+    "ats": "custom",
+    "careers": "https://promptql.io/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Hays India": {
+    "ats": "custom",
+    "careers": "https://www.hays.co.in/job-search",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Head Field Solutions": {
+    "ats": "custom",
+    "careers": "https://headfield.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Heidrick & Struggles India": {
+    "ats": "workday",
+    "careers": "https://www.heidrick.com/en/careers",
+    "slug": "heidrick|wd1|heidrickandstruggles",
+    "source": "sniffed"
+  },
+  "ITC": {
+    "ats": "custom",
+    "careers": "https://itcportal.com/careers.html",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Innovsource": {
+    "ats": "custom",
+    "careers": "https://www.innovsource.com/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "JPMorgan": {
+    "ats": "custom",
+    "careers": "https://www.jpmorganchase.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Jefferies": {
+    "ats": "custom",
+    "careers": "https://www.jefferies.com/careers/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Jupiter": {
+    "ats": "keka",
+    "careers": "https://jupiter.money/careers/",
+    "slug": "jupiter",
+    "source": "sniffed"
+  },
+  "Kearney": {
+    "ats": "custom",
+    "careers": "https://www.kearney.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Kelly Services India": {
+    "ats": "custom",
+    "careers": "https://www.kellyocg.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Khatabook": {
+    "ats": "custom",
+    "careers": "https://khatabook.com/hiring/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Korn Ferry": {
+    "ats": "custom",
+    "careers": "https://www.kornferry.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Kotak Mahindra Capital": {
+    "ats": "custom",
+    "careers": "https://www.kotak.com/en/careers.html",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Learnovate": {
+    "ats": "custom",
+    "careers": "https://learnovate.co.in/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Mastercard": {
+    "ats": "workday",
+    "careers": "https://careers.mastercard.com/us/en",
+    "slug": "mastercard|wd1|CorporateCareers",
+    "source": "sniffed"
+  },
+  "McKinsey": {
+    "ats": "custom",
+    "careers": "https://www.mckinsey.com/careers/search-jobs",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Meesho": {
+    "ats": "lever",
+    "careers": "https://www.meesho.io/jobs",
+    "slug": "meesho",
+    "source": "pinned"
+  },
+  "Michael Page India": {
+    "ats": "custom",
+    "careers": "https://www.michaelpage.co.in/jobs",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Microsoft": {
+    "ats": "eightfold",
+    "careers": "https://apply.careers.microsoft.com/careers",
+    "slug": "app",
+    "source": "sniffed"
+  },
+  "MinIO": {
+    "ats": "greenhouse",
+    "careers": "https://www.min.io/careers",
+    "slug": "minio",
+    "source": "sniffed"
+  },
+  "Miro": {
+    "ats": "ashby",
+    "careers": "https://miro.com/careers/",
+    "slug": "miro",
+    "source": "pinned"
+  },
+  "Moglix": {
+    "ats": "custom",
+    "careers": "https://www.moglix.com/career",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Morgan Stanley": {
+    "ats": "custom",
+    "careers": "https://www.morganstanley.com/people",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Multi Recruit": {
+    "ats": "custom",
+    "careers": "https://jobs.multirecruit.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Myntra": {
+    "ats": "custom",
+    "careers": "https://careers.myntra.com/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Navi": {
+    "ats": "custom",
+    "careers": "https://navi.com/careers",
+    "slug": "",
+    "source": "guess failed identity check"
+  },
+  "NeoKred": {
+    "ats": "custom",
+    "careers": "https://www.neokred.tech/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "NoBroker": {
+    "ats": "smartrecruiters",
+    "careers": "https://www.nobroker.in/careers",
+    "slug": "nobroker",
+    "source": "pinned"
+  },
+  "OfBusiness": {
+    "ats": "custom",
+    "careers": "https://www.ofbcareers.com/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Oliver Wyman": {
+    "ats": "lever",
+    "careers": "https://www.oliverwyman.com/careers.html",
+    "slug": "oliverwyman",
+    "source": "guessed slug oliverwyman"
+  },
+  "P&G": {
+    "ats": "custom",
+    "careers": "https://www.pgcareers.com/global/en",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "PERSOLKELLY India": {
+    "ats": "custom",
+    "careers": "https://www.persolindia.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "PeopleStrong": {
+    "ats": "custom",
+    "careers": "https://www.peoplestrong.com/wp-content/uploads/2020/04/jobs.png",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "PharmEasy": {
+    "ats": "darwinbox",
+    "careers": "https://pharmeasy.in/careers/",
+    "slug": "myhr",
+    "source": "sniffed"
+  },
+  "PhonePe": {
+    "ats": "custom",
+    "careers": "https://www.phonepe.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Pine Labs": {
+    "ats": "custom",
+    "careers": "https://www.pinelabs.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "PlacementIndia": {
+    "ats": "smartrecruiters",
+    "careers": "https://www.placementindia.com/job-recruiters/careers-ffid/",
+    "slug": "placementindia",
+    "source": "guessed slug placementindia"
+  },
+  "Policybazaar": {
+    "ats": "custom",
+    "careers": "https://careers.policybazaar.com/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Postman": {
+    "ats": "greenhouse",
+    "careers": "https://www.postman.com/company/careers/",
+    "slug": "postman",
+    "source": "pinned"
+  },
+  "Quadrangle": {
+    "ats": "custom",
+    "careers": "https://www.quadrangle.in",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Randstad India": {
+    "ats": "custom",
+    "careers": "https://www.randstad.in/jobs/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Razorpay": {
+    "ats": "greenhouse",
+    "careers": "https://razorpay.com/careers/",
+    "slug": "razorpaysoftwareprivatelimited",
+    "source": "pinned"
+  },
+  "Reliance": {
+    "ats": "custom",
+    "careers": "https://careers.ril.com/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Remote": {
+    "ats": "greenhouse",
+    "careers": "https://remote.com/careers",
+    "slug": "remote",
+    "source": "pinned"
+  },
+  "Retell AI": {
+    "ats": "ashby",
+    "careers": "https://www.retellai.com/careers",
+    "slug": "retell-ai",
+    "source": "sniffed"
+  },
+  "Rivigo": {
+    "ats": "custom",
+    "careers": "https://rivigo.com/careers/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Salesforce": {
+    "ats": "custom",
+    "careers": "https://www.salesforce.com/company/careers/jobs/?bc=OTH",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Shiprocket": {
+    "ats": "custom",
+    "careers": "https://careers.shiprocket.in/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Shopify": {
+    "ats": "custom",
+    "careers": "https://www.shopify.com/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Slice": {
+    "ats": "custom",
+    "careers": "https://slice.bank.in/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Sourcegraph": {
+    "ats": "greenhouse",
+    "careers": "https://sourcegraph.com/jobs",
+    "slug": "sourcegraph91",
+    "source": "sniffed"
+  },
+  "Spencer Stuart India": {
+    "ats": "custom",
+    "careers": "https://www.spencerstuart.com/careers",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Spenmo": {
+    "ats": "custom",
+    "careers": "https://spenmo.com/careers",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Storyblok": {
+    "ats": "greenhouse",
+    "careers": "https://www.storyblok.com/jobs",
+    "slug": "storyblok",
+    "source": "guessed slug storyblok, identity checked"
+  },
+  "Sutra HR": {
+    "ats": "custom",
+    "careers": "https://sutrahr.com/contact-us/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Swiggy": {
+    "ats": "smartrecruiters",
+    "careers": "https://careers.swiggy.com",
+    "slug": "swiggy",
+    "source": "guessed slug swiggy"
+  },
+  "Talent500": {
+    "ats": "custom",
+    "careers": "https://talent500.com/jobs/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Turing": {
+    "ats": "greenhouse",
+    "careers": "https://www.turing.com/careers",
+    "slug": "turing",
+    "source": "pinned"
+  },
+  "UBS": {
+    "ats": "custom",
+    "careers": "https://www.ubs.com/global/en/careers.html",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Uber": {
+    "ats": "custom",
+    "careers": "https://www.uber.com/us/en/careers/list/",
+    "slug": "",
+    "source": "guess failed identity check"
+  },
+  "Udaan": {
+    "ats": "custom",
+    "careers": "https://careers.udaan.com/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Unacademy": {
+    "ats": "smartrecruiters",
+    "careers": "https://unacademy.com/careers",
+    "slug": "unacademy",
+    "source": "pinned"
+  },
+  "Urban Company": {
+    "ats": "custom",
+    "careers": "https://www.urbancompany.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Velocity": {
+    "ats": "custom",
+    "careers": "https://www.velocity.in/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Vezdo": {
+    "ats": "custom",
+    "careers": "https://vezdo.com/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "Visa": {
+    "ats": "custom",
+    "careers": "https://usa.visa.com/careers.html",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "WalkWater Talent Advisors": {
+    "ats": "smartrecruiters",
+    "careers": "https://www.walkwater.com/",
+    "slug": "walkwatertalentadvisors",
+    "source": "guessed slug walkwatertalentadvisors"
+  },
+  "Walnut": {
+    "ats": "custom",
+    "careers": "https://walnut.education/",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "WhiteHat Jr": {
+    "ats": "custom",
+    "careers": "https://www.whitehatjr.com/careers",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "WinZO": {
+    "ats": "custom",
+    "careers": "https://www.winzogames.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Wingify": {
+    "ats": "keka",
+    "careers": "https://wingify.com/careers/",
+    "slug": "wingify",
+    "source": "pinned"
+  },
+  "WorkSource Consultants": {
+    "ats": "custom",
+    "careers": "https://worksourceconsultant.in/join-us/",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Writer": {
+    "ats": "ashby",
+    "careers": "https://writer.com/company/careers/",
+    "slug": "writer",
+    "source": "sniffed"
+  },
+  "Xpheno": {
+    "ats": "custom",
+    "careers": "https://www.xpheno.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Yubi": {
+    "ats": "custom",
+    "careers": "https://www.go-yubi.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Zapak": {
+    "ats": "custom",
+    "careers": "https://www.zapak.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Zapier": {
+    "ats": "ashby",
+    "careers": "https://zapier.com/jobs",
+    "slug": "zapier",
+    "source": "pinned"
+  },
+  "Zerodha": {
+    "ats": "custom",
+    "careers": "https://careers.zerodha.com/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Zeta": {
+    "ats": "lever",
+    "careers": "https://www.zeta.tech/careers",
+    "slug": "zeta",
+    "source": "pinned"
+  },
+  "Zetwerk": {
+    "ats": "custom",
+    "careers": "https://www.zetwerk.com/careers/",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "Zoho": {
+    "ats": "zohorecruit",
+    "careers": "https://careers.zohocorp.com/jobs",
+    "slug": "careers",
+    "source": "sniffed"
+  },
+  "Zopper": {
+    "ats": "custom",
+    "careers": "https://www.zopper.com",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "Zypp Electric": {
+    "ats": "custom",
+    "careers": "https://zypp.app/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "abiturma": {
+    "ats": "custom",
+    "careers": "https://abiturma.de",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "acct": {
+    "ats": "custom",
+    "careers": "https://acct.global",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "boAt": {
+    "ats": "custom",
+    "careers": "https://www.boat-lifestyle.com/pages/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  },
+  "eFishery": {
+    "ats": "custom",
+    "careers": "https://efishery.com",
+    "slug": "",
+    "source": "unreachable"
+  },
+  "fohandboh": {
+    "ats": "custom",
+    "careers": "https://fohandboh.com/careers",
+    "slug": "",
+    "source": "custom portal"
+  },
+  "redBus": {
+    "ats": "custom",
+    "careers": "https://www.redbus.in/info/careers",
+    "slug": "",
+    "source": "no ats signature in html"
+  }
+}
