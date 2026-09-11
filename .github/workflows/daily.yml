@@ -92,8 +92,10 @@ jobs:
       # Optional. Add MAIL_USERNAME, MAIL_PASSWORD (a Gmail app password)
       # and MAIL_TO as repository secrets to also get a plain email.
       - name: Email the digest
-        if: ${{ secrets.MAIL_USERNAME != '' }}
+        if: ${{ env.MAIL_USERNAME != '' }}
         continue-on-error: true
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
