@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T07:54:50.707704+00:00",
+ "generated_at": "2026-09-12T08:02:08.289402+00:00",
  "cadence": "daily",
  "companies_checked": 162,
  "companies_total": 347,
@@ -88,7 +88,7 @@
  "vetoed": {
   "asks for a bond or fee": 1
  },
- "new_today": 7,
+ "new_today": 0,
  "closed_since": 0,
  "jobs": [
   {
@@ -117,8 +117,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "llm",
-    "aws"
+    "aws",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -216,8 +216,8 @@
    "match_hits": [
     "software engineer",
     "kubernetes",
-    "docker",
     "python",
+    "docker",
     "ci/cd"
    ],
    "company": "Canonical",
@@ -288,8 +288,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "llm",
-    "aws"
+    "aws",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -322,8 +322,8 @@
    "match_score": 51,
    "match_hits": [
     "kubernetes",
-    "mlflow",
     "python",
+    "mlflow",
     "mlops",
     "spark",
     "aws",
@@ -363,8 +363,8 @@
     "kubernetes",
     "docker",
     "edge",
-    "c++",
-    "sql"
+    "sql",
+    "c++"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -399,9 +399,9 @@
     "software engineer",
     "kubernetes",
     "airflow",
-    "mlflow",
     "python",
     "docker",
+    "mlflow",
     "aws"
    ],
    "company": "Canonical",
@@ -467,8 +467,8 @@
    "match_hits": [
     "software engineer",
     "kubernetes",
-    "docker",
     "python",
+    "docker",
     "ci/cd",
     "edge"
    ],
@@ -501,8 +501,8 @@
    "match_score": 38,
    "match_hits": [
     "software engineer",
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "python",
     "docker",
     "c++"
@@ -536,8 +536,8 @@
    "match_score": 38,
    "match_hits": [
     "software engineer",
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "python",
     "docker",
     "c++"
@@ -571,8 +571,8 @@
    "match_score": 38,
    "match_hits": [
     "software engineer",
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "python",
     "docker",
     "c++"
@@ -945,8 +945,8 @@
    "salary_lpa": null,
    "match_score": 25,
    "match_hits": [
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "mongodb",
     "python",
     "kafka",
@@ -989,12 +989,12 @@
    "match_score": 62,
    "match_hits": [
     "software engineer",
+    "evaluation",
     "kubernetes",
     "guardrails",
-    "evaluation",
     "python",
     "kafka",
-    "rag",
+    "aws",
     "llm"
    ],
    "company": "Coinbase",
@@ -1119,8 +1119,8 @@
    "salary_lpa": null,
    "match_score": 25,
    "match_hits": [
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "mongodb",
     "python",
     "kafka",
@@ -1250,8 +1250,8 @@
     "typescript",
     "python",
     "edge",
-    "rag",
-    "llm"
+    "llm",
+    "rag"
    ],
    "company": "GitLab",
    "company_tier": "global",
@@ -1287,7 +1287,7 @@
    "id": "892ba70da776efd3",
    "duplicates": 1,
    "first_seen": "2026-09-12T07:54:50.707704+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -1315,7 +1315,7 @@
    "portal": "smartrecruiters",
    "id": "cd02a5942059dc06",
    "first_seen": "2026-09-12T07:54:50.707704+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -1344,7 +1344,7 @@
    "id": "0cb6115a6d40f956",
    "duplicates": 1,
    "first_seen": "2026-09-12T07:54:50.707704+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -1669,13 +1669,13 @@
    "match_score": 69,
    "match_hits": [
     "software engineer",
+    "typescript",
     "kubernetes",
     "applied ai",
-    "typescript",
     "langchain",
     "langgraph",
-    "duckdb",
-    "python"
+    "python",
+    "docker"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1707,8 +1707,8 @@
     "evaluation",
     "vector",
     "ci/cd",
-    "rag",
-    "llm"
+    "llm",
+    "rag"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1740,8 +1740,8 @@
    "match_score": 46,
    "match_hits": [
     "hugging face",
-    "kubernetes",
     "tensorflow",
+    "kubernetes",
     "inference",
     "pytorch",
     "vector",
@@ -1820,13 +1820,13 @@
    "match_score": 39,
    "match_hits": [
     "fine-tuning",
-    "kubernetes",
     "embeddings",
+    "kubernetes",
     "python",
     "docker",
     "vector",
-    "rag",
-    "aws"
+    "aws",
+    "rag"
    ],
    "company": "Elastic",
    "company_tier": "global",
@@ -1984,9 +1984,9 @@
    "salary_lpa": null,
    "match_score": 34,
    "match_hits": [
-    "kubernetes",
-    "tensorflow",
     "evaluation",
+    "tensorflow",
+    "kubernetes",
     "inference",
     "pytorch",
     "kafka",
@@ -2129,8 +2129,8 @@
    "match_score": 30,
    "match_hits": [
     "backend engineer",
-    "postgresql",
     "kubernetes",
+    "postgresql",
     "autonomy"
    ],
    "company": "GitLab",
@@ -2230,8 +2230,8 @@
    "match_score": 26,
    "match_hits": [
     "backend engineer",
-    "postgresql",
-    "kubernetes"
+    "kubernetes",
+    "postgresql"
    ],
    "company": "GitLab",
    "company_tier": "global",
@@ -2427,8 +2427,8 @@
    "salary_lpa": null,
    "match_score": 21,
    "match_hits": [
-    "kubernetes",
     "evaluation",
+    "kubernetes",
     "python",
     "docker",
     "aws"
@@ -2558,7 +2558,7 @@
    "id": "3f8f62c12f0a8eec",
    "duplicates": 1,
    "first_seen": "2026-09-12T07:54:50.707704+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -2588,7 +2588,7 @@
    "portal": "workday",
    "id": "f37e5aaf554f3ef6",
    "first_seen": "2026-09-12T07:54:50.707704+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -2618,7 +2618,7 @@
    "portal": "workday",
    "id": "ed1b0bf6e4b60599",
    "first_seen": "2026-09-12T07:54:50.707704+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -2649,7 +2649,7 @@
    "id": "34d615490c2faeb6",
    "duplicates": 1,
    "first_seen": "2026-09-12T07:54:50.707704+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   }
  ]
