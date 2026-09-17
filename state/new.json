@@ -1,10 +1,108 @@
 [
  {
-  "title": "Senior Data Engineer",
+  "title": "Lead AI Engineer",
+  "location": "Gurgaon, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Lead-AI-Engineer_R-289260-1",
+  "posted_at": "Posted Yesterday",
+  "description": "R-289260",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 3,
+  "location_label": "Gurgaon",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 30,
+  "match_hits": [
+   "ai engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "56a4a420f59f80f7",
+  "first_seen": "2026-09-17T08:47:46.389714+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Senior Software Engineer, Applied AI and Customer Solutions",
+  "location": "India",
+  "url": "https://job-boards.greenhouse.io/coursera/...",
+  "posted_at": "2026-09-16T17:58:48-04:00",
+  "description": "div class= content-intro p strong About Coursera + Udemy /strong /p p Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world\u2019s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our nbsp; a href= https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/ target= _blank blog /a . /p p strong Why join us now? /strong /p p AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them. /p p strong Shape what comes next /strong /p p By joining our team, you\u2019ll have the opportunity to reshape how the world learns and applies skills\u2014and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale. /p /div p strong Job Overview /strong /p p As a Senior Software Engineer, you will join a fast-paced innovation team that builds and deploys AI-powered solutions directly with Coursera&#39;s enterprise and campus customers. You will sit at the intersection of AI/Data Engineering, cloud and security architecture, and customer-facing solutioning \u2014 working hands-on with customers to map their workflows and data, prototype solutions quickly, and harden the ones that prove valuable into production deployments. /p p You&#39;ll operate across the full engagement lifecycle: scoping a customer&#39;s environment and pain points like a consultant, prototyping working demos in real time with the customer, and then hardening the strongest patterns into production-grade, secure and compliant deployments. This role is customer-facing and will require regular travel to customer sites (domestic and occasionally international) for discovery, prototyping, and go-live phases of engagements. You will work closely with Product Managers, AI Specialists, Data Analysts, and other Engineers on the team, and directly with customer executive sponsors and IT/data owners, to decide what gets standardized, deployed, or retired. /p p strong Key Responsibilities /strong /p ul li Scope customer environments directly with executive sponsors and IT/data owners \u2014 mapping systems, data models, and workflows to identify the real business problem, not just the stated one /li li Rapidly prototype and demo working solutions in front of customers, iterating in real time to prove value fast /li li Serve as the bridge between customer amp; core engineering team to harden validated prototypes into production deployments /li li Design and implement multi-tenant, hybrid, or customer-controlled deployment architectures, as per customer&#39;s data residency, privacy, and IT-maturity requirements /li li Build and own identity and access management, encryption, and secure cross-network connectivity (mTLS, VPC peering/PrivateLink, API gateways) for customer-embedded deployments /li li Bring security, data-residency and compliance judgment into discovery conversations before a commercial commitment is made, not after /li li Own CI/CD, observability, and production support for systems living inside customer environments /li li Recognize repeatable patterns across customer engagements and feed field evidence back to Product to inform what should be standardized, deployed more broadly, or retired /li li Collaborate closely with Product Managers, AI Specialists, and Program Managers to scope problem statements with a laser focus on customer and business impact /li li Travel to customer sites as needed (expect regular travel) to support scoping, prototyping, and go-live phases of an engagement, including in-person workshops and executive readouts /li /ul p strong Basic Qualifications /strong /p ul li 5+ years of experience in a software engineering role, with strong hands-on backend engineering and cloud infrastructure experience /li li 1+ years of experience building production-grade agentic AI solutions /li li Proficiency in backend languages such as Python, Java, Typescript and technologies such as Docker, Kubernetes and Kafka with comfort working across the stack /li li Deep understanding of cloud platforms (AWS preferred), able to design and operate both multi-tenant and hybrid customer-cloud deployment models /li li Strong experience with data engineering fundamentals \u2014 ingesting, cleaning, and normalizing messy, inconsistent customer data across disparate source systems /li li Working knowledge of identity and access management, encryption/key management, and secure network patterns (VPC peering, PrivateLink, mTLS) for customer-embedded or regulated environments /li li Demonstrated comfort operating directly with customers \u2014 scoping ambiguous problems, running discovery, and demoing work-in-progress solutions live, in person and remotely /li li Willingness and ability to travel regularly to customer sites, domestically and occasionally internationally, as engagement needs require /li li Prior experience leading projects and debugging complex issues with minimal supervision /li /ul p strong Preferred Qualifications /strong /p ul li Experience with modern agentic AI tooling such as LangChain, LangGraph, FastMCP, RAG, or MCP /li li Experience with Postgres, DuckDB, pgvector, or similar analytical/transactional data layers /li li Prior experience in a solutions engineering, professional services, or technical consulting role where you owned a customer relationship end-to-end, including on-site engagement /li l",
+  "department": "Partner Success Services",
+  "veto": null,
+  "skill_gaps": [
+   "go",
+   "java"
+  ],
+  "flags": [],
+  "age_days": 0,
+  "location_tier": 4,
+  "location_label": "India",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 69,
+  "match_hits": [
+   "software engineer",
+   "applied ai",
+   "kubernetes",
+   "typescript",
+   "langchain",
+   "langgraph",
+   "duckdb",
+   "python"
+  ],
+  "company": "Coursera",
+  "company_tier": "global",
+  "portal": "greenhouse",
+  "id": "c70b2f2b65b7097c",
+  "first_seen": "2026-09-17T08:47:46.389714+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Software Engineer II",
   "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Data-Engineer_R-290226",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-289234",
+  "posted_at": "Posted Yesterday",
+  "description": "R-289234",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "software engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "02697661ec6b62b5",
+  "first_seen": "2026-09-17T08:47:46.389714+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Senior Software Engineer",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-288518",
   "posted_at": "Posted Today",
-  "description": "R-290226",
+  "description": "R-288518",
   "department": "",
   "veto": null,
   "skill_gaps": [],
@@ -19,13 +117,44 @@
   "salary_lpa": null,
   "match_score": 20,
   "match_hits": [
-   "data engineer"
+   "software engineer"
   ],
   "company": "Mastercard",
   "company_tier": "india",
   "portal": "workday",
-  "id": "377a869f5ce9444a",
-  "first_seen": "2026-09-16T08:44:24.360758+00:00",
+  "id": "942888b5767fbfa3",
+  "duplicates": 1,
+  "first_seen": "2026-09-17T08:47:46.389714+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Senior Platform Engineer",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Platform-Engineer_R-289826",
+  "posted_at": "Posted Yesterday",
+  "description": "R-289826",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "platform engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "c0c06df6cd4ca516",
+  "first_seen": "2026-09-17T08:47:46.389714+00:00",
   "is_new": true,
   "days_listed": 0
  }
