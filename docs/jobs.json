@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T08:23:55.812740+00:00",
+ "generated_at": "2026-09-19T08:11:32.918207+00:00",
  "cadence": "daily",
  "companies_checked": 164,
  "companies_total": 347,
@@ -70,11 +70,11 @@
   "Zypp Electric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "redBus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'"
  },
- "postings_seen": 4301,
- "duplicates_merged": 0,
- "matches": 65,
+ "postings_seen": 4342,
+ "duplicates_merged": 1,
+ "matches": 63,
  "vetoed": {},
- "new_today": 4,
+ "new_today": 1,
  "closed_since": 0,
  "jobs": [
   {
@@ -90,7 +90,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -112,7 +112,7 @@
    "id": "972d24ce152b4464",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer, Security Platform",
@@ -127,7 +127,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 20,
+   "age_days": 21,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -143,39 +143,7 @@
    "id": "486ab52c4ff4a137",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
-  },
-  {
-   "title": "Software Engineer, EAA Integrations",
-   "location": "Remote - India",
-   "url": "https://www.coinbase.com/careers/positions/7558051",
-   "posted_at": "2026-09-14T16:38:51-04:00",
-   "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers learn more about working at Coinbase /a . /p /div p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea data-pm-slice= 1 1 [] EAA Integrations builds scalable automation that connects systems, streamlines business processes, and unifies data across the enterprise. We create integration assets and APIs that improve developer productivity and help teams integrate complex systems efficiently. As our Enterprise Integration team grows, we\u2019re hiring a Workato Developer / Workato Architect with experience building and governing automation at scale. /p p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea In this role, you will design Workato recipes, frameworks, and connectors while applying integration patterns and platform standards. You will partner with business units and engineering teams to translate requirements into reliable, scalable solutions and ensure integrations run smoothly in production. Reporting to the Manager of Engineering (Integrations), you will help drive automation strategy and strengthen Workato platform excellence across Coinbase. /p p strong What you\u2019ll do: /strong /p ul li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Design, build, and maintain integrations across enterprise applications using Workato, custom connectors, and automation frameworks. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Architect scalable automation solutions and solve complex integration challenges using patterns, governance, and best practices. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Integrate Workato workflows with AI and LLM services to support decision-making, content generation, and data enrichment. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Build frameworks for incorporating LLMs into business processes with secure and scalable usage. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Partner with business units and engineering teams to turn requirements into reliable workflows and integrations. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Build and support ETL and ELT processes through Workato pipelines and data tools. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Improve architecture, performance, and technical debt across the integration ecosystem. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Support reviews, deployments, release planning, troubleshooting, and platform guidance. /p /li /ul p strong Required Skills and Experience: /strong /p ul li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea 2+ years of integration development experience across enterprise systems. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Practical experience with Workato, including recipe development, custom connectors, error handling, and platform governance. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Experience architecting scalable automation solutions using Workato or similar iPaaS platforms. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Solid understanding of APIs, webhooks, REST, JSON, and XML. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Familiarity with ETL and ELT concepts and data pipeline development. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Exposure to AI and LLM technologies and responsible AI practices, including security and compliance. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Strong analytical, troubleshooting, communication, and collaboration skills. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Familiarity with Salesforce, NetSuite, Workday, Snowflake, or similar enterprise platforms. /p /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p nbsp; /p p strong PID - P75728 /strong /p div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b93,584,400 /span span class= divider mdash; /span span \u20b93,584,400 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opport",
-   "department": "Enterprise Applications",
-   "veto": null,
-   "skill_gaps": [
-    "snowflake",
-    "salesforce"
-   ],
-   "flags": [],
-   "age_days": 3,
-   "location_tier": 0,
-   "location_label": "Remote (India)",
-   "experience_bucket": 0,
-   "experience_note": "2+ yrs",
-   "salary_lpa": 35.8,
-   "match_score": 26,
-   "match_hits": [
-    "software engineer",
-    "llm"
-   ],
-   "company": "Coinbase",
-   "company_tier": "global",
-   "portal": "greenhouse",
-   "id": "2d037139d65ff60c",
-   "first_seen": "2026-09-07T09:50:21.309043+00:00",
-   "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer - Secure Container Images",
@@ -190,7 +158,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 23,
+   "age_days": 24,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -210,7 +178,7 @@
    "id": "210e4fe5a367aeda",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
@@ -224,7 +192,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -242,7 +210,7 @@
    "id": "5f91dffa74c5f3b2",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Machine Learning Engineer",
@@ -257,7 +225,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -279,7 +247,7 @@
    "id": "897d874ea0f0c95e",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "MLOps Field Engineer",
@@ -295,7 +263,7 @@
     "kubeflow"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -306,8 +274,8 @@
     "kubernetes",
     "python",
     "mlflow",
-    "spark",
     "mlops",
+    "spark",
     "aws",
     "sql"
    ],
@@ -317,7 +285,7 @@
    "id": "89a6bbd45c957422",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Python Engineer",
@@ -333,7 +301,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -345,8 +313,8 @@
     "kubernetes",
     "docker",
     "edge",
-    "c++",
-    "sql"
+    "sql",
+    "c++"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -354,7 +322,7 @@
    "id": "5d24f8c1907d1205",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -370,7 +338,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -392,7 +360,7 @@
    "id": "3cd0e0c2f8129887",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer - Python and K8s",
@@ -404,7 +372,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -425,7 +393,7 @@
    "id": "fc7005194a2a0bcf",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -439,7 +407,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 23,
+   "age_days": 24,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -460,7 +428,7 @@
    "id": "71a7fb06055356bb",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer, Cloud - Sustaining Engineering",
@@ -474,7 +442,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -495,7 +463,7 @@
    "id": "6f24a2c795ced861",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer - L3 Support",
@@ -509,7 +477,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -530,7 +498,7 @@
    "id": "b95c5600b7c162ba",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer, Sustaining Engineering",
@@ -544,7 +512,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -565,7 +533,7 @@
    "id": "3fd2583778e05409",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Linux Devices Software Engineer",
@@ -580,7 +548,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -600,7 +568,7 @@
    "id": "8e35405280dd53e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Go (Golang) Software Engineer, Developer Tooling and Containers",
@@ -615,7 +583,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 25,
+   "age_days": 26,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -635,7 +603,7 @@
    "id": "0eddfe107c2f48f3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
@@ -647,7 +615,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -667,7 +635,7 @@
    "id": "ce1d173b849babb6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -683,7 +651,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 24,
+   "age_days": 25,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -702,7 +670,7 @@
    "id": "6c0d49dc47ba4d4d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Junior Ubuntu Software Engineer",
@@ -717,7 +685,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -736,7 +704,7 @@
    "id": "52929cfe97d8f85a",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
@@ -751,7 +719,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -770,7 +738,7 @@
    "id": "ce408466319dc35b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Security Software Engineer",
@@ -788,7 +756,7 @@
     "php"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -807,7 +775,7 @@
    "id": "be1de3b5e41341f4",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer - Solutions Engineering",
@@ -821,7 +789,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -839,7 +807,7 @@
    "id": "7310719a2be22e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Ubuntu Software Engineer",
@@ -854,7 +822,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -872,7 +840,7 @@
    "id": "6caffa67411ed0e3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer - App Stores",
@@ -886,7 +854,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -903,7 +871,7 @@
    "id": "4727884cced45711",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Alliances Field Engineer",
@@ -919,7 +887,7 @@
     "cassandra"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -931,8 +899,8 @@
     "kubernetes",
     "mongodb",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -942,7 +910,7 @@
    "id": "37cb7a5898f98ab3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Software Engineer, Customer Administration",
@@ -960,7 +928,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -969,13 +937,13 @@
    "match_score": 62,
    "match_hits": [
     "software engineer",
-    "guardrails",
     "evaluation",
     "kubernetes",
+    "guardrails",
     "python",
     "kafka",
     "aws",
-    "llm"
+    "sql"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -983,7 +951,7 @@
    "id": "96b5f8fab6f5c3a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Software Engineer, Security Platform",
@@ -998,7 +966,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1014,7 +982,7 @@
    "id": "4a3092df3189ad5c",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Embedded Linux Senior Software Engineer - Optimisation",
@@ -1026,7 +994,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1045,7 +1013,7 @@
    "id": "8c5234f46a324b14",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Software Engineer",
@@ -1057,7 +1025,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 15,
+   "age_days": 16,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1075,7 +1043,7 @@
    "id": "adf4a0accdb6d334",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Cloud Solutions Architect - Alliances",
@@ -1091,7 +1059,7 @@
     "cassandra"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1103,8 +1071,8 @@
     "kubernetes",
     "mongodb",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -1114,7 +1082,7 @@
    "id": "ae88c5d854f51f22",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Manager, Customer Engineering, India",
@@ -1129,7 +1097,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 13,
+   "age_days": 14,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1138,9 +1106,9 @@
    "match_score": 21,
    "match_hits": [
     "python",
-    "rag",
     "aws",
-    "llm"
+    "llm",
+    "rag"
    ],
    "company": "Cloudflare",
    "company_tier": "global",
@@ -1148,7 +1116,7 @@
    "id": "d3c66252e1b773a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "AL/ML Engineer",
@@ -1176,7 +1144,7 @@
    "id": "5bc1077b31b7cfc3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "AI Architect",
@@ -1204,7 +1172,7 @@
    "id": "5bc1077b31b7cfc3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "AI Engineer",
@@ -1218,7 +1186,7 @@
     "graphql"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "Bangalore / Remote",
    "experience_bucket": 1,
@@ -1239,7 +1207,7 @@
    "id": "e69c6f59f433ec54",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Data Scientist III",
@@ -1251,7 +1219,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 8,
+   "age_days": 9,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1267,13 +1235,13 @@
    "id": "d00b14376087c4b5",
    "first_seen": "2026-09-11T08:34:56.630756+00:00",
    "is_new": false,
-   "days_listed": 6
+   "days_listed": 7
   },
   {
    "title": "Machine Learning Engineer 3",
    "location": "Bangalore",
    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R171493-1",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R171493",
    "department": "",
    "veto": null,
@@ -1297,13 +1265,13 @@
    "id": "2c9aa0bba273851d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Data Scientist",
    "location": "Unilever R&D Bangalore",
    "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Unilever-RD-Bangalore/Data-Scientist_R-1187992",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-1187992",
    "department": "",
    "veto": null,
@@ -1326,7 +1294,7 @@
    "portal": "workday",
    "id": "73dcb4abedc63560",
    "first_seen": "2026-09-18T08:23:55.812740+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -1339,9 +1307,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 1043 days ago"
+    "posted 1044 days ago"
    ],
-   "age_days": 1043,
+   "age_days": 1044,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1357,7 +1325,7 @@
    "id": "59e8dcd0b3f7e4e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Software Engineer, Backend",
@@ -1369,9 +1337,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 3003 days ago"
+    "posted 3004 days ago"
    ],
-   "age_days": 3003,
+   "age_days": 3004,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1387,7 +1355,7 @@
    "id": "5fad81823b936e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Intermediate Backend Engineer - Database Change Management",
@@ -1401,7 +1369,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1418,7 +1386,7 @@
    "id": "68a37d4aea017c85",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Security Engineer - Corporate Security",
@@ -1433,9 +1401,9 @@
     "terraform"
    ],
    "flags": [
-    "posted 55 days ago"
+    "posted 56 days ago"
    ],
-   "age_days": 55,
+   "age_days": 56,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 1,
@@ -1455,7 +1423,7 @@
    "id": "fc466e8bf371439b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Machine Learning Engineer",
@@ -1469,9 +1437,9 @@
     "bedrock"
    ],
    "flags": [
-    "posted 400 days ago"
+    "posted 401 days ago"
    ],
-   "age_days": 400,
+   "age_days": 401,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1494,7 +1462,7 @@
    "id": "36dba418ee62b722",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Software Engineer, Applied AI and Customer Solutions",
@@ -1509,7 +1477,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1518,11 +1486,11 @@
    "match_score": 69,
    "match_hits": [
     "software engineer",
+    "typescript",
     "applied ai",
     "kubernetes",
-    "typescript",
-    "langgraph",
     "langchain",
+    "langgraph",
     "python",
     "docker"
    ],
@@ -1532,7 +1500,7 @@
    "id": "c70b2f2b65b7097c",
    "first_seen": "2026-09-17T08:47:46.389714+00:00",
    "is_new": false,
-   "days_listed": 0
+   "days_listed": 1
   },
   {
    "title": "Lead Gen-AI Engineer",
@@ -1544,7 +1512,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 31,
+   "age_days": 32,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1565,7 +1533,7 @@
    "id": "cc9cd6cb8715e76b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Field Chief Technology Officer (Field CTO)",
@@ -1580,7 +1548,7 @@
     "ray"
    ],
    "flags": [],
-   "age_days": 28,
+   "age_days": 29,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1589,8 +1557,8 @@
    "match_score": 46,
    "match_hits": [
     "hugging face",
-    "kubernetes",
     "tensorflow",
+    "kubernetes",
     "inference",
     "pytorch",
     "vector",
@@ -1603,7 +1571,7 @@
    "id": "e73ffdf1e4f2f9f8",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Software Engineer (Java, Streaming, Backend, Kafka)",
@@ -1620,9 +1588,9 @@
     "flink"
    ],
    "flags": [
-    "posted 245 days ago"
+    "posted 246 days ago"
    ],
-   "age_days": 245,
+   "age_days": 246,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1633,8 +1601,8 @@
     "software engineer",
     "kubernetes",
     "real-time",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -1644,7 +1612,7 @@
    "id": "ef87228163bcbf8b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Consulting Architect - Search",
@@ -1659,7 +1627,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 7,
+   "age_days": 8,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1668,11 +1636,11 @@
    "match_score": 39,
    "match_hits": [
     "fine-tuning",
-    "kubernetes",
     "embeddings",
+    "kubernetes",
     "python",
-    "docker",
     "vector",
+    "docker",
     "aws",
     "rag"
    ],
@@ -1682,7 +1650,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Software Engineer, NLP",
@@ -1697,7 +1665,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1706,8 +1674,8 @@
    "match_score": 38,
    "match_hits": [
     "software engineer",
-    "guardrails",
     "evaluation",
+    "guardrails",
     "python"
    ],
    "company": "GitLab",
@@ -1716,7 +1684,7 @@
    "id": "72434bcf459169bf",
    "first_seen": "2026-09-11T08:34:56.630756+00:00",
    "is_new": false,
-   "days_listed": 6
+   "days_listed": 7
   },
   {
    "title": "Staff Database Engineer (Data Engineering)",
@@ -1731,9 +1699,9 @@
     "redshift"
    ],
    "flags": [
-    "posted 192 days ago"
+    "posted 193 days ago"
    ],
-   "age_days": 192,
+   "age_days": 193,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1753,7 +1721,7 @@
    "portal": "lever",
    "id": "48b4f9ba103b81a2",
    "first_seen": "2026-09-18T08:23:55.812740+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -1770,9 +1738,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 217 days ago"
+    "posted 218 days ago"
    ],
-   "age_days": 217,
+   "age_days": 218,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1792,7 +1760,7 @@
    "id": "e060dee28bc45c7f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Lead - Data Scientist",
@@ -1804,7 +1772,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 7,
+   "age_days": 8,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1820,7 +1788,7 @@
    "id": "dbe89499a3579cb0",
    "first_seen": "2026-09-11T08:34:56.630756+00:00",
    "is_new": false,
-   "days_listed": 6
+   "days_listed": 7
   },
   {
    "title": "Staff Data Scientist",
@@ -1832,7 +1800,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1848,7 +1816,7 @@
    "id": "3ac25d6f30698055",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Field Architect ",
@@ -1862,7 +1830,7 @@
     "databricks"
    ],
    "flags": [],
-   "age_days": 7,
+   "age_days": 8,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1870,13 +1838,13 @@
    "salary_lpa": null,
    "match_score": 34,
    "match_hits": [
-    "kubernetes",
-    "evaluation",
     "tensorflow",
+    "evaluation",
+    "kubernetes",
     "inference",
     "pytorch",
-    "spark",
     "kafka",
+    "spark",
     "edge"
    ],
    "company": "MinIO",
@@ -1885,7 +1853,7 @@
    "id": "706cbf44d771a761",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Software Engineer",
@@ -1901,7 +1869,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1920,7 +1888,7 @@
    "id": "07cf017df9349025",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Software Engineer(Data Engineering)",
@@ -1935,9 +1903,9 @@
     "scala"
    ],
    "flags": [
-    "posted 315 days ago"
+    "posted 316 days ago"
    ],
-   "age_days": 315,
+   "age_days": 316,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1957,7 +1925,7 @@
    "id": "82e2f840f6cbb0df",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Software Engineer",
@@ -1973,7 +1941,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1991,7 +1959,7 @@
    "id": "25450d4218963fa4",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Backend Engineer",
@@ -2005,7 +1973,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 43,
+   "age_days": 44,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -2023,7 +1991,7 @@
    "id": "f9fbc28db130acad",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Backend Engineer, Gitlab Delivery: Upgrades",
@@ -2039,7 +2007,7 @@
     "terraform"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2048,8 +2016,8 @@
    "match_score": 26,
    "match_hits": [
     "backend engineer",
-    "postgresql",
-    "kubernetes"
+    "kubernetes",
+    "postgresql"
    ],
    "company": "GitLab",
    "company_tier": "global",
@@ -2057,7 +2025,7 @@
    "id": "9343be4fc401b75c",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Backend Engineer (Go), Events Platform",
@@ -2072,7 +2040,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2090,7 +2058,7 @@
    "id": "7db3137f463fdf53",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Senior Backend Engineer - Platform Integrations (Monetization)",
@@ -2106,7 +2074,7 @@
     "graphql"
    ],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2123,7 +2091,7 @@
    "id": "c2d3d7b9d411e9f3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Backend Engineer - Database Change Management",
@@ -2137,7 +2105,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2154,7 +2122,7 @@
    "id": "8c09fa349342b8ad",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Staff Software Engineer",
@@ -2184,7 +2152,7 @@
    "id": "f69ced5c435247a0",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Lead Software Engineer - Full Stack",
@@ -2196,9 +2164,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 66 days ago"
+    "posted 67 days ago"
    ],
-   "age_days": 66,
+   "age_days": 67,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2214,14 +2182,14 @@
    "id": "99eba567d0eb0c37",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
-   "title": "Senior Platform Engineer",
+   "title": "Software Engineer II",
    "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Platform-Engineer_R-290928",
-   "posted_at": "Posted Today",
-   "description": "R-290928",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-286355",
+   "posted_at": "Posted Yesterday",
+   "description": "R-286355",
    "department": "",
    "veto": null,
    "skill_gaps": [],
@@ -2231,38 +2199,8 @@
    "age_days": null,
    "location_tier": 6,
    "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 20,
-   "match_hits": [
-    "platform engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "37b263c06afdbc10",
-   "first_seen": "2026-09-18T08:23:55.812740+00:00",
-   "is_new": true,
-   "days_listed": 0
-  },
-  {
-   "title": "Manager, Software Engineering",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-284403-1",
-   "posted_at": "Posted Today",
-   "description": "R-284403",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
+   "experience_bucket": 1,
+   "experience_note": "Years not stated",
    "salary_lpa": null,
    "match_score": 20,
    "match_hits": [
@@ -2271,8 +2209,9 @@
    "company": "Mastercard",
    "company_tier": "india",
    "portal": "workday",
-   "id": "2bbe9d351dd109f7",
-   "first_seen": "2026-09-18T08:23:55.812740+00:00",
+   "id": "bbc93e0732bd6c85",
+   "duplicates": 1,
+   "first_seen": "2026-09-19T08:11:32.918207+00:00",
    "is_new": true,
    "days_listed": 0
   }

@@ -1,7 +1,6 @@
 company,title,location,experience,salary_lpa,match,portal,posted,url
 Coinbase,Machine Learning Engineer,Remote (India),2+ yrs,44.1,61,greenhouse,2026-09-14T16:39:13-04:00,https://www.coinbase.com/careers/positions/7985187
 Coinbase,"Software Engineer, Security Platform",Remote (India),3+ yrs,44.1,20,greenhouse,2026-08-28T19:26:55-04:00,https://www.coinbase.com/careers/positions/8165441
-Coinbase,"Software Engineer, EAA Integrations",Remote (India),2+ yrs,35.8,26,greenhouse,2026-09-14T16:38:51-04:00,https://www.coinbase.com/careers/positions/7558051
 Canonical,Software Engineer - Secure Container Images,Remote (Apac),0-7 yrs,,35,greenhouse,2026-08-25T10:07:21-04:00,https://job-boards.greenhouse.io/canonical/jobs/8130859
 Canonical,C++/Rust Graphics and Windowing System Software Engineer - Mir,Remote (Apac),2+ yrs,,27,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/4439935
 Coinbase,Senior Machine Learning Engineer,Remote (India),"5+ yrs, senior title",66.1,61,greenhouse,2026-09-14T16:39:01-04:00,https://www.coinbase.com/careers/positions/7739592
@@ -34,8 +33,8 @@ Appinventiv,AL/ML Engineer,Noida,Years not stated,,35,custom,,https://appinventi
 Appinventiv,AI Architect,Noida,Senior title,,25,custom,,https://appinventiv.com/career/
 GitLab,AI Engineer,Bangalore / Remote,Years not stated,,55,greenhouse,2026-09-14T16:01:39-04:00,https://job-boards.greenhouse.io/gitlab/jobs/8556658002
 Swiggy,Data Scientist III,Bengaluru,Years not stated,,35,smartrecruiters,2026-09-09T13:53:04.471000+00:00,https://jobs.smartrecruiters.com/swiggy/postings/6000000001391633
-Adobe,Machine Learning Engineer 3,Bangalore,Years not stated,,30,workday,Posted Today,https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R171493-1
-HUL,Data Scientist,Bangalore,Years not stated,,30,workday,Posted Today,https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Unilever-RD-Bangalore/Data-Scientist_R-1187992
+Adobe,Machine Learning Engineer 3,Bangalore,Years not stated,,30,workday,Posted Yesterday,https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R171493-1
+HUL,Data Scientist,Bangalore,Years not stated,,30,workday,Posted Yesterday,https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Unilever-RD-Bangalore/Data-Scientist_R-1187992
 Meesho,Data Scientist III,Bangalore,Years not stated,,30,lever,2023-11-10T04:17:11.159000+00:00,https://jobs.lever.co/meesho/489fe662-5d28-4305-953e-91ee21e8538c
 Unacademy,"Software Engineer, Backend",Bengaluru,Years not stated,,25,smartrecruiters,2018-06-28T13:11:04+00:00,https://jobs.smartrecruiters.com/unacademy/postings/743999672726735
 GitLab,Intermediate Backend Engineer - Database Change Management,Bangalore,Years not stated,,23,greenhouse,2026-09-14T16:01:39-04:00,https://job-boards.greenhouse.io/gitlab/jobs/8722304002
@@ -62,5 +61,4 @@ GitLab,Senior Backend Engineer - Platform Integrations (Monetization),Bangalore,
 GitLab,Staff Backend Engineer - Database Change Management,Bangalore,Senior title,,23,greenhouse,2026-09-14T16:01:39-04:00,https://job-boards.greenhouse.io/gitlab/jobs/8716271002
 Flexera,Staff Software Engineer,Bangalore,Senior title,,20,workday,Posted 30+ Days Ago,https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Bangalore/Staff-Software-Engineer_17170-1
 Freshworks,Lead Software Engineer - Full Stack,Hyderabad,Senior title,,25,smartrecruiters,2026-07-13T10:49:36.313000+00:00,https://jobs.smartrecruiters.com/freshworks/postings/744000137424679
-Mastercard,Senior Platform Engineer,Pune,Senior title,,20,workday,Posted Today,https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Platform-Engineer_R-290928
-Mastercard,"Manager, Software Engineering",Pune,Senior title,,20,workday,Posted Today,https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-284403-1
+Mastercard,Software Engineer II,Pune,Years not stated,,20,workday,Posted Yesterday,https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-286355

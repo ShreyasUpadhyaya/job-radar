@@ -1,10 +1,10 @@
 [
  {
-  "title": "Data Scientist",
-  "location": "Unilever R&D Bangalore",
-  "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Unilever-RD-Bangalore/Data-Scientist_R-1187992",
-  "posted_at": "Posted Today",
-  "description": "R-1187992",
+  "title": "Software Engineer II",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-286355",
+  "posted_at": "Posted Yesterday",
+  "description": "R-286355",
   "department": "",
   "veto": null,
   "skill_gaps": [],
@@ -12,108 +12,10 @@
    "thin description"
   ],
   "age_days": null,
-  "location_tier": 4,
-  "location_label": "Bangalore",
+  "location_tier": 6,
+  "location_label": "Pune",
   "experience_bucket": 1,
   "experience_note": "Years not stated",
-  "salary_lpa": null,
-  "match_score": 30,
-  "match_hits": [
-   "data scientist"
-  ],
-  "company": "HUL",
-  "company_tier": "india",
-  "portal": "workday",
-  "id": "73dcb4abedc63560",
-  "first_seen": "2026-09-18T08:23:55.812740+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Staff Database Engineer (Data Engineering)",
-  "location": "Bengaluru",
-  "url": "https://jobs.lever.co/bazaarvoice/28cd3ded-6aba-41c9-bb67-a5c6887c878c",
-  "posted_at": "2026-03-09T08:54:52.312000+00:00",
-  "description": "About Bazaarvoice At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community & enterprise technology, we connect thousands of brands and retailers with billions of consumers. Our solutions enable brands to connect with consumers and collect valuable user-generated content, at an unprecedented scale. This content achieves global reach by leveraging our extensive and ever-expanding retail, social & search syndication network. And we make it easy for brands & retailers to gain valuable business insights from real-time consumer feedback with intuitive tools and dashboards. The result is smarter shopping: loyal customers, increased sales, and improved products. The problem we are trying to solve : Brands and retailers struggle to make real connections with consumers. It's a challenge to deliver trustworthy and inspiring content in the moments that matter most during the discovery and purchase cycle. The result? Time and money spent on content that doesn't attract new consumers, convert them, or earn their long-term loyalty. Our brand promise : closing the gap between brands and consumers. Founded in 2005, Bazaarvoice is headquartered in Austin, Texas with offices in North America, Europe, Asia and Australia. It\u2019s official: Bazaarvoice is a Great Place to Work in the US , Australia, India, Lithuania, France, Germany and the UK! Who we want: Are you ready to combine your talent for crafting solid data systems and enthusiasm for cutting-edge technology to harness the power of data at Bazaarvoice? We\u2019re looking for a strong database engineer who thrives on building large-scale, robust, distributed data systems and pipelines, who understands the importance of good software engineering practices to get it done. If you\u2019re excited about shaping the future of data at Bazaarvoice, come join us. How you will make an impact: As a key member of the Data Operations team, you\u2019ll be tasked with designing, building, and supporting large-scale, distributed data systems that drive our organization\u2019s data infrastructure forward, and power our products and services. Your responsibilities will include managing RDS databases, developing data pipelines, optimizing data storage and retrieval processes, and ensuring the reliability and scalability of our data architecture. You\u2019ll collaborate closely with cross-functional teams to understand data requirements, implement solutions, and troubleshoot issues as they arise. You\u2019ll also play a pivotal role in advocating for and implementing software engineering best practices to ensure the efficiency, maintainability, and robustness of our data systems. This role offers an exciting opportunity to work on cutting-edge technology and contribute to shaping the future of data-driven decision making within our organization. What You\u2019ll Do Identify, analyze, and resolve complex performance and scalability issues Deeply analyze execution plans, indexing strategies, concurrency, locking, and resource utilization Design and implement durable performance improvements across queries, schemas, and workloads Build automation and tooling to detect, diagnose, and remediate database performance issues Partner with application and platform teams to improve database access patterns and system design Establish, document, and enforce database performance best practices Clearly explain complex technical concepts and trade-offs to both technical and non-technical audiences Required Expertise Candidates must demonstrate expert-level (\u201ccan teach a class\u201d) knowledge in all the following: Performance tuning and optimization Transactional ( PostgreSQL, MySQL, Aurora etc.,) Analytical(Redshift, Iceberg etc.,) Query optimizers, execution plans, indexing, statistics, and transaction isolation Designing and supporting database-backed APIs Building automation and tooling to support database performance and reliability Infrastructure as Code using Terraform Leveraging AI to automatically identify bottlenecks Cloud platforms: AWS, including managed database services Performance monitoring, troubleshooting, and tuning in distributed systems CI/CD pipelines and deployment automation Capacity planning, workload modeling, and cost optimization What We\u2019re Looking For A proven track record of improving database performance at scale A keen eye to spot when something isn\u2019t right and the diligence to not stop until its resolved Strong written and verbal communication skills Ability to mentor engineers and influence architecture and design decisions Comfortable operating as a technical authority across teams Responsibilities Lead the design and implementation of data storage and streaming solutions, data architecture, analytics frameworks, governance protocols, and data quality standards. Serve as subject matter expert in database performance, CDC, ETL, scalability, and security Develop and enforce enterprise standards, policies, and procedures Partner with senior leadership to align data architecture with business strategy Lead major modernization, migration, or transformation projects Mentor other technical staff and lead knowledge-sharing efforts Evaluate technology trends and make strategic recommendations Expertise & Knowledge: Typically requires a Bachelor\u2019s degree in Computer Science, Information Systems, or a related field and a minimum of 14 years of related experience; or an advanced degree with 8+ years of experience; or equivalent related work experience Recognized expert in database design, architecture, and optimization Demonstrated leadership in enterprise database strategy and execution Experience with cloud-native and distributed database solutions Strong cross-functional collaboration and communication skills Why You\u2019ll Love Working with Us? - Work with cutting-edge tech in an innovative, collaborative environment. - Competitive salary + good benefits (insurance, annual leave, bonuses, referral rewards, and more). - We\u2019re Great Place to Wo",
-  "department": "Engineering - General",
-  "veto": null,
-  "skill_gaps": [
-   "terraform",
-   "redshift"
-  ],
-  "flags": [
-   "posted 192 days ago"
-  ],
-  "age_days": 192,
-  "location_tier": 4,
-  "location_label": "Bengaluru",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
-  "salary_lpa": null,
-  "match_score": 37,
-  "match_hits": [
-   "data engineer",
-   "postgresql",
-   "real-time",
-   "ci/cd",
-   "edge",
-   "aws"
-  ],
-  "company": "AddStructure",
-  "company_tier": "global",
-  "portal": "lever",
-  "id": "48b4f9ba103b81a2",
-  "first_seen": "2026-09-18T08:23:55.812740+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Senior Platform Engineer",
-  "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Platform-Engineer_R-290928",
-  "posted_at": "Posted Today",
-  "description": "R-290928",
-  "department": "",
-  "veto": null,
-  "skill_gaps": [],
-  "flags": [
-   "thin description"
-  ],
-  "age_days": null,
-  "location_tier": 6,
-  "location_label": "Pune",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
-  "salary_lpa": null,
-  "match_score": 20,
-  "match_hits": [
-   "platform engineer"
-  ],
-  "company": "Mastercard",
-  "company_tier": "india",
-  "portal": "workday",
-  "id": "37b263c06afdbc10",
-  "first_seen": "2026-09-18T08:23:55.812740+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Manager, Software Engineering",
-  "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-284403-1",
-  "posted_at": "Posted Today",
-  "description": "R-284403",
-  "department": "",
-  "veto": null,
-  "skill_gaps": [],
-  "flags": [
-   "thin description"
-  ],
-  "age_days": null,
-  "location_tier": 6,
-  "location_label": "Pune",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
   "salary_lpa": null,
   "match_score": 20,
   "match_hits": [
@@ -122,8 +24,9 @@
   "company": "Mastercard",
   "company_tier": "india",
   "portal": "workday",
-  "id": "2bbe9d351dd109f7",
-  "first_seen": "2026-09-18T08:23:55.812740+00:00",
+  "id": "bbc93e0732bd6c85",
+  "duplicates": 1,
+  "first_seen": "2026-09-19T08:11:32.918207+00:00",
   "is_new": true,
   "days_listed": 0
  }
