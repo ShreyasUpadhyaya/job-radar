@@ -108,10 +108,10 @@
     "source": "unreachable"
   },
   "Aditya Birla Group": {
-    "ats": "custom",
+    "ats": "workable",
     "careers": "https://careers.adityabirla.com/job-search",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "careers",
+    "source": "guessed slug careers, identity checked"
   },
   "Adobe": {
     "ats": "workday",
@@ -199,15 +199,15 @@
   },
   "Aivitex": {
     "ats": "custom",
-    "careers": "https://aivitex.com/careers/",
+    "careers": "https://aivitex.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Alami": {
     "ats": "custom",
     "careers": "https://alamisharia.co.id",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Alliance International": {
     "ats": "custom",
@@ -432,10 +432,10 @@
     "source": "sniffed"
   },
   "Big Cartel": {
-    "ats": "custom",
+    "ats": "recruitee",
     "careers": "https://www.bigcartel.com/company/jobs",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "bigcartel",
+    "source": "sniffed"
   },
   "Bijnis": {
     "ats": "custom",
@@ -679,15 +679,15 @@
   },
   "Codeship": {
     "ats": "custom",
-    "careers": "https://codeship.com",
+    "careers": "https://www.codeship.com/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Codestunts": {
     "ats": "custom",
-    "careers": "https://www.codestunts.com/",
+    "careers": "https://codestunts.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Cofense": {
     "ats": "custom",
@@ -780,10 +780,10 @@
     "source": "custom portal"
   },
   "Coursera": {
-    "ats": "greenhouse",
+    "ats": "custom",
     "careers": "https://www.coursera.org/career-academy/roles/data-scientist",
-    "slug": "coursera",
-    "source": "guessed slug coursera, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Crescendo Global": {
     "ats": "custom",
@@ -829,9 +829,9 @@
   },
   "Cuvette": {
     "ats": "custom",
-    "careers": "https://jobs.cuvette.tech/",
+    "careers": "https://cuvette.tech",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Cyber Whale": {
     "ats": "custom",
@@ -876,10 +876,10 @@
     "source": "custom portal"
   },
   "Dashlane": {
-    "ats": "greenhouse",
+    "ats": "custom",
     "careers": "https://www.dashlane.com/about/careers",
-    "slug": "dashlane",
-    "source": "guessed slug dashlane, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Data Science Brigade": {
     "ats": "custom",
@@ -942,10 +942,10 @@
     "source": "custom portal"
   },
   "Deutsche Bank": {
-    "ats": "custom",
+    "ats": "workable",
     "careers": "https://careers.db.com",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "careers",
+    "source": "guessed slug careers, identity checked"
   },
   "Dev Spotlight": {
     "ats": "custom",
@@ -1087,9 +1087,9 @@
   },
   "Edaify": {
     "ats": "custom",
-    "careers": "https://edaify.com/",
+    "careers": "https://edaify.com/company/jobs",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Edgar": {
     "ats": "custom",
@@ -1584,10 +1584,10 @@
     "source": "unreachable"
   },
   "JPMorgan": {
-    "ats": "custom",
+    "ats": "workable",
     "careers": "https://www.jpmorganchase.com/careers",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "careers",
+    "source": "guessed slug careers, identity checked"
   },
   "Jefferies": {
     "ats": "custom",
@@ -1698,10 +1698,10 @@
     "source": "custom portal"
   },
   "Myntra": {
-    "ats": "custom",
+    "ats": "workable",
     "careers": "https://careers.myntra.com/",
-    "slug": "",
-    "source": "unreachable"
+    "slug": "careers",
+    "source": "guessed slug careers, identity checked"
   },
   "Navi": {
     "ats": "custom",
@@ -1776,10 +1776,10 @@
     "source": "guessed slug placementindia"
   },
   "Policybazaar": {
-    "ats": "custom",
+    "ats": "workable",
     "careers": "https://careers.policybazaar.com/",
-    "slug": "",
-    "source": "unreachable"
+    "slug": "careers",
+    "source": "guessed slug careers, identity checked"
   },
   "Postman": {
     "ats": "greenhouse",
@@ -1806,10 +1806,10 @@
     "source": "pinned"
   },
   "Reliance": {
-    "ats": "custom",
+    "ats": "workable",
     "careers": "https://careers.ril.com/",
-    "slug": "",
-    "source": "unreachable"
+    "slug": "careers",
+    "source": "guessed slug careers, identity checked"
   },
   "Remote": {
     "ats": "greenhouse",
@@ -1830,10 +1830,10 @@
     "source": "unreachable"
   },
   "Salesforce": {
-    "ats": "custom",
+    "ats": "workable",
     "careers": "https://www.salesforce.com/company/careers/jobs/?bc=OTH",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "careers",
+    "source": "guessed slug careers, identity checked"
   },
   "Shiprocket": {
     "ats": "custom",
@@ -1879,9 +1879,9 @@
   },
   "Sutra HR": {
     "ats": "custom",
-    "careers": "https://sutrahr.com/contact-us/",
+    "careers": "https://www.sutrahr.com/",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Swiggy": {
     "ats": "smartrecruiters",
@@ -1969,7 +1969,7 @@
   },
   "WinZO": {
     "ats": "custom",
-    "careers": "https://www.winzogames.com",
+    "careers": "https://play.google.com/store/apps/details?id=com.winzo.platform&hl=en_IN&utm_source=chatgpt.com",
     "slug": "",
     "source": "custom portal"
   },
@@ -2005,9 +2005,9 @@
   },
   "Zapak": {
     "ats": "custom",
-    "careers": "https://www.zapak.com/careers",
+    "careers": "https://www.zapak.com/",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Zapier": {
     "ats": "ashby",
@@ -2016,10 +2016,10 @@
     "source": "pinned"
   },
   "Zerodha": {
-    "ats": "custom",
+    "ats": "workable",
     "careers": "https://careers.zerodha.com",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "careers",
+    "source": "guessed slug careers, identity checked"
   },
   "Zeta": {
     "ats": "lever",

@@ -1,1 +1,179 @@
-[]
+[
+ {
+  "title": "Data Scientist II",
+  "location": "Gurgaon, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Data-Scientist-II_R-290428-1",
+  "posted_at": "Posted Today",
+  "description": "R-290428",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 3,
+  "location_label": "Gurgaon",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
+  "salary_lpa": null,
+  "match_score": 30,
+  "match_hits": [
+   "data scientist"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "266303a4f1c94df4",
+  "first_seen": "2026-09-21T09:21:18.405529+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Data Scientist I",
+  "location": "Bengaluru, in",
+  "url": "https://jobs.smartrecruiters.com/swiggy/postings/6000000001424001",
+  "posted_at": "2026-09-21T08:49:30.073000+00:00",
+  "description": "",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [],
+  "age_days": 0,
+  "location_tier": 4,
+  "location_label": "Bengaluru",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
+  "salary_lpa": null,
+  "match_score": 35,
+  "match_hits": [
+   "data scientist"
+  ],
+  "company": "Swiggy",
+  "company_tier": "india",
+  "portal": "smartrecruiters",
+  "id": "80ee9852241ee415",
+  "first_seen": "2026-09-21T09:21:18.405529+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Data Scientist II",
+  "location": "Bengaluru, in",
+  "url": "https://jobs.smartrecruiters.com/swiggy/postings/6000000001423995",
+  "posted_at": "2026-09-21T08:48:49.916000+00:00",
+  "description": "",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [],
+  "age_days": 0,
+  "location_tier": 4,
+  "location_label": "Bengaluru",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
+  "salary_lpa": null,
+  "match_score": 35,
+  "match_hits": [
+   "data scientist"
+  ],
+  "company": "Swiggy",
+  "company_tier": "india",
+  "portal": "smartrecruiters",
+  "id": "5fe6504789a39e17",
+  "first_seen": "2026-09-21T09:21:18.405529+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Forward Deployed Engineer - II",
+  "location": "Bangalore, Karnataka",
+  "url": "https://jobs.lever.co/meesho/fcceab83-4d26-4ea3-a5bc-b137b7e5ee5a",
+  "posted_at": "2026-04-06T04:39:47.940000+00:00",
+  "description": "About the Team Want to be the engineer who turns our Voice AI platform from a product into a production-grade solution inside a client's business? Then joining us as a Forward Deployed Engineer might be the perfect fit for you! When enterprises trust our voicebot AI to handle thousands of live customer conversations daily, onboarding them right and keeping things running smoothly isn't optional \u2014 it's mission-critical. Our FDE team is the technical backbone of every client relationship, responsible for taking clients from signed contract to successful production deployment and beyond. We operate with a strong ownership mindset. Our team moves fast, communicates clearly, and treats every client deployment like a product launch. We work closely with Product, Infra, Biz and Platform Engineering to ensure what we learn in the field shapes how we build. As a Forward Deployed Engineer, you'll work alongside a sharp, client-obsessed team who thrive on solving real-world problems at the intersection of Voice AI and enterprise operations. We know how to party as hard as we work! When we\u2019re not solving customer problems, you can find us discussing the latest tech trends, sharing our favorite books and games, or simply unwinding over a hot cup of chai. If you want a role where no two days look the same and your work directly impacts how businesses talk to their customers, come join us! About the Role As a Forward Deployed Engineer in our Voice AI team, you will be the primary technical owner for client deployments on our B2B voicebot platform. You'll work directly with clients to understand their requirements, configure and deploy voicebot solutions, build customisations, resolve production issues, and ensure ongoing success- acting as the bridge between our platform's capabilities and the client's business needs. If you're someone who loves owning outcomes end-to-end, this role is built for you.",
+  "department": "AI Services",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "posted 168 days ago"
+  ],
+  "age_days": 168,
+  "location_tier": 4,
+  "location_label": "Bangalore",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "forward deployed"
+  ],
+  "company": "Meesho",
+  "company_tier": "india",
+  "portal": "lever",
+  "id": "8076996d6ba8efbd",
+  "first_seen": "2026-09-21T09:21:18.405529+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Manager, Software Engineering",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-291035",
+  "posted_at": "Posted Today",
+  "description": "R-291035",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "software engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "b13a252b9988df18",
+  "first_seen": "2026-09-21T09:21:18.405529+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Lead Software Engineer",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-288375-1",
+  "posted_at": "Posted Today",
+  "description": "R-288375",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "software engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "88a01cba3c01c971",
+  "duplicates": 1,
+  "first_seen": "2026-09-21T09:21:18.405529+00:00",
+  "is_new": true,
+  "days_listed": 0
+ }
+]
