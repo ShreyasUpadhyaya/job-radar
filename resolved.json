@@ -97,9 +97,9 @@
   },
   "Adeva": {
     "ats": "custom",
-    "careers": "https://adevait.com",
+    "careers": "https://www.toptal.com/adeva",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Adhaan Solutions": {
     "ats": "custom",
@@ -679,7 +679,7 @@
   },
   "Codeship": {
     "ats": "custom",
-    "careers": "https://www.codeship.com/",
+    "careers": "https://www.cloudbees.com/careers",
     "slug": "",
     "source": "custom portal"
   },
@@ -780,10 +780,10 @@
     "source": "custom portal"
   },
   "Coursera": {
-    "ats": "custom",
-    "careers": "https://www.coursera.org/career-academy/roles/data-scientist",
-    "slug": "",
-    "source": "guess failed identity check"
+    "ats": "greenhouse",
+    "careers": "https://careers.coursera.com/homepage",
+    "slug": "coursera",
+    "source": "guessed slug coursera, identity checked"
   },
   "Crescendo Global": {
     "ats": "custom",
@@ -829,9 +829,9 @@
   },
   "Cuvette": {
     "ats": "custom",
-    "careers": "https://cuvette.tech",
+    "careers": "https://jobs.cuvette.tech/login",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Cyber Whale": {
     "ats": "custom",
@@ -876,10 +876,10 @@
     "source": "custom portal"
   },
   "Dashlane": {
-    "ats": "custom",
+    "ats": "greenhouse",
     "careers": "https://www.dashlane.com/about/careers",
-    "slug": "",
-    "source": "guess failed identity check"
+    "slug": "dashlane",
+    "source": "guessed slug dashlane, identity checked"
   },
   "Data Science Brigade": {
     "ats": "custom",
@@ -1027,7 +1027,7 @@
   },
   "DuckDuckGo": {
     "ats": "custom",
-    "careers": "https://duckduckgo.com/hiring",
+    "careers": "https://duckduckgo.com",
     "slug": "",
     "source": "custom portal"
   },
@@ -1087,7 +1087,7 @@
   },
   "Edaify": {
     "ats": "custom",
-    "careers": "https://edaify.com/company/jobs",
+    "careers": "https://careers.edaify.com/",
     "slug": "",
     "source": "custom portal"
   },
@@ -1201,9 +1201,9 @@
   },
   "Etsy": {
     "ats": "custom",
-    "careers": "https://careers.etsy.com",
+    "careers": "https://etsy.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Everis": {
     "ats": "ashby",
@@ -1879,9 +1879,9 @@
   },
   "Sutra HR": {
     "ats": "custom",
-    "careers": "https://www.sutrahr.com/",
+    "careers": "https://sutrahr.com/contact-us/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Swiggy": {
     "ats": "smartrecruiters",
@@ -2005,9 +2005,9 @@
   },
   "Zapak": {
     "ats": "custom",
-    "careers": "https://www.zapak.com/",
+    "careers": "https://www.zapak.com/careers",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Zapier": {
     "ats": "ashby",
