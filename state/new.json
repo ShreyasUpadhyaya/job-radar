@@ -1,136 +1,10 @@
 [
  {
-  "title": "Forward Deployed Engineer",
-  "location": "Bengaluru",
-  "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4739199005",
-  "posted_at": "2026-10-01T06:07:45-04:00",
-  "description": "div class= content-intro p Razorpay is one of India\u2019s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we\u2019ve since grown into a fintech powerhouse driving India\u2019s digital payment revolution. /p p Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. /p p From building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech /p p Across India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that\u2019s redefining how money moves across Asia. /p p Today, that ecosystem supports everyone from early-stage startups to some of India\u2019s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently. /p p Our scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow, Zomato, Swiggy, Lenskart, Mirae Asset Capital markets, Indian Oil, National Pension Scheme - and over 100 of India\u2019s unicorns. With strong roots in India and growing operations in Southeast Asia, we are shaping the next chapter of financial technology across the region. /p p We are backed by global investors including GIC, Peak XV Partners (formerly Sequoia Capital India amp; SEA), Tiger Global, Ribbit Capital, Matrix Partners, MasterCard, and Salesforce Ventures, having raised over $740 million to date. Strategic acquisitions - including Ezetap (POS and offline payments), Curlec (Malaysia expansion), BillMe (digital invoicing), and POP (rewards-first UPI) - along with earlier moves in fraud prevention, payroll, and lending, have further strengthened our platform and widened our footprint across Asia. /p p But what truly sets Razorpay apart is our culture. At Razorpay, ownership is our oxygen - you own what you build, with no micromanagement or red tape, just the runway to make your ideas fly. Learning is a lifestyle - if you\u2019re curious, you\u2019ll feel at home here. People gt; Pedigree - we hire for attitude, hustle, and hunger more than degrees. Transparency thrives over titles - this is where interns question CXOs and CXOs say \u201cthank you.\u201d Guided by our values of Customer First, Autonomy amp; Ownership, Agility with Integrity, Transparency, Challenging the status quo and a strong belief that Razorpay grows with Razors, nbsp; you\u2019ll be part of a 3000+ strong team building not just products, but the financial infrastructure of the future. /p /div h1 strong Forward-Deployed Engineer, Agent Studio /strong /h1 h2 strong About Agent Studio /strong /h2 p Agent Studio helps Razorpay merchants run AI agents across payments, checkout, disputes, subscriptions, reconciliation, risk, and customer workflows. We take the messy, undocumented work merchants do every day and turn it into reliable production agents. /p h2 strong The role /strong /h2 p We&#39;re hiring a strong Forward-Deployed Engineer /strong who is equal parts engineer, solution consultant, and merchant partner \u2014 the single technical owner of the merchant relationship. You&#39;ll sit directly with strategic merchants, run the discovery, find the real constraint behind the ask, design the solution, build the first working version, prove whether it moved the metric, and expand from there. /p p This is a strong deeply customer-facing role. /strong You&#39;ll own the conversation \u2014 not hand it off. You&#39;ll walk into a room where the business owner, the ops lead, and the dashboard all tell different stories, and you&#39;ll be the one who reconciles them into a spec everyone agrees to ship. Then you&#39;ll go build it. You earn the customer&#39;s trust because you can do both \u2014 reshape the ask em and /em write the code. /p p If you like being close to the problem, comfortable in front of customers, em and /em can ship, this is for you. /p h2 strong What you&#39;ll own /strong /h2 p strong Customer discovery amp; the relationship /strong /p ul li Own merchant conversations end-to-end \u2014 discovery calls, workshops, solution reviews, and rollout check-ins. You&#39;re the merchant&#39;s trusted technical advisor. /li li Sit inside merchant workflows long enough to understand the real process, not the documented one. Ask who actually does the work and what happens when it fails. /li li Reconcile conflicting signals across business owners, operators, dashboards, CRM, and ticket queues into a clear problem statement. /li /ul p strong Solution design amp; consulting /strong /p ul li Name the business constraint behind the ask: checkout recovery, dispute win rate, RTO loss, SIP recovery, settlement delay, refund spikes, support load, or cashflow leakage. /li li Convert fuzzy merchant problems into crisp agent specs: success metric, data sources, tool calls, guardrails, human-in-the-loop points, and rollout plan. /li li Decide what the agent does on its own, what it recommends, and where a human must approve. /li li Write the spec clearly enough that product, engineering, legal, and the merchant all agree on what ships. /li /ul p strong Hands-on build amp; integration /strong /p ul li Build prototypes, connectors, MCP tool specs, eval fixtures, dashboards, and the glue code that gets an agent into production. /li li Debug integration failures across Razorpay systems, merchant systems, ex",
-  "department": "Solutions",
-  "veto": null,
-  "skill_gaps": [
-   "go",
-   "salesforce"
-  ],
-  "flags": [
-   "vague culture language"
-  ],
-  "age_days": 0,
-  "location_tier": 4,
-  "location_label": "Bengaluru",
-  "experience_bucket": 1,
-  "experience_note": "Years not stated",
-  "salary_lpa": null,
-  "match_score": 34,
-  "match_hits": [
-   "forward deployed",
-   "guardrails",
-   "real-time",
-   "autonomy"
-  ],
-  "company": "Razorpay",
-  "company_tier": "india",
-  "portal": "greenhouse",
-  "id": "05e22f987a71890d",
-  "first_seen": "2026-10-01T10:19:23.011399+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Lead Data Scientist",
-  "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Data-Scientist_R-291033",
-  "posted_at": "Posted Today",
-  "description": "R-291033",
-  "department": "",
-  "veto": null,
-  "skill_gaps": [],
-  "flags": [
-   "thin description"
-  ],
-  "age_days": null,
-  "location_tier": 6,
-  "location_label": "Pune",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
-  "salary_lpa": null,
-  "match_score": 30,
-  "match_hits": [
-   "data scientist"
-  ],
-  "company": "Mastercard",
-  "company_tier": "india",
-  "portal": "workday",
-  "id": "d98c915ee7612075",
-  "first_seen": "2026-10-01T10:19:23.011399+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Senior Software Engineer (Data Platforms)-1",
-  "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer--Data-Platforms--1_R-292133",
-  "posted_at": "Posted Today",
-  "description": "R-292133",
-  "department": "",
-  "veto": null,
-  "skill_gaps": [],
-  "flags": [
-   "thin description"
-  ],
-  "age_days": null,
-  "location_tier": 6,
-  "location_label": "Pune",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
-  "salary_lpa": null,
-  "match_score": 20,
-  "match_hits": [
-   "software engineer"
-  ],
-  "company": "Mastercard",
-  "company_tier": "india",
-  "portal": "workday",
-  "id": "7dfd158928672766",
-  "first_seen": "2026-10-01T10:19:23.011399+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Senior Software Engineer (Data Platforms)-2",
-  "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer--Data-Platforms--2_R-292134",
-  "posted_at": "Posted Today",
-  "description": "R-292134",
-  "department": "",
-  "veto": null,
-  "skill_gaps": [],
-  "flags": [
-   "thin description"
-  ],
-  "age_days": null,
-  "location_tier": 6,
-  "location_label": "Pune",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
-  "salary_lpa": null,
-  "match_score": 20,
-  "match_hits": [
-   "software engineer"
-  ],
-  "company": "Mastercard",
-  "company_tier": "india",
-  "portal": "workday",
-  "id": "9259d9d85c9f95ef",
-  "first_seen": "2026-10-01T10:19:23.011399+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
   "title": "Lead Software Engineer",
   "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-290199",
-  "posted_at": "Posted Today",
-  "description": "R-290199",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-291096",
+  "posted_at": "Posted Yesterday",
+  "description": "R-291096",
   "department": "",
   "veto": null,
   "skill_gaps": [],
@@ -150,8 +24,8 @@
   "company": "Mastercard",
   "company_tier": "india",
   "portal": "workday",
-  "id": "1f47a085bae82924",
-  "first_seen": "2026-10-01T10:19:23.011399+00:00",
+  "id": "b2a7353e0f0a598f",
+  "first_seen": "2026-10-02T09:56:50.009263+00:00",
   "is_new": true,
   "days_listed": 0
  }

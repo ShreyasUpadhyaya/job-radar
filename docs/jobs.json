@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T10:19:23.011399+00:00",
+ "generated_at": "2026-10-02T09:56:50.009263+00:00",
  "cadence": "daily",
  "companies_checked": 169,
  "companies_total": 347,
@@ -9,12 +9,12 @@
   "Ace Turtle": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Adeva": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Amazon": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Appinventiv": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Appinventiv": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Automattic": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Axelerant": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "BairesDev": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Bijnis": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bitovi": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Bitovi": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Bloc": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/Chegg/jobs'",
   "CashKaro": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Chargebee": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
@@ -64,7 +64,7 @@
   "Shiprocket": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Shopify": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Talent500": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Uber": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Uber": "HTTPStatusError: Server error '502 Bad Gateway' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Udaan": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Urban Company": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "WinZO": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
@@ -76,12 +76,12 @@
   "Zypp Electric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "redBus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'"
  },
- "postings_seen": 4363,
+ "postings_seen": 4368,
  "duplicates_merged": 0,
- "matches": 69,
+ "matches": 63,
  "vetoed": {},
- "new_today": 5,
- "closed_since": 0,
+ "new_today": 1,
+ "closed_since": 4,
  "jobs": [
   {
    "title": "Machine Learning Engineer",
@@ -96,7 +96,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 7,
+   "age_days": 8,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -118,7 +118,7 @@
    "id": "972d24ce152b4464",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer, Security Platform",
@@ -133,7 +133,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 33,
+   "age_days": 34,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -149,7 +149,7 @@
    "id": "486ab52c4ff4a137",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer - Secure Container Images",
@@ -164,7 +164,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 36,
+   "age_days": 37,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -184,7 +184,7 @@
    "id": "210e4fe5a367aeda",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
@@ -198,9 +198,9 @@
     "rust"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -218,7 +218,7 @@
    "id": "5f91dffa74c5f3b2",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Senior Machine Learning Engineer",
@@ -233,7 +233,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 16,
+   "age_days": 17,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -255,7 +255,7 @@
    "id": "897d874ea0f0c95e",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "MLOps Field Engineer",
@@ -271,9 +271,9 @@
     "kubeflow"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -282,12 +282,12 @@
    "match_score": 51,
    "match_hits": [
     "kubernetes",
-    "python",
     "mlflow",
+    "python",
     "mlops",
     "spark",
-    "aws",
-    "sql"
+    "sql",
+    "aws"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -295,7 +295,7 @@
    "id": "89a6bbd45c957422",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Python Engineer",
@@ -311,9 +311,9 @@
     "grpc"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -334,7 +334,7 @@
    "id": "5d24f8c1907d1205",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -350,9 +350,9 @@
     "clickhouse"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -364,8 +364,8 @@
     "kubernetes",
     "airflow",
     "docker",
-    "python",
     "mlflow",
+    "python",
     "aws"
    ],
    "company": "Canonical",
@@ -374,7 +374,7 @@
    "id": "3cd0e0c2f8129887",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer - Python and K8s",
@@ -386,9 +386,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -409,7 +409,7 @@
    "id": "fc7005194a2a0bcf",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -423,7 +423,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 36,
+   "age_days": 37,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -444,7 +444,7 @@
    "id": "71a7fb06055356bb",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer, Cloud - Sustaining Engineering",
@@ -458,9 +458,9 @@
     "go"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -481,7 +481,7 @@
    "id": "6f24a2c795ced861",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer - L3 Support",
@@ -495,9 +495,9 @@
     "go"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -518,7 +518,7 @@
    "id": "b95c5600b7c162ba",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer, Sustaining Engineering",
@@ -532,9 +532,9 @@
     "go"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -555,7 +555,7 @@
    "id": "3fd2583778e05409",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Linux Devices Software Engineer",
@@ -570,9 +570,9 @@
     "rust"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -592,7 +592,7 @@
    "id": "8e35405280dd53e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Go (Golang) Software Engineer, Developer Tooling and Containers",
@@ -607,7 +607,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 38,
+   "age_days": 39,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -627,7 +627,7 @@
    "id": "0eddfe107c2f48f3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
@@ -639,9 +639,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -661,7 +661,7 @@
    "id": "ce1d173b849babb6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -677,7 +677,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 38,
+   "age_days": 39,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -696,7 +696,7 @@
    "id": "6c0d49dc47ba4d4d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Junior Ubuntu Software Engineer",
@@ -711,9 +711,9 @@
     "rust"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -732,7 +732,7 @@
    "id": "52929cfe97d8f85a",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
@@ -747,9 +747,9 @@
     "rust"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -768,7 +768,7 @@
    "id": "ce408466319dc35b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Security Software Engineer",
@@ -786,9 +786,9 @@
     "php"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -807,7 +807,7 @@
    "id": "be1de3b5e41341f4",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer - Solutions Engineering",
@@ -821,9 +821,9 @@
     "golang"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -841,7 +841,7 @@
    "id": "7310719a2be22e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Ubuntu Software Engineer",
@@ -856,9 +856,9 @@
     "rust"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -876,7 +876,7 @@
    "id": "6caffa67411ed0e3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer - App Stores",
@@ -890,9 +890,9 @@
     "golang"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -909,7 +909,7 @@
    "id": "4727884cced45711",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Alliances Field Engineer",
@@ -925,9 +925,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -939,8 +939,8 @@
     "kubernetes",
     "mongodb",
     "python",
-    "kafka",
     "spark",
+    "kafka",
     "edge",
     "aws"
    ],
@@ -950,7 +950,7 @@
    "id": "37cb7a5898f98ab3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Software Engineer, Customer Administration",
@@ -968,7 +968,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 16,
+   "age_days": 17,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -977,13 +977,13 @@
    "match_score": 62,
    "match_hits": [
     "software engineer",
-    "evaluation",
     "guardrails",
+    "evaluation",
     "kubernetes",
     "python",
     "kafka",
-    "aws",
-    "rag"
+    "sql",
+    "aws"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -991,7 +991,7 @@
    "id": "96b5f8fab6f5c3a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Software Engineer, Security Platform",
@@ -1006,7 +1006,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 30,
+   "age_days": 31,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1022,7 +1022,7 @@
    "id": "4a3092df3189ad5c",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Embedded Linux Senior Software Engineer - Optimisation",
@@ -1034,9 +1034,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1055,7 +1055,7 @@
    "id": "8c5234f46a324b14",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Software Engineer",
@@ -1067,7 +1067,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 5,
+   "age_days": 6,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1085,7 +1085,7 @@
    "id": "adf4a0accdb6d334",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Cloud Solutions Architect - Alliances",
@@ -1101,9 +1101,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 56 days ago"
+    "posted 57 days ago"
    ],
-   "age_days": 56,
+   "age_days": 57,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1115,8 +1115,8 @@
     "kubernetes",
     "mongodb",
     "python",
-    "kafka",
     "spark",
+    "kafka",
     "edge",
     "aws"
    ],
@@ -1126,7 +1126,7 @@
    "id": "ae88c5d854f51f22",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Senior Manager, Customer Engineering, India",
@@ -1141,7 +1141,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 26,
+   "age_days": 27,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1151,8 +1151,8 @@
    "match_hits": [
     "python",
     "aws",
-    "rag",
-    "llm"
+    "llm",
+    "rag"
    ],
    "company": "Cloudflare",
    "company_tier": "global",
@@ -1160,7 +1160,7 @@
    "id": "d3c66252e1b773a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "AI Specialist II",
@@ -1178,7 +1178,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 0,
@@ -1188,12 +1188,12 @@
    "match_hits": [
     "hugging face",
     "fine-tuning",
-    "evaluation",
-    "guardrails",
     "embeddings",
+    "guardrails",
+    "evaluation",
     "langgraph",
     "langchain",
-    "python"
+    "vector"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1204,46 +1204,11 @@
    "days_listed": 3
   },
   {
-   "title": "AI Engineer",
-   "location": "Remote, Bangalore",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002",
-   "posted_at": "2026-09-29T10:38:50-04:00",
-   "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h2 strong An overview of this role /strong /h2 p As an AI Engineer at GitLab, you&#39;ll help build the foundation for GitLab&#39;s transformation into an AI-first company. Reporting to the Director, Enterprise AI, you&#39;ll be a hands-on technical leader responsible for delivering internal AI-powered solutions that drive measurable business outcomes. /p p Building fast matters, but it&#39;s not enough on its own. This role starts with understanding the real problem: mapping how work moves across teams, tools, and handoffs, identifying the true constraint, and validating whether AI is the right solution before you begin development. From there, you&#39;ll take ownership from discovery through deployment, combining strong engineering skills with systems thinking and business understanding. /p p Your initial focus will span Sales, Marketing, and Customer Support, where you will embed AI solutions into key systems and workflows. This role offers the opportunity to shape how GitLab team members work, improve flow across the organization, and help advance our mission in a remote, asynchronous, and values-driven environment. /p h2 strong What you&#39;ll do /strong /h2 ul li Diagnose business problems before building solutions. Map workflows, identify constraints, and confirm whether AI is the right intervention. Be prepared to say this doesn&#39;t need AI when that&#39;s the honest answer. /li li Own AI initiatives end-to-end, from stakeholder discovery and technical design through implementation, deployment, and iteration. /li li Design, develop, and ship AI-powered solutions quickly, delivering working prototypes in days, not months, with a focus on practical outcomes and measurable business value. /li li Improve organizational flow by building solutions that reduce bottlenecks, shorten lead times, and increase throughput. Measure success using flow metrics alongside adoption and ROI. /li li Integrate AI capabilities into existing systems and workflows using APIs, orchestration tools, and modern AI platforms, including GitLab Duo Agent Platform, where appropriate. The right tool wins, whether that&#39;s custom code, a platform, or a well-crafted prompt. /li li Be Customer Zero: leverage and showcase GitLab&#39;s AI offerings wherever possible, feeding real-world usage insights back to R amp;D. /li li Partner closely with stakeholders across functions to understand the real constraints. Ask the right questions, bridge technical and non-technical perspectives, and align on outcomes before jumping to solutions. /li li Define and track success through business metrics, flow metrics, and feedback loops that make performance visible and actionable. /li li Contribute to technical direction by evaluating tools, documenting patterns, and creating reusable foundations that help the team scale its impact. /li /ul h2 strong What you&#39;ll bring /strong /h2 ul li strong A Technologist at Heart - nbsp; /strong Genuinely invested in technology, the foundational and the cutting-edge in equal measure. You&#39;re as energised by a well-designed API integration as you are by the latest foundation model release. You reach for the simplest solution that solves the problem well, rather than forcing new technology when proven approaches would do. AI is a powerful part of your toolkit, but it sits on top of solid engineering fundamentals, not in place of them. /li li strong Competent, Confident Coding Skills - nbsp; /strong You can build working solutions end-to-end, write clean and maintainable code, and debug effectively. Whether your skills were honed in a traditional engineering role, through building automations, or shipping side projects, what matters is that you can deliver production-quality work independently. /li li strong AI /strong strong nbsp; amp; LLM nbsp; /strong strong Technical Depth - nbsp; /strong Strong proficiency in at least one modern scripting language (Python, JavaScript/TypeScript, or similar) and a solid understanding of REST APIs, GraphQL, and integration patterns. Deep, practical experience with modern AI technologies, specifically: nbsp;Prompt engineering as a core discipline: designing effective system prompts, managing context windows, structuring multi-turn interactions, evaluating output quality, and iterating systematically on prompt design. /li li strong Model selection and cost-performance trade-offs: nbsp; /strong understanding when a smaller fine-tuned model outperforms a general-purpose large one, when RAG is the right architecture",
-   "department": "Enterprise Applications",
-   "veto": null,
-   "skill_gaps": [
-    "graphql"
-   ],
-   "flags": [],
-   "age_days": 1,
-   "location_tier": 4,
-   "location_label": "Bangalore / Remote",
-   "experience_bucket": 1,
-   "experience_note": "Years not stated",
-   "salary_lpa": null,
-   "match_score": 55,
-   "match_hits": [
-    "ai engineer",
-    "typescript",
-    "python",
-    "edge",
-    "rag",
-    "llm"
-   ],
-   "company": "GitLab",
-   "company_tier": "global",
-   "portal": "greenhouse",
-   "id": "e69c6f59f433ec54",
-   "first_seen": "2026-09-07T09:50:21.309043+00:00",
-   "is_new": false,
-   "days_listed": 24
-  },
-  {
    "title": "Senior Software Engineer, Backend & Infrastructure",
    "location": "India",
    "url": "https://job-boards.greenhouse.io/coursera/jobs/6126490004",
    "posted_at": "2026-09-28T02:38:44-04:00",
-   "description": "div class= content-intro p strong About Coursera + Udemy /strong /p p Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world\u2019s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our nbsp; a href= https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/ target= _blank blog /a . /p p strong Why join us now? /strong /p p AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them. /p p strong Shape what comes next /strong /p p By joining our team, you\u2019ll have the opportunity to reshape how the world learns and applies skills\u2014and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale. /p /div p strong Job Overview /strong /p p As a nbsp; strong Senior Software Engineer /strong , you will join a fast-paced innovation team at Coursera working on strong AI enablement for our organization and customers /strong . As an internal focus area, this team builds and maintains the infrastructure amp; tooling required to drive meaningful AI adoption across the organization, providing a platform for non-technical team members to build and deploy tools and transforming entire business functions into AI-native operating models. As a customer-facing focus area, this team builds custom AI-powered solutions for our enterprise customers supporting them in their journey of AI adoption and upskilling beyond just the content on our platforms. /p p You will have the opportunity to work on complex technical challenges, and influence the future roadmap, growth and success of Coursera&#39;s AI culture. You will work closely with a cross functional team of Software Engineers, AI Specialists and Tech Innovation Strategists - leading architecture, owning technical decisions and ensuring end-to-end delivery throughout the SDLC. /p p strong Key Responsibilities /strong /p ul li Build, scale and maintain the infrastructure and platform required to deliver production-grade agentic AI solutions /li li Lead architecture and technical design while ensuring high availability, reliability and scalability in our systems /li li Analyze customer requirements, understand enterprise data landscape and ensure data privacy and residency compliance factors in our engineering framework /li li Collaborate closely with Product Managers and Tech Innovation Strategists to scope out problem statements and narrow down requirements with a laser focus on impact delivered to customers and stakeholders /li li Set a high standard of excellence for engineering culture and developer experience in the team by leading code reviews, mentoring junior engineers and building stronger processes /li li Participate in sprint planning, technical grooming, and retrospective discussions /li /ul p strong Basic Qualifications /strong /p ul li 5+ years of experience in a software engineering role - with a strong background in backend engineering and cloud infrastructure /li li 1+ years of experience building production-grade agentic AI solutions /li li Proficiency in backend languages such as Python, Java, Node.js or Go and technologies such as Docker, Kubernetes and Kafka /li li Strong experience in implementing APIs, working with SQL and NoSQL databases and writing E2E automated tests /li li Deep understanding of cloud platforms (AWS, GCP, or Azure), able to work with self-hosted as well as managed services /li li Expertise in infrastructure as code tools like Terraform and CI/CD solutions such as GitHub Actions or Jenkins /li li Fervent belief in engineering quality and building technical leverage for others /li li Prior experience in leading projects and debugging complex issues with minimal supervision /li /ul p strong Preferred Qualifications /strong /p ul li Experience with modern evolving technologies on agentic AI such as RAG, MCP, LangGraph, LangFuse, etc. /li li Demonstrated ability to work in a fast-paced and dynamic environment, and navigate through ambiguity and uncertainty with confidence /li li Proven track record of delivering results in a resource-constrained environment with limited guidance and supervision /li li Excellent communication skills, ability to collaborate with cross-functional teams with a proactive mindset /li /ul p strong Why Join Us? /strong /p ul li Solve real-world challenges that drive real impact across Coursera\u2019s business functions and enterprise customers /li li Work with a supportive and innovative team with a drive for continuous learning amp; improvement /li li Become a go-to technical leader in the team and shape the internal developer experience /li li Be part of a mission-driven company transforming global access to education and upskilling in the AI era /li /ul div class= content-conclusion p For more information about how Coursera collects and uses your personal information, please see our u a href= https://files.clinchtalent.com/1d7f2c0f91ebf75d580f56447fa54859/2acb24eb91f1e23b90ac9e9285de5aaf/Coursera%20and%20Udemy%20Global%20Applicant%20Privacy%20Notice.pdf target= _blank Coursera + Udemy Global Applicant Privacy Notice /a /u u . /u /p p To protect against recruitment fraud, Coursera + Udemy recruiters only communicate via official coursera.org/udemy.com email addresses and never through personal accounts. We do not accept resumes via email or social media; p",
+   "description": "div class= content-intro p strong About Coursera + Udemy /strong /p p Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world\u2019s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our nbsp; a href= https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/ target= _blank blog /a . /p p strong Why join us now? /strong /p p AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them. /p p strong Shape what comes next /strong /p p By joining our team, you\u2019ll have the opportunity to reshape how the world learns and applies skills\u2014and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale. /p /div p strong Job Overview /strong /p p As a nbsp; strong Senior Software Engineer /strong , you will join a fast-paced innovation team at Coursera working on strong AI enablement for our organization and customers /strong . As an internal focus area, this team builds and maintains the infrastructure amp; tooling required to drive meaningful AI adoption across the organization, providing a platform for non-technical team members to build and deploy tools and transforming entire business functions into AI-native operating models. As a customer-facing focus area, this team builds custom AI-powered solutions for our enterprise customers supporting them in their journey of AI adoption and upskilling beyond just the content on our platforms. /p p You will have the opportunity to work on complex technical challenges, and influence the future roadmap, growth and success of Coursera&#39;s AI culture. You will work closely with a cross functional team of Software Engineers, AI Specialists and Tech Innovation Strategists - leading architecture, owning technical decisions and ensuring end-to-end delivery throughout the SDLC. /p p strong Key Responsibilities /strong /p ul li Build, scale and maintain the infrastructure and platform required to deliver production-grade agentic AI solutions /li li Lead architecture and technical design while ensuring high availability, reliability and scalability in our systems /li li Analyze customer requirements, understand enterprise data landscape and ensure data privacy and residency compliance factors in our engineering framework /li li Collaborate closely with Product Managers and Tech Innovation Strategists to scope out problem statements and narrow down requirements with a laser focus on impact delivered to customers and stakeholders /li li Set a high standard of excellence for engineering culture and developer experience in the team by leading code reviews, mentoring junior engineers and building stronger processes /li li Participate in sprint planning, technical grooming, and retrospective discussions /li /ul p strong Basic Qualifications /strong /p ul li 5+ years of experience in a software engineering role - with a strong background in backend engineering and cloud infrastructure /li li 1+ years of experience building production-grade agentic AI solutions /li li Proficiency in backend languages such as Python, Java, Node.js or Go and technologies such as Docker, Kubernetes and Kafka /li li Strong experience in implementing APIs, working with SQL and NoSQL databases and writing E2E automated tests /li li Deep understanding of cloud platforms (AWS, GCP, or Azure), able to work with self-hosted as well as managed services /li li Expertise in infrastructure as code tools like Terraform and CI/CD solutions such as GitHub Actions or Jenkins /li li Fervent belief in engineering quality and building technical leverage for others /li li Prior experience in leading projects and debugging complex issues with minimal supervision /li /ul p strong Preferred Qualifications /strong /p ul li Experience with modern evolving technologies on agentic AI such as RAG, MCP, LangGraph, LangFuse, etc. /li li Demonstrated ability to work in a fast-paced and dynamic environment, and navigate through ambiguity and uncertainty with confidence /li li Proven track record of delivering results in a resource-constrained environment with limited guidance and supervision /li li Excellent communication skills, ability to collaborate with cross-functional teams with a proactive mindset /li /ul p strong Why Join Us? /strong /p ul li Solve real-world challenges that drive real impact across Coursera\u2019s business functions and enterprise customers /li li Work with a supportive and innovative team with a drive for continuous learning amp; improvement /li li Become a go-to technical leader in the team and shape the internal developer experience /li li Be part of a mission-driven company transforming global access to education and upskilling in the AI era /li /ul div class= content-conclusion p For more information about how Coursera collects and uses your personal information, please see our u a href= https://files.clinchtalent.com/1d7f2c0f91ebf75d580f56447fa54859/2acb24eb91f1e23b90ac9e9285de5aaf/Global%20Applicant%20Privacy%20Notice.pdf target= _blank Coursera + Udemy Global Applicant Privacy Notice /a /u u . /u /p p To protect against recruitment fraud, Coursera + Udemy recruiters only communicate via official coursera.org/udemy.com email addresses and never through personal accounts. We do not accept resumes via email or social media; please submit all applicat",
    "department": "Scaled Services",
    "veto": null,
    "skill_gaps": [
@@ -1253,7 +1218,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 1,
@@ -1266,9 +1231,9 @@
     "langgraph",
     "docker",
     "python",
-    "kafka",
     "ci/cd",
-    "aws"
+    "kafka",
+    "sql"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1293,7 +1258,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1314,7 +1279,7 @@
    "id": "c82729b762e9099f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Data Scientist III",
@@ -1326,7 +1291,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 21,
+   "age_days": 22,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1342,43 +1307,37 @@
    "id": "d00b14376087c4b5",
    "first_seen": "2026-09-11T08:34:56.630756+00:00",
    "is_new": false,
-   "days_listed": 20
+   "days_listed": 21
   },
   {
-   "title": "Forward Deployed Engineer",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4739199005",
-   "posted_at": "2026-10-01T06:07:45-04:00",
-   "description": "div class= content-intro p Razorpay is one of India\u2019s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we\u2019ve since grown into a fintech powerhouse driving India\u2019s digital payment revolution. /p p Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. /p p From building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech /p p Across India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that\u2019s redefining how money moves across Asia. /p p Today, that ecosystem supports everyone from early-stage startups to some of India\u2019s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently. /p p Our scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow, Zomato, Swiggy, Lenskart, Mirae Asset Capital markets, Indian Oil, National Pension Scheme - and over 100 of India\u2019s unicorns. With strong roots in India and growing operations in Southeast Asia, we are shaping the next chapter of financial technology across the region. /p p We are backed by global investors including GIC, Peak XV Partners (formerly Sequoia Capital India amp; SEA), Tiger Global, Ribbit Capital, Matrix Partners, MasterCard, and Salesforce Ventures, having raised over $740 million to date. Strategic acquisitions - including Ezetap (POS and offline payments), Curlec (Malaysia expansion), BillMe (digital invoicing), and POP (rewards-first UPI) - along with earlier moves in fraud prevention, payroll, and lending, have further strengthened our platform and widened our footprint across Asia. /p p But what truly sets Razorpay apart is our culture. At Razorpay, ownership is our oxygen - you own what you build, with no micromanagement or red tape, just the runway to make your ideas fly. Learning is a lifestyle - if you\u2019re curious, you\u2019ll feel at home here. People gt; Pedigree - we hire for attitude, hustle, and hunger more than degrees. Transparency thrives over titles - this is where interns question CXOs and CXOs say \u201cthank you.\u201d Guided by our values of Customer First, Autonomy amp; Ownership, Agility with Integrity, Transparency, Challenging the status quo and a strong belief that Razorpay grows with Razors, nbsp; you\u2019ll be part of a 3000+ strong team building not just products, but the financial infrastructure of the future. /p /div h1 strong Forward-Deployed Engineer, Agent Studio /strong /h1 h2 strong About Agent Studio /strong /h2 p Agent Studio helps Razorpay merchants run AI agents across payments, checkout, disputes, subscriptions, reconciliation, risk, and customer workflows. We take the messy, undocumented work merchants do every day and turn it into reliable production agents. /p h2 strong The role /strong /h2 p We&#39;re hiring a strong Forward-Deployed Engineer /strong who is equal parts engineer, solution consultant, and merchant partner \u2014 the single technical owner of the merchant relationship. You&#39;ll sit directly with strategic merchants, run the discovery, find the real constraint behind the ask, design the solution, build the first working version, prove whether it moved the metric, and expand from there. /p p This is a strong deeply customer-facing role. /strong You&#39;ll own the conversation \u2014 not hand it off. You&#39;ll walk into a room where the business owner, the ops lead, and the dashboard all tell different stories, and you&#39;ll be the one who reconciles them into a spec everyone agrees to ship. Then you&#39;ll go build it. You earn the customer&#39;s trust because you can do both \u2014 reshape the ask em and /em write the code. /p p If you like being close to the problem, comfortable in front of customers, em and /em can ship, this is for you. /p h2 strong What you&#39;ll own /strong /h2 p strong Customer discovery amp; the relationship /strong /p ul li Own merchant conversations end-to-end \u2014 discovery calls, workshops, solution reviews, and rollout check-ins. You&#39;re the merchant&#39;s trusted technical advisor. /li li Sit inside merchant workflows long enough to understand the real process, not the documented one. Ask who actually does the work and what happens when it fails. /li li Reconcile conflicting signals across business owners, operators, dashboards, CRM, and ticket queues into a clear problem statement. /li /ul p strong Solution design amp; consulting /strong /p ul li Name the business constraint behind the ask: checkout recovery, dispute win rate, RTO loss, SIP recovery, settlement delay, refund spikes, support load, or cashflow leakage. /li li Convert fuzzy merchant problems into crisp agent specs: success metric, data sources, tool calls, guardrails, human-in-the-loop points, and rollout plan. /li li Decide what the agent does on its own, what it recommends, and where a human must approve. /li li Write the spec clearly enough that product, engineering, legal, and the merchant all agree on what ships. /li /ul p strong Hands-on build amp; integration /strong /p ul li Build prototypes, connectors, MCP tool specs, eval fixtures, dashboards, and the glue code that gets an agent into production. /li li Debug integration failures across Razorpay systems, merchant systems, ex",
-   "department": "Solutions",
+   "title": "Machine Learning Engineer 3",
+   "location": "Bangalore",
+   "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R171493-1",
+   "posted_at": "Posted 14 Days Ago",
+   "description": "R171493",
+   "department": "",
    "veto": null,
-   "skill_gaps": [
-    "go",
-    "salesforce"
-   ],
+   "skill_gaps": [],
    "flags": [
-    "vague culture language"
+    "thin description"
    ],
-   "age_days": 0,
+   "age_days": null,
    "location_tier": 4,
-   "location_label": "Bengaluru",
+   "location_label": "Bangalore",
    "experience_bucket": 1,
    "experience_note": "Years not stated",
    "salary_lpa": null,
-   "match_score": 34,
+   "match_score": 30,
    "match_hits": [
-    "forward deployed",
-    "guardrails",
-    "real-time",
-    "autonomy"
+    "machine learning engineer"
    ],
-   "company": "Razorpay",
+   "company": "Adobe",
    "company_tier": "india",
-   "portal": "greenhouse",
-   "id": "05e22f987a71890d",
-   "first_seen": "2026-10-01T10:19:23.011399+00:00",
-   "is_new": true,
-   "days_listed": 0
+   "portal": "workday",
+   "id": "2c9aa0bba273851d",
+   "first_seen": "2026-09-07T09:50:21.309043+00:00",
+   "is_new": false,
+   "days_listed": 25
   },
   {
    "title": "Data Scientist III",
@@ -1390,9 +1349,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 1056 days ago"
+    "posted 1057 days ago"
    ],
-   "age_days": 1056,
+   "age_days": 1057,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1408,13 +1367,13 @@
    "id": "59e8dcd0b3f7e4e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Platform Engineer - Kubernetes",
    "location": "Bangalore, India",
    "url": "https://jobs.elastic.co/jobs",
-   "posted_at": "2026-09-29T04:39:57-04:00",
+   "posted_at": "2026-10-01T12:57:36-04:00",
    "description": "div class= content-intro p Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. /p /div h3 strong What is The Role /strong /h3 p span data-offset-key= bb4ua-0-0 span data-text= true The role will be tasked with developing and maintaining our Application Hosting Infrastructure on Kubernetes in GCP. /span /span span data-offset-key= 72duc-0-0 span data-text= true As a Platform Engineer, you will play a critical role in developing and maintaining our core application infrastructure that supports our business operations. You\u2019ll be part of a small, focused team that prioritizes automation and security while engineering a robust platform for hosting internal applications. This position offers the chance to work with the latest technologies in an AI-forward environment, allowing you to contribute to impactful projects that drive our growth. /span /span /p h3 strong What You Will Be Doing /strong /h3 ul li class= public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR data-block= true data-editor= ao49b data-offset-key= uoob-0-0 div class= public-DraftStyleDefault-block public-DraftStyleDefault-ltr data-offset-key= uoob-0-0 span data-offset-key= uoob-0-0 span data-text= true Design scalable infrastructure solutions that meet the demands of our core applications. Implement infrastructure as code practices to automate and streamline processes. Monitor system performance, optimize resources, and integrate cloud services while troubleshooting and resolving any infrastructure issues that arise. /span /span /div /li li class= public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR data-block= true data-editor= ao49b data-offset-key= 8opcn-0-0 div class= public-DraftStyleDefault-block public-DraftStyleDefault-ltr data-offset-key= 8opcn-0-0 span data-offset-key= 8opcn-0-0 span data-text= true Implement CI/CD pipelines to streamline the software development lifecycle. Design and develop scalable build systems to ensure applications are delivered quickly and proficiently, matching the pace of business needs. /span /span /div /li li class= public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR data-block= true data-editor= ao49b data-offset-key= 2i67-0-0 div class= public-DraftStyleDefault-block public-DraftStyleDefault-ltr data-offset-key= 2i67-0-0 span data-offset-key= 2i67-0-0 span data-text= true Ensure compliance with security regulations and best practices to protect application infrastructure. Collaborate with Infosec and other engineering teams to implement effective incident response and CVE remediation processes. /span /span /div /li li class= public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR data-block= true data-editor= ao49b data-offset-key= bcref-0-0 div class= public-DraftStyleDefault-block public-DraftStyleDefault-ltr data-offset-key= bcref-0-0 span data-offset-key= bcref-0-0 span data-text= true Collaborate with cross-functional teams to gather requirements for platform improvements. Provide technical support and guidance to internal users of the platform. Facilitate knowledge sharing sessions to educate team members on platform features and best practices. /span /span /div /li li class= public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR data-block= true data-editor= ao49b data-offset-key= c8ak2-0-0 div class= public-DraftStyleDefault-block public-DraftStyleDefault-ltr data-offset-key= c8ak2-0-0 span data-offset-key= c8ak2-0-0 span data-text= true Analyze cloud spending patterns to ensure cost optimization and implement financial governance policies for cloud resources. Identify opportunities for cost savings while enhancing operational efficiency. Regularly assess application usage to eliminate unused resources and maintain a proficient environment. /span /span /div /li /ul h3 What You Bring nbsp; /h3 ul li Bachelor&#39;s degree in Computer Science or equivalent experience /li li 5+ years with infrastructure as code tools like Terraform or Crossplane /li li 5+ years with cloud service providers like AWS, Azure, or Google Cloud /li li Kubernetes and Cloud Native Associate or equivalent certification /li li Knowledge of service mesh architectures such as Istio or Linkerd /li li Hands-on experience with cloud security practices and tools /li li Experience with cost management tools for cloud infrastructure /li li Led cross-functional initiatives that improved platform usability and performance based on user feedback /li li Experience with Elasticsearch is a plus /li /ul h3 nbsp; /h3 div class= content-conclusion h2 strong Additional Information - We Take Care of Our People /strong /h2 p As a distributed company, diversity drives our identity. Whether you\u2019re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn\u2019t matter if you\u2019re just out of college or your children are; we need you for what you can do. /p p We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do. /p ul li Competitive pay based on the wor",
    "department": "IT",
    "veto": null,
@@ -1424,7 +1383,7 @@
     "elasticsearch"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1443,7 +1402,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Software Engineer, Backend",
@@ -1455,9 +1414,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 3016 days ago"
+    "posted 3017 days ago"
    ],
-   "age_days": 3016,
+   "age_days": 3017,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1473,7 +1432,7 @@
    "id": "5fad81823b936e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Intermediate Backend Engineer - Database Change Management",
@@ -1487,7 +1446,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1504,7 +1463,7 @@
    "id": "68a37d4aea017c85",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Senior Security Engineer - Corporate Security",
@@ -1519,9 +1478,9 @@
     "terraform"
    ],
    "flags": [
-    "posted 68 days ago"
+    "posted 69 days ago"
    ],
-   "age_days": 68,
+   "age_days": 69,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 1,
@@ -1541,7 +1500,7 @@
    "id": "fc466e8bf371439b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "BXTI - VP - Software Engineer",
@@ -1571,7 +1530,7 @@
    "id": "e25df3d27706b691",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Senior Software Engineer, Applied AI and Customer Solutions",
@@ -1586,7 +1545,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 9,
+   "age_days": 10,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1601,7 +1560,7 @@
     "langgraph",
     "langchain",
     "docker",
-    "python"
+    "duckdb"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1609,7 +1568,7 @@
    "id": "12a27588e9c0dff0",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -1621,7 +1580,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 5,
+   "age_days": 6,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1629,14 +1588,14 @@
    "salary_lpa": null,
    "match_score": 66,
    "match_hits": [
-    "ai engineer",
     "multi-agent",
-    "evaluation",
-    "guardrails",
+    "ai engineer",
     "embeddings",
-    "python",
+    "guardrails",
+    "evaluation",
     "vector",
-    "rag"
+    "python",
+    "llm"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -1644,7 +1603,7 @@
    "id": "4bc261e756fa0fc6",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 6
+   "days_listed": 7
   },
   {
    "title": "Lead Gen-AI Engineer",
@@ -1656,7 +1615,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1668,8 +1627,8 @@
     "evaluation",
     "vector",
     "ci/cd",
-    "rag",
-    "llm"
+    "llm",
+    "rag"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1677,7 +1636,7 @@
    "id": "cc9cd6cb8715e76b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Field Chief Technology Officer (Field CTO)",
@@ -1692,7 +1651,7 @@
     "ray"
    ],
    "flags": [],
-   "age_days": 41,
+   "age_days": 42,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1715,7 +1674,7 @@
    "id": "e73ffdf1e4f2f9f8",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Data Engineering (Kafka, Data Streaming)",
@@ -1730,9 +1689,9 @@
     "flink"
    ],
    "flags": [
-    "posted 206 days ago"
+    "posted 207 days ago"
    ],
-   "age_days": 206,
+   "age_days": 207,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1754,7 +1713,7 @@
    "id": "48b4f9ba103b81a2",
    "first_seen": "2026-09-18T08:23:55.812740+00:00",
    "is_new": false,
-   "days_listed": 13
+   "days_listed": 14
   },
   {
    "title": "Staff Software Engineer (Java, Streaming, Backend, Kafka)",
@@ -1771,9 +1730,9 @@
     "flink"
    ],
    "flags": [
-    "posted 258 days ago"
+    "posted 259 days ago"
    ],
-   "age_days": 258,
+   "age_days": 259,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1795,13 +1754,13 @@
    "id": "ef87228163bcbf8b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Consulting Architect - Search",
    "location": "India",
    "url": "https://jobs.elastic.co/jobs",
-   "posted_at": "2026-09-10T20:07:01-04:00",
+   "posted_at": "2026-10-01T12:57:36-04:00",
    "description": "div class= content-intro p Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. /p /div h3 strong What is the Role /strong /h3 p We are seeking an exceptional and highly experienced nbsp; strong Consulting Architect /strong to join our Global Capability Center. This senior role is critical to the success of our global customers, focusing on the strategic design and hands-on implementation of the Elastic Stack with focus on Search AI. /p p You will serve as a trusted technical architect and consultant, working with complex enterprise environments to translate business challenges into robust, scalable, and value-driven Elastic solutions. The role requires a blend of deep technical expertise, senior-level consulting acumen, and the ability to work effectively across time zones, with both remote support and required on-site client engagement. /p h3 strong What You Will Be Doing /strong /h3 p As a member of our professional services team you will deliver Elastic solutions and Elastic stack expertise to drive customer business value from our products. Work with clients to facilitate strategy, roadmap, design, and sizing in workshops. You will apply your soft skills to advocate for your customers, build relationships and exhibit strong communications skills. Comfortability working remotely or on-site in a highly distributed team. Your activities will include end-to-end delivery of ground-breaking Elastic projects to our customers, as well as development of proof-of-concepts that highlight the value of the Elastic Stack and its solutions. Other topics will include Elastic solutions adaption and acceleration along with data modeling, query development and optimization, cluster tuning and scaling with a focus on fast search and analytics at scale. /p p Daily tasks include driving and handling the objectives, requirements gathering, project tasks, project status, dependencies, and timelines, to ensure engagements are delivered optimally and on time while meeting and exceeding the customer objectives. Your goal is to make your customers love Elastic and achieve amazing value from the platform! /p p Work across teams with engineering, product management, and support teams to identify feature improvements, extensions, and product defects. Facilitate feedback from the field back to the product. Engage with the Elastic Sales team to scope opportunities while assessing technical risks, questions, or concerns. Be a mentor to your team members, while also learning from them to accelerate your skills /p h3 strong What You Bring /strong /h3 p strong Essential Qualifications /strong /p ul li strong Elastic Certification: /strong strong Required /strong \u2013 Active strong Elastic Certified Engineer /strong certification is mandatory. /li li strong Experience: /strong Minimum of 7+ strong years /strong as a Consulting Architect, Senior Technical Consultant, or equivalent senior IT functional role. /li li strong Consulting History: /strong A strong history of working as a Consultant delivering professional services engagements in complex enterprise environments. /li li strong Domain Expertise: /strong Proven experience in deploying solutions using Elastic core domain: strong Enterprise Search /strong . /li li Experience in solving complex technical search problems in terms of relevancy, scaling, performance fine-tuning, building a platform to handle high query throughputs and indexing throughput, benchmarking clusters to achieve optimal performance. /li li Experience in leading and delivering Enterprise Search projects at both the architectural and program level. /li li Experience in strong GenAI /strong , strong Retrieval Augmented Generation (RAG) and vector embeddings. /strong /li li Deep understanding of distributed architecture including application, database and systems. /li li strong Cloud amp; Infrastructure: /strong Hands-on experience with on-prem systems and/or major public/private cloud platforms (AWS, Azure, GCP). /li li strong Technical Depth: /strong Hands-on experience in Linux, networking, security, containerization (Docker/Kubernetes), and infrastructure automation. /li li strong Programming/Scripting: /strong Experience utilizing programming or scripting languages in a corporate environment (e.g., Python, Javascript, Go). /li li strong Communication: /strong Exceptional customer advocacy, relationship-building, and soft skills including whiteboarding and driving architectural conversations. Proven ability to lead and articulate technical solutions to stakeholders. /li li strong Travel: /strong Ability and willingness to travel to client sites periodically as required for project success strong (up to 20%) nbsp; /strong /li li strong Work Style: /strong Comfortable working effectively in a highly distributed and remote team, spanning multiple global time zones. /li li BS or Master&#39;s degree in Computer Science or a related technical field. /li /ul h3 strong Bonus Points /strong /h3 ul li Familiarity/Experience in implementing similar products in Search Domain(Solr, Algolia, Open Search) /li li Any cloud service provider&#39;s - Gen AI certification. /li li Additional Elastic Certifications (e.g., Elastic Certified Analyst, Specializations) and/or specialization in machine learning, data analytics. /li li Experience working closely with a pre-sales organization in scoping customer needs and delivering against a Statement of Wor",
    "department": "Consulting - Global - COE",
    "veto": null,
@@ -1810,7 +1769,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 20,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1822,10 +1781,10 @@
     "embeddings",
     "kubernetes",
     "docker",
-    "python",
     "vector",
-    "rag",
-    "aws"
+    "python",
+    "aws",
+    "rag"
    ],
    "company": "Elastic",
    "company_tier": "global",
@@ -1833,7 +1792,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Senior Product Manager, Applied AI",
@@ -1845,7 +1804,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1853,8 +1812,8 @@
    "salary_lpa": null,
    "match_score": 36,
    "match_hits": [
-    "evaluation",
-    "applied ai"
+    "applied ai",
+    "evaluation"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1862,7 +1821,7 @@
    "id": "8b47ba910500b266",
    "first_seen": "2026-09-30T09:51:42.693508+00:00",
    "is_new": false,
-   "days_listed": 1
+   "days_listed": 2
   },
   {
    "title": "Senior Data Engineer",
@@ -1878,9 +1837,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 231 days ago"
+    "posted 232 days ago"
    ],
-   "age_days": 231,
+   "age_days": 232,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1891,8 +1850,8 @@
     "data engineer",
     "python",
     "ci/cd",
-    "aws",
-    "sql"
+    "sql",
+    "aws"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1900,7 +1859,7 @@
    "id": "e060dee28bc45c7f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Data Scientist",
@@ -1912,7 +1871,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 24,
+   "age_days": 25,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1928,7 +1887,7 @@
    "id": "3ac25d6f30698055",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Field Architect ",
@@ -1942,7 +1901,7 @@
     "databricks"
    ],
    "flags": [],
-   "age_days": 20,
+   "age_days": 21,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1950,8 +1909,8 @@
    "salary_lpa": null,
    "match_score": 34,
    "match_hits": [
-    "evaluation",
     "tensorflow",
+    "evaluation",
     "kubernetes",
     "inference",
     "pytorch",
@@ -1965,7 +1924,7 @@
    "id": "706cbf44d771a761",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Backend Engineer, India",
@@ -1980,7 +1939,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1999,7 +1958,7 @@
    "id": "e96ab9eb11c4998d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Software Engineer - NLP",
@@ -2013,7 +1972,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2032,7 +1991,7 @@
    "id": "bbd8c5c7295ca73b",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 7
+   "days_listed": 8
   },
   {
    "title": "Senior Backend Engineer, India",
@@ -2046,7 +2005,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2055,8 +2014,8 @@
    "match_score": 30,
    "match_hits": [
     "backend engineer",
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "autonomy"
    ],
    "company": "GitLab",
@@ -2065,7 +2024,7 @@
    "id": "724d0e430d5eac9f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Frontend Engineer",
@@ -2079,7 +2038,7 @@
     "graphql"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2087,11 +2046,11 @@
    "salary_lpa": null,
    "match_score": 27,
    "match_hits": [
-    "evaluation",
     "postgresql",
-    "guardrails",
-    "kubernetes",
     "typescript",
+    "guardrails",
+    "evaluation",
+    "kubernetes",
     "docker",
     "react"
    ],
@@ -2101,7 +2060,7 @@
    "id": "41373ffd9ec44d47",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 7
+   "days_listed": 8
   },
   {
    "title": "Senior Backend Engineer",
@@ -2115,7 +2074,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -2133,7 +2092,7 @@
    "id": "f9fbc28db130acad",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Backend Engineer - Database Change Management",
@@ -2147,7 +2106,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2164,7 +2123,7 @@
    "id": "8c09fa349342b8ad",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Staff Software Engineer",
@@ -2194,7 +2153,7 @@
    "id": "f69ced5c435247a0",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -2206,7 +2165,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 5,
+   "age_days": 6,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2214,14 +2173,14 @@
    "salary_lpa": null,
    "match_score": 66,
    "match_hits": [
-    "ai engineer",
     "multi-agent",
-    "evaluation",
-    "guardrails",
+    "ai engineer",
     "embeddings",
-    "python",
+    "guardrails",
+    "evaluation",
     "vector",
-    "rag"
+    "python",
+    "llm"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -2229,7 +2188,7 @@
    "id": "b12da8b27b841f15",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 6
+   "days_listed": 7
   },
   {
    "title": "Lead Software Engineer - Site Reliability",
@@ -2241,7 +2200,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 6,
+   "age_days": 7,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2257,7 +2216,7 @@
    "id": "51f08f6bb890441a",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 6
+   "days_listed": 7
   },
   {
    "title": "Lead Software Engineer - Full Stack",
@@ -2269,9 +2228,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 79 days ago"
+    "posted 80 days ago"
    ],
-   "age_days": 79,
+   "age_days": 80,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2287,104 +2246,14 @@
    "id": "99eba567d0eb0c37",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 24
-  },
-  {
-   "title": "Lead Data Scientist",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Data-Scientist_R-291033",
-   "posted_at": "Posted Today",
-   "description": "R-291033",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 30,
-   "match_hits": [
-    "data scientist"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "d98c915ee7612075",
-   "first_seen": "2026-10-01T10:19:23.011399+00:00",
-   "is_new": true,
-   "days_listed": 0
-  },
-  {
-   "title": "Senior Software Engineer (Data Platforms)-1",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer--Data-Platforms--1_R-292133",
-   "posted_at": "Posted Today",
-   "description": "R-292133",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 20,
-   "match_hits": [
-    "software engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "7dfd158928672766",
-   "first_seen": "2026-10-01T10:19:23.011399+00:00",
-   "is_new": true,
-   "days_listed": 0
-  },
-  {
-   "title": "Senior Software Engineer (Data Platforms)-2",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer--Data-Platforms--2_R-292134",
-   "posted_at": "Posted Today",
-   "description": "R-292134",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 20,
-   "match_hits": [
-    "software engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "9259d9d85c9f95ef",
-   "first_seen": "2026-10-01T10:19:23.011399+00:00",
-   "is_new": true,
-   "days_listed": 0
+   "days_listed": 25
   },
   {
    "title": "Lead Software Engineer",
    "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-290199",
-   "posted_at": "Posted Today",
-   "description": "R-290199",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-291096",
+   "posted_at": "Posted Yesterday",
+   "description": "R-291096",
    "department": "",
    "veto": null,
    "skill_gaps": [],
@@ -2404,70 +2273,10 @@
    "company": "Mastercard",
    "company_tier": "india",
    "portal": "workday",
-   "id": "1f47a085bae82924",
-   "first_seen": "2026-10-01T10:19:23.011399+00:00",
+   "id": "b2a7353e0f0a598f",
+   "first_seen": "2026-10-02T09:56:50.009263+00:00",
    "is_new": true,
    "days_listed": 0
-  },
-  {
-   "title": "Lead Data Engineer (Data Platforms)",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Data-Engineer--Data-Platforms-_R-291105",
-   "posted_at": "Posted Today",
-   "description": "R-291105",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 20,
-   "match_hits": [
-    "data engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "e0315ae50dbca526",
-   "first_seen": "2026-09-23T08:44:03.301385+00:00",
-   "is_new": false,
-   "days_listed": 8
-  },
-  {
-   "title": "Senior Software Engineer",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-288605",
-   "posted_at": "Posted Today",
-   "description": "R-288605",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 20,
-   "match_hits": [
-    "software engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "34d615490c2faeb6",
-   "first_seen": "2026-09-12T07:54:50.707704+00:00",
-   "is_new": false,
-   "days_listed": 19
   }
  ]
 }
