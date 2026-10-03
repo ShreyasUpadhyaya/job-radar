@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T09:56:50.009263+00:00",
+ "generated_at": "2026-10-03T09:18:32.441156+00:00",
  "cadence": "daily",
  "companies_checked": 169,
  "companies_total": 347,
@@ -39,6 +39,7 @@
   "DroneDeploy": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Droom": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "DuckDuckGo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "EBSCO Information Services": "HTTPStatusError: Client error '405 Not Allowed' for url 'https://careers-ebscoind.icims.com/jobs/search?ss=1&searchRelation=keyword_all&in_iframe=1'",
   "EPAM": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EarthOfDrones": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EaseMyTrip": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
@@ -64,7 +65,7 @@
   "Shiprocket": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Shopify": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Talent500": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Uber": "HTTPStatusError: Server error '502 Bad Gateway' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Uber": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Udaan": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Urban Company": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "WinZO": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
@@ -76,12 +77,12 @@
   "Zypp Electric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "redBus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'"
  },
- "postings_seen": 4368,
+ "postings_seen": 4380,
  "duplicates_merged": 0,
- "matches": 63,
+ "matches": 62,
  "vetoed": {},
- "new_today": 1,
- "closed_since": 4,
+ "new_today": 0,
+ "closed_since": 2,
  "jobs": [
   {
    "title": "Machine Learning Engineer",
@@ -96,7 +97,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 8,
+   "age_days": 9,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -133,7 +134,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 34,
+   "age_days": 35,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -164,7 +165,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 37,
+   "age_days": 38,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -198,9 +199,9 @@
     "rust"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -233,7 +234,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -271,9 +272,9 @@
     "kubeflow"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -284,10 +285,10 @@
     "kubernetes",
     "mlflow",
     "python",
-    "mlops",
     "spark",
-    "sql",
-    "aws"
+    "mlops",
+    "aws",
+    "sql"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -311,9 +312,9 @@
     "grpc"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -325,8 +326,8 @@
     "kubernetes",
     "docker",
     "edge",
-    "sql",
-    "c++"
+    "c++",
+    "sql"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -350,9 +351,9 @@
     "clickhouse"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -363,8 +364,8 @@
     "software engineer",
     "kubernetes",
     "airflow",
-    "docker",
     "mlflow",
+    "docker",
     "python",
     "aws"
    ],
@@ -386,9 +387,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -423,7 +424,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 37,
+   "age_days": 38,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -458,9 +459,9 @@
     "go"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -495,9 +496,9 @@
     "go"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -532,9 +533,9 @@
     "go"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -570,9 +571,9 @@
     "rust"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -607,7 +608,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 39,
+   "age_days": 40,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -639,9 +640,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -677,7 +678,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 39,
+   "age_days": 40,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -711,9 +712,9 @@
     "rust"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -747,9 +748,9 @@
     "rust"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -786,9 +787,9 @@
     "php"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -821,9 +822,9 @@
     "golang"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -856,9 +857,9 @@
     "rust"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -890,9 +891,9 @@
     "golang"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -925,9 +926,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -935,12 +936,12 @@
    "salary_lpa": null,
    "match_score": 25,
    "match_hits": [
-    "postgresql",
     "kubernetes",
+    "postgresql",
     "mongodb",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -968,7 +969,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -982,8 +983,8 @@
     "kubernetes",
     "python",
     "kafka",
-    "sql",
-    "aws"
+    "aws",
+    "rag"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -1006,7 +1007,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 31,
+   "age_days": 32,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1034,9 +1035,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1067,7 +1068,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 6,
+   "age_days": 7,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1101,9 +1102,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 57 days ago"
+    "posted 58 days ago"
    ],
-   "age_days": 57,
+   "age_days": 58,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1111,12 +1112,12 @@
    "salary_lpa": null,
    "match_score": 25,
    "match_hits": [
-    "postgresql",
     "kubernetes",
+    "postgresql",
     "mongodb",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -1132,7 +1133,7 @@
    "title": "Senior Manager, Customer Engineering, India",
    "location": "Remote India",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8020043",
-   "posted_at": "2026-09-04T10:59:17-04:00",
+   "posted_at": "2026-10-02T14:24:13-04:00",
    "description": "div class= content-intro h3 About Us /h3 p At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company. /p p At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a normalized problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in. /p /div h2 Available Locations /h2 ul li Remote, India /li /ul h2 Responsibilities /h2 ul li Lead the technical customer-facing organization in India, reporting into APAC Customer Engineering leadership, and is accountable for building a high-performing, AI-augmented technical go-to-market team that drives new business, adoption, retention, and expansion. /li li This role is both a people leadership role and a commercial technical leadership role. It is designed for a leader who can coach customer-facing technologists, shape regional technical strategy, and partner closely with sales, product, and customer success to deliver measurable business outcomes. /li li Lead and develop the India Customer Engineering team across enterprise and strategic accounts. Act as a player-coach: maintain strong individual technical contribution while enabling the team. /li li Serve as the point of reference for the team on complex customer architecture, escalations, and solution design. /li li Own regional technical strategy for discovery, demos, architecture design, PoCs, onboarding support, QBRs, renewal support, and expansion plays. /li li Partner with Account Executives to drive technical validation and help close new business. /li li Keep workloads balanced, support onboarding of new team members, and ensure the team is set up for success. /li li Conduct regular 1:1s, provide constructive feedback, and coach team members on discovery, solution architecture, executive communication, and business-value translation. /li li Build and run the operating cadence for pipeline inspection, technical deal support, adoption reviews, and account expansion planning. /li li Hire, retain, and develop top CE talent; build succession plans and bench strength. /li li Facilitate cross-team coordination with Sales, Product, Engineering, and Customer Support to resolve issues quickly and keep customers moving. /li li Surface regional feedback, product gaps, and competitive insight to product and engineering. Represent Cloudflare in executive customer meetings, regional events, and partner discussions. /li /ul h2 Desirable Skills, Knowledge, and Experience /h2 ul li Demonstrated experience in customer-facing technical roles such as Solutions Engineering, Customer Engineering, Sales Engineering, or Forward Deployed Engineering. /li li Demonstrated people leadership experience, including second-line leadership, hiring, coaching, and performance management. /li li Experience working with enterprise customers in India or APAC. /li li Strong technical breadth across security, networking, cloud infrastructure, enterprise architecture, and developer platforms. /li li Proven commercial mindset with experience in quota-carrying or revenue-aligned motions. Strong executive presence and ability to bridge technical depth with business outcomes. Comfort working in a fast-moving, AI-enabled operating model. /li li Experience with hyperscaler ecosystems or cybersecurity vendors. /li li Hands-on experience with Cloudflare&#39;s developer stack, especially Workers AI and AI Gateway. Applied AI experience, including prompt engineering, LLM orchestration, or RAG. /li li Coding/scripting fluency in Python, JavaScript, or similar languages. /li li Relevant certifications such as AWS, Azure, GCP, Palo Alto, ISC2, or ISACA. /li /ul div class= content-conclusion h3 What Makes Cloudflare Special? /h3 p span style= font-weight: 400; We\u2019re not just a highly ambitious, large-scale technology company. We\u2019re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet. /span /p p a href= https://blog.cloudflare.com/protecting-free-expression-online/ strong Project Galileo /strong /a span style= font-weight: 400; : Since 2014, we&#39;ve equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare\u2019s enterprise customers--at no cost. /span /p p strong a href= https://www.cloudflare.com/athenian/ Athenian Project /a /strong span style= font-weight: 400; : In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election i",
    "department": "Solution Engineering",
    "veto": null,
@@ -1141,7 +1142,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 27,
+   "age_days": 0,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1178,7 +1179,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 4,
+   "age_days": 5,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 0,
@@ -1189,8 +1190,8 @@
     "hugging face",
     "fine-tuning",
     "embeddings",
-    "guardrails",
     "evaluation",
+    "guardrails",
     "langgraph",
     "langchain",
     "vector"
@@ -1201,7 +1202,7 @@
    "id": "699aab2948cd6bf1",
    "first_seen": "2026-09-28T10:11:54.544028+00:00",
    "is_new": false,
-   "days_listed": 3
+   "days_listed": 4
   },
   {
    "title": "Senior Software Engineer, Backend & Infrastructure",
@@ -1218,7 +1219,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 4,
+   "age_days": 5,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 1,
@@ -1231,9 +1232,9 @@
     "langgraph",
     "docker",
     "python",
-    "ci/cd",
     "kafka",
-    "sql"
+    "ci/cd",
+    "aws"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1241,7 +1242,7 @@
    "id": "c27c9c21e427fd5e",
    "first_seen": "2026-09-28T10:11:54.544028+00:00",
    "is_new": false,
-   "days_listed": 3
+   "days_listed": 4
   },
   {
    "title": "Intermediate Backend Engineer, India",
@@ -1258,7 +1259,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1267,8 +1268,8 @@
    "match_score": 36,
    "match_hits": [
     "backend engineer",
-    "postgresql",
     "kubernetes",
+    "postgresql",
     "autonomy",
     "docker",
     "ci/cd"
@@ -1291,7 +1292,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 22,
+   "age_days": 23,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1307,13 +1308,13 @@
    "id": "d00b14376087c4b5",
    "first_seen": "2026-09-11T08:34:56.630756+00:00",
    "is_new": false,
-   "days_listed": 21
+   "days_listed": 22
   },
   {
    "title": "Machine Learning Engineer 3",
    "location": "Bangalore",
    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R171493-1",
-   "posted_at": "Posted 14 Days Ago",
+   "posted_at": "Posted 15 Days Ago",
    "description": "R171493",
    "department": "",
    "veto": null,
@@ -1349,9 +1350,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 1057 days ago"
+    "posted 1058 days ago"
    ],
-   "age_days": 1057,
+   "age_days": 1058,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1383,7 +1384,7 @@
     "elasticsearch"
    ],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1414,9 +1415,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 3017 days ago"
+    "posted 3018 days ago"
    ],
-   "age_days": 3017,
+   "age_days": 3018,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1446,7 +1447,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1478,9 +1479,9 @@
     "terraform"
    ],
    "flags": [
-    "posted 69 days ago"
+    "posted 70 days ago"
    ],
-   "age_days": 69,
+   "age_days": 70,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 1,
@@ -1545,7 +1546,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1554,13 +1555,13 @@
    "match_score": 69,
    "match_hits": [
     "software engineer",
-    "applied ai",
     "typescript",
+    "applied ai",
     "kubernetes",
     "langgraph",
     "langchain",
-    "docker",
-    "duckdb"
+    "duckdb",
+    "docker"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1580,7 +1581,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 6,
+   "age_days": 7,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1591,11 +1592,11 @@
     "multi-agent",
     "ai engineer",
     "embeddings",
-    "guardrails",
     "evaluation",
+    "guardrails",
     "vector",
     "python",
-    "llm"
+    "rag"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -1603,7 +1604,7 @@
    "id": "4bc261e756fa0fc6",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 7
+   "days_listed": 8
   },
   {
    "title": "Lead Gen-AI Engineer",
@@ -1615,7 +1616,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1627,8 +1628,8 @@
     "evaluation",
     "vector",
     "ci/cd",
-    "llm",
-    "rag"
+    "rag",
+    "llm"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1651,7 +1652,7 @@
     "ray"
    ],
    "flags": [],
-   "age_days": 42,
+   "age_days": 43,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1689,9 +1690,9 @@
     "flink"
    ],
    "flags": [
-    "posted 207 days ago"
+    "posted 208 days ago"
    ],
-   "age_days": 207,
+   "age_days": 208,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1713,7 +1714,7 @@
    "id": "48b4f9ba103b81a2",
    "first_seen": "2026-09-18T08:23:55.812740+00:00",
    "is_new": false,
-   "days_listed": 14
+   "days_listed": 15
   },
   {
    "title": "Staff Software Engineer (Java, Streaming, Backend, Kafka)",
@@ -1730,9 +1731,9 @@
     "flink"
    ],
    "flags": [
-    "posted 259 days ago"
+    "posted 260 days ago"
    ],
-   "age_days": 259,
+   "age_days": 260,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1769,7 +1770,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1780,8 +1781,8 @@
     "fine-tuning",
     "embeddings",
     "kubernetes",
-    "docker",
     "vector",
+    "docker",
     "python",
     "aws",
     "rag"
@@ -1804,7 +1805,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1812,8 +1813,8 @@
    "salary_lpa": null,
    "match_score": 36,
    "match_hits": [
-    "applied ai",
-    "evaluation"
+    "evaluation",
+    "applied ai"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1837,9 +1838,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 232 days ago"
+    "posted 233 days ago"
    ],
-   "age_days": 232,
+   "age_days": 233,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1850,8 +1851,8 @@
     "data engineer",
     "python",
     "ci/cd",
-    "sql",
-    "aws"
+    "aws",
+    "sql"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1871,7 +1872,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 25,
+   "age_days": 26,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1901,7 +1902,7 @@
     "databricks"
    ],
    "flags": [],
-   "age_days": 21,
+   "age_days": 22,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1909,8 +1910,8 @@
    "salary_lpa": null,
    "match_score": 34,
    "match_hits": [
-    "tensorflow",
     "evaluation",
+    "tensorflow",
     "kubernetes",
     "inference",
     "pytorch",
@@ -1939,7 +1940,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1972,7 +1973,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1991,7 +1992,7 @@
    "id": "bbd8c5c7295ca73b",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 8
+   "days_listed": 9
   },
   {
    "title": "Senior Backend Engineer, India",
@@ -2005,7 +2006,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2038,7 +2039,7 @@
     "graphql"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2046,11 +2047,11 @@
    "salary_lpa": null,
    "match_score": 27,
    "match_hits": [
-    "postgresql",
     "typescript",
-    "guardrails",
     "evaluation",
     "kubernetes",
+    "guardrails",
+    "postgresql",
     "docker",
     "react"
    ],
@@ -2060,7 +2061,7 @@
    "id": "41373ffd9ec44d47",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 8
+   "days_listed": 9
   },
   {
    "title": "Senior Backend Engineer",
@@ -2074,7 +2075,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -2106,7 +2107,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2165,7 +2166,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 6,
+   "age_days": 7,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2176,11 +2177,11 @@
     "multi-agent",
     "ai engineer",
     "embeddings",
-    "guardrails",
     "evaluation",
+    "guardrails",
     "vector",
     "python",
-    "llm"
+    "rag"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -2188,7 +2189,7 @@
    "id": "b12da8b27b841f15",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 7
+   "days_listed": 8
   },
   {
    "title": "Lead Software Engineer - Site Reliability",
@@ -2200,7 +2201,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 7,
+   "age_days": 8,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2216,7 +2217,7 @@
    "id": "51f08f6bb890441a",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 7
+   "days_listed": 8
   },
   {
    "title": "Lead Software Engineer - Full Stack",
@@ -2228,9 +2229,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 80 days ago"
+    "posted 81 days ago"
    ],
-   "age_days": 80,
+   "age_days": 81,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2247,36 +2248,6 @@
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
    "days_listed": 25
-  },
-  {
-   "title": "Lead Software Engineer",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-291096",
-   "posted_at": "Posted Yesterday",
-   "description": "R-291096",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 20,
-   "match_hits": [
-    "software engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "b2a7353e0f0a598f",
-   "first_seen": "2026-10-02T09:56:50.009263+00:00",
-   "is_new": true,
-   "days_listed": 0
   }
  ]
 }
