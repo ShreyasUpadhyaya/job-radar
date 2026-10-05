@@ -6,10 +6,10 @@
     "source": "custom portal"
   },
   "15Five": {
-    "ats": "custom",
+    "ats": "lever",
     "careers": "https://www.15five.com/about/careers",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "15five",
+    "source": "guessed slug 15five, identity checked"
   },
   "17hats": {
     "ats": "custom",
@@ -97,21 +97,21 @@
   },
   "Adeva": {
     "ats": "custom",
-    "careers": "https://www.toptal.com/adeva",
-    "slug": "",
-    "source": "custom portal"
-  },
-  "Adhaan Solutions": {
-    "ats": "custom",
-    "careers": "https://www.adhaan.com/",
+    "careers": "https://adevait.com",
     "slug": "",
     "source": "unreachable"
   },
+  "Adhaan Solutions": {
+    "ats": "custom",
+    "careers": "https://www.hugedomains.com/domain_profile.cfm?d=adhaan.com",
+    "slug": "",
+    "source": "custom portal"
+  },
   "Aditya Birla Group": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://careers.adityabirla.com/job-search",
-    "slug": "careers",
-    "source": "guessed slug careers, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Adobe": {
     "ats": "workday",
@@ -205,9 +205,9 @@
   },
   "Alami": {
     "ats": "custom",
-    "careers": "https://alamisharia.co.id",
+    "careers": "https://alamisharia.co.id/karir/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Alliance International": {
     "ats": "custom",
@@ -439,7 +439,7 @@
   },
   "Bijnis": {
     "ats": "custom",
-    "careers": "https://www.bijnis.com/careers",
+    "careers": "https://www.bijnis.com/jobs-opening",
     "slug": "",
     "source": "custom portal"
   },
@@ -523,7 +523,7 @@
   },
   "CVS Health": {
     "ats": "custom",
-    "careers": "https://jobs.cvshealth.com/us/en",
+    "careers": "https://jobs.cvshealth.com/us/en/home",
     "slug": "",
     "source": "custom portal"
   },
@@ -732,10 +732,10 @@
     "source": "custom portal"
   },
   "Connexa": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://www.connexa.com/",
-    "slug": "connexa",
-    "source": "guessed slug connexa, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Continu": {
     "ats": "custom",
@@ -942,16 +942,16 @@
     "source": "custom portal"
   },
   "Deutsche Bank": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://careers.db.com",
-    "slug": "careers",
-    "source": "guessed slug careers, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Dev Spotlight": {
     "ats": "custom",
-    "careers": "https://devspotlight.com",
+    "careers": "https://www.devspotlight.com/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Devsquad": {
     "ats": "custom",
@@ -1027,7 +1027,7 @@
   },
   "DuckDuckGo": {
     "ats": "custom",
-    "careers": "https://duckduckgo.com",
+    "careers": "https://duckduckgo.com/hiring",
     "slug": "",
     "source": "custom portal"
   },
@@ -1165,9 +1165,9 @@
   },
   "Episource": {
     "ats": "custom",
-    "careers": "https://business.optum.com/en/operations-technology/risk-adjustment.html",
+    "careers": "https://episource.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Equal Experts": {
     "ats": "greenhouse",
@@ -1201,9 +1201,9 @@
   },
   "Etsy": {
     "ats": "custom",
-    "careers": "https://etsy.com",
+    "careers": "https://careers.etsy.com",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Everis": {
     "ats": "ashby",
@@ -1255,7 +1255,7 @@
   },
   "FactorialHR": {
     "ats": "custom",
-    "careers": "https://factorialhr.com",
+    "careers": "https://careers.factorialhr.com/",
     "slug": "",
     "source": "custom portal"
   },
@@ -1584,10 +1584,10 @@
     "source": "unreachable"
   },
   "JPMorgan": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://www.jpmorganchase.com/careers",
-    "slug": "careers",
-    "source": "guessed slug careers, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Jefferies": {
     "ats": "custom",
@@ -1698,10 +1698,10 @@
     "source": "custom portal"
   },
   "Myntra": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://careers.myntra.com/",
-    "slug": "careers",
-    "source": "guessed slug careers, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Navi": {
     "ats": "custom",
@@ -1776,10 +1776,10 @@
     "source": "guessed slug placementindia"
   },
   "Policybazaar": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://careers.policybazaar.com/",
-    "slug": "careers",
-    "source": "guessed slug careers, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Postman": {
     "ats": "greenhouse",
@@ -1806,10 +1806,10 @@
     "source": "pinned"
   },
   "Reliance": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://careers.ril.com/",
-    "slug": "careers",
-    "source": "guessed slug careers, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Remote": {
     "ats": "greenhouse",
@@ -1830,10 +1830,10 @@
     "source": "unreachable"
   },
   "Salesforce": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://www.salesforce.com/company/careers/jobs/?bc=OTH",
-    "slug": "careers",
-    "source": "guessed slug careers, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Shiprocket": {
     "ats": "custom",
@@ -2016,10 +2016,10 @@
     "source": "pinned"
   },
   "Zerodha": {
-    "ats": "workable",
+    "ats": "custom",
     "careers": "https://careers.zerodha.com",
-    "slug": "careers",
-    "source": "guessed slug careers, identity checked"
+    "slug": "",
+    "source": "guess failed identity check"
   },
   "Zeta": {
     "ats": "lever",
