@@ -1,10 +1,10 @@
 [
  {
-  "title": "Software Engineer II",
+  "title": "Data Scientist I",
   "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-291169-1",
-  "posted_at": "Posted Today",
-  "description": "R-291169",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Data-Scientist-I_R-278159",
+  "posted_at": "Posted Yesterday",
+  "description": "R-278159",
   "department": "",
   "veto": null,
   "skill_gaps": [],
@@ -17,24 +17,24 @@
   "experience_bucket": 1,
   "experience_note": "Years not stated",
   "salary_lpa": null,
-  "match_score": 20,
+  "match_score": 30,
   "match_hits": [
-   "software engineer"
+   "data scientist"
   ],
   "company": "Mastercard",
   "company_tier": "india",
   "portal": "workday",
-  "id": "3a3d1e6e34782a31",
-  "first_seen": "2026-10-09T10:46:06.179384+00:00",
+  "id": "407547ab4fbd773b",
+  "first_seen": "2026-10-10T10:01:41.021989+00:00",
   "is_new": true,
   "days_listed": 0
  },
  {
-  "title": "Lead Platform Engineer",
+  "title": "Lead Software Engineer",
   "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Platform-Engineer_R-289809",
-  "posted_at": "Posted Today",
-  "description": "R-289809",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-287556-1",
+  "posted_at": "Posted Yesterday",
+  "description": "R-287556",
   "department": "",
   "veto": null,
   "skill_gaps": [],
@@ -49,13 +49,13 @@
   "salary_lpa": null,
   "match_score": 20,
   "match_hits": [
-   "platform engineer"
+   "software engineer"
   ],
   "company": "Mastercard",
   "company_tier": "india",
   "portal": "workday",
-  "id": "18b54e91e01d67e9",
-  "first_seen": "2026-10-09T10:46:06.179384+00:00",
+  "id": "f14a73448ad3c739",
+  "first_seen": "2026-10-10T10:01:41.021989+00:00",
   "is_new": true,
   "days_listed": 0
  }
