@@ -1,10 +1,40 @@
 [
  {
-  "title": "Software Engineer I-1",
+  "title": "Data Scientist II",
+  "location": "Gurgaon, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Data-Scientist-II_R-290428-1",
+  "posted_at": "Posted Today",
+  "description": "R-290428",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 3,
+  "location_label": "Gurgaon",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
+  "salary_lpa": null,
+  "match_score": 30,
+  "match_hits": [
+   "data scientist"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "266303a4f1c94df4",
+  "first_seen": "2026-10-19T09:18:34.215231+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Software Engineer II",
   "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1",
-  "posted_at": "Posted 2 Days Ago",
-  "description": "R-293576",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-289618",
+  "posted_at": "Posted Today",
+  "description": "R-289618",
   "department": "",
   "veto": null,
   "skill_gaps": [],
@@ -24,38 +54,8 @@
   "company": "Mastercard",
   "company_tier": "india",
   "portal": "workday",
-  "id": "901f2134c4ec686c",
-  "first_seen": "2026-10-18T08:12:30.028940+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Lead Software Engineer",
-  "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-293570-1",
-  "posted_at": "Posted 2 Days Ago",
-  "description": "R-293570",
-  "department": "",
-  "veto": null,
-  "skill_gaps": [],
-  "flags": [
-   "thin description"
-  ],
-  "age_days": null,
-  "location_tier": 6,
-  "location_label": "Pune",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
-  "salary_lpa": null,
-  "match_score": 20,
-  "match_hits": [
-   "software engineer"
-  ],
-  "company": "Mastercard",
-  "company_tier": "india",
-  "portal": "workday",
-  "id": "d4025f061785ee02",
-  "first_seen": "2026-10-18T08:12:30.028940+00:00",
+  "id": "1bd12fa12f89cbd5",
+  "first_seen": "2026-10-19T09:18:34.215231+00:00",
   "is_new": true,
   "days_listed": 0
  }

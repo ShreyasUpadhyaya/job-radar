@@ -205,9 +205,9 @@
   },
   "Alami": {
     "ats": "custom",
-    "careers": "https://alamisharia.co.id",
+    "careers": "https://alamisharia.co.id/karir/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Alliance International": {
     "ats": "custom",
@@ -348,10 +348,10 @@
     "source": "custom portal"
   },
   "Bandzoogle": {
-    "ats": "custom",
+    "ats": "greenhouse",
     "careers": "https://bandzoogle.com/jobs",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "bandzoogle",
+    "source": "guessed slug bandzoogle, identity checked"
   },
   "Bank of America": {
     "ats": "workday",
@@ -397,9 +397,9 @@
   },
   "Best Practical": {
     "ats": "custom",
-    "careers": "https://bestpractical.com",
+    "careers": "https://requesttracker.com/careers/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "BetaPeak": {
     "ats": "custom",
@@ -589,7 +589,7 @@
   },
   "Circonus": {
     "ats": "custom",
-    "careers": "https://www.apica.io",
+    "careers": "https://login.circonus.com/?whereTo=https://careers.circonus.com%2F",
     "slug": "",
     "source": "custom portal"
   },
@@ -751,9 +751,9 @@
   },
   "Convert": {
     "ats": "custom",
-    "careers": "https://www.convert.com/jobs/",
+    "careers": "https://convert.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Coodesh": {
     "ats": "custom",
@@ -763,9 +763,9 @@
   },
   "Core-Apps": {
     "ats": "custom",
-    "careers": "https://momentivesoftware.com/solutions/event-management-software/?utm_source=Core-Apps&utm_medium=website&utm_campaign=Migration+Engagement&utm_term=Resources",
+    "careers": "https://core-apps.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "CoreOS": {
     "ats": "custom",
@@ -937,7 +937,7 @@
   },
   "Deskpass": {
     "ats": "custom",
-    "careers": "https://app.notion.com/p/Job-Board-6f8b61dd5e9140e0b7ac1dbead58f083",
+    "careers": "https://app.notion.com/p/Job-Board-6f8b61dd5e9140e0b7ac1dbead58f083?__dm_a=1",
     "slug": "",
     "source": "custom portal"
   },
@@ -1561,9 +1561,9 @@
   },
   "Head Field Solutions": {
     "ats": "custom",
-    "careers": "https://www.headfield.com/",
+    "careers": "https://headfield.com/careers/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Heidrick & Struggles India": {
     "ats": "workday",
@@ -1837,9 +1837,9 @@
   },
   "Shiprocket": {
     "ats": "custom",
-    "careers": "https://careers.shiprocket.in/",
+    "careers": "https://www.shiprocket.in/careers/",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Shopify": {
     "ats": "custom",
@@ -2065,9 +2065,9 @@
   },
   "boAt": {
     "ats": "custom",
-    "careers": "https://www.boat-lifestyle.com",
+    "careers": "https://www.boat-lifestyle.com/pages/careers",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "eFishery": {
     "ats": "custom",
