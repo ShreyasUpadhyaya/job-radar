@@ -1,110 +1,31 @@
 [
  {
-  "title": "Senior Software Engineer, AI Evaluation Infrastructure",
-  "location": "Global - Remote",
-  "url": "https://job-boards.greenhouse.io/turing/jobs/6225409004",
-  "posted_at": "2026-10-19T16:22:17-04:00",
-  "description": "div class= content-intro h1 span style= font-family: helvetica, arial, sans-serif; strong span style= font-size: 24pt; About Turing /span /strong /span /h1 p span id= m_-1033525666082252048m_-8288224233410703305gmail-docs-internal-guid-39386146-7fff-394b-7c89-9e58d80485b6 Turing\u2019s mission is to accelerate superintelligence to drive real economic progress. Headquartered in San Francisco, Turing works with frontier AI labs to generate high-quality datasets, reinforcement learning environments, and frontier research benchmarks that improve model capabilities in software engineering, enterprise knowledge work, and advanced STEM reasoning. In software engineering, Turing is the largest and longest-running data provider in the category. Turing also works with Fortune 500 enterprises across financial services, life sciences, healthcare, retail, automotive, and CPG to build and deploy end-to-end agentic AI systems inside mission-critical workflows. By operating on both sides, Turing closes the loop between frontier research and enterprise deployment, turning real-world deployment signals into better data, evaluations, and more capable models. Learn more at a href= http://www.turing.com/ target= _blank data-saferedirecturl= https://www.google.com/url?q=http://www.turing.com amp;source=gmail amp;ust=1788032823652000 amp;usg=AOvVaw2LLfe9HeuAcQz5ewoGP-0C www.turing.com /a . nbsp; /span /p div nbsp; /div /div h1 Senior Software Engineer, AI Evaluation Infrastructure /h1 p We build the infrastructure that frontier AI labs use to evaluate coding agents and language models: benchmark datasets, agent evaluation runs at scale, and automated task quality checks. You would own features across the stack, from the data model and background jobs to the screens our users work in every day. /p p This is a role for an experienced engineer who works independently, makes sound tradeoffs, and turns a loosely defined request into something shipped, tested, and safe to leave alone. /p h2 What you will do /h2 ul li Design and ship features end to end: data model, API, background workers, and the UI when the change needs it. /li li Build and improve how agents and models are evaluated: running trials in sandboxed environments, scoring results, and turning thousands of runs into results people can trust. /li li Improve how benchmark tasks are quality-checked: verifiers, rubric-based and LLM-as-a-judge grading, and deciding whether a task is clear, solvable, and fair to score. /li li Integrate new models, agents, and benchmarks in a way that generalizes, without a special case for each one. /li li Keep the system fast and reliable as usage grows: efficient queries, safe migrations, and concurrency that holds up under load. /li li Review teammates\u2019 pull requests against our engineering guidelines and help keep the codebase consistent. /li /ul h2 What you bring /h2 ul li Typically 5+ years building and operating production backend systems, with ownership of at least one service from design through on-call. /li li Strong Python. Experience with Django (or a similar framework), PostgreSQL, and a task queue such as Celery. What matters most is having run a real system, not knowing a particular framework. /li li Hands-on experience in LLM evaluation, beyond calling a model API. You understand how a benchmark task is built, how an agent trial is scored, and how results are aggregated and compared. Experience with Harbor, Terminal-Bench, SWE-bench, Inspect, or a similar harness is a strong plus. /li li Judgment about task quality. You can spot ambiguous instructions, weak or gameable verifiers, leaked answers, and checks that pass for the wrong reason. /li li Good tradeoffs. You reach for the smallest design that solves the problem, extend what already exists before adding something new, and can explain what you chose not to build. /li li Ownership. You take a fuzzy request, find the relevant code, ask questions only when the answer changes the design, and finish the job, including migrations, tests, and edge cases users will hit. /li li Quick adoption of team conventions. You read the written guidelines and your first pull requests already match them in naming, structure, tests, and error handling. /li li Comfort with a TypeScript and React frontend when a change is visible there. You don\u2019t need to be a frontend specialist. /li li Clear writing. Your pull request descriptions and design notes explain why, not just what. /li /ul h2 Nice to have /h2 ul li Experience running agents in sandboxed or containerized environments (Docker, Kubernetes, or cloud sandboxes such as Modal or Daytona). /li li Experience with LLM-as-a-judge or rubric-based grading, and with reducing judge bias and noise. /li li Familiarity with coding agents such as Claude Code, Codex, or OpenHands, and with MCP. /li li Experience with distributed job scheduling, concurrency limits, or database locking at scale. /li li Contributions to open-source evaluation or infrastructure projects. /li /ul h2 How we work /h2 ul li Written engineering guidelines, applied consistently, with the same review bar for everyone. /li li Business logic lives in services. Hot paths stay cheap. Lint and tests pass before a pull request is ready. /li li The same vocabulary in the code, the API, and the UI. /li li We prefer deleting code to adding it, and simple designs to clever ones. /li /ul p A strong first month looks like several changes merged with light review, and one area of the system you can change confidently without a guide. /p h2 Interview process /h2 ul li A short conversation about a system you built and the tradeoffs you made. /li li A practical exercise: a focused change in an existing codebase. /li li A discussion of a flawed benchmark task: what\u2019s wrong with the instruction, the verifier, and the scoring. /li li A conversation with the team. /li /ul p nbsp; /p div class= content-conclusion h2 data-section-id= qzdk59 data-start= 0 data-end= 13 span strong data-start= 3",
-  "department": "Frontier Data Operations",
+  "title": "Software Engineer II",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293121",
+  "posted_at": "Posted Today",
+  "description": "R-293121",
+  "department": "",
   "veto": null,
   "skill_gaps": [],
-  "flags": [],
-  "age_days": 0,
-  "location_tier": 0,
-  "location_label": "Remote (Global)",
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
   "experience_bucket": 1,
-  "experience_note": "5+ yrs, senior title",
-  "salary_lpa": null,
-  "match_score": 57,
-  "match_hits": [
-   "software engineer",
-   "evaluation",
-   "postgresql",
-   "typescript",
-   "kubernetes",
-   "docker",
-   "python",
-   "react"
-  ],
-  "company": "Turing",
-  "company_tier": "global",
-  "portal": "greenhouse",
-  "id": "131bd728b5b36f0c",
-  "first_seen": "2026-10-20T08:44:40.415719+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Data Analyst, Business Finance",
-  "location": "Bengaluru",
-  "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744129005",
-  "posted_at": "2026-10-20T02:27:03-04:00",
-  "description": "div class= content-intro p Razorpay is one of India\u2019s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we\u2019ve since grown into a fintech powerhouse driving India\u2019s digital payment revolution. /p p Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. /p p From building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech /p p Across India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that\u2019s redefining how money moves across Asia. /p p Today, that ecosystem supports everyone from early-stage startups to some of India\u2019s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently. /p p Our scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow, Zomato, Swiggy, Lenskart, Mirae Asset Capital markets, Indian Oil, National Pension Scheme - and over 100 of India\u2019s unicorns. With strong roots in India and growing operations in Southeast Asia, we are shaping the next chapter of financial technology across the region. /p p We are backed by global investors including GIC, Peak XV Partners (formerly Sequoia Capital India amp; SEA), Tiger Global, Ribbit Capital, Matrix Partners, MasterCard, and Salesforce Ventures, having raised over $740 million to date. Strategic acquisitions - including Ezetap (POS and offline payments), Curlec (Malaysia expansion), BillMe (digital invoicing), and POP (rewards-first UPI) - along with earlier moves in fraud prevention, payroll, and lending, have further strengthened our platform and widened our footprint across Asia. /p p But what truly sets Razorpay apart is our culture. At Razorpay, ownership is our oxygen - you own what you build, with no micromanagement or red tape, just the runway to make your ideas fly. Learning is a lifestyle - if you\u2019re curious, you\u2019ll feel at home here. People gt; Pedigree - we hire for attitude, hustle, and hunger more than degrees. Transparency thrives over titles - this is where interns question CXOs and CXOs say \u201cthank you.\u201d Guided by our values of Customer First, Autonomy amp; Ownership, Agility with Integrity, Transparency, Challenging the status quo and a strong belief that Razorpay grows with Razors, nbsp; you\u2019ll be part of a 3000+ strong team building not just products, but the financial infrastructure of the future. /p /div p strong Designation /strong - Data Analyst - Business Finance br br strong Role: /strong br Will be responsible for supporting the finance team with all data and analysis requirements and process improvements and automations through AI powered workflows br Will be responsible for setting up automated business reports and ensuring data accuracy br br strong Requirements : /strong br \u25cf 0-2 years of experience in reporting, analytics and AI br \u25cf Should have had hands-on experience with SQL, Python, Claude and other AI tools br \u25cf Good to have: Knowledge of BI tools like PowerBI and Tableau br br strong Job Location - Bangalore /strong /p div class= content-conclusion div class= gmail_default span style= font-family: arial, helvetica, sans-serif; font-size: 12pt; span id= m_2989597180337834284gmail-m_4972969247898306296gmail-docs-internal-guid-3a65a3c2-7fff-88ff-9e94-8ab11a050d04 Razorpay believes in and follows an equal employment opportunity policy that doesn&#39;t discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe. /span br /span /div div class= gmail_default span style= font-family: arial, helvetica, sans-serif; font-size: 12pt; nbsp; /span /div div class= gmail_default span style= font-family: arial, helvetica, sans-serif; font-size: 12pt; span id= m_2989597180337834284gmail-m_4972969247898306296gmail-docs-internal-guid-3d0a9248-7fff-a2fd-6fa3-5026f85768d7 Follow us on a href= https://www.linkedin.com/company/razorpay/mycompany/ target= _blank data-saferedirecturl= https://www.google.com/url?q=https://www.linkedin.com/company/razorpay/mycompany/ amp;source=gmail amp;ust=1660290870959000 amp;usg=AOvVaw0f6sCrv8Ce3IHBvN2Sev8Z LinkedIn /a amp; a href= https://twitter.com/Razorpay target= _blank data-saferedirecturl= https://www.google.com/url?q=https://twitter.com/Razorpay amp;source=gmail amp;ust=1660290870959000 amp;usg=AOvVaw0ViuP9uutFg1qFCm2nHeh1 Twitter /a /span /span /div /div",
-  "department": "Finance",
-  "veto": null,
-  "skill_gaps": [
-   "salesforce",
-   "tableau"
-  ],
-  "flags": [
-   "vague culture language"
-  ],
-  "age_days": 0,
-  "location_tier": 4,
-  "location_label": "Bengaluru",
-  "experience_bucket": 0,
-  "experience_note": "0-2 yrs",
-  "salary_lpa": null,
-  "match_score": 25,
-  "match_hits": [
-   "real-time",
-   "autonomy",
-   "python",
-   "sql"
-  ],
-  "company": "Razorpay",
-  "company_tier": "india",
-  "portal": "greenhouse",
-  "id": "bf296ede3c2453fb",
-  "first_seen": "2026-10-20T08:44:40.415719+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Lead Database Administrator",
-  "location": "Bengaluru",
-  "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744101005",
-  "posted_at": "2026-10-19T05:20:50-04:00",
-  "description": "div class= content-intro p Razorpay is one of India\u2019s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we\u2019ve since grown into a fintech powerhouse driving India\u2019s digital payment revolution. /p p Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. /p p From building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech /p p Across India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that\u2019s redefining how money moves across Asia. /p p Today, that ecosystem supports everyone from early-stage startups to some of India\u2019s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently. /p p Our scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow, Zomato, Swiggy, Lenskart, Mirae Asset Capital markets, Indian Oil, National Pension Scheme - and over 100 of India\u2019s unicorns. With strong roots in India and growing operations in Southeast Asia, we are shaping the next chapter of financial technology across the region. /p p We are backed by global investors including GIC, Peak XV Partners (formerly Sequoia Capital India amp; SEA), Tiger Global, Ribbit Capital, Matrix Partners, MasterCard, and Salesforce Ventures, having raised over $740 million to date. Strategic acquisitions - including Ezetap (POS and offline payments), Curlec (Malaysia expansion), BillMe (digital invoicing), and POP (rewards-first UPI) - along with earlier moves in fraud prevention, payroll, and lending, have further strengthened our platform and widened our footprint across Asia. /p p But what truly sets Razorpay apart is our culture. At Razorpay, ownership is our oxygen - you own what you build, with no micromanagement or red tape, just the runway to make your ideas fly. Learning is a lifestyle - if you\u2019re curious, you\u2019ll feel at home here. People gt; Pedigree - we hire for attitude, hustle, and hunger more than degrees. Transparency thrives over titles - this is where interns question CXOs and CXOs say \u201cthank you.\u201d Guided by our values of Customer First, Autonomy amp; Ownership, Agility with Integrity, Transparency, Challenging the status quo and a strong belief that Razorpay grows with Razors, nbsp; you\u2019ll be part of a 3000+ strong team building not just products, but the financial infrastructure of the future. /p /div p strong The Role: /strong /p p A Senior Database Administrator at Razorpay is well-grounded - responsible for managing and maintaining databases. Their primary role is to ensure the integrity, security, and performance of the databases that store and retrieve data critical to the organization&#39;s operations. Engineering creates a significant impact across different areas, considering the scale of product outreach. You\u2019re also expected to influence the culture of the company and help shape it in the right way. /p p strong Roles and Responsibilities: /strong /p ul li Ensure the reliability, performance, and scalability of our database infrastructure. /li li Work closely with application teams to ship solutions that integrate seamlessly with our database systems. /li li Analyze solutions and implement best practices for supported data stores (primarily MySQL and PostgreSQL). /li li Develop and enforce best practices for database security, backup, and recovery. /li li Work on the observability of relevant database metrics and make sure we reach our database objectives. /li li Provide database expertise to engineering teams (for example, through reviews of database migrations, queries, and performance optimizations). /li li Work with peers (DevOps, Application Engineers) to roll out changes to our production environment and help mitigate database-related production incidents. /li li Work on automation of database infrastructure and help engineering succeed by providing self-service tools. /li li OnCall support on rotation with the team. /li li Support and debug database production issues across services and levels of the stack. /li li Document every action so your learning turns into repeatable actions and then into automation. /li li Perform regular system monitoring, troubleshooting, and capacity planning to ensure scalability. /li li Create and maintain documentation on database configurations, processes, and procedures. /li /ul p strong Mandatory Qualifications: /strong /p ul li Have at least 6+ years of experience running MySQL/PostgreSQL databases in large environments. /li li Awareness of cloud infrastructure (AWS/GCP). /li li Have knowledge of the internals of MySQL/PostgreSQL. /li li Knowledge of load balancing solutions such as ProxySQL to distribute database traffic efficiently across multiple servers. /li li Knowledge of tools and methods for monitoring database performance. /li li Strong problem-solving skills and ability to work in a fast-paced environment. /li li Excellent communication and collaboration skills to work effectively within cross-functional teams. /li li Knowledge of caching (Redis / Elasticache) /li li Knowledge of scripting languages (Python) /li li Knowledge of infrastructure automation (Terraform/Ansible) /li li Familiarity with DevOps practices and CI/",
-  "department": "DevOps",
-  "veto": null,
-  "skill_gaps": [
-   "terraform",
-   "gcp",
-   "salesforce"
-  ],
-  "flags": [
-   "vague culture language"
-  ],
-  "age_days": 0,
-  "location_tier": 4,
-  "location_label": "Bengaluru",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
+  "experience_note": "Years not stated",
   "salary_lpa": null,
   "match_score": 20,
   "match_hits": [
-   "postgresql",
-   "real-time",
-   "autonomy",
-   "python",
-   "aws"
+   "software engineer"
   ],
-  "company": "Razorpay",
+  "company": "Mastercard",
   "company_tier": "india",
-  "portal": "greenhouse",
-  "id": "f572d14f95ae5377",
-  "first_seen": "2026-10-20T08:44:40.415719+00:00",
+  "portal": "workday",
+  "id": "5fe8956b48237724",
+  "first_seen": "2026-10-21T08:44:57.628694+00:00",
   "is_new": true,
   "days_listed": 0
  }
