@@ -1,10 +1,71 @@
 [
  {
+  "title": "Software Engineer II - Java Full Stack React",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-Stack-React_R-293613",
+  "posted_at": "Posted Today",
+  "description": "R-293613",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
+  "salary_lpa": null,
+  "match_score": 23,
+  "match_hits": [
+   "software engineer",
+   "react"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "3c3a903b5f5b4863",
+  "first_seen": "2026-10-22T08:47:52.732260+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Backend Engineer II (Pune, Hybrid)",
+  "location": "India - Pune",
+  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Pune/Engineer-II---SIEM-Integrations_R28246",
+  "posted_at": "Posted Today",
+  "description": "R28246",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "backend engineer"
+  ],
+  "company": "CrowdStrike",
+  "company_tier": "global",
+  "portal": "workday",
+  "id": "c41898b545062c0f",
+  "first_seen": "2026-10-22T08:47:52.732260+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
   "title": "Software Engineer II",
   "location": "Pune, India",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293121",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288948",
   "posted_at": "Posted Today",
-  "description": "R-293121",
+  "description": "R-288948",
   "department": "",
   "veto": null,
   "skill_gaps": [],
@@ -24,8 +85,159 @@
   "company": "Mastercard",
   "company_tier": "india",
   "portal": "workday",
-  "id": "5fe8956b48237724",
-  "first_seen": "2026-10-21T08:44:57.628694+00:00",
+  "id": "86bb41cddd275f62",
+  "first_seen": "2026-10-22T08:47:52.732260+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Senior Specialist - Global Product Management - Data Analytics and Agentic AI",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Specialist---Global-Product-Management---Data-Analytics-and-Agentic-AI_R-288650",
+  "posted_at": "Posted Today",
+  "description": "R-288650",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 30,
+  "match_hits": [
+   "agentic"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "28cf81210c808ec2",
+  "first_seen": "2026-10-22T08:47:52.732260+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Senior Software Engineer",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-277806",
+  "posted_at": "Posted Today",
+  "description": "R-277806",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "software engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "b2adf155af825ae1",
+  "duplicates": 1,
+  "first_seen": "2026-10-22T08:47:52.732260+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Senior Software Engineer - Java Full stack with AI",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer---Java-Full-stack-with-AI_R-294119",
+  "posted_at": "Posted Today",
+  "description": "R-294119",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "software engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "2fac7887f2a48b0d",
+  "first_seen": "2026-10-22T08:47:52.732260+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Lead Software engineer",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-engineer_R-292341",
+  "posted_at": "Posted Today",
+  "description": "R-292341",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "software engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "2ad8af673c056985",
+  "first_seen": "2026-10-22T08:47:52.732260+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Senior Data Engineer",
+  "location": "Pune, India",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Data-Engineer_R-289965",
+  "posted_at": "Posted Today",
+  "description": "R-289965",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [
+   "thin description"
+  ],
+  "age_days": null,
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 20,
+  "match_hits": [
+   "data engineer"
+  ],
+  "company": "Mastercard",
+  "company_tier": "india",
+  "portal": "workday",
+  "id": "79ada67a4ce95210",
+  "first_seen": "2026-10-22T08:47:52.732260+00:00",
   "is_new": true,
   "days_listed": 0
  }
