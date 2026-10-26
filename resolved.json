@@ -97,9 +97,9 @@
   },
   "Adeva": {
     "ats": "custom",
-    "careers": "https://adevait.com",
+    "careers": "https://www.toptal.com/adeva",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Adhaan Solutions": {
     "ats": "custom",
@@ -205,9 +205,9 @@
   },
   "Alami": {
     "ats": "custom",
-    "careers": "https://alamisharia.co.id/karir/",
+    "careers": "https://alamisharia.co.id",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Alliance International": {
     "ats": "custom",
@@ -511,9 +511,9 @@
   },
   "CIEL HR Services": {
     "ats": "custom",
-    "careers": "https://www.cielhr.com/",
+    "careers": "https://www.cielhr.com/careers",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "CRED": {
     "ats": "lever",
@@ -589,7 +589,7 @@
   },
   "Circonus": {
     "ats": "custom",
-    "careers": "https://login.circonus.com/?whereTo=https://careers.circonus.com%2F",
+    "careers": "https://www.apica.io",
     "slug": "",
     "source": "custom portal"
   },
@@ -649,9 +649,9 @@
   },
   "Coalition Technologies": {
     "ats": "custom",
-    "careers": "https://coalitiontechnologies.com",
+    "careers": "https://coalitiontechnologies.com/jobs",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Code Like a Girl": {
     "ats": "custom",
@@ -673,7 +673,7 @@
   },
   "Codea IT": {
     "ats": "custom",
-    "careers": "https://www.codeait.com/",
+    "careers": "https://www.careers-page.com/codeait",
     "slug": "",
     "source": "custom portal"
   },
@@ -751,9 +751,9 @@
   },
   "Convert": {
     "ats": "custom",
-    "careers": "https://convert.com",
+    "careers": "https://www.convert.com/jobs/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Coodesh": {
     "ats": "custom",
@@ -763,9 +763,9 @@
   },
   "Core-Apps": {
     "ats": "custom",
-    "careers": "https://core-apps.com",
+    "careers": "https://momentivesoftware.com/solutions/event-management-software/?utm_source=Core-Apps&utm_medium=website&utm_campaign=Migration+Engagement&utm_term=Resources",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "CoreOS": {
     "ats": "custom",
@@ -787,9 +787,9 @@
   },
   "Crescendo Global": {
     "ats": "custom",
-    "careers": "https://crescendo-global.com/jobs/",
+    "careers": "https://www.crescendo-global.com/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Cropin": {
     "ats": "keka",
@@ -859,9 +859,9 @@
   },
   "DappRadar": {
     "ats": "custom",
-    "careers": "https://dappradar.com",
+    "careers": "https://dappradar.com/careers",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "DareCode": {
     "ats": "custom",
@@ -957,7 +957,7 @@
     "ats": "custom",
     "careers": "https://devsquad.com",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Dgraph": {
     "ats": "custom",
@@ -1053,7 +1053,7 @@
     "ats": "custom",
     "careers": "https://evelo.com",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "EY-Parthenon": {
     "ats": "successfactors",
@@ -1083,13 +1083,13 @@
     "ats": "custom",
     "careers": "https://eco-mind.eu",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Edaify": {
     "ats": "custom",
-    "careers": "https://careers.edaify.com/",
+    "careers": "https://edaify.com/",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Edgar": {
     "ats": "custom",
@@ -1231,9 +1231,9 @@
   },
   "Eyeo": {
     "ats": "custom",
-    "careers": "https://eyeo.com",
+    "careers": "https://eyeo.com/careers/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "FATMAP": {
     "ats": "custom",
@@ -1309,9 +1309,9 @@
   },
   "Fire Engine Red": {
     "ats": "custom",
-    "careers": "https://fire-engine-red.com",
+    "careers": "https://www.carnegiehighered.com/fire-engine-red-student-search/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Fireball Labs": {
     "ats": "custom",
@@ -1507,9 +1507,9 @@
   },
   "Ghost Inspector": {
     "ats": "custom",
-    "careers": "https://ghostinspector.com",
+    "careers": "https://ghostinspector.com/jobs/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "GitLab": {
     "ats": "greenhouse",
@@ -1608,14 +1608,14 @@
     "source": "custom portal"
   },
   "Kelly Services India": {
-    "ats": "custom",
+    "ats": "workday",
     "careers": "https://www.kellyocg.com/",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "kellyservices|wd503|corporatecareers-kellyservices-com",
+    "source": "sniffed"
   },
   "Khatabook": {
     "ats": "custom",
-    "careers": "https://khatabook.com",
+    "careers": "https://khatabook.com/hiring/",
     "slug": "",
     "source": "custom portal"
   },
@@ -1837,9 +1837,9 @@
   },
   "Shiprocket": {
     "ats": "custom",
-    "careers": "https://www.shiprocket.in/careers/",
+    "careers": "https://careers.shiprocket.in/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Shopify": {
     "ats": "custom",
@@ -1909,9 +1909,9 @@
   },
   "Uber": {
     "ats": "custom",
-    "careers": "https://www.uber.com/us/en/careers/list/",
+    "careers": "https://jobs.uber.com/en/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Udaan": {
     "ats": "workable",
@@ -2065,9 +2065,9 @@
   },
   "boAt": {
     "ats": "custom",
-    "careers": "https://www.boat-lifestyle.com/pages/careers",
+    "careers": "https://www.boat-lifestyle.com",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "eFishery": {
     "ats": "custom",
