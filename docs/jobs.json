@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T09:21:52.057257+00:00",
+ "generated_at": "2026-10-27T09:12:05.643073+00:00",
  "cadence": "daily",
  "companies_checked": 171,
  "companies_total": 347,
@@ -14,47 +14,48 @@
   "Axelerant": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "BairesDev": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Bijnis": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bitovi": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Bitovi": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Bloc": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/Chegg/jobs'",
-  "CashKaro": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Chargebee": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Chess.com": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Civo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "ClearTax": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Clevertech": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "CodeSandbox": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Cropin": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Crossover": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Cuvette": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "D.E. Shaw": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Data Science Brigade": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Data Science Dojo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DataStax": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Deel": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Delhivery": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Dgraph": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DigitalOcean": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Discourse": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Doist": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DroneDeploy": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Droom": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DuckDuckGo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "EPAM": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "EarthOfDrones": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "EaseMyTrip": "HTTPStatusError: Server error '502 Bad Gateway' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Eternal (Zomato)": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Etsy": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Evil Martians": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Evrone": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FarMart": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Fauna": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Flipkart": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "GFT": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Google": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Hasura": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Jupiter": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Khatabook": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Microsoft": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "CashKaro": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Chargebee": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Chess.com": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Civo": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "ClearTax": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Clevertech": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "CodeSandbox": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Cropin": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Crossover": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Cuvette": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "D.E. Shaw": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Data Science Brigade": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Data Science Dojo": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "DataStax": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Deel": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Delhivery": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Dgraph": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "DigitalOcean": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Discourse": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Doist": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "DroneDeploy": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Droom": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "DuckDuckGo": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "EBSCO Information Services": "HTTPStatusError: Client error '405 Not Allowed' for url 'https://careers-ebscoind.icims.com/jobs/search?ss=1&searchRelation=keyword_all&in_iframe=1'",
+  "EPAM": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "EarthOfDrones": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "EaseMyTrip": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Eternal (Zomato)": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Etsy": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Evil Martians": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Evrone": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "FarMart": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Fauna": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Flipkart": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "GFT": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Google": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Hasura": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Jupiter": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Khatabook": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Microsoft": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Moglix": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Navi": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "OfBusiness": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
@@ -75,12 +76,12 @@
   "Zypp Electric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "redBus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'"
  },
- "postings_seen": 4603,
+ "postings_seen": 4568,
  "duplicates_merged": 1,
- "matches": 65,
+ "matches": 62,
  "vetoed": {},
- "new_today": 5,
- "closed_since": 0,
+ "new_today": 3,
+ "closed_since": 5,
  "jobs": [
   {
    "title": "Machine Learning Engineer",
@@ -95,7 +96,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 13,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -108,8 +109,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "llm",
-    "aws"
+    "aws",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -117,7 +118,7 @@
    "id": "972d24ce152b4464",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer, Security Platform",
@@ -132,7 +133,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 13,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -148,7 +149,7 @@
    "id": "486ab52c4ff4a137",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer - Secure Container Images",
@@ -163,9 +164,9 @@
     "rust"
    ],
    "flags": [
-    "posted 61 days ago"
+    "posted 62 days ago"
    ],
-   "age_days": 61,
+   "age_days": 62,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -185,7 +186,7 @@
    "id": "210e4fe5a367aeda",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
@@ -199,9 +200,9 @@
     "rust"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -219,7 +220,7 @@
    "id": "5f91dffa74c5f3b2",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Senior Machine Learning Engineer",
@@ -234,7 +235,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 13,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -247,8 +248,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "llm",
-    "aws"
+    "aws",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -256,7 +257,7 @@
    "id": "897d874ea0f0c95e",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "MLOps Field Engineer",
@@ -272,9 +273,9 @@
     "kubeflow"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -283,12 +284,12 @@
    "match_score": 51,
    "match_hits": [
     "kubernetes",
-    "python",
     "mlflow",
-    "mlops",
+    "python",
     "spark",
-    "aws",
-    "sql"
+    "mlops",
+    "sql",
+    "aws"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -296,7 +297,7 @@
    "id": "89a6bbd45c957422",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Python Engineer",
@@ -312,9 +313,9 @@
     "grpc"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -326,8 +327,8 @@
     "kubernetes",
     "docker",
     "edge",
-    "sql",
-    "c++"
+    "c++",
+    "sql"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -335,7 +336,7 @@
    "id": "5d24f8c1907d1205",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -351,9 +352,9 @@
     "clickhouse"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -364,8 +365,8 @@
     "software engineer",
     "kubernetes",
     "airflow",
-    "python",
     "mlflow",
+    "python",
     "docker",
     "aws"
    ],
@@ -375,7 +376,7 @@
    "id": "3cd0e0c2f8129887",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer - Python and K8s",
@@ -387,9 +388,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -410,7 +411,7 @@
    "id": "fc7005194a2a0bcf",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -424,9 +425,9 @@
     "go"
    ],
    "flags": [
-    "posted 61 days ago"
+    "posted 62 days ago"
    ],
-   "age_days": 61,
+   "age_days": 62,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -447,7 +448,7 @@
    "id": "71a7fb06055356bb",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer, Cloud - Sustaining Engineering",
@@ -461,9 +462,9 @@
     "go"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -484,7 +485,7 @@
    "id": "6f24a2c795ced861",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer - L3 Support",
@@ -498,9 +499,9 @@
     "go"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -521,7 +522,7 @@
    "id": "b95c5600b7c162ba",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer, Sustaining Engineering",
@@ -535,9 +536,9 @@
     "go"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -558,7 +559,7 @@
    "id": "3fd2583778e05409",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Linux Devices Software Engineer",
@@ -573,9 +574,9 @@
     "rust"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -595,7 +596,7 @@
    "id": "8e35405280dd53e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Go (Golang) Software Engineer, Developer Tooling and Containers",
@@ -610,7 +611,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -630,7 +631,7 @@
    "id": "0eddfe107c2f48f3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
@@ -642,9 +643,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -664,7 +665,7 @@
    "id": "ce1d173b849babb6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -680,7 +681,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 20,
+   "age_days": 21,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -699,7 +700,7 @@
    "id": "7d8ba08f7e1d7bf8",
    "first_seen": "2026-10-06T10:35:20.890716+00:00",
    "is_new": false,
-   "days_listed": 19
+   "days_listed": 20
   },
   {
    "title": "Junior Ubuntu Software Engineer",
@@ -714,9 +715,9 @@
     "rust"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -735,7 +736,7 @@
    "id": "52929cfe97d8f85a",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
@@ -750,9 +751,9 @@
     "rust"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -771,7 +772,7 @@
    "id": "ce408466319dc35b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Security Software Engineer",
@@ -789,9 +790,9 @@
     "php"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -810,7 +811,7 @@
    "id": "be1de3b5e41341f4",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer - Solutions Engineering",
@@ -824,9 +825,9 @@
     "golang"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -844,7 +845,7 @@
    "id": "7310719a2be22e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Ubuntu Software Engineer",
@@ -859,9 +860,9 @@
     "rust"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -879,7 +880,7 @@
    "id": "6caffa67411ed0e3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer - App Stores",
@@ -893,9 +894,9 @@
     "golang"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -912,7 +913,7 @@
    "id": "4727884cced45711",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Alliances Field Engineer",
@@ -928,9 +929,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -942,8 +943,8 @@
     "kubernetes",
     "mongodb",
     "python",
-    "kafka",
     "spark",
+    "kafka",
     "edge",
     "aws"
    ],
@@ -953,13 +954,13 @@
    "id": "37cb7a5898f98ab3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Associate Software Engineer",
    "location": "US-Remote",
    "url": "https://kellyservices.wd503.myworkdayjobs.com/en-US/corporatecareers-kellyservices-com/job/US-Remote/Associate-Software-Engineer_14589",
-   "posted_at": "Posted 6 Days Ago",
+   "posted_at": "Posted 7 Days Ago",
    "description": "14589",
    "department": "",
    "veto": null,
@@ -982,7 +983,7 @@
    "portal": "workday",
    "id": "04ab029964f0b3aa",
    "first_seen": "2026-10-26T09:21:52.057257+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -1001,7 +1002,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1010,13 +1011,13 @@
    "match_score": 62,
    "match_hits": [
     "software engineer",
-    "evaluation",
     "guardrails",
+    "evaluation",
     "kubernetes",
     "python",
     "kafka",
     "rag",
-    "llm"
+    "sql"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -1024,7 +1025,7 @@
    "id": "96b5f8fab6f5c3a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Staff Software Engineer, Security Platform",
@@ -1039,7 +1040,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 13,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1055,7 +1056,7 @@
    "id": "4a3092df3189ad5c",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Embedded Linux Senior Software Engineer - Optimisation",
@@ -1067,9 +1068,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1088,7 +1089,7 @@
    "id": "8c5234f46a324b14",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Cloud Solutions Architect - Alliances",
@@ -1104,9 +1105,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 81 days ago"
+    "posted 82 days ago"
    ],
-   "age_days": 81,
+   "age_days": 82,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1118,8 +1119,8 @@
     "kubernetes",
     "mongodb",
     "python",
-    "kafka",
     "spark",
+    "kafka",
     "edge",
     "aws"
    ],
@@ -1129,13 +1130,13 @@
    "id": "ae88c5d854f51f22",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Sr Forward Deployed Engineer",
    "location": "Noida",
    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
-   "posted_at": "Posted 13 Days Ago",
+   "posted_at": "Posted 14 Days Ago",
    "description": "R172762",
    "department": "",
    "veto": null,
@@ -1159,7 +1160,37 @@
    "id": "682e11ccdd27afa4",
    "first_seen": "2026-10-14T08:53:54.476366+00:00",
    "is_new": false,
-   "days_listed": 12
+   "days_listed": 13
+  },
+  {
+   "title": "Senior Data Scientist",
+   "location": "Gurgaon, India",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Senior-Data-Scientist_R-279946",
+   "posted_at": "Posted Today",
+   "description": "R-279946",
+   "department": "",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [
+    "thin description"
+   ],
+   "age_days": null,
+   "location_tier": 3,
+   "location_label": "Gurgaon",
+   "experience_bucket": 2,
+   "experience_note": "Senior title",
+   "salary_lpa": null,
+   "match_score": 30,
+   "match_hits": [
+    "data scientist"
+   ],
+   "company": "Mastercard",
+   "company_tier": "india",
+   "portal": "workday",
+   "id": "dc808d72c7689505",
+   "first_seen": "2026-10-27T09:12:05.643073+00:00",
+   "is_new": true,
+   "days_listed": 0
   },
   {
    "title": "LLMops Engineer",
@@ -1178,7 +1209,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 9,
+   "age_days": 10,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 0,
@@ -1186,9 +1217,9 @@
    "salary_lpa": null,
    "match_score": 51,
    "match_hits": [
-    "evaluation",
-    "typescript",
     "guardrails",
+    "typescript",
+    "evaluation",
     "kubernetes",
     "langgraph",
     "python",
@@ -1201,7 +1232,7 @@
    "id": "cb071de2af5e7fff",
    "first_seen": "2026-10-06T10:35:20.890716+00:00",
    "is_new": false,
-   "days_listed": 19
+   "days_listed": 20
   },
   {
    "title": "AI Specialist II",
@@ -1219,7 +1250,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 9,
+   "age_days": 10,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 0,
@@ -1229,11 +1260,11 @@
    "match_hits": [
     "hugging face",
     "fine-tuning",
-    "evaluation",
     "embeddings",
     "guardrails",
-    "langchain",
+    "evaluation",
     "langgraph",
+    "langchain",
     "python"
    ],
    "company": "Coursera",
@@ -1242,43 +1273,7 @@
    "id": "699aab2948cd6bf1",
    "first_seen": "2026-09-28T10:11:54.544028+00:00",
    "is_new": false,
-   "days_listed": 27
-  },
-  {
-   "title": "Data Analyst, Business Finance",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744129005",
-   "posted_at": "2026-10-20T02:27:03-04:00",
-   "description": "div class= content-intro p Razorpay is one of India\u2019s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we\u2019ve since grown into a fintech powerhouse driving India\u2019s digital payment revolution. /p p Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. /p p From building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech /p p Across India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that\u2019s redefining how money moves across Asia. /p p Today, that ecosystem supports everyone from early-stage startups to some of India\u2019s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently. /p p Our scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow, Zomato, Swiggy, Lenskart, Mirae Asset Capital markets, Indian Oil, National Pension Scheme - and over 100 of India\u2019s unicorns. With strong roots in India and growing operations in Southeast Asia, we are shaping the next chapter of financial technology across the region. /p p We are backed by global investors including GIC, Peak XV Partners (formerly Sequoia Capital India amp; SEA), Tiger Global, Ribbit Capital, Matrix Partners, MasterCard, and Salesforce Ventures, having raised over $740 million to date. Strategic acquisitions - including Ezetap (POS and offline payments), Curlec (Malaysia expansion), BillMe (digital invoicing), and POP (rewards-first UPI) - along with earlier moves in fraud prevention, payroll, and lending, have further strengthened our platform and widened our footprint across Asia. /p p But what truly sets Razorpay apart is our culture. At Razorpay, ownership is our oxygen - you own what you build, with no micromanagement or red tape, just the runway to make your ideas fly. Learning is a lifestyle - if you\u2019re curious, you\u2019ll feel at home here. People gt; Pedigree - we hire for attitude, hustle, and hunger more than degrees. Transparency thrives over titles - this is where interns question CXOs and CXOs say \u201cthank you.\u201d Guided by our values of Customer First, Autonomy amp; Ownership, Agility with Integrity, Transparency, Challenging the status quo and a strong belief that Razorpay grows with Razors, nbsp; you\u2019ll be part of a 3000+ strong team building not just products, but the financial infrastructure of the future. /p /div p strong Designation /strong - Data Analyst - Business Finance br br strong Role: /strong br Will be responsible for supporting the finance team with all data and analysis requirements and process improvements and automations through AI powered workflows br Will be responsible for setting up automated business reports and ensuring data accuracy br br strong Requirements : /strong br \u25cf 0-2 years of experience in reporting, analytics and AI br \u25cf Should have had hands-on experience with SQL, Python, Claude and other AI tools br \u25cf Good to have: Knowledge of BI tools like PowerBI and Tableau br br strong Job Location - Bangalore /strong /p div class= content-conclusion div class= gmail_default span style= font-family: arial, helvetica, sans-serif; font-size: 12pt; span id= m_2989597180337834284gmail-m_4972969247898306296gmail-docs-internal-guid-3a65a3c2-7fff-88ff-9e94-8ab11a050d04 Razorpay believes in and follows an equal employment opportunity policy that doesn&#39;t discriminate on gender, religion, sexual orientation, colour, nationality, age, etc. We welcome interests and applications from all groups and communities across the globe. /span br /span /div div class= gmail_default span style= font-family: arial, helvetica, sans-serif; font-size: 12pt; nbsp; /span /div div class= gmail_default span style= font-family: arial, helvetica, sans-serif; font-size: 12pt; span id= m_2989597180337834284gmail-m_4972969247898306296gmail-docs-internal-guid-3d0a9248-7fff-a2fd-6fa3-5026f85768d7 Follow us on a href= https://www.linkedin.com/company/razorpay/mycompany/ target= _blank data-saferedirecturl= https://www.google.com/url?q=https://www.linkedin.com/company/razorpay/mycompany/ amp;source=gmail amp;ust=1660290870959000 amp;usg=AOvVaw0f6sCrv8Ce3IHBvN2Sev8Z LinkedIn /a amp; a href= https://twitter.com/Razorpay target= _blank data-saferedirecturl= https://www.google.com/url?q=https://twitter.com/Razorpay amp;source=gmail amp;ust=1660290870959000 amp;usg=AOvVaw0ViuP9uutFg1qFCm2nHeh1 Twitter /a /span /span /div /div",
-   "department": "Finance",
-   "veto": null,
-   "skill_gaps": [
-    "salesforce",
-    "tableau"
-   ],
-   "flags": [
-    "vague culture language"
-   ],
-   "age_days": 6,
-   "location_tier": 4,
-   "location_label": "Bengaluru",
-   "experience_bucket": 0,
-   "experience_note": "0-2 yrs",
-   "salary_lpa": null,
-   "match_score": 25,
-   "match_hits": [
-    "real-time",
-    "autonomy",
-    "python",
-    "sql"
-   ],
-   "company": "Razorpay",
-   "company_tier": "india",
-   "portal": "greenhouse",
-   "id": "bf296ede3c2453fb",
-   "first_seen": "2026-10-20T08:44:40.415719+00:00",
-   "is_new": false,
-   "days_listed": 6
+   "days_listed": 28
   },
   {
    "title": "Data Scientist III (Team- Valmo)",
@@ -1290,9 +1285,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 409 days ago"
+    "posted 410 days ago"
    ],
-   "age_days": 409,
+   "age_days": 410,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1311,7 +1306,7 @@
    "id": "f2d993091a5cccd2",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 12
+   "days_listed": 13
   },
   {
    "title": "Intermediate Backend Engineer, India",
@@ -1328,7 +1323,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1349,7 +1344,7 @@
    "id": "c82729b762e9099f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Data Scientist III",
@@ -1361,9 +1356,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 1081 days ago"
+    "posted 1082 days ago"
    ],
-   "age_days": 1081,
+   "age_days": 1082,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1379,7 +1374,7 @@
    "id": "59e8dcd0b3f7e4e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer, Backend",
@@ -1391,9 +1386,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 3041 days ago"
+    "posted 3042 days ago"
    ],
-   "age_days": 3041,
+   "age_days": 3042,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1409,13 +1404,13 @@
    "id": "5fad81823b936e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer",
    "location": "Bangalore",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Bangalore/Software-Engineer_17469-2",
-   "posted_at": "Posted 19 Days Ago",
+   "posted_at": "Posted 20 Days Ago",
    "description": "17469",
    "department": "",
    "veto": null,
@@ -1439,7 +1434,7 @@
    "id": "41164f86c68e0242",
    "first_seen": "2026-09-22T08:41:45.546750+00:00",
    "is_new": false,
-   "days_listed": 34
+   "days_listed": 35
   },
   {
    "title": "Senior Software Engineer, Applied AI and Customer Solutions",
@@ -1454,7 +1449,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 9,
+   "age_days": 10,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1464,12 +1459,12 @@
    "match_hits": [
     "software engineer",
     "typescript",
-    "applied ai",
     "kubernetes",
-    "langchain",
+    "applied ai",
     "langgraph",
-    "python",
-    "docker"
+    "langchain",
+    "duckdb",
+    "python"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1477,7 +1472,7 @@
    "id": "12a27588e9c0dff0",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -1489,7 +1484,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1497,11 +1492,11 @@
    "salary_lpa": null,
    "match_score": 66,
    "match_hits": [
-    "ai engineer",
     "multi-agent",
-    "evaluation",
+    "ai engineer",
     "embeddings",
     "guardrails",
+    "evaluation",
     "python",
     "vector",
     "rag"
@@ -1512,7 +1507,7 @@
    "id": "4bc261e756fa0fc6",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 31
+   "days_listed": 32
   },
   {
    "title": "Enterprise Agentic AI Architect",
@@ -1524,7 +1519,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 9,
+   "age_days": 10,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1533,8 +1528,8 @@
    "match_score": 57,
    "match_hits": [
     "ai architect",
-    "evaluation",
     "guardrails",
+    "evaluation",
     "agentic",
     "ci/cd",
     "rag",
@@ -1546,7 +1541,7 @@
    "id": "dc224d106d7b1500",
    "first_seen": "2026-10-15T08:28:49.828241+00:00",
    "is_new": false,
-   "days_listed": 11
+   "days_listed": 12
   },
   {
    "title": "Lead Gen-AI Engineer",
@@ -1558,7 +1553,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 26,
+   "age_days": 27,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1579,7 +1574,7 @@
    "id": "cc9cd6cb8715e76b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Field Chief Technology Officer (Field CTO)",
@@ -1594,9 +1589,9 @@
     "ray"
    ],
    "flags": [
-    "posted 66 days ago"
+    "posted 67 days ago"
    ],
-   "age_days": 66,
+   "age_days": 67,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1605,8 +1600,8 @@
    "match_score": 46,
    "match_hits": [
     "hugging face",
-    "tensorflow",
     "kubernetes",
+    "tensorflow",
     "inference",
     "pytorch",
     "vector",
@@ -1619,7 +1614,7 @@
    "id": "e73ffdf1e4f2f9f8",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Staff Software Engineer - Infrastructure (AI Native)",
@@ -1635,7 +1630,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1644,8 +1639,8 @@
    "match_score": 45,
    "match_hits": [
     "software engineer",
-    "evaluation",
     "guardrails",
+    "evaluation",
     "kubernetes",
     "ci/cd",
     "edge",
@@ -1657,7 +1652,7 @@
    "id": "f538d87d72170116",
    "first_seen": "2026-10-08T10:47:21.919462+00:00",
    "is_new": false,
-   "days_listed": 17
+   "days_listed": 18
   },
   {
    "title": "Consulting Architect - Search",
@@ -1672,7 +1667,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 24,
+   "age_days": 25,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1695,7 +1690,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Senior Product Manager, Applied AI",
@@ -1707,7 +1702,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 9,
+   "age_days": 10,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1724,7 +1719,7 @@
    "id": "8b47ba910500b266",
    "first_seen": "2026-09-30T09:51:42.693508+00:00",
    "is_new": false,
-   "days_listed": 25
+   "days_listed": 26
   },
   {
    "title": "Senior Data Engineer",
@@ -1740,9 +1735,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 256 days ago"
+    "posted 257 days ago"
    ],
-   "age_days": 256,
+   "age_days": 257,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1753,8 +1748,8 @@
     "data engineer",
     "python",
     "ci/cd",
-    "aws",
-    "sql"
+    "sql",
+    "aws"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1762,7 +1757,7 @@
    "id": "e060dee28bc45c7f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Field Architect ",
@@ -1775,8 +1770,10 @@
    "skill_gaps": [
     "databricks"
    ],
-   "flags": [],
-   "age_days": 45,
+   "flags": [
+    "posted 46 days ago"
+   ],
+   "age_days": 46,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1785,12 +1782,12 @@
    "match_score": 34,
    "match_hits": [
     "evaluation",
-    "tensorflow",
     "kubernetes",
+    "tensorflow",
     "inference",
     "pytorch",
-    "kafka",
     "spark",
+    "kafka",
     "edge"
    ],
    "company": "MinIO",
@@ -1799,7 +1796,7 @@
    "id": "706cbf44d771a761",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Staff Backend Engineer, India",
@@ -1814,7 +1811,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1823,8 +1820,8 @@
    "match_score": 33,
    "match_hits": [
     "backend engineer",
-    "kubernetes",
     "guardrails",
+    "kubernetes",
     "autonomy"
    ],
    "company": "GitLab",
@@ -1833,7 +1830,7 @@
    "id": "e96ab9eb11c4998d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Software Engineer",
@@ -1847,7 +1844,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1857,8 +1854,8 @@
    "match_hits": [
     "software engineer",
     "edge",
-    "aws",
-    "llm"
+    "llm",
+    "aws"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -1866,7 +1863,7 @@
    "id": "49a5db04d2e8c7d8",
    "first_seen": "2026-10-23T08:42:43.681732+00:00",
    "is_new": false,
-   "days_listed": 3
+   "days_listed": 4
   },
   {
    "title": "Senior Backend Engineer, India",
@@ -1880,7 +1877,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1899,7 +1896,7 @@
    "id": "724d0e430d5eac9f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Staff Frontend Engineer",
@@ -1913,7 +1910,7 @@
     "graphql"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1921,10 +1918,10 @@
    "salary_lpa": null,
    "match_score": 27,
    "match_hits": [
-    "evaluation",
+    "guardrails",
     "postgresql",
     "typescript",
-    "guardrails",
+    "evaluation",
     "kubernetes",
     "docker",
     "react"
@@ -1935,7 +1932,7 @@
    "id": "41373ffd9ec44d47",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 32
+   "days_listed": 33
   },
   {
    "title": "Senior Backend Engineer",
@@ -1949,7 +1946,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 26,
+   "age_days": 27,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1967,13 +1964,13 @@
    "id": "f9fbc28db130acad",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
+   "days_listed": 49
   },
   {
    "title": "Staff-Data Engineer",
    "location": "Home-India",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-India/Senior-Data-Scientist---Content-Engineering_16705",
-   "posted_at": "Posted 13 Days Ago",
+   "posted_at": "Posted 14 Days Ago",
    "description": "16705",
    "department": "",
    "veto": null,
@@ -1997,7 +1994,7 @@
    "id": "4dd4507218148dcc",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 12
+   "days_listed": 13
   },
   {
    "title": "Senior Software Engineer, SSCS : Authentication",
@@ -2012,7 +2009,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2028,7 +2025,7 @@
    "id": "d383435b6c15aa76",
    "first_seen": "2026-10-16T08:21:27.059858+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Lead Database Administrator",
@@ -2066,7 +2063,7 @@
    "id": "f572d14f95ae5377",
    "first_seen": "2026-10-20T08:44:40.415719+00:00",
    "is_new": false,
-   "days_listed": 6
+   "days_listed": 7
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -2078,7 +2075,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2086,11 +2083,11 @@
    "salary_lpa": null,
    "match_score": 66,
    "match_hits": [
-    "ai engineer",
     "multi-agent",
-    "evaluation",
+    "ai engineer",
     "embeddings",
     "guardrails",
+    "evaluation",
     "python",
     "vector",
     "rag"
@@ -2101,7 +2098,7 @@
    "id": "b12da8b27b841f15",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 31
+   "days_listed": 32
   },
   {
    "title": "Lead Software Engineer - Site Reliability",
@@ -2113,7 +2110,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 31,
+   "age_days": 32,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2129,7 +2126,7 @@
    "id": "51f08f6bb890441a",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 31
+   "days_listed": 32
   },
   {
    "title": "Lead Software Engineer - Full Stack",
@@ -2141,9 +2138,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 104 days ago"
+    "posted 105 days ago"
    ],
-   "age_days": 104,
+   "age_days": 105,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2159,37 +2156,7 @@
    "id": "99eba567d0eb0c37",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 48
-  },
-  {
-   "title": "AI Engineer II",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/AI-Engineer-II_R-294112",
-   "posted_at": "Posted Today",
-   "description": "R-294112",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 1,
-   "experience_note": "Years not stated",
-   "salary_lpa": null,
-   "match_score": 30,
-   "match_hits": [
-    "ai engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "e1aa4a33093779b2",
-   "first_seen": "2026-10-26T09:21:52.057257+00:00",
-   "is_new": true,
-   "days_listed": 0
+   "days_listed": 49
   },
   {
    "title": "Software Engineer II",
@@ -2222,41 +2189,11 @@
    "days_listed": 7
   },
   {
-   "title": "Senior AI Engineer",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-AI-Engineer_R-294103-1",
-   "posted_at": "Posted Today",
-   "description": "R-294103",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 30,
-   "match_hits": [
-    "ai engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "9e7bcb5817e02abe",
-   "first_seen": "2026-10-26T09:21:52.057257+00:00",
-   "is_new": true,
-   "days_listed": 0
-  },
-  {
    "title": "Senior Software Engineer",
    "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-294414",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-294157",
    "posted_at": "Posted Today",
-   "description": "R-294414",
+   "description": "R-294157",
    "department": "",
    "veto": null,
    "skill_gaps": [],
@@ -2276,18 +2213,18 @@
    "company": "Mastercard",
    "company_tier": "india",
    "portal": "workday",
-   "id": "4a7c41704db9f218",
+   "id": "3da461ba19d5f31f",
    "duplicates": 1,
-   "first_seen": "2026-10-26T09:21:52.057257+00:00",
+   "first_seen": "2026-10-27T09:12:05.643073+00:00",
    "is_new": true,
    "days_listed": 0
   },
   {
-   "title": "Manager, Software Engineering",
+   "title": "Lead Software Engineer (Architect)",
    "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-292791",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer--Architect-_R-292058",
    "posted_at": "Posted Today",
-   "description": "R-292791",
+   "description": "R-292058",
    "department": "",
    "veto": null,
    "skill_gaps": [],
@@ -2307,38 +2244,8 @@
    "company": "Mastercard",
    "company_tier": "india",
    "portal": "workday",
-   "id": "eba1f9b08883358f",
-   "first_seen": "2026-10-07T10:26:37.775128+00:00",
-   "is_new": false,
-   "days_listed": 18
-  },
-  {
-   "title": "Lead Data Engineer",
-   "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Data-Engineer_R-289561",
-   "posted_at": "Posted Today",
-   "description": "R-289561",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [
-    "thin description"
-   ],
-   "age_days": null,
-   "location_tier": 6,
-   "location_label": "Pune",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 20,
-   "match_hits": [
-    "data engineer"
-   ],
-   "company": "Mastercard",
-   "company_tier": "india",
-   "portal": "workday",
-   "id": "b18e28aa09ba5023",
-   "first_seen": "2026-10-26T09:21:52.057257+00:00",
+   "id": "532384f7c577f347",
+   "first_seen": "2026-10-27T09:12:05.643073+00:00",
    "is_new": true,
    "days_listed": 0
   }
