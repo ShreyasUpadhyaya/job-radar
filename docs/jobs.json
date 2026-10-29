@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T09:53:17.948421+00:00",
+ "generated_at": "2026-10-29T10:14:48.466390+00:00",
  "cadence": "daily",
  "companies_checked": 171,
  "companies_total": 347,
@@ -39,7 +39,6 @@
   "DroneDeploy": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Droom": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "DuckDuckGo": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "EBSCO Information Services": "HTTPStatusError: Client error '405 Not Allowed' for url 'https://careers-ebscoind.icims.com/jobs/search?ss=1&searchRelation=keyword_all&in_iframe=1'",
   "EPAM": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EarthOfDrones": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EaseMyTrip": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
@@ -76,12 +75,12 @@
   "Zypp Electric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "redBus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'"
  },
- "postings_seen": 4571,
- "duplicates_merged": 0,
- "matches": 63,
+ "postings_seen": 4502,
+ "duplicates_merged": 3,
+ "matches": 66,
  "vetoed": {},
- "new_today": 6,
- "closed_since": 8,
+ "new_today": 5,
+ "closed_since": 4,
  "jobs": [
   {
    "title": "Machine Learning Engineer",
@@ -96,7 +95,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 14,
+   "age_days": 15,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -118,7 +117,7 @@
    "id": "972d24ce152b4464",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer, Security Platform",
@@ -133,7 +132,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 14,
+   "age_days": 15,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -149,7 +148,7 @@
    "id": "486ab52c4ff4a137",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer - Secure Container Images",
@@ -164,9 +163,9 @@
     "rust"
    ],
    "flags": [
-    "posted 63 days ago"
+    "posted 64 days ago"
    ],
-   "age_days": 63,
+   "age_days": 64,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -186,7 +185,7 @@
    "id": "210e4fe5a367aeda",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
@@ -200,9 +199,9 @@
     "rust"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -220,7 +219,7 @@
    "id": "5f91dffa74c5f3b2",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Senior Machine Learning Engineer",
@@ -235,7 +234,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 14,
+   "age_days": 15,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -257,7 +256,7 @@
    "id": "897d874ea0f0c95e",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Senior Software Engineer - Data Platform",
@@ -272,7 +271,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -283,8 +282,8 @@
     "software engineer",
     "airflow",
     "python",
-    "kafka",
     "spark",
+    "kafka",
     "sql"
    ],
    "company": "Coinbase",
@@ -292,8 +291,8 @@
    "portal": "greenhouse",
    "id": "124374c25297f533",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
-   "is_new": true,
-   "days_listed": 0
+   "is_new": false,
+   "days_listed": 1
   },
   {
    "title": "MLOps Field Engineer",
@@ -309,9 +308,9 @@
     "kubeflow"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -320,12 +319,12 @@
    "match_score": 51,
    "match_hits": [
     "kubernetes",
-    "python",
     "mlflow",
-    "mlops",
+    "python",
     "spark",
-    "aws",
-    "sql"
+    "mlops",
+    "sql",
+    "aws"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -333,7 +332,7 @@
    "id": "89a6bbd45c957422",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Python Engineer",
@@ -349,9 +348,9 @@
     "grpc"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -363,8 +362,8 @@
     "kubernetes",
     "docker",
     "edge",
-    "sql",
-    "c++"
+    "c++",
+    "sql"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -372,7 +371,7 @@
    "id": "5d24f8c1907d1205",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -388,9 +387,9 @@
     "clickhouse"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -401,8 +400,8 @@
     "software engineer",
     "kubernetes",
     "airflow",
-    "python",
     "mlflow",
+    "python",
     "docker",
     "aws"
    ],
@@ -412,7 +411,7 @@
    "id": "3cd0e0c2f8129887",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer - Python and K8s",
@@ -424,9 +423,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -447,7 +446,7 @@
    "id": "fc7005194a2a0bcf",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -461,9 +460,9 @@
     "go"
    ],
    "flags": [
-    "posted 63 days ago"
+    "posted 64 days ago"
    ],
-   "age_days": 63,
+   "age_days": 64,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -484,7 +483,7 @@
    "id": "71a7fb06055356bb",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer, Cloud - Sustaining Engineering",
@@ -498,9 +497,9 @@
     "go"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -521,7 +520,7 @@
    "id": "6f24a2c795ced861",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer - L3 Support",
@@ -535,9 +534,9 @@
     "go"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -558,7 +557,7 @@
    "id": "b95c5600b7c162ba",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer, Sustaining Engineering",
@@ -572,9 +571,9 @@
     "go"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -595,7 +594,7 @@
    "id": "3fd2583778e05409",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Linux Devices Software Engineer",
@@ -610,9 +609,9 @@
     "rust"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -632,7 +631,7 @@
    "id": "8e35405280dd53e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Go (Golang) Software Engineer, Developer Tooling and Containers",
@@ -647,7 +646,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 20,
+   "age_days": 21,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -667,7 +666,7 @@
    "id": "0eddfe107c2f48f3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
@@ -679,9 +678,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -701,7 +700,7 @@
    "id": "ce1d173b849babb6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -717,7 +716,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 22,
+   "age_days": 23,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -736,7 +735,7 @@
    "id": "7d8ba08f7e1d7bf8",
    "first_seen": "2026-10-06T10:35:20.890716+00:00",
    "is_new": false,
-   "days_listed": 21
+   "days_listed": 22
   },
   {
    "title": "Junior Ubuntu Software Engineer",
@@ -751,9 +750,9 @@
     "rust"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -772,7 +771,7 @@
    "id": "52929cfe97d8f85a",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
@@ -787,9 +786,9 @@
     "rust"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -808,7 +807,7 @@
    "id": "ce408466319dc35b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Security Software Engineer",
@@ -826,9 +825,9 @@
     "php"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -847,7 +846,7 @@
    "id": "be1de3b5e41341f4",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer - Solutions Engineering",
@@ -861,9 +860,9 @@
     "golang"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -881,7 +880,7 @@
    "id": "7310719a2be22e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Ubuntu Software Engineer",
@@ -896,9 +895,9 @@
     "rust"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -916,7 +915,7 @@
    "id": "6caffa67411ed0e3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer - App Stores",
@@ -930,9 +929,9 @@
     "golang"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -949,7 +948,7 @@
    "id": "4727884cced45711",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Alliances Field Engineer",
@@ -965,9 +964,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -979,8 +978,8 @@
     "postgresql",
     "mongodb",
     "python",
-    "kafka",
     "spark",
+    "kafka",
     "edge",
     "aws"
    ],
@@ -990,13 +989,13 @@
    "id": "37cb7a5898f98ab3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Associate Software Engineer",
    "location": "US-Remote",
    "url": "https://kellyservices.wd503.myworkdayjobs.com/en-US/corporatecareers-kellyservices-com/job/US-Remote/Associate-Software-Engineer_14589",
-   "posted_at": "Posted 8 Days Ago",
+   "posted_at": "Posted 9 Days Ago",
    "description": "14589",
    "department": "",
    "veto": null,
@@ -1020,7 +1019,7 @@
    "id": "04ab029964f0b3aa",
    "first_seen": "2026-10-26T09:21:52.057257+00:00",
    "is_new": false,
-   "days_listed": 2
+   "days_listed": 3
   },
   {
    "title": "Staff Software Engineer, Customer Administration",
@@ -1038,7 +1037,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 13,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1047,13 +1046,13 @@
    "match_score": 62,
    "match_hits": [
     "software engineer",
-    "kubernetes",
     "evaluation",
+    "kubernetes",
     "guardrails",
     "python",
     "kafka",
-    "aws",
-    "sql"
+    "sql",
+    "rag"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -1061,7 +1060,7 @@
    "id": "96b5f8fab6f5c3a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Staff Software Engineer, Security Platform",
@@ -1076,7 +1075,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 14,
+   "age_days": 15,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1092,7 +1091,7 @@
    "id": "4a3092df3189ad5c",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Embedded Linux Senior Software Engineer - Optimisation",
@@ -1104,9 +1103,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1125,7 +1124,7 @@
    "id": "8c5234f46a324b14",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Cloud Solutions Architect - Alliances",
@@ -1141,9 +1140,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 83 days ago"
+    "posted 84 days ago"
    ],
-   "age_days": 83,
+   "age_days": 84,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1155,8 +1154,8 @@
     "postgresql",
     "mongodb",
     "python",
-    "kafka",
     "spark",
+    "kafka",
     "edge",
     "aws"
    ],
@@ -1166,13 +1165,13 @@
    "id": "ae88c5d854f51f22",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Sr Forward Deployed Engineer",
    "location": "Noida",
    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
-   "posted_at": "Posted 15 Days Ago",
+   "posted_at": "Posted 16 Days Ago",
    "description": "R172762",
    "department": "",
    "veto": null,
@@ -1196,7 +1195,7 @@
    "id": "682e11ccdd27afa4",
    "first_seen": "2026-10-14T08:53:54.476366+00:00",
    "is_new": false,
-   "days_listed": 14
+   "days_listed": 15
   },
   {
    "title": "AI Specialist II",
@@ -1214,7 +1213,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 0,
@@ -1225,11 +1224,11 @@
     "hugging face",
     "fine-tuning",
     "evaluation",
-    "guardrails",
     "embeddings",
+    "guardrails",
     "langchain",
     "langgraph",
-    "python"
+    "vector"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1237,7 +1236,7 @@
    "id": "699aab2948cd6bf1",
    "first_seen": "2026-09-28T10:11:54.544028+00:00",
    "is_new": false,
-   "days_listed": 29
+   "days_listed": 31
   },
   {
    "title": "Data Scientist III (Team- Valmo)",
@@ -1249,9 +1248,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 412 days ago"
+    "posted 413 days ago"
    ],
-   "age_days": 412,
+   "age_days": 413,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1270,13 +1269,13 @@
    "id": "f2d993091a5cccd2",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 14
+   "days_listed": 15
   },
   {
    "title": "Intermediate Backend Engineer, India",
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
-   "posted_at": "2026-10-15T15:24:46-04:00",
+   "posted_at": "2026-10-28T12:23:39-04:00",
    "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h2 strong About the role /strong /h2 p As an Intermediate Backend Engineer, you will take backend features and improvements from clarifying the problem through shipping them and following up in production. You will work within a product area, partnering with Product Management, Frontend, Infrastructure, and Security to deliver predictably and contribute to the quality, security, performance, and maintainability of shared backend code and services. You will be trusted to work with minimal guidance, to know when to seek help, and to communicate clearly in a remote, asynchronous environment \u2014 with other tenured engineers alongside you to review your work, think through hard problems with you, and help you grow. /p h2 strong Why you\u2019ll love this role /strong /h2 ul li strong Ownership: /strong You&#39;ll take features from requirements through delivery and follow-up; your code will run on a platform used by millions of users. /li li strong Learning and Growth : /strong You\u2019ll work alongside your engineering team, who treat code review and design review as a learning loop rather than a gate \u2014 one of the fastest ways to grow your engineering judgment. /li li strong Innovative Culture: /strong You\u2019ll use AI as a genuine part of daily engineering work, developing the judgment to know when to trust it and when not to. /li li strong Autonomy: /strong You\u2019ll thrive in our remote-first, asynchronous organization, where clear written communication and self-direction are the pillars of success. /li li strong User-Centric Collaboration: /strong You\u2019ll partner closely with PMs and designers to shape requirements, so you understand why you\u2019re building something, not just what. /li /ul h2 strong What you\u2019ll do /strong /h2 ul li strong Own and Ship Features: /strong Design, implement, test, and ship backend features and improvements with minimal guidance, working in Ruby/Rails, Go, or any other modern languages. /li li strong Build for Production: /strong Write maintainable, secure, observable, and performant code. Design and maintain APIs, background jobs, integrations, and bounded service functionality, and work with data models, migrations, indexes, and query behavior. /li li strong Test and Review: /strong Add and improve automated coverage \u2014 unit, integration, contract, and end-to-end where appropriate \u2014 and review others\u2019 code for correctness, maintainability, security, performance, and operational risk. /li li strong Operate What You Build: /strong Investigate build, test, deployment, and runtime failures at the feature boundary, identify technical debt and propose practical improvements, and take part in on-call or operational support where your team\u2019s ownership model requires it. /li li strong Leverage AI: /strong Use AI productively in daily work, validate what it produces, and understand where its limitations matter. /li /ul h2 strong What you\u2019ll bring /strong /h2 ul li strong Backend Fundamentals: /strong Professional experience building and shipping production backend applications, with strong programming, API, database, testing, debugging, and performance fundamentals. /li li strong Adaptability: /strong Experience with Ruby/Rails, Go, or any other modern backend language. We value the ability to learn and adapt over mastery of a single language. /li li strong Feature Ownership: /strong The ability to take a feature from clarification through delivery and follow-up, working independently while seeking input at the right time. /li li strong Practical Judgment: /strong Sound instincts about security, reliability, performance, maintainability, and operational risk, plus an understanding of modular backend boundaries and the consequences of coupling. /li li strong Clear Communication: /strong Strong written communication and effective collaboration in a remote, asynchronous environment. /li li strong AI Fluency: /strong Practical experience with AI coding tools, including the ability to review and correct what they generate. /li /ul h2 strong Helpful experience /strong /h2 ul li Production Go services, APIs, concurrency, profiling, or gRPC. /li li Docker, Kubernetes, Helm, CI/CD, or cloud deployment. /li li Rust, particularly for systems, security, performance, or platform work. /li li PostgreSQL, schema evolution, caching, queues, messaging, or event-driven workflows. /li li Observability using metrics, logs, traces, dashboards, and alerts. /li li Contributing to a modular monolith, bounded context, shared component, or independently operated service. /l",
    "department": "Engineering",
    "veto": null,
@@ -1287,7 +1286,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1308,7 +1307,7 @@
    "id": "c82729b762e9099f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Data Scientist II",
@@ -1320,7 +1319,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 0,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1335,8 +1334,8 @@
    "portal": "smartrecruiters",
    "id": "9395a7a3a8356759",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
-   "is_new": true,
-   "days_listed": 0
+   "is_new": false,
+   "days_listed": 1
   },
   {
    "title": "Data Scientist III",
@@ -1348,9 +1347,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 1083 days ago"
+    "posted 1084 days ago"
    ],
-   "age_days": 1083,
+   "age_days": 1084,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1366,7 +1365,7 @@
    "id": "59e8dcd0b3f7e4e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer, Backend",
@@ -1378,9 +1377,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 3043 days ago"
+    "posted 3044 days ago"
    ],
-   "age_days": 3043,
+   "age_days": 3044,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1396,13 +1395,13 @@
    "id": "5fad81823b936e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "AI-Augmented Software Engineer",
    "location": "Home-India",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-India/AI-Augmented-Software-Engineer_17778",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "17778",
    "department": "",
    "veto": null,
@@ -1425,14 +1424,14 @@
    "portal": "workday",
    "id": "a6281638ef1b8a92",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
-   "is_new": true,
-   "days_listed": 0
+   "is_new": false,
+   "days_listed": 1
   },
   {
    "title": "Software Engineer",
    "location": "Bangalore",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Bangalore/Software-Engineer_17469-2",
-   "posted_at": "Posted 21 Days Ago",
+   "posted_at": "Posted 22 Days Ago",
    "description": "17469",
    "department": "",
    "veto": null,
@@ -1456,13 +1455,13 @@
    "id": "41164f86c68e0242",
    "first_seen": "2026-09-22T08:41:45.546750+00:00",
    "is_new": false,
-   "days_listed": 36
+   "days_listed": 37
   },
   {
    "title": "Software Engineer, Delivery : Release",
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8916232002",
-   "posted_at": "2026-10-28T00:26:37-04:00",
+   "posted_at": "2026-10-28T12:23:39-04:00",
    "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div p The Software Delivery Section, part of the Infrastructure Platforms Department, is dedicated to enhancing the safety, reliability, and overall customer experience of GitLab\u2019s complete software delivery process. We aim to provide seamless and efficient delivery of GitLab products across all platforms, including SaaS multi-tenant, self-managed, and SaaS single-tenant environments. Our primary goals are to accelerate delivery cycles, minimize incidents, and ensure high-quality releases that consistently meet and exceed customer expectations. By focusing on these objectives, we aim to improve GitLab\u2019s end-to-end software delivery process, making it more reliable, efficient, and aligned with the needs of our users. /p p strong Responsibilities /strong /p p Backend Engineers with the Software Delivery:Release bring not only a strong background in backend development but also a solid understanding of, or keen interest in, infrastructure and operations. In this role, you will work alongside Site Reliability Engineers (SREs) to enhance release management tooling, infrastructure, and processes. While SREs approach these responsibilities from an operational standpoint, Backend Engineers provide a software development perspective, collaborating closely to deliver efficient and safe solutions for streamlined code delivery across various supported environments. This role is ideal for individuals with a strong coding background who are also comfortable working on infrastructure, automation and operations-related topics or are motivated to develop expertise in these areas. /p ul li Guarantee the a href= https://about.gitlab.com/handbook/engineering/releases/ GitLab Release Process /a /li li Create new tools and frameworks to automate the release process /li li Build new GitLab release features to replace existing custom tooling by contributing to a href= https://theseus.gitlab.net/platform/components/release-framework/ new work for our Release Framework /a nbsp; /li li Work with individual teams on defining and implementing solutions that will help them release quicker /li li Create frameworks that allow engineers to write code that scales with demand /li li Help teams instrument their code and helps recognize parts of code that could benefit from increased observability /li li Work closely with peer Infrastructure Platforms groups to control the impact of application code running in user facing products /li li Help communicate the release schedule clearly with others /li li Develop monitoring and alerting to measure release process velocity /li li Identify process bottlenecks and introduce optimizations /li li Participate in a href= https://handbook.gitlab.com/handbook/engineering/deployments-and-releases/#release-managers Release Manager /a rotation /li /ul p strong Requirements /strong /p p As an ideal candidate, you will have nbsp; /p ul li Strong coding background. Mandatory Ruby or Go (willing to learn Ruby is a must). Proficiency with Ruby is a strong plus. a href= https://about.gitlab.com/job-families/engineering/backend-engineer/#professional-experience Ruby on Rails /a knowledge is not mandatory /li li Experience working on large-scale systems /li li Experience optimizing Continuous Delivery and Continuous Deployment pipelines as well as the tooling and processes that go with them /li li Interest in cloud platforms, containerization, and Infrastructure as Code tools /li li Application and systems observability background /li li Collaboration mindset, boundless curiosity and a demonstrable ability to learn /li li A product development mindset when developing new components /li /ul p nbsp;You share our a href= https://about.gitlab.com/handbook/values/ values /a , and work in accordance with those values. /p p strong Performance indicators /strong /p p The Delivery team has the following performance indicators: /p ul li a href= https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp Mean Time to Production /a nbsp; /li /ul p nbsp; /p div class= content-conclusion h4 strong How GitLab Supports Full-Time Employees /strong /h4 ul li a href= https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/ Benefits to support your health, finances, and well-being /a /li li a href= https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto Flexible Paid Time Off nbsp; /a /li li a href= https://handbook.gitlab.com/handbook/compa",
    "department": "Platforms Engineering",
    "veto": null,
@@ -1486,8 +1485,8 @@
    "portal": "greenhouse",
    "id": "7722ce0b0fb0d740",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
-   "is_new": true,
-   "days_listed": 0
+   "is_new": false,
+   "days_listed": 1
   },
   {
    "title": "Senior Software Engineer, Applied AI and Customer Solutions",
@@ -1502,7 +1501,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1517,7 +1516,7 @@
     "langchain",
     "langgraph",
     "python",
-    "duckdb"
+    "docker"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1525,7 +1524,7 @@
    "id": "12a27588e9c0dff0",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -1537,7 +1536,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1548,11 +1547,11 @@
     "ai engineer",
     "multi-agent",
     "evaluation",
-    "guardrails",
     "embeddings",
-    "python",
+    "guardrails",
     "vector",
-    "llm"
+    "python",
+    "rag"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -1560,7 +1559,7 @@
    "id": "4bc261e756fa0fc6",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 33
+   "days_listed": 34
   },
   {
    "title": "Enterprise Agentic AI Architect",
@@ -1572,7 +1571,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1585,8 +1584,8 @@
     "guardrails",
     "agentic",
     "ci/cd",
-    "llm",
-    "rag"
+    "rag",
+    "llm"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1594,7 +1593,7 @@
    "id": "dc224d106d7b1500",
    "first_seen": "2026-10-15T08:28:49.828241+00:00",
    "is_new": false,
-   "days_listed": 13
+   "days_listed": 14
   },
   {
    "title": "Lead Gen-AI Engineer",
@@ -1606,7 +1605,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 28,
+   "age_days": 29,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1618,8 +1617,8 @@
     "evaluation",
     "vector",
     "ci/cd",
-    "llm",
-    "rag"
+    "rag",
+    "llm"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1627,7 +1626,7 @@
    "id": "cc9cd6cb8715e76b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Field Chief Technology Officer (Field CTO)",
@@ -1642,9 +1641,9 @@
     "ray"
    ],
    "flags": [
-    "posted 68 days ago"
+    "posted 69 days ago"
    ],
-   "age_days": 68,
+   "age_days": 69,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1667,7 +1666,7 @@
    "id": "e73ffdf1e4f2f9f8",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Staff Software Engineer - Infrastructure (AI Native)",
@@ -1683,7 +1682,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 4,
+   "age_days": 5,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1692,8 +1691,8 @@
    "match_score": 45,
    "match_hits": [
     "software engineer",
-    "kubernetes",
     "evaluation",
+    "kubernetes",
     "guardrails",
     "ci/cd",
     "edge",
@@ -1705,7 +1704,7 @@
    "id": "f538d87d72170116",
    "first_seen": "2026-10-08T10:47:21.919462+00:00",
    "is_new": false,
-   "days_listed": 19
+   "days_listed": 20
   },
   {
    "title": "Consulting Architect - Search",
@@ -1720,7 +1719,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 26,
+   "age_days": 27,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1731,11 +1730,11 @@
     "fine-tuning",
     "kubernetes",
     "embeddings",
-    "python",
     "vector",
+    "python",
     "docker",
-    "aws",
-    "rag"
+    "rag",
+    "aws"
    ],
    "company": "Elastic",
    "company_tier": "global",
@@ -1743,7 +1742,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Senior Product Manager, Applied AI",
@@ -1755,7 +1754,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1763,8 +1762,8 @@
    "salary_lpa": null,
    "match_score": 36,
    "match_hits": [
-    "evaluation",
-    "applied ai"
+    "applied ai",
+    "evaluation"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1772,7 +1771,7 @@
    "id": "8b47ba910500b266",
    "first_seen": "2026-09-30T09:51:42.693508+00:00",
    "is_new": false,
-   "days_listed": 28
+   "days_listed": 29
   },
   {
    "title": "Senior Data Engineer",
@@ -1788,9 +1787,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 258 days ago"
+    "posted 259 days ago"
    ],
-   "age_days": 258,
+   "age_days": 259,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1801,8 +1800,8 @@
     "data engineer",
     "python",
     "ci/cd",
-    "aws",
-    "sql"
+    "sql",
+    "aws"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1810,7 +1809,7 @@
    "id": "e060dee28bc45c7f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Field Architect ",
@@ -1824,9 +1823,9 @@
     "databricks"
    ],
    "flags": [
-    "posted 47 days ago"
+    "posted 48 days ago"
    ],
-   "age_days": 47,
+   "age_days": 48,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1834,13 +1833,13 @@
    "salary_lpa": null,
    "match_score": 34,
    "match_hits": [
-    "kubernetes",
     "evaluation",
+    "kubernetes",
     "tensorflow",
     "inference",
     "pytorch",
-    "kafka",
     "spark",
+    "kafka",
     "edge"
    ],
    "company": "MinIO",
@@ -1849,13 +1848,13 @@
    "id": "706cbf44d771a761",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Staff Backend Engineer, India",
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775136002",
-   "posted_at": "2026-10-15T15:24:46-04:00",
+   "posted_at": "2026-10-28T12:23:39-04:00",
    "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h2 strong About the role /strong /h2 p As a Staff Backend Engineer, you will provide technical leadership across your team and adjacent teams, solving the highest-scope and most complex problems in your area. You will lead large, cross-cutting backend initiatives, drive our modular architecture strategy, and define the standards that let teams move faster without compromising quality, security, reliability, or operability. /p p This is a technical leadership role that combines deep backend expertise, systems judgment, product judgment, and influence across organizational boundaries. You will work with Product, Frontend, Infrastructure, Security, Data, Engineering Managers, and engineers across product groups, bringing subject matter expertise, and you will do it without relying on formal authority. /p h2 strong Why you\u2019ll love this role /strong /h2 ul li strong Leverage: /strong Your work multiplies across teams. The platforms, standards, and architectural decisions you lead determine how quickly everyone else can ship. /li li strong Genuinely Hard Problems: /strong You\u2019ll lead the modernization of a large monolith toward modular, reusable, appropriately independent systems \u2014 at the scale of a platform used by millions of users. /li li strong Influence Without Bureaucracy: /strong You\u2019ll shape technical direction across teams through clear written proposals and decision records, and partner with Product and Engineering leadership on platform roadmap and investment trade-offs. /li li strong Frontier AI Work: /strong You\u2019ll lead adoption of AI-assisted and agentic engineering workflows and define the review, quality, security, and privacy guardrails that make them safe to rely on. /li li strong Autonomy: /strong You\u2019ll thrive in our remote-first, asynchronous organization, where clear written communication and self-direction are the pillars of success. /li /ul h2 strong What you\u2019ll do /strong /h2 ul li strong Lead Cross-Cutting Initiatives: /strong Lead the technical design and delivery of large backend initiatives that span teams, and identify and remove systemic bottlenecks across product and infrastructure groups. /li li strong Own Architecture Strategy: /strong Drive modular backend, service, data, and platform architecture. Lead modernization of the monolith and legacy backends toward modular, reusable, and appropriately independently operated systems \u2014 while preventing fragmentation and service sprawl. /li li strong Set the Standards: /strong Define and improve standards for APIs, contracts, compatibility, schema evolution, testing, security, performance, observability, operability, and maintainability \u2014 plus the build, test, deploy, release, rollback, and production-readiness practices needed to operate modular features safely. /li li strong Establish Shared Patterns: /strong Create the patterns for dependency management, data ownership, eventing, failure isolation, service maturity, and operational documentation. Establish Go service patterns and Kubernetes operating practices where they matter to our production estate, and guide Rust adoption where it solves a real systems, security, performance, or supply-chain problem. /li li strong Own What You Build in Production: /strong Take part in on-call and incident response for the systems your teams own, act as a technical escalation point during complex incidents, and turn what you learn into architectural and operational improvements that prevent recurrence. /li li strong Influence and Partner: /strong Shape technical direction across teams without formal authority, and partner with Product and Engineering leadership on platform-level roadmap decisions and investment trade-offs. /li li strong Grow Engineers: /strong Mentor Senior and Intermediate engineers, shepherd technical debt reduction and reusable patterns that improve throughput, and raise the technical capability of the wider team. /li li strong Lead AI Adoption: /strong Lead team-level adoption of AI-assisted and agentic workflows, including the quality, security, privacy, and operational guardrails, and help engineers direct, validate, reject, and course-correct agent output. /li /ul h2 strong What you\u2019ll bring /strong /h2 ul li strong Cross-Team Technical Leadership: /strong A sustained record of technical leadership across more than one team or a broad product area. /li li strong Deep Architecture Experience: /strong Deep backend architecture and production experience in complex applications, services, or platforms, including scal",
    "department": "Engineering",
    "veto": null,
@@ -1864,7 +1863,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1883,7 +1882,7 @@
    "id": "e96ab9eb11c4998d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Software Engineer",
@@ -1897,7 +1896,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1916,13 +1915,13 @@
    "id": "49a5db04d2e8c7d8",
    "first_seen": "2026-10-23T08:42:43.681732+00:00",
    "is_new": false,
-   "days_listed": 5
+   "days_listed": 6
   },
   {
    "title": "Senior Backend Engineer, India",
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716143002",
-   "posted_at": "2026-10-15T15:24:46-04:00",
+   "posted_at": "2026-10-28T12:23:39-04:00",
    "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h2 About the role /h2 p As a Senior Backend Engineer, you will design, implement, and evolve product capabilities while solving high-scope backend problems and influencing the technical and product direction of our teams. You will move beyond assigned work to actively improve the quality, reliability, and performance of our systems. You will work across product, frontend, infrastructure, data, and security boundaries, making sound architectural trade-offs, communicating complex ideas clearly in an asynchronous environment, and helping define the standards for a high-scale, global product. /p h2 Why you\u2019ll love this role /h2 ul li strong High Impact: /strong You aren&#39;t just shipping features; you are shaping the architecture of a global platform used by millions. /li li strong Technical Agency: /strong You will influence team objectives, technical direction, and long-range goals, helping us solve problems of high scope and complexity. /li li strong Innovative Culture: /strong You will get to experiment with and integrate agentic AI into production engineering workflows, moving beyond simple prompt engineering to build resilient, AI-assisted systems. /li li strong Autonomy: /strong You will thrive in our remote-first, asynchronous organization, where clear written communication and self-direction are the pillars of success. /li li strong User-Centric Collaboration: /strong You\u2019ll partner closely with PMs and designers to shape requirements, ensuring every technical decision delivers genuine value to our users. /li /ul h2 What you\u2019ll do /h2 ul li strong Drive Technical Direction: /strong Design and ship moderate to complex backend features with minimal guidance, making pragmatic choices between modular-monolith code, shared components, or independently operated services. /li li strong Raise the Bar: /strong Advocate for product quality, security, availability, and performance. You will define backend standards for style, maintainability, testing, APIs, and operational readiness. /li li strong Mentor amp; Lead: /strong Mentor associate and intermediate engineers, remove technical blockers, and improve team delivery practices through code and design reviews. /li li strong Operational Excellence: /strong Diagnose and prevent performance/reliability issues at scale. Participate in incident response and act as a technical owner where appropriate. /li li strong AI Integration: /strong Use AI in production engineering work to improve outcomes, evaluate its effectiveness, and coach others on responsible, high-judgment use. /li /ul h2 What you\u2019ll bring /h2 ul li strong Deep Backend Expertise: /strong A strong command of backend architecture, APIs, data systems, and performance tuning in a complex product or service environment. /li li strong Adaptability: /strong Proficiency in modern backend languages and a deep understanding of systems programming. We value the ability to learn and adapt over mastery of a single language. /li li strong Architectural Judgment: /strong Experience designing or evolving modular backend boundaries, bounded contexts, and migration-safe architectures. /li li strong Influence: /strong Ability to lead through influence, technical judgment, and clear written communication, effectively bridging the gap between product needs and technical reality. /li li strong Agentic AI Expertise: /strong Proven experience building or operating agentic systems in production\u2014moving beyond prompt engineering to architecting loops, tool-use, and error-handling strategies that ensure reliability at scale. /li /ul h2 Helpful experience /h2 ul li Experience with high-throughput distributed systems, concurrency, or profiling. /li li Hands-on experience with containerized production operations (e.g., Kubernetes). /li li Deep database performance knowledge (e.g., PostgreSQL, ClickHouse, schema evolution, partitioning). /li li Background in large-scale modular monoliths or event-driven systems. /li li Public technical communication, open-source maintenance, or experience in developer-focused SaaS. /li /ul div class= content-conclusion h4 strong How GitLab Supports Full-Time Employees /strong /h4 ul li a href= https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/ Benefits to support your health, finances, and well-being /a /li li a href= https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto Flexible Paid Time Off nbsp; /a /li li a href= https://handbook.gitlab.com/h",
    "department": "Engineering",
    "veto": null,
@@ -1930,7 +1929,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1939,8 +1938,8 @@
    "match_score": 30,
    "match_hits": [
     "backend engineer",
-    "postgresql",
     "kubernetes",
+    "postgresql",
     "autonomy"
    ],
    "company": "GitLab",
@@ -1949,13 +1948,13 @@
    "id": "724d0e430d5eac9f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Staff Frontend Engineer",
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8826965002",
-   "posted_at": "2026-10-15T15:24:46-04:00",
+   "posted_at": "2026-10-28T12:23:39-04:00",
    "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h1 Staff Frontend Engineer /h1 h2 An overview of this role /h2 p As a Staff Frontend Engineer on the Core DevOps team, you&#39;ll provide technical leadership across your team and adjacent teams. You&#39;ll solve complex frontend problems, deliver large features with minimal guidance, and improve the architecture and standards that help teams move faster without compromising quality. /p p You&#39;ll work with product, design, engineering managers, and engineers across product groups to shape product experiences and frontend architecture for a global platform. This includes how teams use agentic artificial intelligence in engineering workflows and user experiences. /p p At GitLab, we build an all-remote, artificial intelligence-powered DevSecOps platform. You&#39;ll help shape product experiences and frontend architecture that enable everyone to contribute to and co-create the software that powers our world. /p h2 What you\u2019ll do /h2 ul li value= 1 Lead the technical design and delivery of large, complex frontend initiatives across multiple teams. /li li value= 2 Drive frontend platform, design system, and shared architecture strategy for long-term scalability. /li li value= 3 Define and improve standards for versioning, testing, documentation, accessibility, security, performance, and maintainability. /li li value= 4 Lead modernization of a monolith or legacy frontend architecture toward modular, reusable, and independently deployable systems. /li li value= 5 Establish versioned module or host contracts and build, test, deploy, release, and rollback practices for safe operations. /li li value= 6 Create shared patterns for dependency management, design system integration, observability, error isolation, and performance budgets. /li li value= 7 Guide technical direction through clear written proposals and architectural leadership. Partner with product and engineering leaders on platform roadmaps, technical debt, and investment trade-offs. /li li value= 8 Mentor senior and intermediate engineers. Establish guardrails for artificial-intelligence-assisted and agentic workflows that protect code quality, security, privacy, and evaluation standards. /li /ul h2 What you\u2019ll bring /h2 ul li value= 1 A sustained record of technical leadership across teams or a broad product area. /li li value= 2 Deep frontend architecture and production experience in complex web applications. /li li value= 3 Experience scaling or governing a design system, frontend platform, or shared component architecture. /li li value= 4 Experience with modular frontend architecture in production, such as package encapsulation, Web Components, frontend islands, runtime composition, or an equivalent architecture. /li li value= 5 Experience creating alignment without formal authority through clear written proposals and decision records. /li li value= 6 Experience balancing user outcomes, delivery speed, technical health, and long-term platform investment. /li li value= 7 Experience mentoring engineers and shaping standards through code review and documentation, including evaluating and improving artificial-intelligence-assisted or agentic engineering workflows. /li li value= 8 Helpful, but not required: experience with Vue, React, Angular, TypeScript, or JavaScript; PostgreSQL, Redis, or object storage; representational state transfer or GraphQL application programming interfaces; Kubernetes, Google Kubernetes Engine, Docker, or Google Cloud Platform; and observability tools such as Prometheus or Sentry. /li /ul h2 About the team /h2 p On the Core DevOps team, we own core repository capabilities, from Git command-line operations to web-based code exploration. We develop new features and platforms, improve existing capabilities, and improve maintainability, accessibility, performance, and workflows for teams using artificial-intelligence-assisted development tools. /p div class= content-conclusion h4 strong How GitLab Supports Full-Time Employees /strong /h4 ul li a href= https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/ Benefits to support your health, finances, and well-being /a /li li a href= https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto Flexible Paid Time Off nbsp; /a /li li a href= https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/ Team Member Resource Groups /a /li li a href= https://handbook.gitlab.com/handbook/total-rewards/stock-options/ Equity Compensation ",
    "department": "DevOps Engineering",
    "veto": null,
@@ -1963,7 +1962,7 @@
     "graphql"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1971,11 +1970,11 @@
    "salary_lpa": null,
    "match_score": 27,
    "match_hits": [
-    "kubernetes",
     "evaluation",
+    "kubernetes",
+    "typescript",
     "guardrails",
     "postgresql",
-    "typescript",
     "docker",
     "react"
    ],
@@ -1985,7 +1984,7 @@
    "id": "41373ffd9ec44d47",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 34
+   "days_listed": 35
   },
   {
    "title": "Senior Backend Engineer",
@@ -1999,7 +1998,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 28,
+   "age_days": 29,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -2017,13 +2016,13 @@
    "id": "f9fbc28db130acad",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
    "title": "Staff-Data Engineer",
    "location": "Home-India",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-India/Senior-Data-Scientist---Content-Engineering_16705",
-   "posted_at": "Posted 15 Days Ago",
+   "posted_at": "Posted 16 Days Ago",
    "description": "16705",
    "department": "",
    "veto": null,
@@ -2047,13 +2046,13 @@
    "id": "4dd4507218148dcc",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 14
+   "days_listed": 15
   },
   {
    "title": "Senior Software Engineer, SSCS : Authentication",
    "location": "Bangalore, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8878486002",
-   "posted_at": "2026-10-15T15:24:46-04:00",
+   "posted_at": "2026-10-28T12:23:39-04:00",
    "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h2 An overview of this role /h2 p Help us build the next generation of authentication services at GitLab. As a Senior Backend Engineer on the Authentication team, you&#39;ll build authentication features across the Rails monolith and GATE. GATE is our new service for issuing and validating tokens and managing identities, designed to support every GitLab deployment model. /p p You&#39;ll expand authentication mechanisms, including support for identities used by artificial intelligence (AI) agents. You&#39;ll also help keep GitLab and its customers secure by building access management tooling and addressing vulnerabilities reported through our HackerOne program. /p p GATE will become the foundation for token issuance, validation, and identity services across GitLab.com multi-tenant software as a service (SaaS), Self-Managed, Dedicated, and air-gapped environments. Your work will affect core components that customers, users, and GitLab teams rely on. /p p Some of our projects include: /p ul li value= 1 Building GATE as the centralized service for token issuance and validation /li li value= 2 Consolidating tokens and migrating authentication paths out of the Rails monolith /li li value= 3 Building passkeys and passwordless authentication /li li value= 4 Developing composite identities that combine machine and human authorization for AI /li li value= 5 Improving service accounts and secure automation /li li value= 6 Enhancing Security Assertion Markup Language (SAML), Lightweight Directory Access Protocol (LDAP), OpenID Connect (OIDC), and System for Cross-domain Identity Management (SCIM) capabilities for automated user provisioning and single sign-on (SSO) /li /ul h2 What you&#39;ll do /h2 ul li value= 1 Shape the roadmap for GATE and GitLab&#39;s authentication services with the team. /li li value= 2 Design and implement token issuance, validation, and identity services in Go and Ruby across the Rails monolith and GATE, including new authentication mechanisms such as Workload Identity Federation. /li li value= 3 Migrate authentication and token management paths from the monolith into GATE while maintaining reliability across all deployment models. /li li value= 4 Build authentication mechanisms from the ground up, such as Workload Identity Federation. /li li value= 5 Strengthen security for users and organizations through access management tooling and by addressing vulnerabilities reported through our HackerOne program. /li li value= 6 Define and improve standards for style, maintainability, and engineering practices in a high-scale environment, and advocate for them through code review. /li li value= 7 Communicate publicly about GitLab initiatives, projects, and contributions from people not working for GitLab Inc. Reflect GitLab&#39;s values in these communications. /li li value= 8 Ship moderately sized features and improvements with moderate guidance and support from other team members, and collaborate on larger projects, including the build-out of GATE. /li li value= 9 Participate in the maintainer trainee program at your own comfortable pace while working toward becoming a project maintainer. /li /ul h2 What you&#39;ll bring /h2 ul li value= 1 Professional experience with Go and/or Ruby in scaling or mission-critical SaaS products. /li li value= 2 Familiarity with authentication and authorization technologies or techniques, such as OAuth, OIDC, SAML, SSO, SCIM, LDAP, JSON Web Tokens (JWTs), role-based access control (RBAC), or identity and access management (IAM). /li li value= 3 Knowledge of token systems, cryptographic signing, and key management. /li li value= 4 Experience building or contributing to a service from concept to production, including proposal, discussion, and execution. /li li value= 5 Proficiency in written and verbal English, with the ability to communicate complex problems and solutions clearly in a remote, largely asynchronous work environment. /li li value= 6 Experience diagnosing, preventing, and resolving performance and optimization problems. /li li value= 7 Experience working in an iterative software development process, managing your work effectively, staying organized, and following through on priorities. /li /ul h2 About the team /h2 p Our mission is to empower GitLab system administrators with the toolkit they need to create their desired balance of security and accessibility for their GitLab experience. /p p Authentication is the first impression a new customer has when they configure a new GitLab instance. We ai",
    "department": "Sec Engineering",
    "veto": null,
@@ -2062,7 +2061,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 12,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2078,7 +2077,7 @@
    "id": "d383435b6c15aa76",
    "first_seen": "2026-10-16T08:21:27.059858+00:00",
    "is_new": false,
-   "days_listed": 12
+   "days_listed": 13
   },
   {
    "title": "Lead Database Administrator",
@@ -2096,7 +2095,7 @@
    "flags": [
     "vague culture language"
    ],
-   "age_days": 9,
+   "age_days": 10,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -2116,7 +2115,7 @@
    "id": "f572d14f95ae5377",
    "first_seen": "2026-10-20T08:44:40.415719+00:00",
    "is_new": false,
-   "days_listed": 8
+   "days_listed": 9
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -2128,7 +2127,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2139,11 +2138,11 @@
     "ai engineer",
     "multi-agent",
     "evaluation",
-    "guardrails",
     "embeddings",
-    "python",
+    "guardrails",
     "vector",
-    "llm"
+    "python",
+    "rag"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -2151,7 +2150,7 @@
    "id": "b12da8b27b841f15",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 33
+   "days_listed": 34
   },
   {
    "title": "Lead Software Engineer - Site Reliability",
@@ -2163,7 +2162,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 33,
+   "age_days": 34,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2179,7 +2178,7 @@
    "id": "51f08f6bb890441a",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 33
+   "days_listed": 34
   },
   {
    "title": "Lead Software Engineer - Full Stack",
@@ -2191,9 +2190,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 106 days ago"
+    "posted 107 days ago"
    ],
-   "age_days": 106,
+   "age_days": 107,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2209,14 +2208,14 @@
    "id": "99eba567d0eb0c37",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 51
+   "days_listed": 52
   },
   {
-   "title": "Data Engineer II",
+   "title": "Software Engineer II",
    "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Data-Engineer-II_R-293802",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293708",
    "posted_at": "Posted Today",
-   "description": "R-293802",
+   "description": "R-293708",
    "department": "",
    "veto": null,
    "skill_gaps": [],
@@ -2231,22 +2230,87 @@
    "salary_lpa": null,
    "match_score": 20,
    "match_hits": [
-    "data engineer"
+    "software engineer"
    ],
    "company": "Mastercard",
    "company_tier": "india",
    "portal": "workday",
-   "id": "57dc7b97590546c8",
-   "first_seen": "2026-10-28T09:53:17.948421+00:00",
+   "id": "92148ca7055abca4",
+   "first_seen": "2026-10-29T10:14:48.466390+00:00",
    "is_new": true,
    "days_listed": 0
   },
   {
-   "title": "Lead Software Engineer-2",
+   "title": "Lead Data Scientist (AI/ML, Python, Langchain, GenAI, Pyspark, SQL)",
    "location": "Pune, India",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer-2_R-290020",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Data-Scientist--AI-ML--Python--Langchain--GenAI--Pyspark--SQL-_R-293966",
    "posted_at": "Posted Today",
-   "description": "R-290020",
+   "description": "R-293966",
+   "department": "",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [
+    "thin description"
+   ],
+   "age_days": null,
+   "location_tier": 6,
+   "location_label": "Pune",
+   "experience_bucket": 2,
+   "experience_note": "Senior title",
+   "salary_lpa": null,
+   "match_score": 45,
+   "match_hits": [
+    "data scientist",
+    "langchain",
+    "python",
+    "sql"
+   ],
+   "company": "Mastercard",
+   "company_tier": "india",
+   "portal": "workday",
+   "id": "d8a8cd6b9935ca95",
+   "first_seen": "2026-10-29T10:14:48.466390+00:00",
+   "is_new": true,
+   "days_listed": 0
+  },
+  {
+   "title": "Senior Data Scientist (AI, ML, Pyspark, SQL)",
+   "location": "Pune, India",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Data-Scientist--AI--ML--Pyspark--SQL-_R-293981",
+   "posted_at": "Posted Today",
+   "description": "R-293981",
+   "department": "",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [
+    "thin description"
+   ],
+   "age_days": null,
+   "location_tier": 6,
+   "location_label": "Pune",
+   "experience_bucket": 2,
+   "experience_note": "Senior title",
+   "salary_lpa": null,
+   "match_score": 33,
+   "match_hits": [
+    "data scientist",
+    "sql"
+   ],
+   "company": "Mastercard",
+   "company_tier": "india",
+   "portal": "workday",
+   "id": "0e85f048143683ad",
+   "duplicates": 1,
+   "first_seen": "2026-10-29T10:14:48.466390+00:00",
+   "is_new": true,
+   "days_listed": 0
+  },
+  {
+   "title": "Manager, Software Engineering",
+   "location": "Pune, India",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-288167",
+   "posted_at": "Posted Today",
+   "description": "R-288167",
    "department": "",
    "veto": null,
    "skill_gaps": [],
@@ -2266,8 +2330,40 @@
    "company": "Mastercard",
    "company_tier": "india",
    "portal": "workday",
-   "id": "cae33a836c131891",
-   "first_seen": "2026-10-28T09:53:17.948421+00:00",
+   "id": "3d140434c12e9569",
+   "duplicates": 1,
+   "first_seen": "2026-10-29T10:14:48.466390+00:00",
+   "is_new": true,
+   "days_listed": 0
+  },
+  {
+   "title": "Senior Software Engineer",
+   "location": "Pune, India",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-292501",
+   "posted_at": "Posted Today",
+   "description": "R-292501",
+   "department": "",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [
+    "thin description"
+   ],
+   "age_days": null,
+   "location_tier": 6,
+   "location_label": "Pune",
+   "experience_bucket": 2,
+   "experience_note": "Senior title",
+   "salary_lpa": null,
+   "match_score": 20,
+   "match_hits": [
+    "software engineer"
+   ],
+   "company": "Mastercard",
+   "company_tier": "india",
+   "portal": "workday",
+   "id": "e63ac8e9fd9acbc6",
+   "duplicates": 1,
+   "first_seen": "2026-10-29T10:14:48.466390+00:00",
    "is_new": true,
    "days_listed": 0
   }
