@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T10:16:25.575793+00:00",
+ "generated_at": "2026-10-31T09:50:54.914956+00:00",
  "cadence": "daily",
  "companies_checked": 171,
  "companies_total": 347,
@@ -75,18 +75,18 @@
   "Zypp Electric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "redBus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'"
  },
- "postings_seen": 4536,
+ "postings_seen": 4552,
  "duplicates_merged": 0,
- "matches": 68,
+ "matches": 69,
  "vetoed": {},
- "new_today": 7,
- "closed_since": 5,
+ "new_today": 2,
+ "closed_since": 2,
  "jobs": [
   {
    "title": "Machine Learning Engineer",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/7985187",
-   "posted_at": "2026-10-13T19:41:47-04:00",
+   "posted_at": "2026-10-30T10:28:32-04:00",
    "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers learn more about working at Coinbase /a . /p /div p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea data-pm-slice= 1 3 [] The CX Intelligence team is part of Coinbase\u2019s Enterprise Applications and Architecture org and builds the customer-facing and internal CX experiences that connect the Help Center, chatbots (CBCB), and agent workflows. The team owns the multi-agent platform that powers Coinbase chat, Help Center, and agent tooling, partnering closely with Conversation Design, CX, and engineering teams to deliver secure, compliant, and scalable AI-powered support. Our work helps customers get answers faster while enabling agents to resolve cases more effectively. /p p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea We are hiring an IC4 Machine Learning Engineer to help evolve our conversational ecosystem by building a seamless hybrid vendor-internal chatbot experience. You will contribute to the design and implementation of a unified orchestration layer that coordinates interactions between vendor AI, internal multi-agent systems, and human participants. This role is ideal for someone who enjoys solving complex ML systems problems, building reliable handoff logic across LLM frameworks, and shipping AI-enabled products that are measurable and scalable. /p h4 class= wnfdnth _1ibi0s33y _1ibi0s34u What you&#39;ll do: /h4 ul class= wnfdnte li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Build and improve the orchestration layer that manages state transitions, context sharing, and intent routing across vendor and internal LLM frameworks in a distributed conversational environment. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Develop production-grade Python services that bridge advanced AI and ML capabilities with reliable customer-facing products. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Drive well-scoped ML projects from design through delivery, balancing technical trade-offs and collaborating across teams. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Contribute to system design, coding standards, and AI/ML development best practices across the team. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Partner with engineers and cross-functional stakeholders to build secure, scalable, and high-performing AI-enabled experiences. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Participate in design reviews and help ensure features meet Coinbase standards for security, compliance, and performance. /p /li /ul h4 class= wnfdnth _1ibi0s33y _1ibi0s34u nbsp; /h4 h4 class= wnfdnth _1ibi0s33y _1ibi0s34u Required Skills and Experience: /h4 ul class= wnfdnte li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea 2+ years of professional experience in machine learning and software engineering, with experience shipping production-grade ML services. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Hands-on experience building with modern AI architectures such as LLMs and deep learning, and familiarity with tools such as LangGraph, LangSmith, Google ADK, Vertex AI, or AWS Bedrock. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Strong proficiency in Python and the ability to write clean, maintainable, well-tested production code. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Working knowledge in at least one domain such as NLP, information retrieval, computer vision, or statistical modeling. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Ability to write technical design documents and communicate ML system designs clearly to cross-functional stakeholders. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Uses generative AI responsibly, applying human oversight to deliver business-ready outputs and measurable improvements in efficiency, cost, and quality. /p /li /ul div id= fortidlp-input-element-parent /div div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b94,408,400 /span span class= divider mdash; /span span \u20b94,408,400 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, co",
    "department": "Machine Learning",
    "veto": null,
@@ -95,7 +95,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 16,
+   "age_days": 0,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -108,8 +108,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "llm",
-    "aws"
+    "aws",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -117,7 +117,7 @@
    "id": "972d24ce152b4464",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer, Security Platform",
@@ -132,7 +132,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 16,
+   "age_days": 17,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -148,7 +148,7 @@
    "id": "486ab52c4ff4a137",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer - Secure Container Images",
@@ -163,9 +163,9 @@
     "rust"
    ],
    "flags": [
-    "posted 65 days ago"
+    "posted 66 days ago"
    ],
-   "age_days": 65,
+   "age_days": 66,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -185,7 +185,7 @@
    "id": "210e4fe5a367aeda",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
@@ -199,9 +199,9 @@
     "rust"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -219,13 +219,13 @@
    "id": "5f91dffa74c5f3b2",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Senior Machine Learning Engineer",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/7739592",
-   "posted_at": "2026-10-13T19:40:48-04:00",
+   "posted_at": "2026-10-30T10:24:15-04:00",
    "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers learn more about working at Coinbase /a . /p /div p The CX Intelligence team is part of Coinbase\u2019s Enterprise Applications and Architecture org and builds the customer-facing and internal CX experiences that connect the Help Center, chatbots (CBCB), and agent workflows. The team owns the multi-agent platform which powers coinbase chat, Help Center and agent tooling surfaces, partnering closely with Conversation Design, CX, and other Engg teams to deliver secure, compliant, and scalable AI-powered support. Our work provides the trusted and accurate automated and agent-assisted experiences\u2014helping customers get answers faster while enabling human agents to resolve cases more effectively. br br We are hiring an IC5 Machine Learning Engineer to drive the evolution of our conversational ecosystem by building a seamless hybrid vendor-internal chatbot experience. You will lead the design and implementation of a sophisticated unified orchestration layer that coordinates interactions between vendor AI, internal multi-agent systems, and human participants. This role is pivotal in managing complex state transitions, context sharing, and intent routing across a distributed environment. You\u2019ll thrive here if you enjoy high ownership, architecting complex hand-off logic between disparate LLM frameworks, and building reliable AI-enabled products that are fast, measurable, and scalable. /p p class= mb-2 whitespace-pre-wrap strong What you&#39;ll do: /strong /p ul li Architect and deploy the orchestration layer that manages state transitions, context sharing, and intent routing across vendor and internal LLM frameworks in a distributed conversational environment. /li li Build production-grade Python services that bridge advanced ML/AI research with reliable, measurable customer-facing products. /li li Lead end-to-end project execution for complex ML initiatives, managing priorities, technical trade-offs, and cross-functional dependencies from design through delivery. /li li Establish best practices for system design, coding standards, and AI/ML development workflows across the team. /li li Mentor engineers on architectural integrity and modern AI/ML patterns, raising the technical bar for the broader team. /li li Conduct design reviews to ensure every feature meets Coinbase&#39;s standards for security, scalability, and performance. /li /ul p class= mb-2 whitespace-pre-wrap strong Required Skills and Experience: /strong /p ul li 5+ years of professional experience in machine learning and software engineering, with a track record of shipping production-grade ML services at scale. /li li Hands-on expertise building with modern AI architectures (LLMs, deep learning) and the generative AI ecosystem, including frameworks such as LangGraph, LangSmith, Google ADK, Vertex AI, or AWS Bedrock. /li li Deep proficiency in Python with demonstrated ability to write clean, maintainable, highly-tested production code. /li li Specialized knowledge in at least one domain: NLP, information retrieval, computer vision, or advanced statistical modeling. /li li Proven ability to write technical design documents and present ML system architectures to cross-functional stakeholders, translating complex technical concepts for non-technical audiences. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li li Demonstrates the ability to responsibly use generative AI tools and copilots (e.g., LibreChat, Gemini, Glean) in daily workflows, continuously learn as tools evolve, and apply human\u2011in\u2011the\u2011loop practices to deliver business\u2011ready outputs and drive measurable improvements in efficiency, cost, and quality. /li /ul div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b96,612,600 /span span class= divider mdash; /span span \u20b96,612,600 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legac",
    "department": "Enterprise Applications",
    "veto": null,
@@ -234,7 +234,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 16,
+   "age_days": 0,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -247,8 +247,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "llm",
-    "aws"
+    "aws",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -256,13 +256,13 @@
    "id": "897d874ea0f0c95e",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Senior Software Engineer - Data Platform",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/8325213",
-   "posted_at": "2026-10-27T13:24:09-04:00",
+   "posted_at": "2026-10-30T11:23:25-04:00",
    "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers learn more about working at Coinbase /a . /p /div p The Data Platform team builds and operates systems that centralize all of Coinbase&#39;s internal and third-party data, so teams across the company can access, process, and transform it for analytics, machine learning, and end-user experiences. As a senior engineer, you will work across the full stack of our systems: foundational processing and storage, scalable pipelines, and the frameworks and internal tools that make data easy to use. nbsp; nbsp; /p p nbsp; /p p strong What you\u2019ll do: nbsp; /strong /p ul li Design, build, and operate foundational data services, including storage (cloud warehouse, data lake), orchestration (Airflow), batch processing (Spark, SQL), and streaming (Kafka). /li li Build and maintain data integration and processing SDKs used by internal services and product teams. /li li Design self-service tools so users can manage and troubleshoot their own data pipelines. /li li Build services for data security, observability, quality, cataloging, and lineage. /li li Turn requests from analysts, ML, and security teams into reusable, scalable patterns. /li /ul p nbsp; /p p strong Required Skills and Experience: /strong /p ul li 5+ years of experience in software engineering, including senior-level ownership. /li li Strong Python, Go, or Java backend development skills. /li li Hands-on experience with data systems or data pipelines. /li li Familiarity with design patterns such as scale-out, caching, key/value, and columnar storage. /li li Working knowledge of SQL and Airflow for operational data analysis. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p nbsp; /p p #LI-REMOTE /p div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b96,612,000 /span span class= divider mdash; /span span \u20b96,612,600 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf Employee Rights /a , a href= https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf Know Your Rights /a , and a href= https://static-assets.coinbase.com/e-verify.pdf E-Verify /a Notice of Participation. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Accommodations: /strong If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. nbsp;Need screen reading technology? a href= https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn Click here /a to download a free compatible screen reader and view the a href= http://www.chromevox.com/tutorial/ strong /strong tutorial /a . /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Data Privacy amp; Arbitration: /strong By submitting your application, you agree to our a href= https://www.coinbase.com/legal/applicant_privacy_notice Candidate Privacy Notice /a . US applicants: By submitting your application, you agree to a href= https://www.coinbase.com/legal/application-arbitration-agreement Arbitration of Disputes /a . br /em /span /li /ul div id= fortidlp-input-element-parent /div /div",
    "department": "Engineering - Data",
    "veto": null,
@@ -271,7 +271,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 0,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -308,9 +308,9 @@
     "kubeflow"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -319,12 +319,12 @@
    "match_score": 51,
    "match_hits": [
     "kubernetes",
-    "python",
     "mlflow",
-    "spark",
+    "python",
     "mlops",
-    "sql",
-    "aws"
+    "spark",
+    "aws",
+    "sql"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -332,7 +332,7 @@
    "id": "89a6bbd45c957422",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Python Engineer",
@@ -348,9 +348,9 @@
     "grpc"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -371,7 +371,7 @@
    "id": "5d24f8c1907d1205",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -387,9 +387,9 @@
     "clickhouse"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -400,8 +400,8 @@
     "software engineer",
     "kubernetes",
     "airflow",
-    "python",
     "mlflow",
+    "python",
     "docker",
     "aws"
    ],
@@ -411,7 +411,7 @@
    "id": "3cd0e0c2f8129887",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer - Python and K8s",
@@ -423,9 +423,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -446,7 +446,7 @@
    "id": "fc7005194a2a0bcf",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -460,9 +460,9 @@
     "go"
    ],
    "flags": [
-    "posted 65 days ago"
+    "posted 66 days ago"
    ],
-   "age_days": 65,
+   "age_days": 66,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -483,7 +483,7 @@
    "id": "71a7fb06055356bb",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer, Cloud - Sustaining Engineering",
@@ -497,9 +497,9 @@
     "go"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -520,7 +520,7 @@
    "id": "6f24a2c795ced861",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer - L3 Support",
@@ -534,9 +534,9 @@
     "go"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -557,7 +557,7 @@
    "id": "b95c5600b7c162ba",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer, Sustaining Engineering",
@@ -571,9 +571,9 @@
     "go"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -594,7 +594,7 @@
    "id": "3fd2583778e05409",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Linux Devices Software Engineer",
@@ -609,9 +609,9 @@
     "rust"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -631,7 +631,7 @@
    "id": "8e35405280dd53e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Go (Golang) Software Engineer, Developer Tooling and Containers",
@@ -646,7 +646,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 22,
+   "age_days": 23,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -666,7 +666,7 @@
    "id": "0eddfe107c2f48f3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
@@ -678,9 +678,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -700,7 +700,7 @@
    "id": "ce1d173b849babb6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -716,7 +716,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 24,
+   "age_days": 25,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -735,7 +735,7 @@
    "id": "7d8ba08f7e1d7bf8",
    "first_seen": "2026-10-06T10:35:20.890716+00:00",
    "is_new": false,
-   "days_listed": 23
+   "days_listed": 24
   },
   {
    "title": "Junior Ubuntu Software Engineer",
@@ -750,9 +750,9 @@
     "rust"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -771,7 +771,7 @@
    "id": "52929cfe97d8f85a",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
@@ -786,9 +786,9 @@
     "rust"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -807,7 +807,7 @@
    "id": "ce408466319dc35b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Security Software Engineer",
@@ -825,9 +825,9 @@
     "php"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -846,7 +846,7 @@
    "id": "be1de3b5e41341f4",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer - Solutions Engineering",
@@ -860,9 +860,9 @@
     "golang"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -880,7 +880,7 @@
    "id": "7310719a2be22e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Ubuntu Software Engineer",
@@ -895,9 +895,9 @@
     "rust"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -915,7 +915,7 @@
    "id": "6caffa67411ed0e3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer - App Stores",
@@ -929,9 +929,9 @@
     "golang"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -948,7 +948,7 @@
    "id": "4727884cced45711",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Alliances Field Engineer",
@@ -964,9 +964,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -989,13 +989,13 @@
    "id": "37cb7a5898f98ab3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Staff Software Engineer, Customer Administration",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/8054153",
-   "posted_at": "2026-10-15T11:35:02-04:00",
+   "posted_at": "2026-10-30T10:33:03-04:00",
    "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers learn more about working at Coinbase /a . /p /div p class= mb-2 whitespace-pre-wrap nbsp; /p p class= mb-2 whitespace-pre-wrap strong Staff Software Engineer, Customer Administration /strong /p p class= mb-2 whitespace-pre-wrap The Customer Administration Engineering (CAE) team is a core pillar of Coinbase&#39;s Enterprise Applications and Architecture (EAA) org, responsible for building and operating the secure, foundational platforms that power customer data operations across Coinbase. Our flagship product, Control Center, is Coinbase&#39;s secure system of action for internal specialists across CX, Compliance, Legal, Global Investigations, Trust and Risk, and dozens of other teams. It serves approximately 7,000 internal users via its UI and powers a growing ecosystem of internal tools and AI automation via its backend APIs and MCP. We are at an exciting inflection point: evolving Control Center from a human-specialist UI into a modular, AI-agent-ready operations platform. As a Staff Software Engineer, you will be a technical anchor for the CAE team, driving architectural decisions, mentoring engineers, and leading the delivery of high-impact, cross-cutting platform capabilities. /p p class= mb-2 whitespace-pre-wrap strong What You&#39;ll Do /strong /p ul li Architect and deliver foundational platform capabilities including MCP tool registries, AI orchestration layers, risk-based access automation, and the away-team contribution model that enables product groups across Coinbase to build on the platform safely and at speed /li li Drive the evolution of Control Center into an AI-agent-ready, headless operations platform, designing and implementing MCP procedure constructs, agentic guardrails, HITL orchestration, and evaluation frameworks that enable both human and autonomous AI agents to execute sensitive customer operations securely /li li Partner with the Engineering Manager and Product counterparts to define architectural roadmaps, author TDDs, lead design reviews, decompose complex initiatives into deliverable milestones, and raise the engineering quality bar through code review and mentorship /li li Build and maintain highly reliable, secure, distributed backend services, owning SLO definitions, observability instrumentation, incident response, and operational readiness for Tier-1 platform systems /li li Collaborate across EAA engineering teams, Product Engineering, and Security Engineering to deliver cross-functional outcomes and drive shared platform primitives that eliminate duplicated infrastructure across the portfolio /li /ul h4 class= _9k2iva0 p8i6j0c _1ibi0s314 heading4 _9k2iva1 Required Skills and Experience /h4 ul li 8+ years of hands-on software engineering experience, with a demonstrated track record of architecting and delivering large-scale, high-traffic distributed systems in production, including deep proficiency in backend service design, API development (gRPC, MCP, GraphQL), and scalable microservices architectures /li li Proven ability to independently lead ambiguous, high-impact technical initiatives from whiteboard to production, writing high-quality, well-tested code and setting the standard for others across complex, multi-team problem spaces /li li Strong experience with cloud-native infrastructure and the modern backend stack: AWS, Kubernetes, Terraform, BuildKite/CircleCI, event-driven architectures (Kafka, MQ), distributed caching (Redis/Memcached), and proficiency in SQL and/or NoSQL databases /li li Track record of building secure, compliant internal tools or platforms, with deep appreciation for security controls, access management, audit logging, data governance, and engineering rigor in a regulated financial services environment /li li Experience building or integrating with agentic AI systems, including MCP servers, LLM orchestration layers, RAG pipelines, HITL workflows, or evaluation and guardrail frameworks for production agentic workloads /li li Proficiency in Go (Golang) as a primary backend language, with willingness to work across Python where applicable in the evolving AI stack /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. div class= tk0j8o1 _1ibi0s31a _1ibi0s3en nbsp; /div /li /ul div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b99,424,500 /span span class= divider mdash; /span span \u20b99,424,500 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /str",
    "department": "Enterprise Applications",
    "veto": null,
@@ -1007,7 +1007,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 14,
+   "age_days": 0,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1016,13 +1016,13 @@
    "match_score": 62,
    "match_hits": [
     "software engineer",
+    "guardrails",
     "evaluation",
     "kubernetes",
-    "guardrails",
     "python",
     "kafka",
-    "llm",
-    "sql"
+    "aws",
+    "rag"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -1030,13 +1030,13 @@
    "id": "96b5f8fab6f5c3a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Staff Software Engineer, Security Platform",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/8167571",
-   "posted_at": "2026-10-13T19:54:11-04:00",
+   "posted_at": "2026-10-30T11:07:05-04:00",
    "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers learn more about working at Coinbase /a . /p /div p Coinbase stores a large amount of digital currency making us a top tier target on the internet. Security is core to our mission and has been a key competitive differentiator for us as we scale. Security Platform Engineering ( SPE ) team is building platform capabilities for a variety of security use cases critical for security, compliance and privacy at Coinbase. Some of the key functional areas we are developing capabilities for are secrets and key management, identity access and management, onchain security, policy and risk management, vulnerabilities management enabling our product, compliance, security and services teams to protect Coinbase and our customers. /p p strong What you\u2019ll do: nbsp; /strong /p ul li Architect and develop platform for security platform engineering org /li li Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps /li li Build new services to meet critical product and business needs using Golang / Java /li li Design scalable systems to solve novel problems with modern cloud technology and industry best practices. /li li Manage individual projects priorities, deadlines and deliverables with your technical expertise /li li Mentor and train other team members on design techniques and coding standards /li li Articulate a long term vision for maintaining and scaling our backend systems and the teams running them. /li li Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter. /li li Write high quality, well tested code to meet the needs of your customers. Debugging extremely difficult technical problems, and making systems and products both work better and are easier to deploy, own, operate and diagnose. /li li Review all feature designs within your product area and across the company for cross-cutting projects. Be an owner of the security, safety, scale, operational integrity, and architectural clarity of these designs. /li /ul p strong Required Skills and Experience: /strong /p ul li You have at least 8+ years of experience in software engineering /li li You\u2019ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture. /li li You write high quality, well tested code to meet the needs of your customers. /li li You\u2019re passionate about building an open financial system that brings the world together. /li li You possess strong technical skills for system design and coding /li li Excellent written and verbal communication skills, and a bias toward open, transparent cultural practices. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p em Position ID: nbsp; /em P78176 /p p em #LI-Remote /em /p div id= fortidlp-input-element-parent /div div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b99,424,500 /span span class= divider mdash; /span span \u20b99,424,500 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf Employee Rights /a , a href= https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf Know Your Rights /a , and a href= https://static-assets.coinbase.com/e-verify.pdf E-Verify /a Notice of Participation. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Accommodations: /strong If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. nbsp;Need screen reading technology? a href= https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn Click here /a to download a free compatible screen reader and view the a href= http://www.chromevox.com",
    "department": "Security & Privacy",
    "veto": null,
@@ -1045,7 +1045,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 16,
+   "age_days": 0,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1061,7 +1061,7 @@
    "id": "4a3092df3189ad5c",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Embedded Linux Senior Software Engineer - Optimisation",
@@ -1073,9 +1073,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1094,7 +1094,7 @@
    "id": "8c5234f46a324b14",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Cloud Solutions Architect - Alliances",
@@ -1110,9 +1110,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 85 days ago"
+    "posted 86 days ago"
    ],
-   "age_days": 85,
+   "age_days": 86,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1135,13 +1135,13 @@
    "id": "ae88c5d854f51f22",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Sr Forward Deployed Engineer",
    "location": "Noida",
    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
-   "posted_at": "Posted 17 Days Ago",
+   "posted_at": "Posted 18 Days Ago",
    "description": "R172762",
    "department": "",
    "veto": null,
@@ -1165,13 +1165,13 @@
    "id": "682e11ccdd27afa4",
    "first_seen": "2026-10-14T08:53:54.476366+00:00",
    "is_new": false,
-   "days_listed": 16
+   "days_listed": 17
   },
   {
    "title": "Manager, Data Scientist",
    "location": "Gurgaon, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Manager--Data-Scientist_R-284573",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-284573",
    "department": "",
    "veto": null,
@@ -1194,26 +1194,23 @@
    "portal": "workday",
    "id": "96a38898468bc224",
    "first_seen": "2026-10-30T10:16:25.575793+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
    "title": "AI Specialist II",
    "location": "India",
    "url": "https://job-boards.greenhouse.io/coursera/jobs/6207519004",
-   "posted_at": "2026-10-16T10:46:19-04:00",
-   "description": "div class= content-intro p strong About Coursera + Udemy /strong /p p Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world\u2019s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our nbsp; a href= https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/ target= _blank blog /a . /p p strong Why join us now? /strong /p p AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them. /p p strong Shape what comes next /strong /p p By joining our team, you\u2019ll have the opportunity to reshape how the world learns and applies skills\u2014and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale. /p /div p strong About the Role /strong strong br /strong We at Coursera are seeking a highly skilled and motivated strong AI Specialist, /strong with strong hands on expertise in AI and data, with the ability to work across data exploration, AI solution design, rapid prototyping, experimentation, and evaluation\u2014turning ambiguous business problems and complex datasets into working AI approaches, prototypes, and measurable solutions. This is a hands-on applied AI role for someone who enjoys figuring out how the system should think, not just how the application should be built. /p p The ideal candidate is deeply technical, hands-on with strong modern LLM and GenAI systems, with experience building AI pipelines /strong , and driven to push the boundary of what AI can do for education. You should be equally fluent in training a strong custom model /strong , designing a RAG pipeline, retrieval design, agent workflows, evaluation frameworks. You will work closely with Product Managers, Data Analysts, and Software Engineers, and directly with the business teams who use what you build. nbsp; /p p strong Key Responsibilities /strong /p ul li Build and Design AI systems by selecting the right combination of data , including retrieval pipelines, agentic workflows with tool use, and structured extraction from unstructured sources /li li Architect and implement Retrieval Augmented Generation (RAG) pipelines with vector databases (Pinecone, Weaviate) for grounded, context-aware AI applications. /li li Build and maintain agentic AI workflows using frameworks such as Langgraph, Mastra, LlamaIndex, CrewAI, or AutoGen including multi-step tool use, planning, and autonomous execution loops. /li li Design and run evaluation for every AI system you ship, covering accuracy, hallucination and grounding checks, regression suites, and human review loops /li li Work with large-scale structured and unstructured datasets on cloud-native databases amp; storage (S3, Postgres, GCS, BigQuery, Databricks) with strong SQL and data modelling skills. /li li Build rapid AI prototypes and experiment with different models, retrieval strategies, prompts, and approaches to find what works best. /li li Partner with product managers, data engineers and backend/frontend engineers to translate business problems into well-scoped AI solutions with measurable KPIs. /li li Document architectures, design decisions, runbooks, prompts, evaluation results and troubleshooting guides to enable knowledge continuity and team velocity. /li /ul p strong Experience: /strong /p ul li strong 4+ years of experience /strong in Data Science, Applied AI, or Machine Learning, with experience building data driven or AI powered solutions. /li li Experience taking an AI use case from data exploration and experimentation through a validated working prototype. /li li Hands-on experience with machine learning and/or modern Generative AI techniques such as strong LLMs, embeddings, RAG, semantic search, NLP, recommendation, or agentic systems /strong . /li li At least 2 production deployments involving LLM-based systems (fine-tuning, RAG, agentic workflows, or prompt-engineered solutions). /li li Experience with strong AI experimentation and evaluation /strong , including comparing approaches, defining quality metrics, analyzing errors, and iterating based on results. /li li Experience using strong Python and SQL to work with data, /strong build analysis workflows, develop strong AI algorithms /strong , experiment with models, and build AI/ML solutions. /li /ul p strong Preferred Qualifications /strong /p ul li Experience with Generative AI platforms and ecosystems such as strong Vertex AI, Bedrock, Azure AI, OpenAI/Anthropic APIs, Hugging Face /strong , strong LangGraph, LangChain /strong or equivalent technologies. /li li Experience designing strong RAG, vector search, tool-calling, MCP, agent orchestration, or multi-step AI workflows and LLM gateways /strong . /li li Experience with AI evaluation techniques such as strong golden datasets, LLM-as-judge, regression evaluation, human evaluation, ranking metrics, or automated quality frameworks /strong . /li li Experience working with modern data platforms such as strong Databricks, BigQuery, Snowflake, Spark, or equivalent technologies /strong . /li li Familiarity with strong AI observability, model monitoring, responsible AI, PII handling, prompt injection mitigation, and AI guardrails. /strong /li /ul div class= content-conclusion p For more information about how Coursera collects and uses your personal information, please see our u a href= https://files.clinchtalent.com/1d7f2",
+   "posted_at": "2026-10-30T10:14:25-04:00",
+   "description": "div class= content-intro p strong About Coursera + Udemy /strong /p p Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world\u2019s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our nbsp; a href= https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/ target= _blank blog /a . /p p strong Why join us now? /strong /p p AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them. /p p strong Shape what comes next /strong /p p By joining our team, you\u2019ll have the opportunity to reshape how the world learns and applies skills\u2014and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale. /p /div h2 strong About the Role /strong strong br /strong /h2 p Coursera is seeking an AI Specialist to design and build AI systems that transform ambiguous business problems into working prototypes and measurable solutions. You&#39;ll work across the full lifecycle of applied AI\u2014from data exploration and experimentation through deployment\u2014selecting the right combination of techniques, models, and architectures for each challenge. This is a hands-on role where you&#39;ll architect retrieval pipelines, agentic workflows, and evaluation frameworks while collaborating closely with Product Managers, Data Analysts, Software Engineers, and the business teams who use what you build. You&#39;ll be deeply technical with modern LLM and GenAI systems, equally comfortable training custom models, designing RAG pipelines, and pushing the boundary of what AI can do for education. /p h2 About your skills: /h2 p Data Science - Core discipline for extracting insights from structured and unstructured data using scientific methods and algorithms. /p p Data Pipelines - Essential for designing and managing series of AI processing steps from data ingestion through model inference. /p p AI Fluency - Understanding capabilities and limitations of LLMs, embeddings, and AI tools to apply them appropriately to problems. /p h2 What you&#39;ll be doing: /h2 ul li Build and design AI systems by selecting the right combination of data, retrieval pipelines, agentic workflows with tool use, and structured extraction from unstructured sources. /li li Architect and implement Retrieval Augmented Generation (RAG) pipelines with vector databases such as Pinecone or Weaviate for grounded, context-aware AI applications. /li li Build and maintain agentic AI workflows using frameworks such as Langgraph, Mastra, LlamaIndex, CrewAI, or AutoGen, including multi-step tool use, planning, and autonomous execution loops. /li li Design and run evaluation for every AI system you ship, covering accuracy, hallucination and grounding checks, regression suites, and human review loops. /li li Work with large-scale structured and unstructured datasets on cloud-native databases and storage such as S3, Postgres, GCS, BigQuery, and Databricks, with strong SQL and data modeling skills. /li li Build rapid AI prototypes and experiment with different models, retrieval strategies, prompts, and approaches to find what works best. /li /ul h2 Qualifications: /h2 ul li 4+ years of experience in Data Science, Applied AI, or Machine Learning, with experience building data-driven or AI-powered solutions. /li li Demonstrated history of taking an AI use case from data exploration and experimentation through a validated working prototype. /li li Hands-on experience with machine learning and modern Generative AI techniques such as LLMs, embeddings, RAG, semantic search, NLP, recommendation systems, or agentic systems. /li li At least 2 production deployments involving LLM-based systems including fine-tuning, RAG, agentic workflows, or prompt-engineered solutions. /li li Experience with AI experimentation and evaluation, including comparing approaches, defining quality metrics, analyzing errors, and iterating based on results. /li li Working knowledge of identity and access management, encryption and key management, and secure network patterns such as VPC peering, PrivateLink, and mTLS for customer-embedded or regulated environments. /li li Experience using Python and SQL to work with data, build analysis workflows, develop AI algorithms, experiment with models, and build AI and ML solutions. /li /ul div class= content-conclusion p For more information about how Coursera collects and uses your personal information, please see our u a href= https://files.clinchtalent.com/1d7f2c0f91ebf75d580f56447fa54859/2acb24eb91f1e23b90ac9e9285de5aaf/Global%20Applicant%20Privacy%20Notice.pdf target= _blank Coursera + Udemy Global Applicant Privacy Notice /a /u u . /u /p p To protect against recruitment fraud, Coursera + Udemy recruiters only communicate via official coursera.org/udemy.com email addresses and never through personal accounts. We do not accept resumes via email or social media; please submit all applications directly through our careers page. /p p If you encounter suspicious recruitment activity, please report it via our nbsp; a href= https://forms.gle/Mb8UktwuaJAukb3H7 Fraudulent Activity Submission Form. /a br br Coursera is an Equal Opportunity Employer committed to building a welcoming and inclusive workplace. We consider all qualified applicants without regard to legally protected characteristics and provide reasonable accommoda",
    "department": "Partner Success Services",
    "veto": null,
    "skill_gaps": [
-    "snowflake",
     "databricks",
-    "bigquery",
-    "vertex ai",
-    "bedrock"
+    "bigquery"
    ],
    "flags": [],
-   "age_days": 13,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 0,
@@ -1221,14 +1218,14 @@
    "salary_lpa": null,
    "match_score": 42,
    "match_hits": [
-    "hugging face",
     "fine-tuning",
-    "evaluation",
     "embeddings",
-    "guardrails",
-    "langchain",
+    "evaluation",
+    "inference",
     "langgraph",
-    "python"
+    "vector",
+    "python",
+    "rag"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1248,9 +1245,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 414 days ago"
+    "posted 415 days ago"
    ],
-   "age_days": 414,
+   "age_days": 415,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1269,7 +1266,7 @@
    "id": "f2d993091a5cccd2",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 16
+   "days_listed": 17
   },
   {
    "title": "Intermediate Backend Engineer, India",
@@ -1286,7 +1283,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1307,7 +1304,7 @@
    "id": "c82729b762e9099f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Data Scientist II",
@@ -1347,9 +1344,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 1085 days ago"
+    "posted 1086 days ago"
    ],
-   "age_days": 1085,
+   "age_days": 1086,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1365,7 +1362,7 @@
    "id": "59e8dcd0b3f7e4e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer, Backend",
@@ -1377,9 +1374,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 3045 days ago"
+    "posted 3046 days ago"
    ],
-   "age_days": 3045,
+   "age_days": 3046,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1395,13 +1392,13 @@
    "id": "5fad81823b936e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "AI-Augmented Software Engineer",
    "location": "Home-India",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-India/AI-Augmented-Software-Engineer_17778",
-   "posted_at": "Posted 2 Days Ago",
+   "posted_at": "Posted 3 Days Ago",
    "description": "17778",
    "department": "",
    "veto": null,
@@ -1431,7 +1428,7 @@
    "title": "Software Engineer",
    "location": "Bangalore",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Bangalore/Software-Engineer_17469-2",
-   "posted_at": "Posted 23 Days Ago",
+   "posted_at": "Posted 24 Days Ago",
    "description": "17469",
    "department": "",
    "veto": null,
@@ -1455,7 +1452,7 @@
    "id": "41164f86c68e0242",
    "first_seen": "2026-09-22T08:41:45.546750+00:00",
    "is_new": false,
-   "days_listed": 38
+   "days_listed": 39
   },
   {
    "title": "Software Engineer, Delivery : Release",
@@ -1470,7 +1467,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1498,7 +1495,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 4,
+   "age_days": 5,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1508,12 +1505,12 @@
    "match_hits": [
     "multi-agent",
     "ai engineer",
-    "evaluation",
     "embeddings",
     "guardrails",
-    "python",
+    "evaluation",
     "vector",
-    "llm"
+    "python",
+    "rag"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -1521,7 +1518,7 @@
    "id": "4bc261e756fa0fc6",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 35
+   "days_listed": 36
   },
   {
    "title": "Enterprise Agentic AI Architect",
@@ -1533,7 +1530,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 13,
+   "age_days": 14,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1542,12 +1539,12 @@
    "match_score": 57,
    "match_hits": [
     "ai architect",
-    "evaluation",
     "guardrails",
+    "evaluation",
     "agentic",
     "ci/cd",
-    "llm",
-    "rag"
+    "rag",
+    "llm"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1555,7 +1552,7 @@
    "id": "dc224d106d7b1500",
    "first_seen": "2026-10-15T08:28:49.828241+00:00",
    "is_new": false,
-   "days_listed": 15
+   "days_listed": 16
   },
   {
    "title": "Lead Gen-AI Engineer",
@@ -1567,7 +1564,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 30,
+   "age_days": 31,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1579,8 +1576,8 @@
     "evaluation",
     "vector",
     "ci/cd",
-    "llm",
-    "rag"
+    "rag",
+    "llm"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1588,7 +1585,7 @@
    "id": "cc9cd6cb8715e76b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Senior Software Engineer, Applied AI and Customer Solutions",
@@ -1603,7 +1600,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1613,8 +1610,8 @@
    "match_hits": [
     "software engineer",
     "applied ai",
-    "kubernetes",
     "typescript",
+    "kubernetes",
     "python",
     "docker",
     "kafka",
@@ -1626,13 +1623,13 @@
    "id": "12a27588e9c0dff0",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Field Chief Technology Officer (Field CTO)",
    "location": "Remote - Bengaluru, India ",
    "url": "https://job-boards.greenhouse.io/minio/jobs/5380066008",
-   "posted_at": "2026-08-20T19:40:42-04:00",
+   "posted_at": "2026-10-30T17:10:22-04:00",
    "description": "section class= styles--3vx-H data-ui= job-description p MinIO is the data and memory foundation for enterprise AI. Built for the speed, scale, and economics that AI and analytics demand, AIStor and MemKV unify every layer of the data stack, from agentic and inference context memory to tables and objects across core, edge, and cloud. Trusted by 77% of the Fortune 100, MinIO is redefining how AI factories, intelligent applications, and autonomous agents secure, persist, and unlock the full value of their data. /p p We are seeking a highly technical, visionary, and customer-centric Field CTO to act as our premier technical ambassador. In this role, you will bridge the gap between MinIO\u2019s engineering innovation and the strategic business needs of our largest, most complex enterprise customers. /p p br As a Field CTO, you will engage in peer-to-peer conversations with enterprise C-suites (CIOs, CTOs, CDOs) and lead architectural discussions with principal engineers. A deep, hands-on understanding of modern AI architectures (LLMs, RAG, deep learning pipelines) and modern analytics data systems (Iceberg, Delta Lake, Trino, Spark) is mandatory. You will not only evangelize MinIO\u2019s capabilities but also act as a trusted advisor, helping organizations architect their data infrastructure to support next-generation workloads. nbsp; br strong br What You Will Do /strong /p ul li strong Executive Advisory amp; Evangelism: /strong Act as a trusted technical advisor to C-level executives at Fortune 500 companies. Articulate the strategic value of high-performance object storage in the context of AI readiness and data democratization. /li li strong Architectural Leadership: /strong Design and validate complex, large-scale architectures for enterprise customers. Guide them in integrating MinIO seamlessly into their AI/ML pipelines and modern data lakehouse ecosystems. /li li strong Industry Thought Leadership: /strong Represent MinIO at major industry conferences, webinars, and meetups. Write technical whitepapers, reference architectures, and blog posts focusing on the intersection of object storage, generative AI, and modern analytics. /li li strong Pre-Sales amp; Post-Sales Strategic Support: /strong Partner closely with enterprise sales and customer success teams on high-stakes deals. Unblock technical objections and provide strategic guidance during Proof of Concepts (PoCs) and large-scale deployments. /li li strong Product Strategy Feedback Loop: /strong Serve as the voice of the customer to MinIO\u2019s product and engineering teams. Distill market trends, customer pain points, and emerging AI/Analytics patterns into actionable product requirements. /li /ul /section section class= styles--3vx-H data-ui= job-requirements h3 Required Qualifications /h3 ul li 10+ years of experience in technical leadership roles (e.g., Enterprise Architect, Chief Architect, VP of Engineering, or previous Field CTO). /li li Demonstrated experience in a customer-facing or evangelist capacity, successfully presenting to both highly technical audiences and C-level business executives. /li /ul p strong AI amp; Machine Learning Architectures: /strong /p ul li Deep architectural understanding of strong Generative AI and Large Language Models (LLMs) /strong , including Retrieval-Augmented Generation (RAG) workflows and vector databases (e.g., Milvus, Qdrant, Pinecone). /li li Strong knowledge of strong AI/ML data pipelines /strong and frameworks (PyTorch, TensorFlow, Ray, Hugging Face). /li li Understanding of hardware bottlenecks in AI, specifically the challenge of feeding data to GPUs (GPU data starvation) and how high-throughput storage solves this. /li /ul p strong Modern Analytics amp; Data Systems: /strong /p ul li Expertise in strong Open Table Formats /strong (Apache Iceberg, Apache Hudi, Delta Lake) and their integration with object storage. /li li Proficiency with strong modern query engines and compute frameworks /strong (Trino, Presto, Apache Spark, Flink, StarRocks). /li li Solid grasp of the evolution from traditional data warehouses to modern Data Lakehouse architectures. /li /ul p strong Infrastructure amp; Cloud-Native Tech: /strong /p ul li Strong command of Kubernetes, containerization, and cloud-native orchestration. /li li Deep understanding of the AWS S3 API, RESTful APIs, and distributed systems design. /li /ul /section section class= styles--3vx-H data-ui= job-benefits p nbsp; /p /section div class= content-conclusion h5 strong Equal Opportunity Policy (EEO) /strong /h5 p span style= font-size: 10pt; MinIO is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law. /span /p /div",
    "department": "Sales - Leadership",
    "veto": null,
@@ -1640,10 +1637,8 @@
     "flink",
     "ray"
    ],
-   "flags": [
-    "posted 70 days ago"
-   ],
-   "age_days": 70,
+   "flags": [],
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1666,7 +1661,7 @@
    "id": "e73ffdf1e4f2f9f8",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Staff Software Engineer - Infrastructure",
@@ -1682,7 +1677,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 6,
+   "age_days": 7,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1691,9 +1686,9 @@
    "match_score": 45,
    "match_hits": [
     "software engineer",
+    "guardrails",
     "evaluation",
     "kubernetes",
-    "guardrails",
     "ci/cd",
     "edge",
     "aws"
@@ -1704,7 +1699,7 @@
    "id": "f538d87d72170116",
    "first_seen": "2026-10-08T10:47:21.919462+00:00",
    "is_new": false,
-   "days_listed": 21
+   "days_listed": 22
   },
   {
    "title": "Consulting Architect - Search",
@@ -1719,7 +1714,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 28,
+   "age_days": 29,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1731,10 +1726,10 @@
     "embeddings",
     "kubernetes",
     "python",
-    "docker",
     "vector",
-    "rag",
-    "aws"
+    "docker",
+    "aws",
+    "rag"
    ],
    "company": "Elastic",
    "company_tier": "global",
@@ -1742,7 +1737,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Senior Product Manager, Applied AI",
@@ -1754,7 +1749,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 13,
+   "age_days": 14,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1787,9 +1782,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 260 days ago"
+    "posted 261 days ago"
    ],
-   "age_days": 260,
+   "age_days": 261,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1800,8 +1795,8 @@
     "data engineer",
     "python",
     "ci/cd",
-    "sql",
-    "aws"
+    "aws",
+    "sql"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1809,23 +1804,21 @@
    "id": "e060dee28bc45c7f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Field Architect ",
    "location": "Remote - Bengaluru, India ",
    "url": "https://job-boards.greenhouse.io/minio/jobs/5371697008",
-   "posted_at": "2026-09-10T18:10:18-04:00",
+   "posted_at": "2026-10-30T17:10:22-04:00",
    "description": "section data-ui= job-description section data-ui= job-description p MinIO is the data and memory foundation for enterprise AI. Built for the speed, scale, and economics that AI and analytics demand, AIStor and MemKV unify every layer of the data stack, from agentic and inference context memory to tables and objects across core, edge, and cloud. Trusted by 77% of the Fortune 100, MinIO is redefining how AI factories, intelligent applications, and autonomous agents secure, persist, and unlock the full value of their data. /p p The Field Architect role at MinIO is a senior customer-facing technical leadership position focused on defining, validating, and guiding AIStor architectures for AI, analytics, cloud-native applications, and large-scale data infrastructure. You will serve as a trusted technical advisor to customers, partners, and internal teams, translating business and application requirements into robust technical designs that deliver measurable outcomes. /p p You will collaborate closely with the broader MinIO team to ensure customers are successful through technical discovery, architecture design, proof-of-value execution, production onboarding, performance validation, and long-term expansion. Success in this role requires deep technical curiosity, hands-on architecture skills, strong communication, and the ability to connect AIStor\u2019s capabilities to the data-intensive workloads that matter most to our customers. /p p strong What You Will Do: /strong /p p Technical Leadership amp; Architecture /p ul li Technical Architecture and Discovery: Lead technical discovery with customers and partners to understand their business goals, application requirements, data architecture, infrastructure constraints, and success criteria. Define scalable AIStor architectures that map directly to those requirements. /li li AI and Analytics Workload Design: Define and validate AIStor architectures for AI/ML training and inference, analytics platforms, data lakehouse environments, high-performance data pipelines, large object workloads, and modern application data services. /li li Object Storage and S3 Expertise: Serve as a subject matter expert in object storage, S3-compatible architectures, distributed systems, metadata, replication, erasure coding, security, performance tuning, and large-scale namespace design. /li /ul p Customer Engagement amp; Advisory /p ul li Customer Technical Advisor: Build trusted relationships with customer technical stakeholders, including infrastructure, platform, analytics, AI, security, application, and operations teams. Guide customers toward informed architecture decisions and proactively identify opportunities to improve performance, resilience, scale, and operational efficiency. /li li Proof-of-Value Execution: Lead technical evaluations, system configurations, performance testing, interoperability validation, and proof-of-value engagements that demonstrate AIStor\u2019s value in real customer environments. /li li Customer Success Beyond the Win: Partner with Customer Engineering, Product Management, and Engineering teams to help customers move from evaluation to production and from initial deployment to broader adoption across additional workloads, teams, and use cases. /li /ul p Ecosystem, Enablement amp; Field Operations /p ul li Cloud-Native and Kubernetes Guidance: Provide technical leadership on Kubernetes, containers, automation, and cloud-native deployment patterns, including hybrid cloud, private cloud, public cloud, and edge infrastructure models. /li li Solution Integration and Ecosystem Collaboration: Work with technology partners, reseller partners, and customer teams to support complete solutions involving analytics engines, AI platforms, Kubernetes distributions, data protection tools, identity systems, observability platforms, and public cloud services. /li li Technical Presentations and Enablement: Build and deliver compelling architecture presentations, whiteboard sessions, demonstrations, best practices, workshops, and technical enablement sessions for customers, partners, and internal teams. /li li RFP, RFI, and Technical Response Support: Contribute to or lead technical portions of RFPs, RFIs, RFQs, security reviews, architecture questionnaires, and competitive evaluations. /li /ul p Product Intelligence amp; Market Expertise /p ul li Product and Engineering Feedback: Advocate for customer requirements internally by capturing field feedback, competitive insights, workload patterns, integration needs, and enhancement opportunities. Work with Product and Engineering teams to help inform roadmap priorities and improve customer outcomes. /li li Competitive and Market Expertise: Stay current on object storage, data lakehouse, AI infrastructure, analytics, Kubernetes, cloud, and competitive storage trends. Help internal teams and customers understand where AIStor is differentiated. /li /ul /section section data-ui= job-requirements p strong Your Skills and Experience: /strong /p div ul li Strong background in enterprise storage, object storage, distributed systems, cloud infrastructure, data platforms, or high-performance data-intensive applications. /li li Strong understanding of object storage concepts and S3-compatible architectures; experience with HTTP, REST APIs, JSON, security models, replication, data protection, and scale-out system design is highly valuable. /li li 10+ years of experience in a senior customer-facing technical role such as Field Architect, Solutions Architect, Sales Engineer, Systems Engineer, or Technical Consultant. /li li Hands-on experience with Linux, networking, storage systems, virtualization, containers, Kubernetes, and modern data center infrastructure. /li li Experience designing or supporting AI, machine learning, analytics, data lakehouse, or large-scale data pipeline environments. /li li Familiarity with ecosystem technologies such as Databricks, Starburst, Spark, Trino, Iceberg, Delta Lake, Kafka, PyTorch, TensorFlow",
    "department": "Sales - Field Architects",
    "veto": null,
    "skill_gaps": [
     "databricks"
    ],
-   "flags": [
-    "posted 49 days ago"
-   ],
-   "age_days": 49,
+   "flags": [],
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1848,7 +1841,7 @@
    "id": "706cbf44d771a761",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Staff Backend Engineer, India",
@@ -1863,7 +1856,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1872,8 +1865,8 @@
    "match_score": 33,
    "match_hits": [
     "backend engineer",
-    "guardrails",
     "kubernetes",
+    "guardrails",
     "autonomy"
    ],
    "company": "GitLab",
@@ -1882,7 +1875,7 @@
    "id": "e96ab9eb11c4998d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Software Engineer",
@@ -1896,7 +1889,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 4,
+   "age_days": 5,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1915,7 +1908,7 @@
    "id": "49a5db04d2e8c7d8",
    "first_seen": "2026-10-23T08:42:43.681732+00:00",
    "is_new": false,
-   "days_listed": 7
+   "days_listed": 8
   },
   {
    "title": "Senior Backend Engineer, India",
@@ -1929,7 +1922,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1938,8 +1931,8 @@
    "match_score": 30,
    "match_hits": [
     "backend engineer",
-    "postgresql",
     "kubernetes",
+    "postgresql",
     "autonomy"
    ],
    "company": "GitLab",
@@ -1948,7 +1941,7 @@
    "id": "724d0e430d5eac9f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Staff Frontend Engineer",
@@ -1962,7 +1955,7 @@
     "graphql"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1970,11 +1963,11 @@
    "salary_lpa": null,
    "match_score": 27,
    "match_hits": [
-    "evaluation",
     "postgresql",
-    "kubernetes",
-    "typescript",
     "guardrails",
+    "evaluation",
+    "typescript",
+    "kubernetes",
     "docker",
     "react"
    ],
@@ -1984,13 +1977,13 @@
    "id": "41373ffd9ec44d47",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 36
+   "days_listed": 37
   },
   {
    "title": "Senior Backend Engineer",
    "location": "India",
-   "url": "https://job-boards.greenhouse.io/equalexperts/jobs/6679433002",
-   "posted_at": "2026-09-30T01:01:18-04:00",
+   "url": "https://job-boards.greenhouse.io/equalexperts/jobs/8921267002",
+   "posted_at": "2026-10-30T07:50:25-04:00",
    "description": "p strong Description /strong /p p Equal Experts is an innovative consultancy specializing in the delivery of custom software solutions for blue-chip enterprise and public sector clients across a range of industry sectors. We work on important projects for our clients, deliver market-leading propositions across the digital, online and mobile channels, and are recognized for our leadership in the application of agile and lean delivery methods to assure delivery. We have offices in Australia, India, South Africa, the UK, the EU and the USA. nbsp; /p p We\u2019re seeking backend engineers with proven senior-level experience to join the Equal Experts network on a permanent basis. nbsp; /p p As a member of the team you will work alongside our clients to help design and deliver solutions to meet business requirements and help to improve the effectiveness of the clients&#39; software delivery capability. And of course, all this happens in a consultative, collaborative fashion \u2013 in keeping with our values. nbsp; /p p You should have extensive experience delivering software on commercial projects backed up by extensive knowledge of agile practices such as TDD, pair programming and CI/CD to name a few. nbsp; /p p A growth-based, learning mindset is a must coupled with a passion for technology. nbsp; /p p This role involves working in teams that use modern agile technical practices - including continuous integration and deployment and fast feedback loops - to deliver timely and pragmatic solutions, as well as helping others to do their jobs in a more effective way. /p p nbsp; /p p strong Responsibilities nbsp; /strong /p ul li Working with the client and the team to determine system requirements and how best to deliver them. nbsp; /li li Delivery of software using agile (pair programming, TDD, CI/CD, etc) practices nbsp; /li li Automation of system infrastructure and deployments. nbsp; /li li Production support of systems you are working on (You build it, you run it). nbsp; /li li Advocating agile practices to the client organisation. nbsp; /li li Mentoring client team members. nbsp; /li li Helping improve the team and clients\u2019 delivery capabilities. nbsp; /li /ul p nbsp; /p p strong Required Skills nbsp; /strong /p ul li Extensive, diversified experience developing, maintaining and operating enterprise scale distributed systems. /li li Expert level knowledge of your chosen programming language and the associated tooling. Experience with other languages is highly desirable. /li li Hands-on experience with test driven development and other forms of automated testing. /li li Strong understanding of the principles underlying agile development and an understanding of the various approaches that can be effective in realising these principles in different contexts. /li li Strong communication skills, including the ability to communicate effectively while working remotely with globally distributed teams. /li li Strong interpersonal skills, including a desire to collaborate and share knowledge with other team members, including client team members. This also includes the ability to work collectively towards a common goal without insisting on a given course of action. /li /ul p strong Nice To Have nbsp; /strong /p ul li Hands-on experience developing distributed systems including microservice architectures and RESTful services. /li li Hands-on experience developing and running large scale production systems ideally in containerised/cloud environments using either AWS, GCP or Azure. /li /ul",
    "department": "Engineering",
    "veto": null,
@@ -1998,7 +1991,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 30,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -2013,16 +2006,49 @@
    "company": "Equal Experts",
    "company_tier": "global",
    "portal": "greenhouse",
-   "id": "f9fbc28db130acad",
-   "first_seen": "2026-09-07T09:50:21.309043+00:00",
-   "is_new": false,
-   "days_listed": 53
+   "id": "ac32a1919b9d8a68",
+   "first_seen": "2026-10-31T09:50:54.914956+00:00",
+   "is_new": true,
+   "days_listed": 0
+  },
+  {
+   "title": "Staff Software Engineer, Security Foundations",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8632446002",
+   "posted_at": "2026-10-31T02:11:12-04:00",
+   "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h1 strong style= font-size: 14px; An overview of this role /strong /h1 p As a Staff Software Engineer, you&#39;ll help lead two important areas for GitLab Security: the data layer behind our vulnerability and dependency management capabilities, and our move toward services outside the GitLab monolith. You&#39;ll design and develop systems that ingest, store, index, and query security report data, including integrations with key third-party systems. With a strong focus on PostgreSQL and scalable backend design, your work will support security features delivered by teams across GitLab. /p p You&#39;ll take ownership of large deliverables from early ideas through implementation, working directly with product, design, frontend, and engineering partners to shape the technical and product roadmap. You&#39;ll stay hands-on across GitLab&#39;s Ruby on Rails application and newer services, including greenfield projects, while helping the team build its expertise in modular service design. /p p strong What you\u2019ll do /strong /p ul li Lead large technical deliverables from initial problem definition through delivery, often across multiple months or quarters. /li li Design and develop backend systems for vulnerability and dependency management, including security report ingestion, storage, indexing, querying, and integrations with key third-party systems. /li li Build and improve systems using Ruby on Rails and PostgreSQL, and contribute to newer services using technologies such as Go or Rust where appropriate. /li li Shape technical plans, break down complex work, and help other engineers deliver effectively. /li li Work directly with product, design, frontend, and engineering partners to make clear decisions, resolve constraints, and deliver measurable progress. /li li Influence the team&#39;s product and technical roadmap through hands-on investigation, clear proposals, and iterative delivery that demonstrates progress in each monthly release cycle. /li li Apply a security mindset when designing systems, including considering how GitLab identifies and handles malicious or vulnerable software packages. /li li Define patterns for modular services, provide technical leadership when vulnerability management work spans multiple GitLab areas, and share that expertise across GitLab Security. /li /ul p strong What you\u2019ll bring /strong /p ul li Experience leading complex backend projects from idea through delivery while remaining hands-on with design and development. /li li Strong PostgreSQL experience, including evidence of query optimization, table optimization, and write-ahead log management in data-intensive systems. /li li Strong professional experience with Ruby on Rails or nbsp; Go and comfort working in Ruby on Rails day to day. Experience with large monoliths is helpful, along with an interest in working across languages and services. /li li Experience shaping delivery plans, guiding technical decisions, and supporting the work of other engineers. /li li The ability to collaborate with a range of partners and explain technical trade-offs clearly. /li li Experience communicating with leaders, leading peers through complex delivery, identifying constraints, and moving work forward. /li li Experience using security tooling for activities such as vulnerability triage and remediation, or professional experience building vulnerability management, dependency management, or related security products. /li li Experience with large-scale data systems or established software products. We welcome transferable experience from outside the security domain. /li li Fluency in using artificial intelligence tools to improve delivery while applying sound engineering judgment. /li /ul p nbsp; /p p strong About the team /strong /p p The Vulnerability Management team contributes to GitLab&#39;s move toward modular services and will help other Security teams adopt these patterns over time. Today, we include two Staff Software Engineers, two Senior Software Engineers, and one Intermediate Software Engineer across the United Kingdom, Poland, the Netherlands, and India. You&#39;ll work closely with us, product partners, and engineering leaders across GitLab. /p p We work with clear goals and shared priorities. You&#39;ll receive clear context and outcomes, then have the space to own delivery, communicate decisions and progress, ask for help early, and work directly with the partners needed to get the job done. /p div class= content-conclusion h4 strong How GitLab Supports Full-Time E",
+   "department": "Sec Engineering",
+   "veto": null,
+   "skill_gaps": [
+    "go",
+    "rust",
+    "ruby"
+   ],
+   "flags": [],
+   "age_days": 0,
+   "location_tier": 4,
+   "location_label": "Bangalore",
+   "experience_bucket": 2,
+   "experience_note": "Senior title",
+   "salary_lpa": null,
+   "match_score": 23,
+   "match_hits": [
+    "software engineer",
+    "postgresql"
+   ],
+   "company": "GitLab",
+   "company_tier": "global",
+   "portal": "greenhouse",
+   "id": "25450d4218963fa4",
+   "first_seen": "2026-10-31T09:50:54.914956+00:00",
+   "is_new": true,
+   "days_listed": 0
   },
   {
    "title": "Staff-Data Engineer",
    "location": "Home-India",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-India/Senior-Data-Scientist---Content-Engineering_16705",
-   "posted_at": "Posted 17 Days Ago",
+   "posted_at": "Posted 18 Days Ago",
    "description": "16705",
    "department": "",
    "veto": null,
@@ -2046,7 +2072,7 @@
    "id": "4dd4507218148dcc",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 16
+   "days_listed": 17
   },
   {
    "title": "Senior Software Engineer, SSCS : Authentication",
@@ -2061,7 +2087,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2077,7 +2103,7 @@
    "id": "d383435b6c15aa76",
    "first_seen": "2026-10-16T08:21:27.059858+00:00",
    "is_new": false,
-   "days_listed": 14
+   "days_listed": 15
   },
   {
    "title": "Lead Database Administrator",
@@ -2095,7 +2121,7 @@
    "flags": [
     "vague culture language"
    ],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -2115,7 +2141,7 @@
    "id": "f572d14f95ae5377",
    "first_seen": "2026-10-20T08:44:40.415719+00:00",
    "is_new": false,
-   "days_listed": 10
+   "days_listed": 11
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -2127,7 +2153,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 4,
+   "age_days": 5,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2137,12 +2163,12 @@
    "match_hits": [
     "multi-agent",
     "ai engineer",
-    "evaluation",
     "embeddings",
     "guardrails",
-    "python",
+    "evaluation",
     "vector",
-    "llm"
+    "python",
+    "rag"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -2150,7 +2176,7 @@
    "id": "b12da8b27b841f15",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 35
+   "days_listed": 36
   },
   {
    "title": "Lead Software Engineer - Site Reliability",
@@ -2162,7 +2188,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 35,
+   "age_days": 36,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2178,7 +2204,7 @@
    "id": "51f08f6bb890441a",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 35
+   "days_listed": 36
   },
   {
    "title": "Lead Software Engineer - Full Stack",
@@ -2190,9 +2216,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2208,13 +2234,13 @@
    "id": "99eba567d0eb0c37",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 53
+   "days_listed": 54
   },
   {
    "title": "Senior Data Engineer-4",
    "location": "Hyderabad, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Hyderabad-India/Senior-Data-Engineer-4_R-292034",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-292034",
    "department": "",
    "veto": null,
@@ -2237,14 +2263,14 @@
    "portal": "workday",
    "id": "80585b88a9bc49b9",
    "first_seen": "2026-10-30T10:16:25.575793+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
    "title": "Lead Data Engineer",
    "location": "Hyderabad, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Hyderabad-India/Lead-Data-Engineer_R-292042",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-292042",
    "department": "",
    "veto": null,
@@ -2267,14 +2293,14 @@
    "portal": "workday",
    "id": "b0390fcb221f4dd9",
    "first_seen": "2026-10-30T10:16:25.575793+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
    "title": "Senior Data Engineer",
    "location": "Hyderabad, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Hyderabad-India/Senior-Data-Engineer_R-292448",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-292448",
    "department": "",
    "veto": null,
@@ -2297,14 +2323,14 @@
    "portal": "workday",
    "id": "a0e2035e963c63b8",
    "first_seen": "2026-10-30T10:16:25.575793+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
    "title": "Lead, Software Engineer (Agentic workflows/APIs)",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead--Software-Engineer--Agentic-workflows-APIs-_R-292798-1",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-292798",
    "department": "",
    "veto": null,
@@ -2329,13 +2355,13 @@
    "id": "f1845037a3f3b4bd",
    "first_seen": "2026-10-12T11:19:12.323550+00:00",
    "is_new": false,
-   "days_listed": 17
+   "days_listed": 18
   },
   {
    "title": "Senior Software Engineer",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-288518",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-288518",
    "department": "",
    "veto": null,
@@ -2358,14 +2384,14 @@
    "portal": "workday",
    "id": "942888b5767fbfa3",
    "first_seen": "2026-10-30T10:16:25.575793+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
    "title": "Lead Software Engineer",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-289394",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-289394",
    "department": "",
    "veto": null,
@@ -2388,14 +2414,14 @@
    "portal": "workday",
    "id": "6ca8cd7f344f3ae0",
    "first_seen": "2026-10-30T10:16:25.575793+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
    "title": "Manager, Software Engineering",
    "location": "Pune, India",
    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-281599",
-   "posted_at": "Posted Today",
+   "posted_at": "Posted Yesterday",
    "description": "R-281599",
    "department": "",
    "veto": null,
@@ -2418,7 +2444,7 @@
    "portal": "workday",
    "id": "3d5ad4bddaec3c98",
    "first_seen": "2026-10-30T10:16:25.575793+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   }
  ]
