@@ -187,9 +187,9 @@
   },
   "Airbank": {
     "ats": "custom",
-    "careers": "https://joinairbank.com",
+    "careers": "https://joinairbank.com/careers",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Airbyte": {
     "ats": "ashby",
@@ -469,7 +469,7 @@
   },
   "Bizink": {
     "ats": "custom",
-    "careers": "https://www.bizinkonline.com/join-us-at-the-myprosperity-roadshow/",
+    "careers": "https://bizinkonline.com",
     "slug": "",
     "source": "custom portal"
   },
@@ -1069,7 +1069,7 @@
   },
   "EaseMyTrip": {
     "ats": "custom",
-    "careers": "https://www.easemytrip.us",
+    "careers": "https://www.easemytrip.com",
     "slug": "",
     "source": "custom portal"
   },
@@ -1087,9 +1087,9 @@
   },
   "Edaify": {
     "ats": "custom",
-    "careers": "https://edaify.com/",
+    "careers": "https://careers.edaify.com/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Edgar": {
     "ats": "custom",
@@ -1879,7 +1879,7 @@
   },
   "Sutra HR": {
     "ats": "custom",
-    "careers": "https://sutrahr.com/contact-us/",
+    "careers": "https://www.sutrahr.com/contact-us/",
     "slug": "",
     "source": "custom portal"
   },
