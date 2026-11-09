@@ -55,9 +55,9 @@
   },
   "Ace Turtle": {
     "ats": "custom",
-    "careers": "https://aceturtle.com/careers/",
+    "careers": "https://aceturtle.com/careers",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Acivilate": {
     "ats": "custom",
@@ -103,9 +103,9 @@
   },
   "Adhaan Solutions": {
     "ats": "custom",
-    "careers": "https://www.hugedomains.com/domain_profile.cfm?d=adhaan.com",
+    "careers": "https://www.adhaan.com/",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Aditya Birla Group": {
     "ats": "workable",
@@ -409,9 +409,9 @@
   },
   "Betable": {
     "ats": "custom",
-    "careers": "https://betable.com/why-betable/",
+    "careers": "https://corp.betable.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "BetterUp": {
     "ats": "ashby",
@@ -595,9 +595,9 @@
   },
   "CivicActions": {
     "ats": "custom",
-    "careers": "https://civicactions.com/careers/",
+    "careers": "https://civicactions.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Civo": {
     "ats": "custom",
@@ -751,9 +751,9 @@
   },
   "Convert": {
     "ats": "custom",
-    "careers": "https://www.convert.com/jobs/",
+    "careers": "https://convert.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Coodesh": {
     "ats": "custom",
@@ -961,7 +961,7 @@
   },
   "Dgraph": {
     "ats": "custom",
-    "careers": "https://docs.dgraph.io",
+    "careers": "https://docs.dgraph.io/",
     "slug": "",
     "source": "custom portal"
   },
@@ -1087,9 +1087,9 @@
   },
   "Edaify": {
     "ats": "custom",
-    "careers": "https://careers.edaify.com/",
+    "careers": "https://edaify.com/",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "Edgar": {
     "ats": "custom",
@@ -1165,9 +1165,9 @@
   },
   "Episource": {
     "ats": "custom",
-    "careers": "https://episource.com",
+    "careers": "https://business.optum.com/en/operations-technology/risk-adjustment.html",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Equal Experts": {
     "ats": "greenhouse",
