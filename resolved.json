@@ -55,9 +55,9 @@
   },
   "Ace Turtle": {
     "ats": "custom",
-    "careers": "https://aceturtle.com/careers",
+    "careers": "https://aceturtle.com/careers/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Acivilate": {
     "ats": "custom",
@@ -207,7 +207,7 @@
     "ats": "custom",
     "careers": "https://alamisharia.co.id",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Alliance International": {
     "ats": "custom",
@@ -439,7 +439,7 @@
   },
   "Bijnis": {
     "ats": "custom",
-    "careers": "https://www.bijnis.com/jobs-opening",
+    "careers": "https://zorit.com/jobs-opening",
     "slug": "",
     "source": "custom portal"
   },
@@ -594,10 +594,10 @@
     "source": "custom portal"
   },
   "CivicActions": {
-    "ats": "custom",
+    "ats": "greenhouse",
     "careers": "https://civicactions.com",
-    "slug": "",
-    "source": "unreachable"
+    "slug": "civicactions",
+    "source": "guessed slug civicactions, identity checked"
   },
   "Civo": {
     "ats": "custom",
@@ -1021,9 +1021,9 @@
   },
   "Drupal Jedi": {
     "ats": "custom",
-    "careers": "https://drupaljedi.com/careers/",
+    "careers": "https://drupaljedi.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "DuckDuckGo": {
     "ats": "custom",
@@ -1087,9 +1087,9 @@
   },
   "Edaify": {
     "ats": "custom",
-    "careers": "https://edaify.com/",
+    "careers": "https://edaify.com/company/jobs",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Edgar": {
     "ats": "custom",
@@ -1176,10 +1176,10 @@
     "source": "guessed slug equalexperts, identity checked"
   },
   "Ergeon": {
-    "ats": "custom",
+    "ats": "greenhouse",
     "careers": "https://www.ergeon.com/careers/",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "ergeon",
+    "source": "sniffed"
   },
   "Estately": {
     "ats": "custom",
@@ -1449,7 +1449,7 @@
     "ats": "custom",
     "careers": "https://geo-jobe.com",
     "slug": "",
-    "source": "custom portal"
+    "source": "unreachable"
   },
   "GFT": {
     "ats": "successfactors",
@@ -1645,7 +1645,7 @@
   },
   "McKinsey": {
     "ats": "custom",
-    "careers": "https://jobs.mckinsey.com/en_US/careers",
+    "careers": "https://jobs.mckinsey.com/",
     "slug": "",
     "source": "custom portal"
   },
