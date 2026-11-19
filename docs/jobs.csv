@@ -1,9 +1,9 @@
 company,title,location,experience,salary_lpa,match,portal,posted,url
-Coinbase,Machine Learning Engineer,Remote (India),2+ yrs,44.1,61,greenhouse,2026-10-30T10:28:32-04:00,https://www.coinbase.com/careers/positions/7985187
+Coinbase,Machine Learning Engineer,Remote (India),2+ yrs,44.1,61,greenhouse,2026-11-18T09:32:27-05:00,https://www.coinbase.com/careers/positions/7985187
 Coinbase,"Software Engineer, Security Platform",Remote (India),3+ yrs,44.1,20,greenhouse,2026-11-05T18:02:25-05:00,https://www.coinbase.com/careers/positions/8165441
 Canonical,Software Engineer - Secure Container Images,Remote (Apac),0-7 yrs,,35,greenhouse,2026-08-25T10:07:21-04:00,https://job-boards.greenhouse.io/canonical/jobs/8130859
 Canonical,C++/Rust Graphics and Windowing System Software Engineer - Mir,Remote (Apac),2+ yrs,,27,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/4439935
-Coinbase,Senior Machine Learning Engineer,Remote (India),"5+ yrs, senior title",66.1,61,greenhouse,2026-10-30T10:24:15-04:00,https://www.coinbase.com/careers/positions/7739592
+Coinbase,Senior Machine Learning Engineer,Remote (India),"5+ yrs, senior title",66.1,61,greenhouse,2026-11-18T09:32:22-05:00,https://www.coinbase.com/careers/positions/7739592
 Coinbase,Senior Software Engineer - Data Platform,Remote (India),"5+ yrs, senior title",66.1,38,greenhouse,2026-10-30T11:23:25-04:00,https://www.coinbase.com/careers/positions/8325213
 Canonical,MLOps Field Engineer,Remote (Worldwide),Years not stated,,51,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/6783943
 Canonical,Python Engineer,Remote (Worldwide),Years not stated,,42,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/5143074
@@ -20,6 +20,7 @@ Canonical,"Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
 Canonical,Junior Ubuntu Software Engineer,Remote (Worldwide),Years not stated,,32,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/6707669
 Canonical,Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ,Remote (Apac),Years not stated,,32,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/5660661
 Canonical,Security Software Engineer,Remote (Worldwide),Years not stated,,32,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/5146620
+Axelerant,Backend Engineer - Python,Remote (India),Years not stated,,31,custom,Open now,https://www.axelerant.com/careers/backend-engineer-python-remote-india
 Canonical,Software Engineer - Solutions Engineering,Remote (Worldwide),Years not stated,,29,greenhouse,2026-11-11T02:47:44-05:00,https://job-boards.greenhouse.io/canonical/jobs/3290946
 Canonical,Ubuntu Software Engineer,Remote (Worldwide),Years not stated,,29,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/6707824
 Canonical,Software Engineer - App Stores,Remote (Worldwide),Years not stated,,26,greenhouse,2026-08-05T18:23:33-04:00,https://job-boards.greenhouse.io/canonical/jobs/3159992
@@ -33,7 +34,6 @@ Coursera,LLMops Engineer,India,4+ yrs,,51,greenhouse,2026-11-13T00:16:51-05:00,h
 Meesho,Data Scientist III (Team- Valmo),Bangalore,Years not stated,,41,lever,2025-09-11T09:40:42.019000+00:00,https://jobs.lever.co/meesho/9c642a77-5b07-40a2-a7f0-0c396b2b97c5
 GitLab,"Intermediate Backend Engineer , Security Factory",Bangalore,Years not stated,,38,greenhouse,2026-11-06T15:25:07-05:00,https://job-boards.greenhouse.io/gitlab/jobs/8890971002
 GitLab,"Intermediate Backend Engineer, India",Bangalore,Years not stated,,36,greenhouse,2026-11-06T15:25:07-05:00,https://job-boards.greenhouse.io/gitlab/jobs/8775507002
-Axelerant,Backend Engineer - Python (Remote - India),India,Years not stated,,31,custom,Open now,https://www.axelerant.com/careers/backend-engineer-python-remote-india
 Meesho,Data Scientist III,Bangalore,Years not stated,,30,lever,2023-11-10T04:17:11.159000+00:00,https://jobs.lever.co/meesho/489fe662-5d28-4305-953e-91ee21e8538c
 Unacademy,"Software Engineer, Backend",Bengaluru,Years not stated,,25,smartrecruiters,2018-06-28T13:11:04+00:00,https://jobs.smartrecruiters.com/unacademy/postings/743999672726735
 GitLab,"Software Engineer, Delivery : Release",Bangalore,Years not stated,,20,greenhouse,2026-11-06T15:25:07-05:00,https://job-boards.greenhouse.io/gitlab/jobs/8916232002
@@ -51,7 +51,7 @@ GitLab,Staff Software Engineer - NLP,Bangalore,Senior title,,33,greenhouse,2026-
 Turing,Software Engineer,Bengaluru,6+ yrs,,33,greenhouse,2026-11-03T17:48:04-05:00,https://job-boards.greenhouse.io/turing/jobs/6115695004
 GitLab,"Senior Backend Engineer, India",Bangalore,Senior title,,30,greenhouse,2026-11-06T15:25:07-05:00,https://job-boards.greenhouse.io/gitlab/jobs/8716143002
 AddStructure,Staff Devops Engineer,Bengaluru,Senior title,,26,lever,2026-03-09T08:54:52.312000+00:00,https://jobs.lever.co/bazaarvoice/28cd3ded-6aba-41c9-bb67-a5c6887c878c
-Equal Experts,Senior Backend Engineer,India,Senior title,,26,greenhouse,2026-10-30T07:50:25-04:00,https://job-boards.greenhouse.io/equalexperts/jobs/8921267002
+Equal Experts,Senior Backend Engineer,India,Senior title,,26,greenhouse,2026-11-18T13:29:24-05:00,https://job-boards.greenhouse.io/equalexperts/jobs/8921267002
 Elastic,Senior Support Engineer,Bangalore,Senior title,,25,greenhouse,2026-11-07T09:24:51-05:00,https://jobs.elastic.co/jobs
 GitLab,"Staff Software Engineer, Security Platform: Authentication",Bangalore,Senior title,,24,greenhouse,2026-11-10T22:06:50-05:00,https://job-boards.greenhouse.io/gitlab/jobs/8930224002
 GitLab,"Senior Backend Engineer, Development Health",Bangalore,Senior title,,23,greenhouse,2026-11-17T00:14:31-05:00,https://job-boards.greenhouse.io/gitlab/jobs/8928675002
