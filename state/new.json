@@ -1,1 +1,35 @@
-[]
+[
+ {
+  "title": "Research Engineer",
+  "location": "Bengaluru, Karnataka, India",
+  "url": "https://job-boards.greenhouse.io/turing/jobs/6266941004",
+  "posted_at": "2026-11-20T18:13:36-05:00",
+  "description": "div class= content-intro h1 span style= font-family: helvetica, arial, sans-serif; strong span style= font-size: 24pt; About Turing /span /strong /span /h1 p span id= m_-1033525666082252048m_-8288224233410703305gmail-docs-internal-guid-39386146-7fff-394b-7c89-9e58d80485b6 Turing\u2019s mission is to accelerate superintelligence to drive real economic progress. Headquartered in San Francisco, Turing works with frontier AI labs to generate high-quality datasets, reinforcement learning environments, and frontier research benchmarks that improve model capabilities in software engineering, enterprise knowledge work, and advanced STEM reasoning. In software engineering, Turing is the largest and longest-running data provider in the category. Turing also works with Fortune 500 enterprises across financial services, life sciences, healthcare, retail, automotive, and CPG to build and deploy end-to-end agentic AI systems inside mission-critical workflows. By operating on both sides, Turing closes the loop between frontier research and enterprise deployment, turning real-world deployment signals into better data, evaluations, and more capable models. Learn more at a href= http://www.turing.com/ target= _blank data-saferedirecturl= https://www.google.com/url?q=http://www.turing.com amp;source=gmail amp;ust=1788032823652000 amp;usg=AOvVaw2LLfe9HeuAcQz5ewoGP-0C www.turing.com /a . nbsp; /span /p div nbsp; /div /div h3 The role /h3 p We\u2019re looking for a Research Engineer to help build and evaluate the data, environments, and benchmarks used to improve advanced AI models. You\u2019ll work closely with researchers and engineers at a frontier AI lab, translating research goals into technical plans and taking responsibility for the quality of the resulting work. /p p Projects are often tailored to a client\u2019s changing research needs. You\u2019ll build context through close collaboration, make sound technical decisions in ambiguous situations, and balance quality with timely delivery. /p p Depending on your experience, you may focus on coding and software engineering agents, reinforcement learning environments, multimodal reasoning, STEM, or embodied AI systems. /p h3 What you\u2019ll do /h3 ul li Translate research goals into technical specifications, including target capabilities, task coverage, difficulty, known failure modes, and measures of success. /li li Assess feasibility and define assumptions, acceptance criteria, and evaluation requirements for new work. /li li Create rubrics, examples, and edge cases that make quality expectations clear. /li li Review datasets and task outputs to identify errors, ambiguity, data leakage, reward exploitation, inconsistent assumptions, and gaps in coverage. /li li Use quality results and failure patterns to recommend specific improvements to data creation and review. /li li Design task suites, verifiers, reward functions, automated checks, and environment interfaces such as APIs and tool schemas. /li li Build systems for validation, filtering, deduplication, decontamination, difficulty calibration, and diversity. /li li Develop synthetic data and augmentation approaches where they are useful, such as task generators, controlled variations, and tool-driven rollouts. /li li Design evaluations and analyze results to understand whether data or environments improve model performance. /li li When needed, contribute to fine-tuning or reinforcement learning experiments that measure the effect of the work. /li li Provide technical direction and actionable feedback to teams producing data; own technical quality and release recommendations. /li li Communicate technical findings, risks, and trade-offs directly to client partners, coordinating delivery changes with the relevant project leads. /li /ul h3 What we\u2019re looking for /h3 ul li Around 4\u20135 years of experience building or improving deep learning systems, with hands-on work in training data, post-training, evaluation, or agentic systems. /li li Strong judgment about how data selection, filtering, synthesis, and evaluation affect model performance. /li li Strong programming skills in Python. Experience with SQL or other structured-data workflows is helpful. /li li Ability to turn broad research goals into concrete technical plans and explain findings clearly to researchers and engineers. /li li Careful, evidence-based approach to diagnosing data quality problems and model failure modes. /li li Experience creating measurable quality processes, such as validation scripts, gold sets, sampling plans, statistical checks, or human review loops. /li li Comfort working directly with clients and communicating trade-offs or setbacks. /li li Ability to work independently when requirements are evolving. /li /ul h3 Helpful experience /h3 ul li Reinforcement learning or post-training, including RLHF/RLAIF, reward modeling, verifier training, or environment design. /li li Evaluation of tool use, multi-step workflows, or long-horizon agent tasks. /li li Multimodal work involving documents, charts, diagrams, OCR, or visual interfaces. /li li Strong STEM background and experience checking solutions for correctness. /li li Embodied AI or vision-language-action systems. /li li Experience modeling application APIs, data schemas, or realistic workflow constraints. /li /ul h3 Why Turing /h3 ul li Work closely with a frontier AI lab on data, environments, and evaluations for advanced models. /li li Take meaningful ownership of the technical approach and quality bar. /li li Collaborate with a talent-dense team in a fast-moving environment. /li li Help connect frontier AI development with practical applications. /li /ul p Turing is an equal opportunity employer. We celebrate diverse backgrounds and encourage you to apply even if your experience does not match every qualification listed above. /p div class= content-conclusion h2 data-section-id= qzdk59 data-start= 0 data-end= 13 span strong data-start= 3 data-end= 13 Values /strong /span /h2 ul data-start= 15 data-end= ",
+  "department": "Frontier AI",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [],
+  "age_days": 0,
+  "location_tier": 4,
+  "location_label": "Bengaluru",
+  "experience_bucket": 0,
+  "experience_note": "4-5 yrs",
+  "salary_lpa": null,
+  "match_score": 45,
+  "match_hits": [
+   "research engineer",
+   "fine-tuning",
+   "evaluation",
+   "python",
+   "edge",
+   "sql"
+  ],
+  "company": "Turing",
+  "company_tier": "global",
+  "portal": "greenhouse",
+  "id": "6dad380211ba1896",
+  "first_seen": "2026-11-21T11:29:47.445560+00:00",
+  "is_new": true,
+  "days_listed": 0
+ }
+]
