@@ -1,260 +1,82 @@
 {
- "generated_at": "2026-11-22T11:43:56.825160+00:00",
- "cadence": "weekly",
- "companies_checked": 347,
+ "generated_at": "2026-11-23T13:31:20.666725+00:00",
+ "cadence": "daily",
+ "companies_checked": 174,
  "companies_total": 347,
  "companies_failed": {
-  "Acivilate": "HTTPStatusError: Server error '500 Internal Server Error' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Adhaan Solutions": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Adobe": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs'",
-  "Advanz 101": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Adzuna": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "AgFlow": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "AgroStar": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Aha!": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Aikonic": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Aim India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "AirTreks": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Airbank": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Aivitex": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Alami": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Alliance International": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Alliance Recruitment Agency": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Alvarez & Marsal": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Amazon": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "American Express": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Antal International India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "ApnaKlub": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Appinventiv": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Automattic": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Auxilo Finserve": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Avendus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Awign": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Axelerant": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "BCG": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bain": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "BairesDev": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Balsamiq": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "BandLab": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bandcamp": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Bank of America": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/lateral-us/jobs'",
-  "Barclays": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Baremetrics": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Basecamp": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "BeBanjo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bear Group": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "BeenVerified": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Best Practical": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "BetaPeak": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Betable": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Beyond Company": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bijnis": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bit Zesty": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bitnami": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Bitovi": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bizink": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Blackstone": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs'",
-  "Blameless": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Bloc": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/Chegg/jobs'",
+  "Bloc": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/Chegg/jobs'",
   "BrowserStack": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://browserstack.wd3.myworkdayjobs.com/wday/cxs/browserstack/External/jobs'",
-  "CIEL HR Services": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "CVS Health": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "CWT": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "CareerNet Consulting": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "CashKaro": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Chargebee": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Chef": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "ChefsClub": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Chess.com": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Circonus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Civo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "ClearTax": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Clevertech": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "CloudApp": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Coalition Technologies": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Code Like a Girl": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "CodePen": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "CodeSandbox": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Codea IT": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Codeship": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Codestunts": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Cofense": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Coingape": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Compose": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Compucorp": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Connexa": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Continu": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Conversio": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Convert": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Coodesh": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Core-Apps": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "CoreOS": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Corgibytes": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Crescendo Global": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Cropin": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Crossover": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "CrowdStrike": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs'",
-  "CrowdTangle": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Cueup": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Cuvette": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Cyber Whale": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "D.E. Shaw": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DNSimple": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Dalenys": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DappRadar": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DareCode": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DashboardHub": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Data Science Brigade": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Data Science Dojo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "DataStax": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Datica": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DealDash": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Deel": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Delhivery": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Deskpass": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Dev Spotlight": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Devsquad": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Dgraph": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "DigitalOcean": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Discourse": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Doist": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Donut App": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "DroneDeploy": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Droom": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Drupal Jedi": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "DuckDuckGo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "DynaPictures": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EBSCO Information Services": "HTTPStatusError: Client error '405 Not Allowed' for url 'https://careers-ebscoind.icims.com/jobs/search?ss=1&searchRelation=keyword_all&in_iframe=1'",
   "EPAM": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "EVELO": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "EY-Parthenon": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EarthOfDrones": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EaseMyTrip": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "EatStreet": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Eco-Mind": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Edaify": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Edgar": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Edgio": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Edify": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Emsisoft": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "EngineYard": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Enok": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Entrision": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Epilocal": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Episource": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Estately": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Etch": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Eternal (Zomato)": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Etsy": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Evil Martians": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Evrone": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "ExportData": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Eyeo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FATMAP": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FFW Agency": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FMX": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FactorialHR": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Fairwinds": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Faithlife": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "FarMart": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Fauna": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Featurist": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Filament Group": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Fire Engine Red": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Fireball Labs": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FirstMeridian": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FivexL": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FlexiLoans": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FlightAware": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Flipkart": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Flowing": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Focusnetworks": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Fraudio": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FreeAgent": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Freeletics": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Fuel Made": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "FullFabric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Functionize": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "GEO Jobe": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "GFT": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "GI Group Holding India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Gaggle": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Geckoboard": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Gerencianet": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Ghost Inspector": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Goldman Sachs": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Google": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "HUL": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs'",
   "Hasura": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Hays India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Head Field Solutions": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Heidrick & Struggles India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://heidrick.wd1.myworkdayjobs.com/wday/cxs/heidrick/heidrickandstruggles/jobs'",
-  "ITC": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Innovsource": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Jefferies": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Jupiter": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Kearney": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Kelly Services India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://kellyservices.wd503.myworkdayjobs.com/wday/cxs/kellyservices/corporatecareers-kellyservic",
   "Khatabook": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Korn Ferry": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Kotak Mahindra Capital": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Learnovate": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Mastercard": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs'",
-  "McKinsey": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Michael Page India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Microsoft": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Moglix": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Morgan Stanley": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Multi Recruit": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Navi": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "NeoKred": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "OfBusiness": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "P&G": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "PERSOLKELLY India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "PeopleStrong": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "PharmEasy": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "PhonePe": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Pine Labs": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Postman": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/postman/jobs?content=true'",
-  "Quadrangle": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Randstad India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Rivigo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Shiprocket": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Shopify": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Spencer Stuart India": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Spenmo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Sutra HR": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Talent500": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "UBS": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Uber": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Urban Company": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Velocity": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Vezdo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Visa": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Walnut": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "WhiteHat Jr": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "WinZO": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Wingify": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "WorkSource Consultants": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Xpheno": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Yubi": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "Zapak": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Zetwerk": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Zoho": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Zopper": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Zypp Electric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "abiturma": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "acct": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "boAt": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "eFishery": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
-  "fohandboh": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "redBus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'"
  },
- "postings_seen": 3877,
+ "postings_seen": 4003,
  "duplicates_merged": 0,
- "matches": 63,
+ "matches": 67,
  "vetoed": {},
  "new_today": 1,
- "closed_since": 7,
+ "closed_since": 1,
  "jobs": [
   {
    "title": "Machine Learning Engineer",
@@ -269,7 +91,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -282,8 +104,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "aws",
-    "llm"
+    "llm",
+    "aws"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -291,7 +113,7 @@
    "id": "972d24ce152b4464",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer, Security Platform",
@@ -306,7 +128,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 16,
+   "age_days": 17,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -322,7 +144,7 @@
    "id": "486ab52c4ff4a137",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer - Secure Container Images",
@@ -337,9 +159,9 @@
     "rust"
    ],
    "flags": [
-    "posted 88 days ago"
+    "posted 89 days ago"
    ],
-   "age_days": 88,
+   "age_days": 89,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -349,8 +171,8 @@
    "match_hits": [
     "software engineer",
     "kubernetes",
-    "python",
     "docker",
+    "python",
     "ci/cd"
    ],
    "company": "Canonical",
@@ -359,7 +181,7 @@
    "id": "210e4fe5a367aeda",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
@@ -373,9 +195,9 @@
     "rust"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -393,7 +215,7 @@
    "id": "5f91dffa74c5f3b2",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Senior Machine Learning Engineer",
@@ -408,7 +230,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -421,8 +243,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "aws",
-    "llm"
+    "llm",
+    "aws"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -430,7 +252,7 @@
    "id": "897d874ea0f0c95e",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Senior Software Engineer - Data Platform",
@@ -445,7 +267,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 22,
+   "age_days": 23,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -456,8 +278,8 @@
     "software engineer",
     "airflow",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "sql"
    ],
    "company": "Coinbase",
@@ -466,7 +288,7 @@
    "id": "124374c25297f533",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
    "is_new": false,
-   "days_listed": 25
+   "days_listed": 26
   },
   {
    "title": "MLOps Field Engineer",
@@ -482,9 +304,9 @@
     "kubeflow"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -493,10 +315,10 @@
    "match_score": 51,
    "match_hits": [
     "kubernetes",
-    "python",
     "mlflow",
-    "spark",
+    "python",
     "mlops",
+    "spark",
     "aws",
     "sql"
    ],
@@ -506,7 +328,7 @@
    "id": "89a6bbd45c957422",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Python Engineer",
@@ -522,9 +344,9 @@
     "grpc"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -545,7 +367,7 @@
    "id": "5d24f8c1907d1205",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -561,9 +383,9 @@
     "clickhouse"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -574,9 +396,9 @@
     "software engineer",
     "kubernetes",
     "airflow",
-    "python",
     "docker",
     "mlflow",
+    "python",
     "aws"
    ],
    "company": "Canonical",
@@ -585,7 +407,7 @@
    "id": "3cd0e0c2f8129887",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer - Python and K8s",
@@ -597,9 +419,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -610,8 +432,8 @@
     "software engineer",
     "kubernetes",
     "real-time",
-    "python",
     "docker",
+    "python",
     "edge"
    ],
    "company": "Canonical",
@@ -620,7 +442,7 @@
    "id": "fc7005194a2a0bcf",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -634,9 +456,9 @@
     "go"
    ],
    "flags": [
-    "posted 88 days ago"
+    "posted 89 days ago"
    ],
-   "age_days": 88,
+   "age_days": 89,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -646,8 +468,8 @@
    "match_hits": [
     "software engineer",
     "kubernetes",
-    "python",
     "docker",
+    "python",
     "ci/cd",
     "edge"
    ],
@@ -657,7 +479,7 @@
    "id": "71a7fb06055356bb",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer, Cloud - Sustaining Engineering",
@@ -671,9 +493,9 @@
     "go"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -684,8 +506,8 @@
     "software engineer",
     "postgresql",
     "kubernetes",
-    "python",
     "docker",
+    "python",
     "c++"
    ],
    "company": "Canonical",
@@ -694,7 +516,7 @@
    "id": "6f24a2c795ced861",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer - L3 Support",
@@ -708,9 +530,9 @@
     "go"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -721,8 +543,8 @@
     "software engineer",
     "postgresql",
     "kubernetes",
-    "python",
     "docker",
+    "python",
     "c++"
    ],
    "company": "Canonical",
@@ -731,7 +553,7 @@
    "id": "b95c5600b7c162ba",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer, Sustaining Engineering",
@@ -745,9 +567,9 @@
     "go"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -758,8 +580,8 @@
     "software engineer",
     "postgresql",
     "kubernetes",
-    "python",
     "docker",
+    "python",
     "c++"
    ],
    "company": "Canonical",
@@ -768,7 +590,7 @@
    "id": "3fd2583778e05409",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Linux Devices Software Engineer",
@@ -783,9 +605,9 @@
     "rust"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -805,21 +627,19 @@
    "id": "8e35405280dd53e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
    "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
    "url": "https://job-boards.greenhouse.io/canonical/jobs/7432750",
-   "posted_at": "2026-08-05T18:23:33-04:00",
+   "posted_at": "2026-11-22T07:45:59-05:00",
    "description": "p Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world&#39;s leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. /p p The company is founder-led, profitable, and growing. /p p Canonical\u2019s Partner Engineering Team is looking for open-source enthusiasts to work across the full Linux stack to ensure new silicon technologies, such as new hardware accelerators, AI stacks, confidential computing, networking, virtualization, and containerization stacks, are optimized for new silicons. nbsp; /p p Partner Engineering works closely with worldwide silicon companies to optimize Ubuntu for their new silicon, from x86, ARM, RISC-V, PowerPC and s390x architectures. nbsp; nbsp; /p p Location: This is a Globally remote role /p h2 The role entails /h2 ul li Collaborating proactively within a distributed team /li li Fostering a software ecosystem with seamless user experience for all Ubuntu users /li li Evaluating contributions of other engineers to maintain high-quality software standards. /li li Playing a role in shaping the future of Ubuntu via both - new ideas in your areas of interest and advising on work being done elsewhere /li li Collaborating with other teams in the Ubuntu and Debian communities, with upstream projects, and commercially supported customers /li li Debugging issues on open source code and team maintained code. /li li Helping our our customers to integrate their apps, SDKs, build OS images, optimize applications with Ubuntu Core, Desktop and Server /li li Working with a team to maintain Ubuntu, silicon features, and silicon-optimized packages across platforms and technologies such as: /li ul li Servers, HPC and AI systems, IoT devices, PCs, SmartNICs and automotive systems /li li AI stacks /li li Graphics, audio and multimedia stacks /li li Virtualisation and Containers /li li Hardware enablement stacks /li li New architectures, architecture variants and optimized toolchains nbsp; /li li Package management and dependencies /li li Platform security (secure boot, FDE, Ubuntu Core, Confidential Computing) /li /ul li Work from home with global travel 2 to 4 weeks for internal events /li /ul h2 What we are looking for in you /h2 ul li Exceptional academic track record from both high school and university /li li Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path /li li You love technology and working with brilliant people /li li You are curious, flexible, articulate, and accountable /li li You value soft skills and are passionate, enterprising, thoughtful, and self-motivated /li li You value building partnerships with a diverse set of internal and external groups /li li Strong fundamentals in C, C++ and Python /li li Experience or interest in learning Linux distribution packaging nbsp; /li li Experience or Interest in open source maintenance or contribution and licenses /li li Fundamental understanding of package management and dependency resolution /li /ul h2 Additional skills that you might also bring /h2 ul li Experience with one or more of the following: /li ul li Graphics, audio, or multimedia stacks /li li Virtualization and containers (Docker, OCI, Kubernetes) /li li Hardware enablement for platforms and devices, including SmartNICs, NVMe storage, GPUs, audio components, and sensors /li li Performance optimization /li li Toolchain development and maintenance /li li Networking protocols and technologies (TCP/IP, DHCP, HTTP/REST) /li li Security best practices /li li IoT and embedded systems, including board-level hardware, SoCs, BMCs, bootloaders, firmware, operating systems, applications, and services /li /ul /ul h2 What we offer colleagues /h2 p We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. /p ul li Distributed work environment with twice-yearly team sprints in person /li li Personal learning and development budget of USD 2,000 per year /li li Annual compensation review /li li Recognition rewards /li li Annual holiday leave /li li Maternity and paternity leave /li li Team Member Assistance Program amp; Wellness Platform /li li Opportunity to travel to new locations to meet colleagues /li li Priority Pass and travel upgrades for long-haul company events /li /ul h2 About Canonical /h2 p Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.\u200b Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. nbsp; /p h2 Canonical is an equal opportunity employer /h2 p We are proud to foster a workplace free from discrimination. Diversity of experience, persp",
    "department": "Devices Engineering",
    "veto": null,
    "skill_gaps": [],
-   "flags": [
-    "posted 108 days ago"
-   ],
-   "age_days": 108,
+   "flags": [],
+   "age_days": 1,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -829,8 +649,8 @@
    "match_hits": [
     "software engineer",
     "kubernetes",
-    "python",
     "docker",
+    "python",
     "c++"
    ],
    "company": "Canonical",
@@ -839,7 +659,7 @@
    "id": "ce1d173b849babb6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Go (Golang) Software Engineer, Developer Tooling and Containers",
@@ -854,7 +674,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -873,7 +693,7 @@
    "id": "0eddfe107c2f48f3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -889,7 +709,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 5,
+   "age_days": 6,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -908,7 +728,7 @@
    "id": "8a20d9a2c4c4ffb6",
    "first_seen": "2026-11-17T12:11:40.940561+00:00",
    "is_new": false,
-   "days_listed": 4
+   "days_listed": 6
   },
   {
    "title": "Junior Ubuntu Software Engineer",
@@ -923,9 +743,9 @@
     "rust"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -944,7 +764,7 @@
    "id": "52929cfe97d8f85a",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
@@ -959,9 +779,9 @@
     "rust"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -980,7 +800,7 @@
    "id": "ce408466319dc35b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Security Software Engineer",
@@ -998,9 +818,9 @@
     "php"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -1019,7 +839,36 @@
    "id": "be1de3b5e41341f4",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
+  },
+  {
+   "title": "Backend Engineer - Python (Remote - India)",
+   "location": "Remote - India",
+   "url": "https://www.axelerant.com/careers/backend-engineer-python-remote-india",
+   "posted_at": "Open now",
+   "description": "",
+   "department": "Remote Full-time",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [],
+   "age_days": null,
+   "location_tier": 0,
+   "location_label": "Remote (India)",
+   "experience_bucket": 1,
+   "experience_note": "Years not stated",
+   "salary_lpa": null,
+   "match_score": 31,
+   "match_hits": [
+    "backend engineer",
+    "python"
+   ],
+   "company": "Axelerant",
+   "company_tier": "global",
+   "portal": "custom",
+   "id": "330b83453282e8ec",
+   "first_seen": "2026-11-16T12:00:51.804676+00:00",
+   "is_new": false,
+   "days_listed": 7
   },
   {
    "title": "Software Engineer - Solutions Engineering",
@@ -1033,7 +882,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -1051,7 +900,7 @@
    "id": "7310719a2be22e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Ubuntu Software Engineer",
@@ -1066,9 +915,9 @@
     "rust"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -1086,7 +935,7 @@
    "id": "6caffa67411ed0e3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer - App Stores",
@@ -1100,9 +949,9 @@
     "golang"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -1119,7 +968,7 @@
    "id": "4727884cced45711",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Alliances Field Engineer",
@@ -1135,9 +984,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -1149,8 +998,8 @@
     "kubernetes",
     "mongodb",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -1160,7 +1009,7 @@
    "id": "37cb7a5898f98ab3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Staff Software Engineer, Customer Administration",
@@ -1178,7 +1027,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 4,
+   "age_days": 5,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1187,13 +1036,13 @@
    "match_score": 62,
    "match_hits": [
     "software engineer",
+    "guardrails",
     "evaluation",
     "kubernetes",
-    "guardrails",
     "python",
     "kafka",
-    "aws",
-    "rag"
+    "rag",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -1201,7 +1050,7 @@
    "id": "96b5f8fab6f5c3a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Staff Software Engineer, Security Platform",
@@ -1216,7 +1065,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 22,
+   "age_days": 23,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1232,21 +1081,19 @@
    "id": "4a3092df3189ad5c",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Embedded Linux Senior Software Engineer - Optimisation",
    "location": "Home based - Worldwide",
    "url": "https://job-boards.greenhouse.io/canonical/jobs/6189337",
-   "posted_at": "2026-08-05T18:23:33-04:00",
+   "posted_at": "2026-11-22T07:45:59-05:00",
    "description": "p Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world\u2019s most widely used Linux desktop and server, for the latest silicon. /p p The role is a fast-paced, problem-solving role that\u2019s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware. /p p strong Location: /strong span style= font-weight: 400; /span em span style= font-weight: 400; This is a Globally remote role /span /em /p h2 span style= font-weight: 400; What your day will look like /span /h2 ul li Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks /li li Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms /li li Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics /li li Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge /li li Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server /li li Work with the most advanced operating systems and application technologies available in the enterprise world. /li /ul p Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail. /p h2 span style= font-weight: 400; What we are looking for in you /span /h2 ul li You love technology and working with brilliant people /li li You have a Bachelor\u2019s degree in Computer Science, STEM or similar nbsp; /li li You have experience with Linux packaging (Debian, RPM, Yocto) /li li You have experience working with open source communities and licences /li li You have experience working with C, C++ /li li You can work in a globally distributed team through self-discipline and self-motivation. /li /ul h2 span style= font-weight: 400; Additional skills that you might also bring /span /h2 ul li Experience with graphics stacks /li li Good understanding of networking - TCP/IP, DHCP, HTTP/REST /li li Basic understanding of security best practices in IoT or server environments /li li Good communication skills, ideally public speaking experience /li li IoT / Embedded experience \u2013 from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services /li li Some experience with Docker/OCI containers/K8s /li /ul h2 span style= font-weight: 400; What we offer you /span /h2 p span style= font-weight: 400; Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce. nbsp; nbsp; /span /p p span style= font-weight: 400; In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process. /span /p ul li style= font-weight: 400; span style= font-weight: 400; Fully remote working environment - we\u2019ve been working remotely since 2004! /span /li li style= font-weight: 400; span style= font-weight: 400; Personal learning and development budget of 2,000USD per annum /span /li li style= font-weight: 400; span style= font-weight: 400; Annual compensation review /span /li li style= font-weight: 400; span style= font-weight: 400; Recognition rewards /span /li li style= font-weight: 400; span style= font-weight: 400; Annual holiday leave /span /li li style= font-weight: 400; span style= font-weight: 400; Parental Leave /span /li li style= font-weight: 400; span style= font-weight: 400; Employee Assistance Programme /span /li li style= font-weight: 400; span style= font-weight: 400; Opportunity to travel to new locations to meet colleagues at \u2018sprints\u2019 /span /li li style= font-weight: 400; span style= font-weight: 400; Priority Pass for travel and travel upgrades for long haul company events /span /li /ul h2 span style= font-weight: 400; About Canonical /span /h2 p span style= font-weight: 400; Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. /span /p p span style= font-weight: 400; Canonical has been a remote-first company since its inception in 2004.\u200b Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business. /span /p h2 span style= font-weight: 400; Canonical is an equal opportunity employer /span /h2 p span style= font-weight: 400; We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environ",
    "department": "Devices Engineering",
    "veto": null,
    "skill_gaps": [],
-   "flags": [
-    "posted 108 days ago"
-   ],
-   "age_days": 108,
+   "flags": [],
+   "age_days": 1,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1265,7 +1112,7 @@
    "id": "8c5234f46a324b14",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Cloud Solutions Architect - Alliances",
@@ -1281,9 +1128,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 108 days ago"
+    "posted 109 days ago"
    ],
-   "age_days": 108,
+   "age_days": 109,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1295,8 +1142,8 @@
     "kubernetes",
     "mongodb",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -1306,7 +1153,65 @@
    "id": "ae88c5d854f51f22",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
+  },
+  {
+   "title": "AL/ML Engineer",
+   "location": "Noida",
+   "url": "https://appinventiv.com/career/",
+   "posted_at": null,
+   "description": "",
+   "department": "",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [],
+   "age_days": null,
+   "location_tier": 1,
+   "location_label": "Noida",
+   "experience_bucket": 1,
+   "experience_note": "Years not stated",
+   "salary_lpa": null,
+   "match_score": 35,
+   "match_hits": [
+    "ml engineer"
+   ],
+   "company": "Appinventiv",
+   "company_tier": "noida",
+   "portal": "custom",
+   "id": "5bc1077b31b7cfc3",
+   "first_seen": "2026-09-07T09:50:21.309043+00:00",
+   "is_new": false,
+   "days_listed": 77
+  },
+  {
+   "title": "Sr Forward Deployed Engineer",
+   "location": "Noida",
+   "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
+   "posted_at": "Posted 30+ Days Ago",
+   "description": "R172762",
+   "department": "",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [
+    "thin description"
+   ],
+   "age_days": null,
+   "location_tier": 1,
+   "location_label": "Noida",
+   "experience_bucket": 2,
+   "experience_note": "Senior title",
+   "salary_lpa": null,
+   "match_score": 20,
+   "match_hits": [
+    "forward deployed"
+   ],
+   "company": "Adobe",
+   "company_tier": "india",
+   "portal": "workday",
+   "id": "682e11ccdd27afa4",
+   "first_seen": "2026-10-14T08:53:54.476366+00:00",
+   "is_new": false,
+   "days_listed": 40
   },
   {
    "title": "LLMops Engineer",
@@ -1325,7 +1230,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 9,
+   "age_days": 10,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 0,
@@ -1333,14 +1238,14 @@
    "salary_lpa": null,
    "match_score": 51,
    "match_hits": [
-    "typescript",
     "evaluation",
-    "kubernetes",
     "guardrails",
+    "kubernetes",
+    "typescript",
     "langgraph",
+    "docker",
     "python",
-    "vector",
-    "docker"
+    "vector"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1348,7 +1253,7 @@
    "id": "cb071de2af5e7fff",
    "first_seen": "2026-10-06T10:35:20.890716+00:00",
    "is_new": false,
-   "days_listed": 47
+   "days_listed": 48
   },
   {
    "title": "Research Engineer",
@@ -1360,7 +1265,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 1,
+   "age_days": 2,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 0,
@@ -1381,7 +1286,7 @@
    "id": "6dad380211ba1896",
    "first_seen": "2026-11-21T11:29:47.445560+00:00",
    "is_new": false,
-   "days_listed": 1
+   "days_listed": 2
   },
   {
    "title": "Data Scientist III (Team- Valmo)",
@@ -1393,9 +1298,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 437 days ago"
+    "posted 438 days ago"
    ],
-   "age_days": 437,
+   "age_days": 438,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1414,7 +1319,7 @@
    "id": "f2d993091a5cccd2",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 40
+   "days_listed": 41
   },
   {
    "title": "Intermediate Backend Engineer , Security Factory",
@@ -1430,7 +1335,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 15,
+   "age_days": 16,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1450,7 +1355,7 @@
    "id": "e7355789b82f50ed",
    "first_seen": "2026-11-05T11:16:13.474389+00:00",
    "is_new": false,
-   "days_listed": 17
+   "days_listed": 18
   },
   {
    "title": "Intermediate Backend Engineer, India",
@@ -1467,7 +1372,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 15,
+   "age_days": 16,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1488,7 +1393,7 @@
    "id": "c82729b762e9099f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Data Scientist III",
@@ -1500,9 +1405,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 1108 days ago"
+    "posted 1109 days ago"
    ],
-   "age_days": 1108,
+   "age_days": 1109,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1518,7 +1423,7 @@
    "id": "59e8dcd0b3f7e4e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Software Engineer, Backend",
@@ -1530,9 +1435,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 3068 days ago"
+    "posted 3070 days ago"
    ],
-   "age_days": 3068,
+   "age_days": 3070,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1548,13 +1453,43 @@
    "id": "5fad81823b936e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
+  },
+  {
+   "title": "BXTI - VP - Software Engineer",
+   "location": "Bangalore",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Bangalore/BXTI---VP---Software-Engineer_46319",
+   "posted_at": "",
+   "description": "46319 Information Technology",
+   "department": "",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [
+    "thin description"
+   ],
+   "age_days": null,
+   "location_tier": 4,
+   "location_label": "Bangalore",
+   "experience_bucket": 1,
+   "experience_note": "Years not stated",
+   "salary_lpa": null,
+   "match_score": 20,
+   "match_hits": [
+    "software engineer"
+   ],
+   "company": "Blackstone",
+   "company_tier": "india",
+   "portal": "workday",
+   "id": "b4af7812c51a1522",
+   "first_seen": "2026-11-12T11:33:24.570551+00:00",
+   "is_new": false,
+   "days_listed": 11
   },
   {
    "title": "AI-Augmented Software Engineer",
    "location": "Home-India",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-India/AI-Augmented-Software-Engineer_17778",
-   "posted_at": "Posted 25 Days Ago",
+   "posted_at": "Posted 26 Days Ago",
    "description": "17778",
    "department": "",
    "veto": null,
@@ -1578,7 +1513,7 @@
    "id": "a6281638ef1b8a92",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
    "is_new": false,
-   "days_listed": 25
+   "days_listed": 26
   },
   {
    "title": "Software Engineer, Delivery : Release",
@@ -1593,7 +1528,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 15,
+   "age_days": 16,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1609,7 +1544,7 @@
    "id": "7722ce0b0fb0d740",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
    "is_new": false,
-   "days_listed": 25
+   "days_listed": 26
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -1621,7 +1556,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 18,
+   "age_days": 19,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1629,11 +1564,11 @@
    "salary_lpa": null,
    "match_score": 66,
    "match_hits": [
-    "multi-agent",
     "ai engineer",
+    "multi-agent",
     "evaluation",
-    "embeddings",
     "guardrails",
+    "embeddings",
     "python",
     "vector",
     "rag"
@@ -1644,7 +1579,7 @@
    "id": "4bc261e756fa0fc6",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 58
+   "days_listed": 59
   },
   {
    "title": "Lead Gen-AI Engineer",
@@ -1656,9 +1591,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 53 days ago"
+    "posted 54 days ago"
    ],
-   "age_days": 53,
+   "age_days": 54,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1679,7 +1614,7 @@
    "id": "cc9cd6cb8715e76b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Field Chief Technology Officer (Field CTO)",
@@ -1694,7 +1629,7 @@
     "ray"
    ],
    "flags": [],
-   "age_days": 8,
+   "age_days": 9,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1703,8 +1638,8 @@
    "match_score": 46,
    "match_hits": [
     "hugging face",
-    "kubernetes",
     "tensorflow",
+    "kubernetes",
     "inference",
     "pytorch",
     "vector",
@@ -1717,7 +1652,7 @@
    "id": "e73ffdf1e4f2f9f8",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Staff Software Engineer - Infrastructure",
@@ -1733,7 +1668,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 29,
+   "age_days": 30,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1742,9 +1677,9 @@
    "match_score": 45,
    "match_hits": [
     "software engineer",
-    "evaluation",
-    "kubernetes",
     "guardrails",
+    "kubernetes",
+    "evaluation",
     "ci/cd",
     "edge",
     "aws"
@@ -1755,7 +1690,7 @@
    "id": "f538d87d72170116",
    "first_seen": "2026-10-08T10:47:21.919462+00:00",
    "is_new": false,
-   "days_listed": 45
+   "days_listed": 46
   },
   {
    "title": "Senior AI Specialist",
@@ -1767,7 +1702,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 5,
+   "age_days": 6,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1775,10 +1710,10 @@
    "salary_lpa": null,
    "match_score": 42,
    "match_hits": [
-    "multi-agent",
     "fine-tuning",
-    "typescript",
+    "multi-agent",
     "evaluation",
+    "typescript",
     "python",
     "vector",
     "ci/cd",
@@ -1790,7 +1725,7 @@
    "id": "0c1c55ca41d9bb80",
    "first_seen": "2026-11-17T12:11:40.940561+00:00",
    "is_new": false,
-   "days_listed": 4
+   "days_listed": 6
   },
   {
    "title": "Consulting Architect - Search",
@@ -1805,9 +1740,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 51 days ago"
+    "posted 52 days ago"
    ],
-   "age_days": 51,
+   "age_days": 52,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1816,13 +1751,13 @@
    "match_score": 39,
    "match_hits": [
     "fine-tuning",
-    "embeddings",
     "kubernetes",
-    "python",
-    "vector",
+    "embeddings",
     "docker",
-    "aws",
-    "rag"
+    "vector",
+    "python",
+    "rag",
+    "aws"
    ],
    "company": "Elastic",
    "company_tier": "global",
@@ -1830,7 +1765,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Senior Data Engineer",
@@ -1846,9 +1781,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 283 days ago"
+    "posted 284 days ago"
    ],
-   "age_days": 283,
+   "age_days": 284,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1859,8 +1794,8 @@
     "data engineer",
     "python",
     "ci/cd",
-    "aws",
-    "sql"
+    "sql",
+    "aws"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1868,7 +1803,7 @@
    "id": "e060dee28bc45c7f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Field Architect ",
@@ -1882,7 +1817,7 @@
     "databricks"
    ],
    "flags": [],
-   "age_days": 8,
+   "age_days": 9,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1890,13 +1825,13 @@
    "salary_lpa": null,
    "match_score": 34,
    "match_hits": [
+    "tensorflow",
     "evaluation",
     "kubernetes",
-    "tensorflow",
     "inference",
     "pytorch",
-    "spark",
     "kafka",
+    "spark",
     "edge"
    ],
    "company": "MinIO",
@@ -1905,7 +1840,7 @@
    "id": "706cbf44d771a761",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Staff Backend Engineer, India",
@@ -1920,7 +1855,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 15,
+   "age_days": 16,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1939,7 +1874,7 @@
    "id": "e96ab9eb11c4998d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Staff Software Engineer - NLP",
@@ -1953,7 +1888,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 15,
+   "age_days": 16,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1972,7 +1907,7 @@
    "id": "bbd8c5c7295ca73b",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 59
+   "days_listed": 60
   },
   {
    "title": "Software Engineer",
@@ -1986,7 +1921,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 18,
+   "age_days": 19,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -2005,7 +1940,7 @@
    "id": "49a5db04d2e8c7d8",
    "first_seen": "2026-10-23T08:42:43.681732+00:00",
    "is_new": false,
-   "days_listed": 30
+   "days_listed": 31
   },
   {
    "title": "Senior Backend Engineer, India",
@@ -2019,7 +1954,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 15,
+   "age_days": 16,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2028,8 +1963,8 @@
    "match_score": 30,
    "match_hits": [
     "backend engineer",
-    "postgresql",
     "kubernetes",
+    "postgresql",
     "autonomy"
    ],
    "company": "GitLab",
@@ -2038,7 +1973,7 @@
    "id": "724d0e430d5eac9f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Staff Devops Engineer",
@@ -2054,9 +1989,9 @@
     "terraform"
    ],
    "flags": [
-    "posted 258 days ago"
+    "posted 259 days ago"
    ],
-   "age_days": 258,
+   "age_days": 259,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -2066,8 +2001,8 @@
    "match_hits": [
     "kubernetes",
     "real-time",
-    "python",
     "docker",
+    "python",
     "ci/cd",
     "edge",
     "aws"
@@ -2078,39 +2013,7 @@
    "id": "48b4f9ba103b81a2",
    "first_seen": "2026-11-13T11:17:43.006964+00:00",
    "is_new": false,
-   "days_listed": 9
-  },
-  {
-   "title": "Senior Backend Engineer",
-   "location": "India",
-   "url": "https://job-boards.greenhouse.io/equalexperts/jobs/8921267002",
-   "posted_at": "2026-11-18T13:29:24-05:00",
-   "description": "p strong Description /strong /p p Equal Experts is an innovative consultancy specializing in the delivery of custom software solutions for blue-chip enterprise and public sector clients across a range of industry sectors. We work on important projects for our clients, deliver market-leading propositions across the digital, online and mobile channels, and are recognized for our leadership in the application of agile and lean delivery methods to assure delivery. We have offices in Australia, India, South Africa, the UK, the EU and the USA. nbsp; /p p We\u2019re seeking backend engineers with proven senior-level experience to join the Equal Experts network on a permanent basis. nbsp; /p p As a member of the team you will work alongside our clients to help design and deliver solutions to meet business requirements and help to improve the effectiveness of the clients&#39; software delivery capability. And of course, all this happens in a consultative, collaborative fashion \u2013 in keeping with our values. nbsp; /p p You should have extensive experience delivering software on commercial projects backed up by extensive knowledge of agile practices such as TDD, pair programming and CI/CD to name a few. nbsp; /p p A growth-based, learning mindset is a must coupled with a passion for technology. nbsp; /p p This role involves working in teams that use modern agile technical practices - including continuous integration and deployment and fast feedback loops - to deliver timely and pragmatic solutions, as well as helping others to do their jobs in a more effective way. /p p nbsp; /p p strong Responsibilities nbsp; /strong /p ul li Working with the client and the team to determine system requirements and how best to deliver them. nbsp; /li li Delivery of software using agile (pair programming, TDD, CI/CD, etc) practices nbsp; /li li Automation of system infrastructure and deployments. nbsp; /li li Production support of systems you are working on (You build it, you run it). nbsp; /li li Advocating agile practices to the client organisation. nbsp; /li li Mentoring client team members. nbsp; /li li Helping improve the team and clients\u2019 delivery capabilities. nbsp; /li /ul p nbsp; /p p strong Required Skills nbsp; /strong /p ul li Extensive, diversified experience developing, maintaining and operating enterprise scale distributed systems. /li li Expert level knowledge of your chosen programming language and the associated tooling. Experience with other languages is highly desirable. /li li Hands-on experience with test driven development and other forms of automated testing. /li li Strong understanding of the principles underlying agile development and an understanding of the various approaches that can be effective in realising these principles in different contexts. /li li Strong communication skills, including the ability to communicate effectively while working remotely with globally distributed teams. /li li Strong interpersonal skills, including a desire to collaborate and share knowledge with other team members, including client team members. This also includes the ability to work collectively towards a common goal without insisting on a given course of action. /li /ul p strong Nice To Have nbsp; /strong /p ul li Hands-on experience developing distributed systems including microservice architectures and RESTful services. /li li Hands-on experience developing and running large scale production systems ideally in containerised/cloud environments using either AWS, GCP or Azure. /li /ul",
-   "department": "Engineering",
-   "veto": null,
-   "skill_gaps": [
-    "gcp"
-   ],
-   "flags": [],
-   "age_days": 3,
-   "location_tier": 4,
-   "location_label": "India",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 26,
-   "match_hits": [
-    "backend engineer",
-    "ci/cd",
-    "aws"
-   ],
-   "company": "Equal Experts",
-   "company_tier": "global",
-   "portal": "greenhouse",
-   "id": "ac32a1919b9d8a68",
-   "first_seen": "2026-10-31T09:50:54.914956+00:00",
-   "is_new": false,
-   "days_listed": 22
+   "days_listed": 10
   },
   {
    "title": "Senior Support Engineer",
@@ -2126,7 +2029,7 @@
     "salesforce"
    ],
    "flags": [],
-   "age_days": 14,
+   "age_days": 15,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2134,10 +2037,10 @@
    "salary_lpa": null,
    "match_score": 25,
    "match_hits": [
-    "evaluation",
     "kubernetes",
-    "python",
+    "evaluation",
     "docker",
+    "python",
     "edge",
     "aws"
    ],
@@ -2147,7 +2050,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
   },
   {
    "title": "Staff Software Engineer, Security Platform: Authentication",
@@ -2162,7 +2065,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2179,7 +2082,7 @@
    "id": "8f968015b7704d36",
    "first_seen": "2026-11-11T11:16:45.458954+00:00",
    "is_new": false,
-   "days_listed": 11
+   "days_listed": 12
   },
   {
    "title": "Senior Backend Engineer, Development Health",
@@ -2193,7 +2096,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 5,
+   "age_days": 6,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2210,7 +2113,7 @@
    "id": "e226d05db4cfe5da",
    "first_seen": "2026-11-05T11:16:13.474389+00:00",
    "is_new": false,
-   "days_listed": 17
+   "days_listed": 18
   },
   {
    "title": "Staff Software Engineer, Security Foundations",
@@ -2226,7 +2129,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 11,
+   "age_days": 12,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2243,13 +2146,13 @@
    "id": "25450d4218963fa4",
    "first_seen": "2026-10-31T09:50:54.914956+00:00",
    "is_new": false,
-   "days_listed": 22
+   "days_listed": 23
   },
   {
    "title": "Senior Software Engineer",
    "location": "Bangalore",
    "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Bangalore/Staff-Software-Engineer_17170-1",
-   "posted_at": "Posted 3 Days Ago",
+   "posted_at": "Posted 4 Days Ago",
    "description": "17170",
    "department": "",
    "veto": null,
@@ -2272,8 +2175,8 @@
    "portal": "workday",
    "id": "f69ced5c435247a0",
    "first_seen": "2026-11-22T11:43:56.825160+00:00",
-   "is_new": true,
-   "days_listed": 0
+   "is_new": false,
+   "days_listed": 1
   },
   {
    "title": "Staff-Data Engineer",
@@ -2303,7 +2206,7 @@
    "id": "4dd4507218148dcc",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 40
+   "days_listed": 41
   },
   {
    "title": "Senior Software Engineer, SSCS : Authentication",
@@ -2318,7 +2221,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 15,
+   "age_days": 16,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2334,7 +2237,7 @@
    "id": "d383435b6c15aa76",
    "first_seen": "2026-10-16T08:21:27.059858+00:00",
    "is_new": false,
-   "days_listed": 37
+   "days_listed": 38
   },
   {
    "title": "Lead Database Administrator",
@@ -2352,7 +2255,7 @@
    "flags": [
     "vague culture language"
    ],
-   "age_days": 34,
+   "age_days": 35,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -2372,7 +2275,7 @@
    "id": "f572d14f95ae5377",
    "first_seen": "2026-10-20T08:44:40.415719+00:00",
    "is_new": false,
-   "days_listed": 33
+   "days_listed": 34
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -2384,7 +2287,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 18,
+   "age_days": 19,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2392,11 +2295,11 @@
    "salary_lpa": null,
    "match_score": 66,
    "match_hits": [
-    "multi-agent",
     "ai engineer",
+    "multi-agent",
     "evaluation",
-    "embeddings",
     "guardrails",
+    "embeddings",
     "python",
     "vector",
     "rag"
@@ -2407,7 +2310,7 @@
    "id": "b12da8b27b841f15",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 58
+   "days_listed": 59
   },
   {
    "title": "Lead Software Engineer - Site Reliability",
@@ -2419,9 +2322,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 58 days ago"
+    "posted 59 days ago"
    ],
-   "age_days": 58,
+   "age_days": 59,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2437,7 +2340,7 @@
    "id": "51f08f6bb890441a",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 58
+   "days_listed": 59
   },
   {
    "title": "Lead Software Engineer - Full Stack",
@@ -2449,9 +2352,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 132 days ago"
+    "posted 133 days ago"
    ],
-   "age_days": 132,
+   "age_days": 133,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2467,7 +2370,37 @@
    "id": "99eba567d0eb0c37",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 76
+   "days_listed": 77
+  },
+  {
+   "title": "Backend Engineer II (Hybrid)",
+   "location": "India - Pune",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Pune/Engineer-II---SIEM-Integrations_R28246",
+   "posted_at": "Posted Today",
+   "description": "R28246",
+   "department": "",
+   "veto": null,
+   "skill_gaps": [],
+   "flags": [
+    "thin description"
+   ],
+   "age_days": null,
+   "location_tier": 6,
+   "location_label": "Pune",
+   "experience_bucket": 1,
+   "experience_note": "Years not stated",
+   "salary_lpa": null,
+   "match_score": 20,
+   "match_hits": [
+    "backend engineer"
+   ],
+   "company": "CrowdStrike",
+   "company_tier": "global",
+   "portal": "workday",
+   "id": "c41898b545062c0f",
+   "first_seen": "2026-11-23T13:31:20.666725+00:00",
+   "is_new": true,
+   "days_listed": 0
   }
  ]
 }

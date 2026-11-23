@@ -78,10 +78,10 @@
     "source": "guessed slug activecampaign, identity checked"
   },
   "Ad Hoc": {
-    "ats": "custom",
+    "ats": "ashby",
     "careers": "https://adhoc.team/careers/",
-    "slug": "",
-    "source": "custom portal"
+    "slug": "ad-hoc",
+    "source": "guessed slug ad-hoc, identity checked"
   },
   "Adaface": {
     "ats": "smartrecruiters",
@@ -1003,7 +1003,7 @@
   },
   "DroneDeploy": {
     "ats": "custom",
-    "careers": "https://dronedeploy.com/about/careers",
+    "careers": "https://www.dronedeploy.com/about/careers",
     "slug": "",
     "source": "custom portal"
   },
@@ -1087,7 +1087,7 @@
   },
   "Edaify": {
     "ats": "custom",
-    "careers": "https://edaify.com/company/jobs",
+    "careers": "https://edaify.com/career",
     "slug": "",
     "source": "custom portal"
   },
@@ -1321,9 +1321,9 @@
   },
   "FirstMeridian": {
     "ats": "custom",
-    "careers": "https://www.firstmeridian.com/",
+    "careers": "https://firstmeridian.com/careers/",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "Fiverr": {
     "ats": "smartrecruiters",
@@ -1449,7 +1449,7 @@
     "ats": "custom",
     "careers": "https://geo-jobe.com",
     "slug": "",
-    "source": "unreachable"
+    "source": "custom portal"
   },
   "GFT": {
     "ats": "successfactors",
@@ -1747,7 +1747,7 @@
   },
   "PeopleStrong": {
     "ats": "custom",
-    "careers": "https://www.peoplestrong.com/wp-content/uploads/2020/04/jobs.png",
+    "careers": "https://careers.peoplestrong.com/",
     "slug": "",
     "source": "custom portal"
   },

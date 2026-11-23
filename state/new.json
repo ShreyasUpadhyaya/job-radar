@@ -1,10 +1,10 @@
 [
  {
-  "title": "Senior Software Engineer",
-  "location": "Bangalore",
-  "url": "https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Bangalore/Staff-Software-Engineer_17170-1",
-  "posted_at": "Posted 3 Days Ago",
-  "description": "17170",
+  "title": "Backend Engineer II (Hybrid)",
+  "location": "India - Pune",
+  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Pune/Engineer-II---SIEM-Integrations_R28246",
+  "posted_at": "Posted Today",
+  "description": "R28246",
   "department": "",
   "veto": null,
   "skill_gaps": [],
@@ -12,20 +12,20 @@
    "thin description"
   ],
   "age_days": null,
-  "location_tier": 4,
-  "location_label": "Bangalore",
-  "experience_bucket": 2,
-  "experience_note": "Senior title",
+  "location_tier": 6,
+  "location_label": "Pune",
+  "experience_bucket": 1,
+  "experience_note": "Years not stated",
   "salary_lpa": null,
   "match_score": 20,
   "match_hits": [
-   "software engineer"
+   "backend engineer"
   ],
-  "company": "Flexera",
+  "company": "CrowdStrike",
   "company_tier": "global",
   "portal": "workday",
-  "id": "f69ced5c435247a0",
-  "first_seen": "2026-11-22T11:43:56.825160+00:00",
+  "id": "c41898b545062c0f",
+  "first_seen": "2026-11-23T13:31:20.666725+00:00",
   "is_new": true,
   "days_listed": 0
  }
