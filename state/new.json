@@ -1,31 +1,64 @@
 [
  {
-  "title": "Backend Engineer II (Hybrid)",
-  "location": "India - Pune",
-  "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Pune/Engineer-II---SIEM-Integrations_R28246",
-  "posted_at": "Posted Today",
-  "description": "R28246",
-  "department": "",
+  "title": "Applied AI Engineer, Enterprise AI",
+  "location": "Bangalore, India",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
+  "posted_at": "2026-11-23T17:02:31-05:00",
+  "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h2 strong An overview of this role /strong /h2 p As an strong Applied AI Engineer /strong at GitLab, you&#39;ll build and deploy AI-powered solutions for GitLab&#39;s own teams. You&#39;ll join Enterprise AI in the CIO organization, reporting to the Senior Director, Enterprise AI. This is a hands-on engineering role: you&#39;ll write production code and partner with senior engineers and internal business stakeholders to solve problems and deliver measurable outcomes. Your focus is GitLab&#39;s internal operations, rather than customer implementations or development of the GitLab product. /p p Building fast matters, and we want engineers who ship. But speed without understanding the problem leads to the wrong solution shipped quickly. You&#39;ll partner with senior engineers and stakeholders to understand the real problem first: how work moves across teams, where the real constraint lives, and whether AI is the right intervention. From there, you&#39;ll take ownership of the build and deployment, combining strong engineering skills with curiosity about the business systems you&#39;re improving. /p p Your initial focus will span GitLab&#39;s own Sales, Marketing, and Customer Support teams, where you&#39;ll embed AI solutions into the systems and workflows they use every day. This role offers the opportunity to grow as an engineer while shaping how GitLab team members work, in a remote, asynchronous, and values-driven environment. /p h2 strong What you&#39;ll do /strong /h2 ul li Contribute to problem diagnosis alongside the team. Engage with stakeholders to understand the real constraint before reaching for a solution, and be willing to flag when AI isn&#39;t the right answer. /li li Own the build and deployment of AI solutions, from technical design through implementation, deployment, and iteration. Partner with senior engineers on discovery and scoping. /li li Design, develop, and ship AI-powered solutions quickly, delivering working prototypes in days, not months, with a focus on practical outcomes and measurable business value. /li li Build solutions that reduce bottlenecks, shorten lead times, and increase throughput. Track flow, adoption, and ROI metrics defined for the work. /li li Integrate AI capabilities into GitLab&#39;s internal business systems and workflows using APIs, orchestration tools, and modern AI platforms, including GitLab Duo Agent Platform, where appropriate. The right tool wins, whether that&#39;s custom code, a platform, or a well-crafted prompt. /li li Be Customer Zero: use GitLab&#39;s AI products in our own internal workflows, assess how they perform in practice, and share feedback with R amp;D to help improve them. /li li Partner with stakeholders to translate requirements into working solutions. Ask good questions, surface assumptions, and align with the team on outcomes before jumping to implementation. /li li Track success against defined business metrics, flow metrics, and feedback loops that make performance visible and actionable. /li li Contribute to documentation and reusable patterns that help the team scale its impact. /li /ul h2 strong What you&#39;ll bring /strong /h2 ul li strong A Technologist at Heart - /strong Genuinely invested in technology, the foundational and the cutting-edge in equal measure. You&#39;re as energized by a well-designed API integration as you are by the latest foundation model release. You reach for the simplest solution that solves the problem well, rather than forcing new technology when proven approaches would do. AI is a powerful part of your toolkit, but it sits on top of solid engineering fundamentals, not in place of them. /li /ul p strong Competent, Confident Coding Skills - You can build working solutions end-to-end, write clean and maintainable code, and debug effectively. Whether your skills were honed in a traditional engineering role, through building automations, or shipping side projects, what matters is that you can deliver production-quality work independently. /strong strong AI amp; LLM Technical Depth - Strong proficiency in at least one modern scripting language (Python, JavaScript/TypeScript, or similar) and a solid understanding of REST APIs, GraphQL, and integration patterns. Practical, hands-on experience with modern AI technologies, specifically: /strong /p ul li strong Prompt engineering as a core discipline: /strong designing effective system prompts, managing context windows, structuring multi-turn interactions, evaluating output quality, and iterating s",
+  "department": "Enterprise Applications",
   "veto": null,
-  "skill_gaps": [],
-  "flags": [
-   "thin description"
+  "skill_gaps": [
+   "graphql"
   ],
-  "age_days": null,
-  "location_tier": 6,
-  "location_label": "Pune",
+  "flags": [],
+  "age_days": 0,
+  "location_tier": 4,
+  "location_label": "Bangalore",
   "experience_bucket": 1,
   "experience_note": "Years not stated",
   "salary_lpa": null,
-  "match_score": 20,
+  "match_score": 49,
   "match_hits": [
-   "backend engineer"
+   "ai engineer",
+   "applied ai",
+   "typescript",
+   "python",
+   "edge",
+   "llm"
   ],
-  "company": "CrowdStrike",
+  "company": "GitLab",
   "company_tier": "global",
-  "portal": "workday",
-  "id": "c41898b545062c0f",
-  "first_seen": "2026-11-23T13:31:20.666725+00:00",
+  "portal": "greenhouse",
+  "id": "6df4ba8ef27a798b",
+  "first_seen": "2026-11-24T14:01:05.824074+00:00",
+  "is_new": true,
+  "days_listed": 0
+ },
+ {
+  "title": "Staff Data Scientist",
+  "location": "Bengaluru, in",
+  "url": "https://jobs.smartrecruiters.com/swiggy/postings/6000000001603325",
+  "posted_at": "2026-11-24T11:16:23.710000+00:00",
+  "description": "",
+  "department": "",
+  "veto": null,
+  "skill_gaps": [],
+  "flags": [],
+  "age_days": 0,
+  "location_tier": 4,
+  "location_label": "Bengaluru",
+  "experience_bucket": 2,
+  "experience_note": "Senior title",
+  "salary_lpa": null,
+  "match_score": 35,
+  "match_hits": [
+   "data scientist"
+  ],
+  "company": "Swiggy",
+  "company_tier": "india",
+  "portal": "smartrecruiters",
+  "id": "79a8cf596f58a895",
+  "first_seen": "2026-11-24T14:01:05.824074+00:00",
   "is_new": true,
   "days_listed": 0
  }
