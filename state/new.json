@@ -1,64 +1,36 @@
 [
  {
-  "title": "Applied AI Engineer, Enterprise AI",
-  "location": "Bangalore, India",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
-  "posted_at": "2026-11-23T17:02:31-05:00",
-  "description": "div class= content-intro p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. /p p The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. a href= https://www.youtube.com/watch?v=OuZIb5zszQI Co-create the future with us /a as we build technology that transforms how the world develops software. /p p * em Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. /em /p /div h2 strong An overview of this role /strong /h2 p As an strong Applied AI Engineer /strong at GitLab, you&#39;ll build and deploy AI-powered solutions for GitLab&#39;s own teams. You&#39;ll join Enterprise AI in the CIO organization, reporting to the Senior Director, Enterprise AI. This is a hands-on engineering role: you&#39;ll write production code and partner with senior engineers and internal business stakeholders to solve problems and deliver measurable outcomes. Your focus is GitLab&#39;s internal operations, rather than customer implementations or development of the GitLab product. /p p Building fast matters, and we want engineers who ship. But speed without understanding the problem leads to the wrong solution shipped quickly. You&#39;ll partner with senior engineers and stakeholders to understand the real problem first: how work moves across teams, where the real constraint lives, and whether AI is the right intervention. From there, you&#39;ll take ownership of the build and deployment, combining strong engineering skills with curiosity about the business systems you&#39;re improving. /p p Your initial focus will span GitLab&#39;s own Sales, Marketing, and Customer Support teams, where you&#39;ll embed AI solutions into the systems and workflows they use every day. This role offers the opportunity to grow as an engineer while shaping how GitLab team members work, in a remote, asynchronous, and values-driven environment. /p h2 strong What you&#39;ll do /strong /h2 ul li Contribute to problem diagnosis alongside the team. Engage with stakeholders to understand the real constraint before reaching for a solution, and be willing to flag when AI isn&#39;t the right answer. /li li Own the build and deployment of AI solutions, from technical design through implementation, deployment, and iteration. Partner with senior engineers on discovery and scoping. /li li Design, develop, and ship AI-powered solutions quickly, delivering working prototypes in days, not months, with a focus on practical outcomes and measurable business value. /li li Build solutions that reduce bottlenecks, shorten lead times, and increase throughput. Track flow, adoption, and ROI metrics defined for the work. /li li Integrate AI capabilities into GitLab&#39;s internal business systems and workflows using APIs, orchestration tools, and modern AI platforms, including GitLab Duo Agent Platform, where appropriate. The right tool wins, whether that&#39;s custom code, a platform, or a well-crafted prompt. /li li Be Customer Zero: use GitLab&#39;s AI products in our own internal workflows, assess how they perform in practice, and share feedback with R amp;D to help improve them. /li li Partner with stakeholders to translate requirements into working solutions. Ask good questions, surface assumptions, and align with the team on outcomes before jumping to implementation. /li li Track success against defined business metrics, flow metrics, and feedback loops that make performance visible and actionable. /li li Contribute to documentation and reusable patterns that help the team scale its impact. /li /ul h2 strong What you&#39;ll bring /strong /h2 ul li strong A Technologist at Heart - /strong Genuinely invested in technology, the foundational and the cutting-edge in equal measure. You&#39;re as energized by a well-designed API integration as you are by the latest foundation model release. You reach for the simplest solution that solves the problem well, rather than forcing new technology when proven approaches would do. AI is a powerful part of your toolkit, but it sits on top of solid engineering fundamentals, not in place of them. /li /ul p strong Competent, Confident Coding Skills - You can build working solutions end-to-end, write clean and maintainable code, and debug effectively. Whether your skills were honed in a traditional engineering role, through building automations, or shipping side projects, what matters is that you can deliver production-quality work independently. /strong strong AI amp; LLM Technical Depth - Strong proficiency in at least one modern scripting language (Python, JavaScript/TypeScript, or similar) and a solid understanding of REST APIs, GraphQL, and integration patterns. Practical, hands-on experience with modern AI technologies, specifically: /strong /p ul li strong Prompt engineering as a core discipline: /strong designing effective system prompts, managing context windows, structuring multi-turn interactions, evaluating output quality, and iterating s",
-  "department": "Enterprise Applications",
+  "title": "Product Manager II - AI ",
+  "location": "Bengaluru",
+  "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+  "posted_at": "2026-11-25T06:34:37-05:00",
+  "description": "div class= content-intro p Razorpay is one of India\u2019s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we\u2019ve since grown into a fintech powerhouse driving India\u2019s digital payment revolution. /p p Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. /p p From building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech /p p Across India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that\u2019s redefining how money moves across Asia. /p p Today, that ecosystem supports everyone from early-stage startups to some of India\u2019s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently. /p p Our scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow, Zomato, Swiggy, Lenskart, Mirae Asset Capital markets, Indian Oil, National Pension Scheme - and over 100 of India\u2019s unicorns. With strong roots in India and growing operations in Southeast Asia, we are shaping the next chapter of financial technology across the region. /p p We are backed by global investors including GIC, Peak XV Partners (formerly Sequoia Capital India amp; SEA), Tiger Global, Ribbit Capital, Matrix Partners, MasterCard, and Salesforce Ventures, having raised over $740 million to date. Strategic acquisitions - including Ezetap (POS and offline payments), Curlec (Malaysia expansion), BillMe (digital invoicing), and POP (rewards-first UPI) - along with earlier moves in fraud prevention, payroll, and lending, have further strengthened our platform and widened our footprint across Asia. /p p But what truly sets Razorpay apart is our culture. At Razorpay, ownership is our oxygen - you own what you build, with no micromanagement or red tape, just the runway to make your ideas fly. Learning is a lifestyle - if you\u2019re curious, you\u2019ll feel at home here. People gt; Pedigree - we hire for attitude, hustle, and hunger more than degrees. Transparency thrives over titles - this is where interns question CXOs and CXOs say \u201cthank you.\u201d Guided by our values of Customer First, Autonomy amp; Ownership, Agility with Integrity, Transparency, Challenging the status quo and a strong belief that Razorpay grows with Razors, nbsp; you\u2019ll be part of a 3000+ strong team building not just products, but the financial infrastructure of the future. /p /div p span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; strong Role nbsp;Summary /strong /span /p p span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Most nbsp;engineers, nbsp;PMs nbsp;and nbsp;designers nbsp;use nbsp;AI. nbsp;Few nbsp;are nbsp;AI-native. nbsp;We nbsp;are nbsp;hiring nbsp;the nbsp;latter. /span /p p span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; As nbsp;an nbsp;FSB nbsp;you nbsp;own nbsp;a nbsp;canvas nbsp;end-to-end: nbsp; strong discover nbsp;the nbsp;problem nbsp;\u2192 nbsp;shape nbsp;the nbsp;solution nbsp;\u2192 nbsp;design nbsp;\u2192 nbsp;build nbsp;\u2192 nbsp;ship nbsp;\u2192 nbsp;drive nbsp;adoption nbsp;\u2192 nbsp;measure nbsp;impact. /strong You nbsp;are nbsp;the nbsp;PM, nbsp;the nbsp;product nbsp;engineer nbsp;and nbsp;the nbsp;designer nbsp;in nbsp;one, nbsp;working nbsp;on nbsp;0\u21921 nbsp;problems nbsp;with nbsp;real nbsp;autonomy, nbsp;and nbsp;helping nbsp;define nbsp;Razorpay&#39;s nbsp;journey nbsp;to nbsp;becoming nbsp;India&#39;s nbsp;first nbsp;AI-native nbsp;payments nbsp;platform. /span /p p span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; strong What nbsp;you nbsp;will nbsp;do /strong /span /p ul li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Own nbsp;a nbsp;product nbsp;or nbsp;feature nbsp;end-to-end: nbsp;scope nbsp;the nbsp;problem, nbsp;build nbsp;it, nbsp;put nbsp;it nbsp;in nbsp;front nbsp;of nbsp;users. /span /li li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Talk nbsp;to nbsp;customers nbsp;(merchants, nbsp;internal nbsp;teams) nbsp;directly nbsp;and nbsp;turn nbsp;raw nbsp;pain nbsp;into nbsp;a nbsp;shippable nbsp;solution, nbsp;not nbsp;a nbsp;spec. /span /li li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Prototype nbsp;in nbsp;hours, nbsp;ship nbsp;in nbsp;days. nbsp;Move nbsp;across nbsp;frontend, nbsp;backend, nbsp;data nbsp;and nbsp;LLM nbsp;orchestration nbsp;based nbsp;on nbsp;what nbsp;the nbsp;problem nbsp;needs, nbsp;not nbsp;your nbsp;title. /span /li li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Build nbsp;AI nbsp;into nbsp;the nbsp;product nbsp;(agents, nbsp;evals, nbsp;guardrails, nbsp;feedback nbsp;loops), nbsp;not nbsp;just nbsp;use nbsp;AI nbsp;to nbsp;build nbsp;it. /span /li li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, aria",
+  "department": "Product Management",
   "veto": null,
   "skill_gaps": [
-   "graphql"
+   "salesforce"
   ],
-  "flags": [],
-  "age_days": 0,
-  "location_tier": 4,
-  "location_label": "Bangalore",
-  "experience_bucket": 1,
-  "experience_note": "Years not stated",
-  "salary_lpa": null,
-  "match_score": 49,
-  "match_hits": [
-   "ai engineer",
-   "applied ai",
-   "typescript",
-   "python",
-   "edge",
-   "llm"
+  "flags": [
+   "vague culture language"
   ],
-  "company": "GitLab",
-  "company_tier": "global",
-  "portal": "greenhouse",
-  "id": "6df4ba8ef27a798b",
-  "first_seen": "2026-11-24T14:01:05.824074+00:00",
-  "is_new": true,
-  "days_listed": 0
- },
- {
-  "title": "Staff Data Scientist",
-  "location": "Bengaluru, in",
-  "url": "https://jobs.smartrecruiters.com/swiggy/postings/6000000001603325",
-  "posted_at": "2026-11-24T11:16:23.710000+00:00",
-  "description": "",
-  "department": "",
-  "veto": null,
-  "skill_gaps": [],
-  "flags": [],
   "age_days": 0,
   "location_tier": 4,
   "location_label": "Bengaluru",
   "experience_bucket": 2,
   "experience_note": "Senior title",
   "salary_lpa": null,
-  "match_score": 35,
+  "match_score": 20,
   "match_hits": [
-   "data scientist"
+   "guardrails",
+   "real-time",
+   "autonomy",
+   "llm"
   ],
-  "company": "Swiggy",
+  "company": "Razorpay",
   "company_tier": "india",
-  "portal": "smartrecruiters",
-  "id": "79a8cf596f58a895",
-  "first_seen": "2026-11-24T14:01:05.824074+00:00",
+  "portal": "greenhouse",
+  "id": "6c3444dfc5faaf4f",
+  "first_seen": "2026-11-25T13:14:57.464372+00:00",
   "is_new": true,
   "days_listed": 0
  }

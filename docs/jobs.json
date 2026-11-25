@@ -1,14 +1,24 @@
 {
- "generated_at": "2026-11-24T14:01:05.824074+00:00",
+ "generated_at": "2026-11-25T13:14:57.464372+00:00",
  "cadence": "daily",
  "companies_checked": 174,
  "companies_total": 347,
  "companies_failed": {
+  "10up": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Ably": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Ace Turtle": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Adeva": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Adobe": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs'",
+  "Amazon": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Appinventiv": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Automattic": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "Axelerant": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "BairesDev": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Bank of America": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/lateral-us/jobs'",
+  "Bijnis": "HTTPStatusError: Client error '402 Payment Required' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Bitovi": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Blackstone": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs'",
-  "Bloc": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/Chegg/jobs'",
+  "Bloc": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/Chegg/jobs'",
   "BrowserStack": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://browserstack.wd3.myworkdayjobs.com/wday/cxs/browserstack/External/jobs'",
   "CashKaro": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Chargebee": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
@@ -34,6 +44,7 @@
   "DroneDeploy": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "Droom": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "DuckDuckGo": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
+  "EBSCO Information Services": "HTTPStatusError: Client error '405 Not Allowed' for url 'https://careers-ebscoind.icims.com/jobs/search?ss=1&searchRelation=keyword_all&in_iframe=1'",
   "EPAM": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EarthOfDrones": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "EaseMyTrip": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
@@ -74,19 +85,19 @@
   "Zypp Electric": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'",
   "redBus": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.firecrawl.dev/v2/scrape'"
  },
- "postings_seen": 3894,
+ "postings_seen": 3856,
  "duplicates_merged": 0,
- "matches": 63,
+ "matches": 62,
  "vetoed": {},
- "new_today": 2,
- "closed_since": 12,
+ "new_today": 1,
+ "closed_since": 0,
  "jobs": [
   {
    "title": "Machine Learning Engineer",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/7985187",
    "posted_at": "2026-11-18T09:32:27-05:00",
-   "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers Learn more about working at Coinbase /a . /p div id= fortidlp-input-element-parent /div /div p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea data-pm-slice= 1 3 [] The CX Intelligence team is part of Coinbase\u2019s Enterprise Applications and Architecture org and builds the customer-facing and internal CX experiences that connect the Help Center, chatbots (CBCB), and agent workflows. The team owns the multi-agent platform that powers Coinbase chat, Help Center, and agent tooling, partnering closely with Conversation Design, CX, and engineering teams to deliver secure, compliant, and scalable AI-powered support. Our work helps customers get answers faster while enabling agents to resolve cases more effectively. /p p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea We are hiring an IC4 Machine Learning Engineer to help evolve our conversational ecosystem by building a seamless hybrid vendor-internal chatbot experience. You will contribute to the design and implementation of a unified orchestration layer that coordinates interactions between vendor AI, internal multi-agent systems, and human participants. This role is ideal for someone who enjoys solving complex ML systems problems, building reliable handoff logic across LLM frameworks, and shipping AI-enabled products that are measurable and scalable. /p h4 class= wnfdnth _1ibi0s33y _1ibi0s34u What you&#39;ll do: /h4 ul class= wnfdnte li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Build and improve the orchestration layer that manages state transitions, context sharing, and intent routing across vendor and internal LLM frameworks in a distributed conversational environment. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Develop production-grade Python services that bridge advanced AI and ML capabilities with reliable customer-facing products. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Drive well-scoped ML projects from design through delivery, balancing technical trade-offs and collaborating across teams. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Contribute to system design, coding standards, and AI/ML development best practices across the team. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Partner with engineers and cross-functional stakeholders to build secure, scalable, and high-performing AI-enabled experiences. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Participate in design reviews and help ensure features meet Coinbase standards for security, compliance, and performance. /p /li /ul h4 class= wnfdnth _1ibi0s33y _1ibi0s34u nbsp; /h4 h4 class= wnfdnth _1ibi0s33y _1ibi0s34u Required Skills and Experience: /h4 ul class= wnfdnte li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea 2+ years of professional experience in machine learning and software engineering, with experience shipping production-grade ML services. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Hands-on experience building with modern AI architectures such as LLMs and deep learning, and familiarity with tools such as LangGraph, LangSmith, Google ADK, Vertex AI, or AWS Bedrock. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Strong proficiency in Python and the ability to write clean, maintainable, well-tested production code. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Working knowledge in at least one domain such as NLP, information retrieval, computer vision, or statistical modeling. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Ability to write technical design documents and communicate ML system designs clearly to cross-functional stakeholders. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Uses generative AI responsibly, applying human oversight to deliver business-ready outputs and measurable improvements in efficiency, cost, and quality. /p /li /ul div id= fortidlp-input-element-parent /div div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b94,408,400 /span span class= divider mdash; /span span \u20b94,408,400 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideratio",
+   "description": "div class= content-intro p Ready to do the most impactful work of your career? span a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase target= _blank Coinbase /a /span is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn\u2019t a place for complacency. It\u2019s a place to be pushed past your perceived limits and do the best work of your career. If you\u2019re ready to build the future of finance with a championship team who refuse to settle for \u201cgood enough,\u201d you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions /p /div p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea data-pm-slice= 1 3 [] The CX Intelligence team is part of Coinbase\u2019s Enterprise Applications and Architecture org and builds the customer-facing and internal CX experiences that connect the Help Center, chatbots (CBCB), and agent workflows. The team owns the multi-agent platform that powers Coinbase chat, Help Center, and agent tooling, partnering closely with Conversation Design, CX, and engineering teams to deliver secure, compliant, and scalable AI-powered support. Our work helps customers get answers faster while enabling agents to resolve cases more effectively. /p p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea We are hiring an IC4 Machine Learning Engineer to help evolve our conversational ecosystem by building a seamless hybrid vendor-internal chatbot experience. You will contribute to the design and implementation of a unified orchestration layer that coordinates interactions between vendor AI, internal multi-agent systems, and human participants. This role is ideal for someone who enjoys solving complex ML systems problems, building reliable handoff logic across LLM frameworks, and shipping AI-enabled products that are measurable and scalable. /p h4 class= wnfdnth _1ibi0s33y _1ibi0s34u What you&#39;ll do: /h4 ul class= wnfdnte li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Build and improve the orchestration layer that manages state transitions, context sharing, and intent routing across vendor and internal LLM frameworks in a distributed conversational environment. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Develop production-grade Python services that bridge advanced AI and ML capabilities with reliable customer-facing products. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Drive well-scoped ML projects from design through delivery, balancing technical trade-offs and collaborating across teams. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Contribute to system design, coding standards, and AI/ML development best practices across the team. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Partner with engineers and cross-functional stakeholders to build secure, scalable, and high-performing AI-enabled experiences. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Participate in design reviews and help ensure features meet Coinbase standards for security, compliance, and performance. /p /li /ul h4 class= wnfdnth _1ibi0s33y _1ibi0s34u nbsp; /h4 h4 class= wnfdnth _1ibi0s33y _1ibi0s34u Required Skills and Experience: /h4 ul class= wnfdnte li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea 2+ years of professional experience in machine learning and software engineering, with experience shipping production-grade ML services. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Hands-on experience building with modern AI architectures such as LLMs and deep learning, and familiarity with tools such as LangGraph, LangSmith, Google ADK, Vertex AI, or AWS Bedrock. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Strong proficiency in Python and the ability to write clean, maintainable, well-tested production code. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Working knowledge in at least one domain such as NLP, information retrieval, computer vision, or statistical modeling. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Ability to write technical design documents and communicate ML system designs clearly to cross-functional stakeholders. /p /li li class= wnfdntd _1ibi0s33w p class= wnfdntt _1ibi0s3f5 _1ibi0s3ce _1ibi0s3ea Uses generative AI responsibly, applying human oversight to deliver business-ready outputs and measurable improvements in efficiency, cost, and quality. /p /li /ul div id= fortidlp-input-element-parent /div div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b94,408,400 /span span class= divider mdash; /span span \u20b94,408,400 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualif",
    "department": "Machine Learning",
    "veto": null,
    "skill_gaps": [
@@ -94,7 +105,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 5,
+   "age_days": 6,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -107,8 +118,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "llm",
-    "aws"
+    "aws",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -116,14 +127,14 @@
    "id": "972d24ce152b4464",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer, Security Platform",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/8165441",
    "posted_at": "2026-11-05T18:02:25-05:00",
-   "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers Learn more about working at Coinbase /a . /p div id= fortidlp-input-element-parent /div /div p Coinbase stores a large amount of digital currency making us a top tier target on the internet. Security is core to our mission and has been a key competitive differentiator for us as we scale. Security Platform Engineering ( SPE ) team is building platform capabilities for a variety of security use cases critical for security, compliance and privacy at Coinbase. Some of the key functional areas we are developing capabilities for are secrets and key management, identity access and management, onchain security, policy and risk management, vulnerabilities management enabling our product, compliance, security and services teams to protect Coinbase and our customers. /p p strong What you\u2019ll do: nbsp; /strong /p ul li Architect and develop platform for security platform engineering org /li li Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps /li li Build new services to meet critical product and business needs using Golang / Java /li li Design scalable systems to solve novel problems with modern cloud technology and industry best practices. /li li Manage individual projects priorities, deadlines and deliverables with your technical expertise /li li Mentor and train other team members on design techniques and coding standards /li li Articulate a long term vision for maintaining and scaling our backend systems and the teams running them. /li li Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter. /li li Write high quality, well tested code to meet the needs of your customers. Debugging extremely difficult technical problems, and making systems and products both work better and are easier to deploy, own, operate and diagnose. /li li Review all feature designs within your product area and across the company for cross-cutting projects. Be an owner of the security, safety, scale, operational integrity, and architectural clarity of these designs. /li /ul p strong Required Skills and Experience: /strong /p ul li You have at least 3+ years of experience in software engineering /li li You\u2019ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture. /li li You write high quality, well tested code to meet the needs of your customers. /li li You\u2019re passionate about building an open financial system that brings the world together. /li li You possess strong technical skills for system design and coding /li li Excellent written and verbal communication skills, and a bias toward open, transparent cultural practices. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p em Position ID: nbsp; /em P77743 /p p em #LI-Remote /em /p div id= fortidlp-input-element-parent /div div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b94,408,400 /span span class= divider mdash; /span span \u20b94,408,400 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf Employee Rights /a , a href= https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf Know Your Rights /a , and a href= https://static-assets.coinbase.com/e-verify.pdf E-Verify /a Notice of Participation. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Accommodations: /strong If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. nbsp;Need screen reading technology? a href= https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn Click here /a to download a free compatible screen reader an",
+   "description": "div class= content-intro p Ready to do the most impactful work of your career? span a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase target= _blank Coinbase /a /span is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn\u2019t a place for complacency. It\u2019s a place to be pushed past your perceived limits and do the best work of your career. If you\u2019re ready to build the future of finance with a championship team who refuse to settle for \u201cgood enough,\u201d you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions /p /div p Coinbase stores a large amount of digital currency making us a top tier target on the internet. Security is core to our mission and has been a key competitive differentiator for us as we scale. Security Platform Engineering ( SPE ) team is building platform capabilities for a variety of security use cases critical for security, compliance and privacy at Coinbase. Some of the key functional areas we are developing capabilities for are secrets and key management, identity access and management, onchain security, policy and risk management, vulnerabilities management enabling our product, compliance, security and services teams to protect Coinbase and our customers. /p p strong What you\u2019ll do: nbsp; /strong /p ul li Architect and develop platform for security platform engineering org /li li Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps /li li Build new services to meet critical product and business needs using Golang / Java /li li Design scalable systems to solve novel problems with modern cloud technology and industry best practices. /li li Manage individual projects priorities, deadlines and deliverables with your technical expertise /li li Mentor and train other team members on design techniques and coding standards /li li Articulate a long term vision for maintaining and scaling our backend systems and the teams running them. /li li Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter. /li li Write high quality, well tested code to meet the needs of your customers. Debugging extremely difficult technical problems, and making systems and products both work better and are easier to deploy, own, operate and diagnose. /li li Review all feature designs within your product area and across the company for cross-cutting projects. Be an owner of the security, safety, scale, operational integrity, and architectural clarity of these designs. /li /ul p strong Required Skills and Experience: /strong /p ul li You have at least 3+ years of experience in software engineering /li li You\u2019ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture. /li li You write high quality, well tested code to meet the needs of your customers. /li li You\u2019re passionate about building an open financial system that brings the world together. /li li You possess strong technical skills for system design and coding /li li Excellent written and verbal communication skills, and a bias toward open, transparent cultural practices. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p em Position ID: nbsp; /em P77743 /p p em #LI-Remote /em /p div id= fortidlp-input-element-parent /div div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b94,408,400 /span span class= divider mdash; /span span \u20b94,408,400 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf Employee Rights /a , a href= https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf Know Your Rights /a , and a href= https://static-assets.coinbase.com/e-verify.pdf E-Verify /a Notice of Participation. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Accommodations: /strong If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. nbsp;Need screen reading technology? a href= https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn Click here /a to dow",
    "department": "Security & Privacy",
    "veto": null,
    "skill_gaps": [
@@ -131,7 +142,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 18,
+   "age_days": 19,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 0,
@@ -147,7 +158,7 @@
    "id": "486ab52c4ff4a137",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer - Secure Container Images",
@@ -162,9 +173,9 @@
     "rust"
    ],
    "flags": [
-    "posted 90 days ago"
+    "posted 91 days ago"
    ],
-   "age_days": 90,
+   "age_days": 91,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -184,7 +195,7 @@
    "id": "210e4fe5a367aeda",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
@@ -198,9 +209,9 @@
     "rust"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 0,
@@ -218,14 +229,14 @@
    "id": "5f91dffa74c5f3b2",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Senior Machine Learning Engineer",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/7739592",
    "posted_at": "2026-11-18T09:32:22-05:00",
-   "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers Learn more about working at Coinbase /a . /p div id= fortidlp-input-element-parent /div /div p The CX Intelligence team is part of Coinbase\u2019s Enterprise Applications and Architecture org and builds the customer-facing and internal CX experiences that connect the Help Center, chatbots (CBCB), and agent workflows. The team owns the multi-agent platform which powers coinbase chat, Help Center and agent tooling surfaces, partnering closely with Conversation Design, CX, and other Engg teams to deliver secure, compliant, and scalable AI-powered support. Our work provides the trusted and accurate automated and agent-assisted experiences\u2014helping customers get answers faster while enabling human agents to resolve cases more effectively. br br We are hiring an IC5 Machine Learning Engineer to drive the evolution of our conversational ecosystem by building a seamless hybrid vendor-internal chatbot experience. You will lead the design and implementation of a sophisticated unified orchestration layer that coordinates interactions between vendor AI, internal multi-agent systems, and human participants. This role is pivotal in managing complex state transitions, context sharing, and intent routing across a distributed environment. You\u2019ll thrive here if you enjoy high ownership, architecting complex hand-off logic between disparate LLM frameworks, and building reliable AI-enabled products that are fast, measurable, and scalable. /p p class= mb-2 whitespace-pre-wrap strong What you&#39;ll do: /strong /p ul li Architect and deploy the orchestration layer that manages state transitions, context sharing, and intent routing across vendor and internal LLM frameworks in a distributed conversational environment. /li li Build production-grade Python services that bridge advanced ML/AI research with reliable, measurable customer-facing products. /li li Lead end-to-end project execution for complex ML initiatives, managing priorities, technical trade-offs, and cross-functional dependencies from design through delivery. /li li Establish best practices for system design, coding standards, and AI/ML development workflows across the team. /li li Mentor engineers on architectural integrity and modern AI/ML patterns, raising the technical bar for the broader team. /li li Conduct design reviews to ensure every feature meets Coinbase&#39;s standards for security, scalability, and performance. /li /ul p class= mb-2 whitespace-pre-wrap strong Required Skills and Experience: /strong /p ul li 5+ years of professional experience in machine learning and software engineering, with a track record of shipping production-grade ML services at scale. /li li Hands-on expertise building with modern AI architectures (LLMs, deep learning) and the generative AI ecosystem, including frameworks such as LangGraph, LangSmith, Google ADK, Vertex AI, or AWS Bedrock. /li li Deep proficiency in Python with demonstrated ability to write clean, maintainable, highly-tested production code. /li li Specialized knowledge in at least one domain: NLP, information retrieval, computer vision, or advanced statistical modeling. /li li Proven ability to write technical design documents and present ML system architectures to cross-functional stakeholders, translating complex technical concepts for non-technical audiences. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li li Demonstrates the ability to responsibly use generative AI tools and copilots (e.g., LibreChat, Gemini, Glean) in daily workflows, continuously learn as tools evolve, and apply human\u2011in\u2011the\u2011loop practices to deliver business\u2011ready outputs and drive measurable improvements in efficiency, cost, and quality. /li /ul div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b96,612,600 /span span class= divider mdash; /span span \u20b96,612,600 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https",
+   "description": "div class= content-intro p Ready to do the most impactful work of your career? span a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase target= _blank Coinbase /a /span is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn\u2019t a place for complacency. It\u2019s a place to be pushed past your perceived limits and do the best work of your career. If you\u2019re ready to build the future of finance with a championship team who refuse to settle for \u201cgood enough,\u201d you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions /p /div p The CX Intelligence team is part of Coinbase\u2019s Enterprise Applications and Architecture org and builds the customer-facing and internal CX experiences that connect the Help Center, chatbots (CBCB), and agent workflows. The team owns the multi-agent platform which powers coinbase chat, Help Center and agent tooling surfaces, partnering closely with Conversation Design, CX, and other Engg teams to deliver secure, compliant, and scalable AI-powered support. Our work provides the trusted and accurate automated and agent-assisted experiences\u2014helping customers get answers faster while enabling human agents to resolve cases more effectively. br br We are hiring an IC5 Machine Learning Engineer to drive the evolution of our conversational ecosystem by building a seamless hybrid vendor-internal chatbot experience. You will lead the design and implementation of a sophisticated unified orchestration layer that coordinates interactions between vendor AI, internal multi-agent systems, and human participants. This role is pivotal in managing complex state transitions, context sharing, and intent routing across a distributed environment. You\u2019ll thrive here if you enjoy high ownership, architecting complex hand-off logic between disparate LLM frameworks, and building reliable AI-enabled products that are fast, measurable, and scalable. /p p class= mb-2 whitespace-pre-wrap strong What you&#39;ll do: /strong /p ul li Architect and deploy the orchestration layer that manages state transitions, context sharing, and intent routing across vendor and internal LLM frameworks in a distributed conversational environment. /li li Build production-grade Python services that bridge advanced ML/AI research with reliable, measurable customer-facing products. /li li Lead end-to-end project execution for complex ML initiatives, managing priorities, technical trade-offs, and cross-functional dependencies from design through delivery. /li li Establish best practices for system design, coding standards, and AI/ML development workflows across the team. /li li Mentor engineers on architectural integrity and modern AI/ML patterns, raising the technical bar for the broader team. /li li Conduct design reviews to ensure every feature meets Coinbase&#39;s standards for security, scalability, and performance. /li /ul p class= mb-2 whitespace-pre-wrap strong Required Skills and Experience: /strong /p ul li 5+ years of professional experience in machine learning and software engineering, with a track record of shipping production-grade ML services at scale. /li li Hands-on expertise building with modern AI architectures (LLMs, deep learning) and the generative AI ecosystem, including frameworks such as LangGraph, LangSmith, Google ADK, Vertex AI, or AWS Bedrock. /li li Deep proficiency in Python with demonstrated ability to write clean, maintainable, highly-tested production code. /li li Specialized knowledge in at least one domain: NLP, information retrieval, computer vision, or advanced statistical modeling. /li li Proven ability to write technical design documents and present ML system architectures to cross-functional stakeholders, translating complex technical concepts for non-technical audiences. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li li Demonstrates the ability to responsibly use generative AI tools and copilots (e.g., LibreChat, Gemini, Glean) in daily workflows, continuously learn as tools evolve, and apply human\u2011in\u2011the\u2011loop practices to deliver business\u2011ready outputs and drive measurable improvements in efficiency, cost, and quality. /li /ul div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b96,612,600 /span span class= divider mdash; /span span \u20b96,612,600 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong U",
    "department": "Enterprise Applications",
    "veto": null,
    "skill_gaps": [
@@ -233,7 +244,7 @@
     "bedrock"
    ],
    "flags": [],
-   "age_days": 5,
+   "age_days": 6,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -246,8 +257,8 @@
     "multi-agent",
     "langgraph",
     "python",
-    "llm",
-    "aws"
+    "aws",
+    "llm"
    ],
    "company": "Coinbase",
    "company_tier": "global",
@@ -255,14 +266,14 @@
    "id": "897d874ea0f0c95e",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Senior Software Engineer - Data Platform",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/8325213",
    "posted_at": "2026-10-30T11:23:25-04:00",
-   "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers Learn more about working at Coinbase /a . /p div id= fortidlp-input-element-parent /div /div p The Data Platform team builds and operates systems that centralize all of Coinbase&#39;s internal and third-party data, so teams across the company can access, process, and transform it for analytics, machine learning, and end-user experiences. As a senior engineer, you will work across the full stack of our systems: foundational processing and storage, scalable pipelines, and the frameworks and internal tools that make data easy to use. nbsp; nbsp; /p p nbsp; /p p strong What you\u2019ll do: nbsp; /strong /p ul li Design, build, and operate foundational data services, including storage (cloud warehouse, data lake), orchestration (Airflow), batch processing (Spark, SQL), and streaming (Kafka). /li li Build and maintain data integration and processing SDKs used by internal services and product teams. /li li Design self-service tools so users can manage and troubleshoot their own data pipelines. /li li Build services for data security, observability, quality, cataloging, and lineage. /li li Turn requests from analysts, ML, and security teams into reusable, scalable patterns. /li /ul p nbsp; /p p strong Required Skills and Experience: /strong /p ul li 5+ years of experience in software engineering, including senior-level ownership. /li li Strong Python, Go, or Java backend development skills. /li li Hands-on experience with data systems or data pipelines. /li li Familiarity with design patterns such as scale-out, caching, key/value, and columnar storage. /li li Working knowledge of SQL and Airflow for operational data analysis. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p nbsp; /p p #LI-REMOTE /p div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b96,612,000 /span span class= divider mdash; /span span \u20b96,612,600 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf Employee Rights /a , a href= https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf Know Your Rights /a , and a href= https://static-assets.coinbase.com/e-verify.pdf E-Verify /a Notice of Participation. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Accommodations: /strong If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. nbsp;Need screen reading technology? a href= https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn Click here /a to download a free compatible screen reader and view the a href= http://www.chromevox.com/tutorial/ strong /strong tutorial /a . /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Data Privacy amp; Arbitration: /strong By submitting your application, you agree to our a href= https://www.coinbase.com/legal/applicant_privacy_notice Candidate Privacy Notice /a . US applicants: By submitting your application, you agree to a href= https://www.coinbase.com/legal/application-arbitration-agreement Arbitration of Disputes /a . br /em /span /li /ul div id= fortidlp-input-element-parent /div /div",
+   "description": "div class= content-intro p Ready to do the most impactful work of your career? span a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase target= _blank Coinbase /a /span is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn\u2019t a place for complacency. It\u2019s a place to be pushed past your perceived limits and do the best work of your career. If you\u2019re ready to build the future of finance with a championship team who refuse to settle for \u201cgood enough,\u201d you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions /p /div p The Data Platform team builds and operates systems that centralize all of Coinbase&#39;s internal and third-party data, so teams across the company can access, process, and transform it for analytics, machine learning, and end-user experiences. As a senior engineer, you will work across the full stack of our systems: foundational processing and storage, scalable pipelines, and the frameworks and internal tools that make data easy to use. nbsp; nbsp; /p p nbsp; /p p strong What you\u2019ll do: nbsp; /strong /p ul li Design, build, and operate foundational data services, including storage (cloud warehouse, data lake), orchestration (Airflow), batch processing (Spark, SQL), and streaming (Kafka). /li li Build and maintain data integration and processing SDKs used by internal services and product teams. /li li Design self-service tools so users can manage and troubleshoot their own data pipelines. /li li Build services for data security, observability, quality, cataloging, and lineage. /li li Turn requests from analysts, ML, and security teams into reusable, scalable patterns. /li /ul p nbsp; /p p strong Required Skills and Experience: /strong /p ul li 5+ years of experience in software engineering, including senior-level ownership. /li li Strong Python, Go, or Java backend development skills. /li li Hands-on experience with data systems or data pipelines. /li li Familiarity with design patterns such as scale-out, caching, key/value, and columnar storage. /li li Working knowledge of SQL and Airflow for operational data analysis. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p nbsp; /p p #LI-REMOTE /p div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b96,612,000 /span span class= divider mdash; /span span \u20b96,612,600 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf Employee Rights /a , a href= https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf Know Your Rights /a , and a href= https://static-assets.coinbase.com/e-verify.pdf E-Verify /a Notice of Participation. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Accommodations: /strong If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. nbsp;Need screen reading technology? a href= https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn Click here /a to download a free compatible screen reader and view the a href= http://www.chromevox.com/tutorial/ strong /strong tutorial /a . /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Data Privacy amp; Arbitration: /strong By submitting your application, you agree to our a href= https://www.coinbase.com/legal/applicant_privacy_notice Candidate Privacy Notice /a . US applicants: By submitting your application, you agree to a href= https://www.coinbase.com/legal/application-arbitration-agreement Arbitration of Disputes /a . br /em /span /li /ul div id= fortidlp-input-element-parent /div /div",
    "department": "Engineering - Data",
    "veto": null,
    "skill_gaps": [
@@ -270,7 +281,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 24,
+   "age_days": 25,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 1,
@@ -281,8 +292,8 @@
     "software engineer",
     "airflow",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "sql"
    ],
    "company": "Coinbase",
@@ -291,7 +302,7 @@
    "id": "124374c25297f533",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
    "is_new": false,
-   "days_listed": 27
+   "days_listed": 28
   },
   {
    "title": "MLOps Field Engineer",
@@ -307,9 +318,9 @@
     "kubeflow"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -322,8 +333,8 @@
     "python",
     "spark",
     "mlops",
-    "sql",
-    "aws"
+    "aws",
+    "sql"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -331,7 +342,7 @@
    "id": "89a6bbd45c957422",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Python Engineer",
@@ -347,9 +358,9 @@
     "grpc"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -361,8 +372,8 @@
     "kubernetes",
     "docker",
     "edge",
-    "c++",
-    "sql"
+    "sql",
+    "c++"
    ],
    "company": "Canonical",
    "company_tier": "global",
@@ -370,7 +381,7 @@
    "id": "5d24f8c1907d1205",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -386,9 +397,9 @@
     "clickhouse"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -399,8 +410,8 @@
     "software engineer",
     "kubernetes",
     "airflow",
-    "docker",
     "mlflow",
+    "docker",
     "python",
     "aws"
    ],
@@ -410,7 +421,7 @@
    "id": "3cd0e0c2f8129887",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer - Python and K8s",
@@ -422,9 +433,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -445,7 +456,7 @@
    "id": "fc7005194a2a0bcf",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -459,9 +470,9 @@
     "go"
    ],
    "flags": [
-    "posted 90 days ago"
+    "posted 91 days ago"
    ],
-   "age_days": 90,
+   "age_days": 91,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -482,7 +493,7 @@
    "id": "71a7fb06055356bb",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer, Cloud - Sustaining Engineering",
@@ -496,9 +507,9 @@
     "go"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -507,8 +518,8 @@
    "match_score": 38,
    "match_hits": [
     "software engineer",
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "docker",
     "python",
     "c++"
@@ -519,7 +530,7 @@
    "id": "6f24a2c795ced861",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer - L3 Support",
@@ -533,9 +544,9 @@
     "go"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -544,8 +555,8 @@
    "match_score": 38,
    "match_hits": [
     "software engineer",
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "docker",
     "python",
     "c++"
@@ -556,7 +567,7 @@
    "id": "b95c5600b7c162ba",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer, Sustaining Engineering",
@@ -570,9 +581,9 @@
     "go"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -581,8 +592,8 @@
    "match_score": 38,
    "match_hits": [
     "software engineer",
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "docker",
     "python",
     "c++"
@@ -593,7 +604,7 @@
    "id": "3fd2583778e05409",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Linux Devices Software Engineer",
@@ -608,9 +619,9 @@
     "rust"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -630,7 +641,7 @@
    "id": "8e35405280dd53e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
@@ -642,7 +653,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -662,7 +673,7 @@
    "id": "ce1d173b849babb6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Go (Golang) Software Engineer, Developer Tooling and Containers",
@@ -677,7 +688,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 4,
+   "age_days": 5,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -696,7 +707,7 @@
    "id": "0eddfe107c2f48f3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -731,7 +742,7 @@
    "id": "8a20d9a2c4c4ffb6",
    "first_seen": "2026-11-17T12:11:40.940561+00:00",
    "is_new": false,
-   "days_listed": 7
+   "days_listed": 8
   },
   {
    "title": "Junior Ubuntu Software Engineer",
@@ -746,9 +757,9 @@
     "rust"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -767,7 +778,7 @@
    "id": "52929cfe97d8f85a",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
@@ -782,9 +793,9 @@
     "rust"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Apac)",
    "experience_bucket": 1,
@@ -803,7 +814,7 @@
    "id": "ce408466319dc35b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Security Software Engineer",
@@ -821,9 +832,9 @@
     "php"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -842,36 +853,7 @@
    "id": "be1de3b5e41341f4",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
-  },
-  {
-   "title": "Backend Engineer - Python (Remote - India)",
-   "location": "Remote - India",
-   "url": "https://www.axelerant.com/careers/backend-engineer-python-remote-india",
-   "posted_at": "Open now",
-   "description": "",
-   "department": "RemoteFull-time",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [],
-   "age_days": null,
-   "location_tier": 0,
-   "location_label": "Remote (India)",
-   "experience_bucket": 1,
-   "experience_note": "Years not stated",
-   "salary_lpa": null,
-   "match_score": 31,
-   "match_hits": [
-    "backend engineer",
-    "python"
-   ],
-   "company": "Axelerant",
-   "company_tier": "global",
-   "portal": "custom",
-   "id": "330b83453282e8ec",
-   "first_seen": "2026-11-16T12:00:51.804676+00:00",
-   "is_new": false,
-   "days_listed": 8
+   "days_listed": 79
   },
   {
    "title": "Software Engineer - Solutions Engineering",
@@ -885,7 +867,7 @@
     "golang"
    ],
    "flags": [],
-   "age_days": 13,
+   "age_days": 14,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -903,7 +885,7 @@
    "id": "7310719a2be22e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Ubuntu Software Engineer",
@@ -918,9 +900,9 @@
     "rust"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -938,7 +920,7 @@
    "id": "6caffa67411ed0e3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer - App Stores",
@@ -952,9 +934,9 @@
     "golang"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -971,7 +953,7 @@
    "id": "4727884cced45711",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Alliances Field Engineer",
@@ -987,9 +969,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 1,
@@ -997,12 +979,12 @@
    "salary_lpa": null,
    "match_score": 25,
    "match_hits": [
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "mongodb",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -1012,14 +994,14 @@
    "id": "37cb7a5898f98ab3",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Staff Software Engineer, Customer Administration",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/8054153",
    "posted_at": "2026-11-17T18:31:48-05:00",
-   "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers Learn more about working at Coinbase /a . /p div id= fortidlp-input-element-parent /div /div p class= mb-2 whitespace-pre-wrap nbsp; /p p class= mb-2 whitespace-pre-wrap strong Staff Software Engineer, Customer Administration /strong /p p class= mb-2 whitespace-pre-wrap The Customer Administration Engineering (CAE) team is a core pillar of Coinbase&#39;s Enterprise Applications and Architecture (EAA) org, responsible for building and operating the secure, foundational platforms that power customer data operations across Coinbase. Our flagship product, Control Center, is Coinbase&#39;s secure system of action for internal specialists across CX, Compliance, Legal, Global Investigations, Trust and Risk, and dozens of other teams. It serves approximately 7,000 internal users via its UI and powers a growing ecosystem of internal tools and AI automation via its backend APIs and MCP. We are at an exciting inflection point: evolving Control Center from a human-specialist UI into a modular, AI-agent-ready operations platform. As a Staff Software Engineer, you will be a technical anchor for the CAE team, driving architectural decisions, mentoring engineers, and leading the delivery of high-impact, cross-cutting platform capabilities. /p p class= mb-2 whitespace-pre-wrap strong What You&#39;ll Do /strong /p ul li Architect and deliver foundational platform capabilities including MCP tool registries, AI orchestration layers, risk-based access automation, and the away-team contribution model that enables product groups across Coinbase to build on the platform safely and at speed /li li Drive the evolution of Control Center into an AI-agent-ready, headless operations platform, designing and implementing MCP procedure constructs, agentic guardrails, HITL orchestration, and evaluation frameworks that enable both human and autonomous AI agents to execute sensitive customer operations securely /li li Partner with the Engineering Manager and Product counterparts to define architectural roadmaps, author TDDs, lead design reviews, decompose complex initiatives into deliverable milestones, and raise the engineering quality bar through code review and mentorship /li li Build and maintain highly reliable, secure, distributed backend services, owning SLO definitions, observability instrumentation, incident response, and operational readiness for Tier-1 platform systems /li li Collaborate across EAA engineering teams, Product Engineering, and Security Engineering to deliver cross-functional outcomes and drive shared platform primitives that eliminate duplicated infrastructure across the portfolio /li /ul h4 class= _9k2iva0 p8i6j0c _1ibi0s314 heading4 _9k2iva1 Required Skills and Experience /h4 ul li 8+ years of hands-on software engineering experience, with a demonstrated track record of architecting and delivering large-scale, high-traffic distributed systems in production, including deep proficiency in backend service design, API development (gRPC, MCP, GraphQL), and scalable microservices architectures /li li Proven ability to independently lead ambiguous, high-impact technical initiatives from whiteboard to production, writing high-quality, well-tested code and setting the standard for others across complex, multi-team problem spaces /li li Strong experience with cloud-native infrastructure and the modern backend stack: AWS, Kubernetes, Terraform, BuildKite/CircleCI, event-driven architectures (Kafka, MQ), distributed caching (Redis/Memcached), and proficiency in SQL and/or NoSQL databases /li li Track record of building secure, compliant internal tools or platforms, with deep appreciation for security controls, access management, audit logging, data governance, and engineering rigor in a regulated financial services environment /li li Experience building or integrating with agentic AI systems, including MCP servers, LLM orchestration layers, RAG pipelines, HITL workflows, or evaluation and guardrail frameworks for production agentic workloads /li li Proficiency in Go (Golang) as a primary backend language, with willingness to work across Python where applicable in the evolving AI stack /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. div class= tk0j8o1 _1ibi0s31a _1ibi0s3en nbsp; /div /li /ul div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b99,424,500 /span span class= divider mdash; /span span \u20b99,424,500 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt;",
+   "description": "div class= content-intro p Ready to do the most impactful work of your career? span a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase target= _blank Coinbase /a /span is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn\u2019t a place for complacency. It\u2019s a place to be pushed past your perceived limits and do the best work of your career. If you\u2019re ready to build the future of finance with a championship team who refuse to settle for \u201cgood enough,\u201d you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions /p /div p class= mb-2 whitespace-pre-wrap nbsp; /p p class= mb-2 whitespace-pre-wrap strong Staff Software Engineer, Customer Administration /strong /p p class= mb-2 whitespace-pre-wrap The Customer Administration Engineering (CAE) team is a core pillar of Coinbase&#39;s Enterprise Applications and Architecture (EAA) org, responsible for building and operating the secure, foundational platforms that power customer data operations across Coinbase. Our flagship product, Control Center, is Coinbase&#39;s secure system of action for internal specialists across CX, Compliance, Legal, Global Investigations, Trust and Risk, and dozens of other teams. It serves approximately 7,000 internal users via its UI and powers a growing ecosystem of internal tools and AI automation via its backend APIs and MCP. We are at an exciting inflection point: evolving Control Center from a human-specialist UI into a modular, AI-agent-ready operations platform. As a Staff Software Engineer, you will be a technical anchor for the CAE team, driving architectural decisions, mentoring engineers, and leading the delivery of high-impact, cross-cutting platform capabilities. /p p class= mb-2 whitespace-pre-wrap strong What You&#39;ll Do /strong /p ul li Architect and deliver foundational platform capabilities including MCP tool registries, AI orchestration layers, risk-based access automation, and the away-team contribution model that enables product groups across Coinbase to build on the platform safely and at speed /li li Drive the evolution of Control Center into an AI-agent-ready, headless operations platform, designing and implementing MCP procedure constructs, agentic guardrails, HITL orchestration, and evaluation frameworks that enable both human and autonomous AI agents to execute sensitive customer operations securely /li li Partner with the Engineering Manager and Product counterparts to define architectural roadmaps, author TDDs, lead design reviews, decompose complex initiatives into deliverable milestones, and raise the engineering quality bar through code review and mentorship /li li Build and maintain highly reliable, secure, distributed backend services, owning SLO definitions, observability instrumentation, incident response, and operational readiness for Tier-1 platform systems /li li Collaborate across EAA engineering teams, Product Engineering, and Security Engineering to deliver cross-functional outcomes and drive shared platform primitives that eliminate duplicated infrastructure across the portfolio /li /ul h4 class= _9k2iva0 p8i6j0c _1ibi0s314 heading4 _9k2iva1 Required Skills and Experience /h4 ul li 8+ years of hands-on software engineering experience, with a demonstrated track record of architecting and delivering large-scale, high-traffic distributed systems in production, including deep proficiency in backend service design, API development (gRPC, MCP, GraphQL), and scalable microservices architectures /li li Proven ability to independently lead ambiguous, high-impact technical initiatives from whiteboard to production, writing high-quality, well-tested code and setting the standard for others across complex, multi-team problem spaces /li li Strong experience with cloud-native infrastructure and the modern backend stack: AWS, Kubernetes, Terraform, BuildKite/CircleCI, event-driven architectures (Kafka, MQ), distributed caching (Redis/Memcached), and proficiency in SQL and/or NoSQL databases /li li Track record of building secure, compliant internal tools or platforms, with deep appreciation for security controls, access management, audit logging, data governance, and engineering rigor in a regulated financial services environment /li li Experience building or integrating with agentic AI systems, including MCP servers, LLM orchestration layers, RAG pipelines, HITL workflows, or evaluation and guardrail frameworks for production agentic workloads /li li Proficiency in Go (Golang) as a primary backend language, with willingness to work across Python where applicable in the evolving AI stack /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. div class= tk0j8o1 _1ibi0s31a _1ibi0s3en nbsp; /div /li /ul div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b99,424,500 /span span class= divider mdash; /span span \u20b99,424,500 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; fon",
    "department": "Enterprise Applications",
    "veto": null,
    "skill_gaps": [
@@ -1030,7 +1012,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 6,
+   "age_days": 7,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1039,12 +1021,12 @@
    "match_score": 62,
    "match_hits": [
     "software engineer",
-    "evaluation",
     "kubernetes",
     "guardrails",
+    "evaluation",
     "python",
     "kafka",
-    "rag",
+    "aws",
     "llm"
    ],
    "company": "Coinbase",
@@ -1053,14 +1035,14 @@
    "id": "96b5f8fab6f5c3a6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Staff Software Engineer, Security Platform",
    "location": "Remote - India",
    "url": "https://www.coinbase.com/careers/positions/8167571",
    "posted_at": "2026-10-30T11:07:05-04:00",
-   "description": "div class= content-intro p Ready to do the most impactful work of your career? At nbsp; a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase Coinbase /a , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for good enough, you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d nbsp; a href= https://www.coinbase.com/careers Learn more about working at Coinbase /a . /p div id= fortidlp-input-element-parent /div /div p Coinbase stores a large amount of digital currency making us a top tier target on the internet. Security is core to our mission and has been a key competitive differentiator for us as we scale. Security Platform Engineering ( SPE ) team is building platform capabilities for a variety of security use cases critical for security, compliance and privacy at Coinbase. Some of the key functional areas we are developing capabilities for are secrets and key management, identity access and management, onchain security, policy and risk management, vulnerabilities management enabling our product, compliance, security and services teams to protect Coinbase and our customers. /p p strong What you\u2019ll do: nbsp; /strong /p ul li Architect and develop platform for security platform engineering org /li li Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps /li li Build new services to meet critical product and business needs using Golang / Java /li li Design scalable systems to solve novel problems with modern cloud technology and industry best practices. /li li Manage individual projects priorities, deadlines and deliverables with your technical expertise /li li Mentor and train other team members on design techniques and coding standards /li li Articulate a long term vision for maintaining and scaling our backend systems and the teams running them. /li li Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter. /li li Write high quality, well tested code to meet the needs of your customers. Debugging extremely difficult technical problems, and making systems and products both work better and are easier to deploy, own, operate and diagnose. /li li Review all feature designs within your product area and across the company for cross-cutting projects. Be an owner of the security, safety, scale, operational integrity, and architectural clarity of these designs. /li /ul p strong Required Skills and Experience: /strong /p ul li You have at least 8+ years of experience in software engineering /li li You\u2019ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture. /li li You write high quality, well tested code to meet the needs of your customers. /li li You\u2019re passionate about building an open financial system that brings the world together. /li li You possess strong technical skills for system design and coding /li li Excellent written and verbal communication skills, and a bias toward open, transparent cultural practices. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p em Position ID: nbsp; /em P78176 /p p em #LI-Remote /em /p div id= fortidlp-input-element-parent /div div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b99,424,500 /span span class= divider mdash; /span span \u20b99,424,500 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf Employee Rights /a , a href= https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf Know Your Rights /a , and a href= https://static-assets.coinbase.com/e-verify.pdf E-Verify /a Notice of Participation. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Accommodations: /strong If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. nbsp;Need screen reading technology? a href= https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn Click here /a to download a free compatible screen reader an",
+   "description": "div class= content-intro p Ready to do the most impactful work of your career? span a href= https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain amp;utm_source=coinbase target= _blank Coinbase /a /span is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls. The bar is high and the pace is intense, and we like it that way. This isn\u2019t a place for complacency. It\u2019s a place to be pushed past your perceived limits and do the best work of your career. If you\u2019re ready to build the future of finance with a championship team who refuse to settle for \u201cgood enough,\u201d you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for in-person working sessions /p /div p Coinbase stores a large amount of digital currency making us a top tier target on the internet. Security is core to our mission and has been a key competitive differentiator for us as we scale. Security Platform Engineering ( SPE ) team is building platform capabilities for a variety of security use cases critical for security, compliance and privacy at Coinbase. Some of the key functional areas we are developing capabilities for are secrets and key management, identity access and management, onchain security, policy and risk management, vulnerabilities management enabling our product, compliance, security and services teams to protect Coinbase and our customers. /p p strong What you\u2019ll do: nbsp; /strong /p ul li Architect and develop platform for security platform engineering org /li li Provide technical structure to teams and work closely with management and stakeholders to define strategic roadmaps /li li Build new services to meet critical product and business needs using Golang / Java /li li Design scalable systems to solve novel problems with modern cloud technology and industry best practices. /li li Manage individual projects priorities, deadlines and deliverables with your technical expertise /li li Mentor and train other team members on design techniques and coding standards /li li Articulate a long term vision for maintaining and scaling our backend systems and the teams running them. /li li Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter. /li li Write high quality, well tested code to meet the needs of your customers. Debugging extremely difficult technical problems, and making systems and products both work better and are easier to deploy, own, operate and diagnose. /li li Review all feature designs within your product area and across the company for cross-cutting projects. Be an owner of the security, safety, scale, operational integrity, and architectural clarity of these designs. /li /ul p strong Required Skills and Experience: /strong /p ul li You have at least 8+ years of experience in software engineering /li li You\u2019ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture. /li li You write high quality, well tested code to meet the needs of your customers. /li li You\u2019re passionate about building an open financial system that brings the world together. /li li You possess strong technical skills for system design and coding /li li Excellent written and verbal communication skills, and a bias toward open, transparent cultural practices. /li li Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. /li /ul p em Position ID: nbsp; /em P78176 /p p em #LI-Remote /em /p div id= fortidlp-input-element-parent /div div class= content-pay-transparency div class= pay-input div class= description p strong Pay Transparency Notice: /strong The target annual strong base /strong salary for this position can range as detailed below. Total compensation may strong /strong also include equity and bonus eligibility and benefits (including medical, dental, and vision). /p div id= fortidlp-input-element-parent /div /div div class= title Annual base salary range (excluding equity and bonus): /div div class= pay-range span \u20b99,424,500 /span span class= divider mdash; /span span \u20b99,424,500 INR /span /div /div /div div class= content-conclusion ul li style= font-style: italic; font-size: 8pt; strong em Application Limit: /em /strong Candidates may submit a maximum of 3 applications within a 6-month period. /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Equal Opportunity Employer: /strong Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong US Applicants: /strong View a href= https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf Employee Rights /a , a href= https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf Know Your Rights /a , and a href= https://static-assets.coinbase.com/e-verify.pdf E-Verify /a Notice of Participation. /em /span /li li style= font-style: italic; font-size: 8pt; span style= font-size: 8pt; em strong Accommodations: /strong If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. nbsp;Need screen reading technology? a href= https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn Click here /a to dow",
    "department": "Security & Privacy",
    "veto": null,
    "skill_gaps": [
@@ -1068,7 +1050,7 @@
     "java"
    ],
    "flags": [],
-   "age_days": 24,
+   "age_days": 25,
    "location_tier": 0,
    "location_label": "Remote (India)",
    "experience_bucket": 2,
@@ -1084,7 +1066,7 @@
    "id": "4a3092df3189ad5c",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Embedded Linux Senior Software Engineer - Optimisation",
@@ -1096,7 +1078,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 2,
+   "age_days": 3,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1115,7 +1097,7 @@
    "id": "8c5234f46a324b14",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Cloud Solutions Architect - Alliances",
@@ -1131,9 +1113,9 @@
     "cassandra"
    ],
    "flags": [
-    "posted 110 days ago"
+    "posted 111 days ago"
    ],
-   "age_days": 110,
+   "age_days": 111,
    "location_tier": 0,
    "location_label": "Remote (Worldwide)",
    "experience_bucket": 2,
@@ -1141,12 +1123,12 @@
    "salary_lpa": null,
    "match_score": 25,
    "match_hits": [
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "mongodb",
     "python",
-    "spark",
     "kafka",
+    "spark",
     "edge",
     "aws"
    ],
@@ -1156,41 +1138,13 @@
    "id": "ae88c5d854f51f22",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
-  },
-  {
-   "title": "AL/ML Engineer",
-   "location": "Noida",
-   "url": "https://appinventiv.com/career/",
-   "posted_at": null,
-   "description": "",
-   "department": "",
-   "veto": null,
-   "skill_gaps": [],
-   "flags": [],
-   "age_days": null,
-   "location_tier": 1,
-   "location_label": "Noida",
-   "experience_bucket": 1,
-   "experience_note": "Years not stated",
-   "salary_lpa": null,
-   "match_score": 35,
-   "match_hits": [
-    "ml engineer"
-   ],
-   "company": "Appinventiv",
-   "company_tier": "noida",
-   "portal": "custom",
-   "id": "5bc1077b31b7cfc3",
-   "first_seen": "2026-09-07T09:50:21.309043+00:00",
-   "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "LLMops Engineer",
    "location": "India",
    "url": "https://job-boards.greenhouse.io/coursera/jobs/6212857004",
-   "posted_at": "2026-11-13T00:16:51-05:00",
+   "posted_at": "2026-11-24T15:24:49-05:00",
    "description": "div class= content-intro p strong About Coursera + Udemy /strong /p p Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world\u2019s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our nbsp; a href= https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/ target= _blank blog /a . /p p strong Why join us now? /strong /p p AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them. /p p strong Shape what comes next /strong /p p By joining our team, you\u2019ll have the opportunity to reshape how the world learns and applies skills\u2014and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale. /p /div p strong About the Team (Job Location - Pune) : /strong /p p As an AI Platform and LLMOps Engineer, you will join a fast-paced innovation team at Coursera working on AI enablement for our organization and customers. As an internal focus area, this team builds and maintains the infrastructure amp; tooling required to drive meaningful AI adoption across the organization, providing a platform for non-technical team members to build and deploy tools and transforming entire business functions into AI-native operating models. As a customer-facing focus area, this team builds custom AI-powered solutions tailored for our enterprise customers supporting them in their journey of AI adoption and upskilling beyond just the content on our platforms. /p p You will own the operational backbone that lets our agentic AI systems run reliably in production \u2014 from prompt and pipeline versioning to evaluation, monitoring, incident and cost management. You will work closely with a cross-functional team of Software Engineers, AI Specialists and Product Managers \u2013 helping turn promising AI prototypes into reliable, observable, and cost-effective production systems. /p p strong Key Responsibilities /strong /p ul li Build and maintain the operational tooling for our LLM-powered systems, including prompt/pipeline versioning, evaluation harnesses, and CI/CD workflows tailored to non-deterministic AI outputs /li li Implement monitoring and observability for production LLM systems \u2014 tracking latency, token usage, cost per request, output quality, and drift over time /li li Design and run automated evaluation suites to catch regressions, hallucinations, and quality degradation before they reach customers /li li Manage RAG pipelines and vector store infrastructure, keeping retrieval sources fresh, accurate, and performant /li li Implement safety and compliance guardrails \u2014 content filtering, PII redaction, and access controls \u2014 in line with enterprise data privacy and residency requirements /li li Own cost governance for LLM usage: caching strategies, model routing, and usage reporting to keep spend predictable as adoption scales /li li Collaborate closely with Product Managers and Senior Engineers to scope operational requirements and translate them into reliable systems /li li Participate in sprint planning, technical grooming, and retrospective discussions /li /ul p strong Education /strong /p ul li Bachelor\u2019s or Master\u2019s degree in Computer Science, Computer Engineering or a related field /li /ul p strong Basic Qualifications /strong /p ul li 4+ years of experience in a software engineering role, with a solid background in Backend Engineering and DevOps fundamentals /li li Hands-on experience operating or supporting LLM-powered systems in production (via APIs, RAG pipelines, frontier/open weight/fine-tuned models) /li li Proficiency in a backend language such as Python, Java, TypeScript or Go, and familiarity with Docker and container orchestration (Kubernetes) /li li Experience implementing APIs, working with SQL and NoSQL databases, and writing automated tests /li li Working knowledge of at least one cloud platform (AWS, GCP, or Azure), across both managed and self-hosted services /li li Familiarity with infrastructure-as-code (e.g., Terraform) and CI/CD tooling (e.g., GitHub Actions, Jenkins) /li li Comfort debugging production issues involving non-deterministic systems, with attention to detail and a bias towards reliability /li li Strong belief in engineering quality and building tooling that creates leverage for others /li /ul p strong Preferred Qualifications /strong /p ul li Experience with LLMOps-specific tooling such as LangFuse, LangSmith, Weights amp; Biases-style evaluation frameworks, or vector databases like Pinecone, Weaviate, pgvector /li li Working knowledge of RAG architectures, MCP implementation amp; governance, agent orchestration frameworks like LangGraph and LLM Gateways such as LiteLLM, Open Router amp; enterprise AI ecosystems such as Vertex AI, Bedrock /li li Exposure to prompt management and versioning practices treated as code along with model access management, deterministic guardrails and evals /li li Understanding of AI governance considerations \u2014 data privacy, residency, and compliance in enterprise AI deployments /li li Ability to work in a fast-paced, ambiguous environment with a proactive, ownership-driven mindset /li li Strong communication skills and comfort collaborating across engineering, product, and strategy functions /li /ul p strong Why Join Us? /strong /p ul li Work at the operational core of Coursera&#39;s AI transformation \u2014 sol",
    "department": "Partner Success Services",
    "veto": null,
@@ -1203,7 +1157,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 11,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 0,
@@ -1211,13 +1165,13 @@
    "salary_lpa": null,
    "match_score": 51,
    "match_hits": [
-    "evaluation",
     "kubernetes",
-    "typescript",
     "guardrails",
+    "evaluation",
+    "typescript",
     "langgraph",
-    "docker",
     "vector",
+    "docker",
     "python"
    ],
    "company": "Coursera",
@@ -1226,7 +1180,7 @@
    "id": "cb071de2af5e7fff",
    "first_seen": "2026-10-06T10:35:20.890716+00:00",
    "is_new": false,
-   "days_listed": 49
+   "days_listed": 50
   },
   {
    "title": "Research Engineer",
@@ -1238,7 +1192,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 3,
+   "age_days": 4,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 0,
@@ -1259,7 +1213,7 @@
    "id": "6dad380211ba1896",
    "first_seen": "2026-11-21T11:29:47.445560+00:00",
    "is_new": false,
-   "days_listed": 3
+   "days_listed": 4
   },
   {
    "title": "Applied AI Engineer, Enterprise AI",
@@ -1273,7 +1227,7 @@
     "graphql"
    ],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1293,7 +1247,7 @@
    "portal": "greenhouse",
    "id": "6df4ba8ef27a798b",
    "first_seen": "2026-11-24T14:01:05.824074+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -1306,9 +1260,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 439 days ago"
+    "posted 440 days ago"
    ],
-   "age_days": 439,
+   "age_days": 440,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1327,7 +1281,7 @@
    "id": "f2d993091a5cccd2",
    "first_seen": "2026-10-13T10:50:06.367836+00:00",
    "is_new": false,
-   "days_listed": 42
+   "days_listed": 43
   },
   {
    "title": "Intermediate Backend Engineer , Security Factory",
@@ -1343,7 +1297,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1363,7 +1317,7 @@
    "id": "e7355789b82f50ed",
    "first_seen": "2026-11-05T11:16:13.474389+00:00",
    "is_new": false,
-   "days_listed": 19
+   "days_listed": 20
   },
   {
    "title": "Intermediate Backend Engineer, India",
@@ -1380,7 +1334,7 @@
     "grpc"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1389,8 +1343,8 @@
    "match_score": 36,
    "match_hits": [
     "backend engineer",
-    "kubernetes",
     "postgresql",
+    "kubernetes",
     "autonomy",
     "docker",
     "ci/cd"
@@ -1401,7 +1355,7 @@
    "id": "c82729b762e9099f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Data Scientist III",
@@ -1413,9 +1367,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 1110 days ago"
+    "posted 1111 days ago"
    ],
-   "age_days": 1110,
+   "age_days": 1111,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1431,7 +1385,44 @@
    "id": "59e8dcd0b3f7e4e6",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
+  },
+  {
+   "title": "Senior Support Engineer",
+   "location": "Bangalore, India",
+   "url": "https://jobs.elastic.co/jobs",
+   "posted_at": "2026-11-24T10:49:54-05:00",
+   "description": "div class= content-intro p Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. /p /div p strong What is the role: /strong /p p We\u2019re always on the search for amazing people. People who have a deep passion for technology and are masters at their craft. We build highly sophisticated distributed systems, and we don\u2019t take our technology lightly. At Elastic, you\u2019ll have the opportunity to work in a vibrant young company next to some of the smartest and highly skilled technologists the industry has to offer. We\u2019re looking for great team players, but we also promote independence and ownership. We\u2019re hackers\u2026 The good kind. The kind that innovates and creates cutting edge products that eventually translates to a lot of happy, smiling faces. /p p Elastic\u2019s Support team is unlike any other on Earth: while we are spread across 12 time zones and 15 countries, we operate as a unit, as a family. We are massively distributed yet lovingly intimate. The service we deliver is caring, empathetic, and human yet ambitious, direct, and comprehensive. We don\u2019t do it alone, as we are tightly integrated with our core developers in a way that is real, genuine, and never taken for granted. Our team is a dream for someone seeking honest, hard work and rewards. It is a nightmare for anyone afraid to ask questions or be questioned \u2014 always forward, never backward. We are not trying to change the world, we already have. We\u2019re just waiting for everyone else to catch up. We have our good days and our not so good days, and we face them together, as a family. We listen. We solve. We guide. We get it. And we\u2019re excited to bring on a new team member to love. /p p strong nbsp; /strong /p p strong What You Will Be Doing /strong /p ul li Ensuring technical customer issues are serviced within our contractual SLA and managed to resolution /li li Maintain strong relationships with our customers for the delivery of technical support /li li Resolves customer problems via telephone, email, chat or remote access. /li li Have a mindset of continuous improvement in terms of the efficiency of support processes and customer satisfaction /li li Work across multicultural and geographically distributed teams /li li Contribute to product documentation, customer knowledge base, and best practices guides /li li Continuously improve processes and tools in collaboration with the team /li li Provide weekend on-call support for the team rotation (8 hours during regular work hours) /li li Develop subject matter expertise one key product feature /li li Works on complex issues where analysis of situations or data requires an in-depth evaluation of variable factors. nbsp; /li li Take part in organizational projects, programs and/or business initiatives using demonstrated creativity and ingenuity to improve performance and customer experience. /li li Provide technical leadership in Elastic communities and Knowledge-Centered Service methodology and process. /li li Creation of lab environments to replicate customer issues. /li li Communicate tactfully with customers: gather information, provide diagnostic and resolution steps, convey process and product guidance /li /ul p strong nbsp; /strong /p p strong What You Bring Along br /strong /p ul li 5+ years of experience in technical support, system administration or related customer-facing role /li li A technical background in systems administration, Network Engineering, Software Engineering, etc /li li Strong verbal and written communication skills in English /li li A customer-oriented focus /li li Good understanding of cloud-native and container-based technologies /li li Cloud technologies such as AWS, GCP, Azure and frameworks such as Kubernetes and Docker /li li Understand the Product Lifecycle and future direction for the supported products or product line /li li Strong understanding of cloud-native and container-based distributed systems like Kubernetes /li li Advanced level of hands-on generalist experience at: Java (e.g. JVMS amp; components), Operational Systems (e.g. Linux and Windows), Networks (e.g. LDAP, Load Balancers, Proxies, SSL); /li li Experience with APIs and REST calls; /li li Experience with web/application servers (e.g. Tomcat, Apache, IIS, NGINX, Jboss); /li li Advanced troubleshooting skills in web technology systems (e.g. HTML, CSS, Javascript) /li li Experience with SSO, SAML, Active Directory, etc; /li /ul p strong Bonus Points /strong /p ul li Knowledge of databases or search software technologies /li li Experience with SaaS and/or Distributed systems /li li You are a Team player; the ability to work in a fast-paced environment with a positive and adaptable approach /li li Proven strong technical understanding of software products /li li Collaboration with Developer teams on escalation issues /li li Curiosity is key! You have already researched our products and possibly downloaded our stack to test it out nbsp; /li li Networking /li li Server Administration /li li Wireshark or comparable packet analysis tool /li li Exposure to scripting (Shell, Python, etc.) /li li Experience with support tools and platforms like Salesforce, Zendesk and JIRA. /li /ul div class= content-conclusion h2 strong Additional Information - We Take Care of Our People /strong /h2 p As a distributed company, diversity drives our identity. Whether you\u2019re looking to launch a new career or grow an existing one, Elastic is the type of compan",
+   "department": "Support",
+   "veto": null,
+   "skill_gaps": [
+    "java",
+    "gcp",
+    "salesforce"
+   ],
+   "flags": [],
+   "age_days": 0,
+   "location_tier": 4,
+   "location_label": "Bangalore",
+   "experience_bucket": 1,
+   "experience_note": "5+ yrs, senior title",
+   "salary_lpa": null,
+   "match_score": 25,
+   "match_hits": [
+    "kubernetes",
+    "evaluation",
+    "docker",
+    "python",
+    "edge",
+    "aws"
+   ],
+   "company": "Elastic",
+   "company_tier": "global",
+   "portal": "greenhouse",
+   "id": "d8dd6094548c522b",
+   "first_seen": "2026-09-07T09:50:21.309043+00:00",
+   "is_new": false,
+   "days_listed": 79
   },
   {
    "title": "Software Engineer, Backend",
@@ -1443,9 +1434,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 3071 days ago"
+    "posted 3072 days ago"
    ],
-   "age_days": 3071,
+   "age_days": 3072,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 1,
@@ -1461,7 +1452,7 @@
    "id": "5fad81823b936e45",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Software Engineer, Delivery : Release",
@@ -1476,7 +1467,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 1,
@@ -1492,7 +1483,7 @@
    "id": "7722ce0b0fb0d740",
    "first_seen": "2026-10-28T09:53:17.948421+00:00",
    "is_new": false,
-   "days_listed": 27
+   "days_listed": 28
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -1504,7 +1495,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 20,
+   "age_days": 21,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1514,12 +1505,12 @@
    "match_hits": [
     "ai engineer",
     "multi-agent",
+    "guardrails",
     "evaluation",
     "embeddings",
-    "guardrails",
     "vector",
     "python",
-    "rag"
+    "llm"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -1527,7 +1518,7 @@
    "id": "4bc261e756fa0fc6",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 60
+   "days_listed": 61
   },
   {
    "title": "Lead Gen-AI Engineer",
@@ -1539,9 +1530,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 55 days ago"
+    "posted 56 days ago"
    ],
-   "age_days": 55,
+   "age_days": 56,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1553,8 +1544,8 @@
     "evaluation",
     "vector",
     "ci/cd",
-    "rag",
-    "llm"
+    "llm",
+    "rag"
    ],
    "company": "Equal Experts",
    "company_tier": "global",
@@ -1562,7 +1553,7 @@
    "id": "cc9cd6cb8715e76b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Field Chief Technology Officer (Field CTO)",
@@ -1577,7 +1568,7 @@
     "ray"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1586,8 +1577,8 @@
    "match_score": 46,
    "match_hits": [
     "hugging face",
-    "tensorflow",
     "kubernetes",
+    "tensorflow",
     "inference",
     "pytorch",
     "vector",
@@ -1600,7 +1591,7 @@
    "id": "e73ffdf1e4f2f9f8",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Staff Software Engineer - Infrastructure",
@@ -1616,7 +1607,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 31,
+   "age_days": 32,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1625,9 +1616,9 @@
    "match_score": 45,
    "match_hits": [
     "software engineer",
-    "evaluation",
     "kubernetes",
     "guardrails",
+    "evaluation",
     "ci/cd",
     "edge",
     "aws"
@@ -1638,19 +1629,19 @@
    "id": "f538d87d72170116",
    "first_seen": "2026-10-08T10:47:21.919462+00:00",
    "is_new": false,
-   "days_listed": 47
+   "days_listed": 48
   },
   {
    "title": "Senior AI Specialist",
    "location": "India",
    "url": "https://job-boards.greenhouse.io/coursera/jobs/6261069004",
-   "posted_at": "2026-11-16T12:50:13-05:00",
+   "posted_at": "2026-11-24T15:24:49-05:00",
    "description": "div class= content-intro p strong About Coursera + Udemy /strong /p p Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world\u2019s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our nbsp; a href= https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/ target= _blank blog /a . /p p strong Why join us now? /strong /p p AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them. /p p strong Shape what comes next /strong /p p By joining our team, you\u2019ll have the opportunity to reshape how the world learns and applies skills\u2014and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale. /p /div h3 Job Overview /h3 p Coursera is seeking a Senior AI Specialist to own the technical design and delivery of complex AI applications for business and customer needs. You\u2019ll turn ambiguous requirements into production-grade solutions, working across data exploration, experimentation, architecture, implementation, evaluation, and deployment. This is a hands-on senior IC role: you\u2019ll lead architectural decisions independently, build critical components, and resolve difficult problems across models, agents, applications, and data. You\u2019ll partner with Product Managers, Data Engineers, Software Engineers, LLMOps, and forward-deployed teams to deliver solutions within enterprise and customer environments. Your work will establish reusable approaches and technical standards that improve AI quality, reliability, security, and delivery across projects. /p p About your skills: /p p strong AI Systems Architecture /strong \u2014 Design end-to-end applied AI solutions, combining models, retrieval, agentic workflows, and application services while balancing quality, scalability, security, and cost. br strong AI Delivery amp; Reliability /strong \u2014 Build production grade AI components and reliable data workflows, integrating enterprise data, models, and tools into tested, maintainable applications. Define how AI quality is measured and monitored, using evaluation frameworks, agent tracing strong br /strong strong Technical Leadership /strong \u2014 Own complex technical decisions, lead design and code reviews, AI evals, and guide cross-functional teams from experimentation through validated production deployment. /p h3 What you&#39;ll be doing /h3 ul li strong Own AI solution architecture /strong - Translate ambiguous requirements into robust system designs, service boundaries, data contracts, and implementation plans. Lead build v/s buy decisions and document trade-offs across model quality, latency, throughput, reliability, security, and cost. /li li strong Architect RAG systems. /strong Design retrieval-augmented generation pipelines using vector databases, sparse and dense retrieval, hybrid search, metadata filtering, and reranking. Define document parsing, chunking, embedding, and indexing strategies. nbsp; /li li strong Evaluate and fine-tune models /strong . Determine when model adaptation is warranted over prompting or retrieval. Curate training and validation datasets, implement supervised fine-tuning and parameter-efficient techniques such as LoRA, and benchmark against baseline models for task accuracy, safety, latency, and cost. nbsp; /li li strong Develop AI services and data integrations. /strong Build critical Python/TypeScript services, APIs, and asynchronous workflows. Partner with Data Engineering on ingestion and indexing pipelines, including normalization of customer data, schema validation, incremental updates, lineage, and recovery. /li li strong Build enterprise agentic systems. /strong Develop stateful workflows with task decomposition, planning, multi-step tool use, dynamic tool selection, structured outputs, memory management, and multi-agent orchestration where justified. Build tool and MCP integrations with validated inputs, scoped permissions, and human approval for sensitive actions. Evaluate retrieval and agent quality against strong defined accuracy and grounding metrics /strong . /li li strong Implement AI security, and governance controls. /strong Implement defenses against prompt injection, sensitive-data leakage, unauthorized tool execution, and retrieval access violations. Contribute threat models, adversarial tests, and evidence for governance reviews. Translate centrally defined policies into application controls for identity, tenant isolation, data residency, retention, and auditability. nbsp; /li li strong Adapt solutions to enterprise environments. /strong Work with Engineering and forward-deployed teams to implement cloud, hybrid, and customer-controlled deployments. /li li strong AI evaluation and production observability. /strong Define evaluation datasets and measure retrieval quality, groundedness, task completion, tool correctness, latency, and cost. Combine deterministic checks, calibrated LLM-as-judge, and human review. Partner with LLMOps on CI/CD release gates, prompt and model versioning, tracing, and safe rollouts and rollbacks. /li li strong Own technical quality and system reliability. /strong Set and enforce quality standards across the team, with accountability for code quality, maintainability, and production reliability. Lead architecture and code reviews, mentor AI Specialists, and drive root-cause analysis across",
    "department": "Partner Success Services",
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 7,
+   "age_days": 0,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1665,7 +1656,7 @@
     "vector",
     "python",
     "ci/cd",
-    "rag"
+    "llm"
    ],
    "company": "Coursera",
    "company_tier": "global",
@@ -1673,7 +1664,7 @@
    "id": "0c1c55ca41d9bb80",
    "first_seen": "2026-11-17T12:11:40.940561+00:00",
    "is_new": false,
-   "days_listed": 7
+   "days_listed": 8
   },
   {
    "title": "Consulting Architect - Search",
@@ -1688,9 +1679,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 53 days ago"
+    "posted 54 days ago"
    ],
-   "age_days": 53,
+   "age_days": 54,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1699,13 +1690,13 @@
    "match_score": 39,
    "match_hits": [
     "fine-tuning",
-    "embeddings",
     "kubernetes",
-    "docker",
+    "embeddings",
     "vector",
+    "docker",
     "python",
-    "rag",
-    "aws"
+    "aws",
+    "rag"
    ],
    "company": "Elastic",
    "company_tier": "global",
@@ -1713,7 +1704,7 @@
    "id": "d8dd6094548c522b",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Senior Data Engineer",
@@ -1729,9 +1720,9 @@
     "gcp"
    ],
    "flags": [
-    "posted 285 days ago"
+    "posted 286 days ago"
    ],
-   "age_days": 285,
+   "age_days": 286,
    "location_tier": 4,
    "location_label": "India",
    "experience_bucket": 2,
@@ -1751,7 +1742,7 @@
    "id": "e060dee28bc45c7f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Staff Data Scientist",
@@ -1763,7 +1754,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 0,
+   "age_days": 1,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1778,7 +1769,7 @@
    "portal": "smartrecruiters",
    "id": "79a8cf596f58a895",
    "first_seen": "2026-11-24T14:01:05.824074+00:00",
-   "is_new": true,
+   "is_new": false,
    "days_listed": 0
   },
   {
@@ -1793,7 +1784,7 @@
     "databricks"
    ],
    "flags": [],
-   "age_days": 10,
+   "age_days": 11,
    "location_tier": 4,
    "location_label": "Bengaluru / Remote",
    "experience_bucket": 2,
@@ -1801,13 +1792,13 @@
    "salary_lpa": null,
    "match_score": 34,
    "match_hits": [
-    "evaluation",
     "kubernetes",
     "tensorflow",
+    "evaluation",
     "inference",
     "pytorch",
-    "spark",
     "kafka",
+    "spark",
     "edge"
    ],
    "company": "MinIO",
@@ -1816,7 +1807,7 @@
    "id": "706cbf44d771a761",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Staff Backend Engineer, India",
@@ -1831,7 +1822,7 @@
     "rust"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1850,7 +1841,7 @@
    "id": "e96ab9eb11c4998d",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Staff Software Engineer - NLP",
@@ -1864,7 +1855,7 @@
     "go"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1883,7 +1874,7 @@
    "id": "bbd8c5c7295ca73b",
    "first_seen": "2026-09-24T08:36:46.712077+00:00",
    "is_new": false,
-   "days_listed": 61
+   "days_listed": 62
   },
   {
    "title": "Software Engineer",
@@ -1897,7 +1888,7 @@
     "gcp"
    ],
    "flags": [],
-   "age_days": 20,
+   "age_days": 21,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1916,7 +1907,7 @@
    "id": "49a5db04d2e8c7d8",
    "first_seen": "2026-10-23T08:42:43.681732+00:00",
    "is_new": false,
-   "days_listed": 32
+   "days_listed": 33
   },
   {
    "title": "Senior Backend Engineer, India",
@@ -1930,7 +1921,7 @@
     "clickhouse"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -1949,7 +1940,7 @@
    "id": "724d0e430d5eac9f",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   },
   {
    "title": "Staff Devops Engineer",
@@ -1965,9 +1956,9 @@
     "terraform"
    ],
    "flags": [
-    "posted 260 days ago"
+    "posted 261 days ago"
    ],
-   "age_days": 260,
+   "age_days": 261,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -1989,44 +1980,7 @@
    "id": "48b4f9ba103b81a2",
    "first_seen": "2026-11-13T11:17:43.006964+00:00",
    "is_new": false,
-   "days_listed": 11
-  },
-  {
-   "title": "Senior Support Engineer",
-   "location": "Bangalore, India",
-   "url": "https://jobs.elastic.co/jobs",
-   "posted_at": "2026-11-07T09:24:51-05:00",
-   "description": "div class= content-intro p Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. /p /div p strong What is the role: /strong /p p We\u2019re always on the search for amazing people. People who have a deep passion for technology and are masters at their craft. We build highly sophisticated distributed systems, and we don\u2019t take our technology lightly. At Elastic, you\u2019ll have the opportunity to work in a vibrant young company next to some of the smartest and highly skilled technologists the industry has to offer. We\u2019re looking for great team players, but we also promote independence and ownership. We\u2019re hackers\u2026 The good kind. The kind that innovates and creates cutting edge products that eventually translates to a lot of happy, smiling faces. /p p Elastic\u2019s Support team is unlike any other on Earth: while we are spread across 12 time zones and 15 countries, we operate as a unit, as a family. We are massively distributed yet lovingly intimate. The service we deliver is caring, empathetic, and human yet ambitious, direct, and comprehensive. We don\u2019t do it alone, as we are tightly integrated with our core developers in a way that is real, genuine, and never taken for granted. Our team is a dream for someone seeking honest, hard work and rewards. It is a nightmare for anyone afraid to ask questions or be questioned \u2014 always forward, never backward. We are not trying to change the world, we already have. We\u2019re just waiting for everyone else to catch up. We have our good days and our not so good days, and we face them together, as a family. We listen. We solve. We guide. We get it. And we\u2019re excited to bring on a new team member to love. /p p strong nbsp; /strong /p p strong What You Will Be Doing /strong /p ul li Ensuring technical customer issues are serviced within our contractual SLA and managed to resolution /li li Maintain strong relationships with our customers for the delivery of technical support /li li Resolves customer problems via telephone, email, chat or remote access. /li li Have a mindset of continuous improvement in terms of the efficiency of support processes and customer satisfaction /li li Work across multicultural and geographically distributed teams /li li Contribute to product documentation, customer knowledge base, and best practices guides /li li Continuously improve processes and tools in collaboration with the team /li li Provide weekend on-call support for the team rotation (8 hours during regular work hours) /li li Develop subject matter expertise one key product feature /li li Works on complex issues where analysis of situations or data requires an in-depth evaluation of variable factors. nbsp; /li li Take part in organizational projects, programs and/or business initiatives using demonstrated creativity and ingenuity to improve performance and customer experience. /li li Provide technical leadership in Elastic communities and Knowledge-Centered Service methodology and process. /li li Creation of lab environments to replicate customer issues. /li li Communicate tactfully with customers: gather information, provide diagnostic and resolution steps, convey process and product guidance /li /ul p strong nbsp; /strong /p p strong What You Bring Along br /strong /p ul li 5+ (7+ for C6) years of experience in technical support, system administration or related customer-facing role /li li A technical background in systems administration, Network Engineering, Software Engineering, etc /li li Strong verbal and written communication skills in English /li li A customer-oriented focus /li li Good understanding of cloud-native and container-based technologies /li li Cloud technologies such as AWS, GCP, Azure and frameworks such as Kubernetes and Docker /li li Understand the Product Lifecycle and future direction for the supported products or product line /li li Strong understanding of cloud-native and container-based distributed systems like Kubernetes /li li Advanced level of hands-on generalist experience at: Java (e.g. JVMS amp; components), Operational Systems (e.g. Linux and Windows), Networks (e.g. LDAP, Load Balancers, Proxies, SSL); /li li Experience with APIs and REST calls; /li li Experience with web/application servers (e.g. Tomcat, Apache, IIS, NGINX, Jboss); /li li Advanced troubleshooting skills in web technology systems (e.g. HTML, CSS, Javascript) /li li Experience with SSO, SAML, Active Directory, etc; /li /ul p strong Bonus Points /strong /p ul li Knowledge of databases or search software technologies /li li Experience with SaaS and/or Distributed systems /li li You are a Team player; the ability to work in a fast-paced environment with a positive and adaptable approach /li li Proven strong technical understanding of software products /li li Collaboration with Developer teams on escalation issues /li li Curiosity is key! You have already researched our products and possibly downloaded our stack to test it out nbsp; /li li Networking /li li Server Administration /li li Wireshark or comparable packet analysis tool /li li Exposure to scripting (Shell, Python, etc.) /li li Experience with support tools and platforms like Salesforce, Zendesk and JIRA. /li /ul div class= content-conclusion h2 strong Additional Information - We Take Care of Our People /strong /h2 p As a distributed company, diversity drives our identity. Whether you\u2019re looking to launch a new career or grow an existing one, Elastic is the ty",
-   "department": "Support",
-   "veto": null,
-   "skill_gaps": [
-    "java",
-    "gcp",
-    "salesforce"
-   ],
-   "flags": [],
-   "age_days": 16,
-   "location_tier": 4,
-   "location_label": "Bangalore",
-   "experience_bucket": 2,
-   "experience_note": "Senior title",
-   "salary_lpa": null,
-   "match_score": 25,
-   "match_hits": [
-    "evaluation",
-    "kubernetes",
-    "docker",
-    "python",
-    "edge",
-    "aws"
-   ],
-   "company": "Elastic",
-   "company_tier": "global",
-   "portal": "greenhouse",
-   "id": "d8dd6094548c522b",
-   "first_seen": "2026-09-07T09:50:21.309043+00:00",
-   "is_new": false,
-   "days_listed": 78
+   "days_listed": 12
   },
   {
    "title": "Staff Software Engineer, Security Platform: Authentication",
@@ -2041,7 +1995,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 13,
+   "age_days": 14,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2058,7 +2012,7 @@
    "id": "8f968015b7704d36",
    "first_seen": "2026-11-11T11:16:45.458954+00:00",
    "is_new": false,
-   "days_listed": 13
+   "days_listed": 14
   },
   {
    "title": "Senior Backend Engineer, Development Health",
@@ -2072,7 +2026,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 7,
+   "age_days": 8,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2089,7 +2043,7 @@
    "id": "e226d05db4cfe5da",
    "first_seen": "2026-11-05T11:16:13.474389+00:00",
    "is_new": false,
-   "days_listed": 19
+   "days_listed": 20
   },
   {
    "title": "Staff Software Engineer, Security Foundations",
@@ -2105,7 +2059,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 13,
+   "age_days": 14,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2122,7 +2076,7 @@
    "id": "25450d4218963fa4",
    "first_seen": "2026-10-31T09:50:54.914956+00:00",
    "is_new": false,
-   "days_listed": 24
+   "days_listed": 25
   },
   {
    "title": "Senior Software Engineer, SSCS : Authentication",
@@ -2137,7 +2091,7 @@
     "ruby"
    ],
    "flags": [],
-   "age_days": 17,
+   "age_days": 18,
    "location_tier": 4,
    "location_label": "Bangalore",
    "experience_bucket": 2,
@@ -2153,7 +2107,7 @@
    "id": "d383435b6c15aa76",
    "first_seen": "2026-10-16T08:21:27.059858+00:00",
    "is_new": false,
-   "days_listed": 39
+   "days_listed": 40
   },
   {
    "title": "Lead Database Administrator",
@@ -2171,7 +2125,7 @@
    "flags": [
     "vague culture language"
    ],
-   "age_days": 36,
+   "age_days": 37,
    "location_tier": 4,
    "location_label": "Bengaluru",
    "experience_bucket": 2,
@@ -2191,7 +2145,42 @@
    "id": "f572d14f95ae5377",
    "first_seen": "2026-10-20T08:44:40.415719+00:00",
    "is_new": false,
-   "days_listed": 35
+   "days_listed": 36
+  },
+  {
+   "title": "Product Manager II - AI ",
+   "location": "Bengaluru",
+   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+   "posted_at": "2026-11-25T06:34:37-05:00",
+   "description": "div class= content-intro p Razorpay is one of India\u2019s leading full-stack financial technology companies, powering the way businesses move, manage, and grow money. Founded in 2014 by Harshil Mathur and Shashank Kumar with a simple vision - to simplify payments for Indian businesses - we\u2019ve since grown into a fintech powerhouse driving India\u2019s digital payment revolution. /p p Razorpay powers millions of businesses with a smarter, scalable stack that goes beyond transactions to help them truly build and grow. /p p From building AI-native agentic payments, to AI-assisted fraud detection and real-time risk intelligence to automated reconciliation, smart payouts, and predictive financial insights, we are embedding intelligence across our stack to make money movement faster, safer, and more efficient. In close collaboration with ecosystem partners - including banks, networks, regulators - we are pioneering industry-first solutions that are shaping the next era of fintech /p p Across India, Singapore and Malaysia, our products span everything from seamless checkouts to payroll automation - powering a fintech ecosystem that\u2019s redefining how money moves across Asia. /p p Today, that ecosystem supports everyone from early-stage startups to some of India\u2019s largest enterprises, enabling them to accept, process, and disburse payments at scale while expanding into new ways of managing money more efficiently. /p p Our scale speaks volumes: Razorpay processes $180+ billion in annualized transactions, powering leading businesses like Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow, Zomato, Swiggy, Lenskart, Mirae Asset Capital markets, Indian Oil, National Pension Scheme - and over 100 of India\u2019s unicorns. With strong roots in India and growing operations in Southeast Asia, we are shaping the next chapter of financial technology across the region. /p p We are backed by global investors including GIC, Peak XV Partners (formerly Sequoia Capital India amp; SEA), Tiger Global, Ribbit Capital, Matrix Partners, MasterCard, and Salesforce Ventures, having raised over $740 million to date. Strategic acquisitions - including Ezetap (POS and offline payments), Curlec (Malaysia expansion), BillMe (digital invoicing), and POP (rewards-first UPI) - along with earlier moves in fraud prevention, payroll, and lending, have further strengthened our platform and widened our footprint across Asia. /p p But what truly sets Razorpay apart is our culture. At Razorpay, ownership is our oxygen - you own what you build, with no micromanagement or red tape, just the runway to make your ideas fly. Learning is a lifestyle - if you\u2019re curious, you\u2019ll feel at home here. People gt; Pedigree - we hire for attitude, hustle, and hunger more than degrees. Transparency thrives over titles - this is where interns question CXOs and CXOs say \u201cthank you.\u201d Guided by our values of Customer First, Autonomy amp; Ownership, Agility with Integrity, Transparency, Challenging the status quo and a strong belief that Razorpay grows with Razors, nbsp; you\u2019ll be part of a 3000+ strong team building not just products, but the financial infrastructure of the future. /p /div p span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; strong Role nbsp;Summary /strong /span /p p span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Most nbsp;engineers, nbsp;PMs nbsp;and nbsp;designers nbsp;use nbsp;AI. nbsp;Few nbsp;are nbsp;AI-native. nbsp;We nbsp;are nbsp;hiring nbsp;the nbsp;latter. /span /p p span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; As nbsp;an nbsp;FSB nbsp;you nbsp;own nbsp;a nbsp;canvas nbsp;end-to-end: nbsp; strong discover nbsp;the nbsp;problem nbsp;\u2192 nbsp;shape nbsp;the nbsp;solution nbsp;\u2192 nbsp;design nbsp;\u2192 nbsp;build nbsp;\u2192 nbsp;ship nbsp;\u2192 nbsp;drive nbsp;adoption nbsp;\u2192 nbsp;measure nbsp;impact. /strong You nbsp;are nbsp;the nbsp;PM, nbsp;the nbsp;product nbsp;engineer nbsp;and nbsp;the nbsp;designer nbsp;in nbsp;one, nbsp;working nbsp;on nbsp;0\u21921 nbsp;problems nbsp;with nbsp;real nbsp;autonomy, nbsp;and nbsp;helping nbsp;define nbsp;Razorpay&#39;s nbsp;journey nbsp;to nbsp;becoming nbsp;India&#39;s nbsp;first nbsp;AI-native nbsp;payments nbsp;platform. /span /p p span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; strong What nbsp;you nbsp;will nbsp;do /strong /span /p ul li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Own nbsp;a nbsp;product nbsp;or nbsp;feature nbsp;end-to-end: nbsp;scope nbsp;the nbsp;problem, nbsp;build nbsp;it, nbsp;put nbsp;it nbsp;in nbsp;front nbsp;of nbsp;users. /span /li li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Talk nbsp;to nbsp;customers nbsp;(merchants, nbsp;internal nbsp;teams) nbsp;directly nbsp;and nbsp;turn nbsp;raw nbsp;pain nbsp;into nbsp;a nbsp;shippable nbsp;solution, nbsp;not nbsp;a nbsp;spec. /span /li li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Prototype nbsp;in nbsp;hours, nbsp;ship nbsp;in nbsp;days. nbsp;Move nbsp;across nbsp;frontend, nbsp;backend, nbsp;data nbsp;and nbsp;LLM nbsp;orchestration nbsp;based nbsp;on nbsp;what nbsp;the nbsp;problem nbsp;needs, nbsp;not nbsp;your nbsp;title. /span /li li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; Build nbsp;AI nbsp;into nbsp;the nbsp;product nbsp;(agents, nbsp;evals, nbsp;guardrails, nbsp;feedback nbsp;loops), nbsp;not nbsp;just nbsp;use nbsp;AI nbsp;to nbsp;build nbsp;it. /span /li li style= font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt; span style= font-family: tahoma, aria",
+   "department": "Product Management",
+   "veto": null,
+   "skill_gaps": [
+    "salesforce"
+   ],
+   "flags": [
+    "vague culture language"
+   ],
+   "age_days": 0,
+   "location_tier": 4,
+   "location_label": "Bengaluru",
+   "experience_bucket": 2,
+   "experience_note": "Senior title",
+   "salary_lpa": null,
+   "match_score": 20,
+   "match_hits": [
+    "guardrails",
+    "real-time",
+    "autonomy",
+    "llm"
+   ],
+   "company": "Razorpay",
+   "company_tier": "india",
+   "portal": "greenhouse",
+   "id": "6c3444dfc5faaf4f",
+   "first_seen": "2026-11-25T13:14:57.464372+00:00",
+   "is_new": true,
+   "days_listed": 0
   },
   {
    "title": "Forward-Deployed AI Engineer",
@@ -2203,7 +2192,7 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [],
-   "age_days": 20,
+   "age_days": 21,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2213,12 +2202,12 @@
    "match_hits": [
     "ai engineer",
     "multi-agent",
+    "guardrails",
     "evaluation",
     "embeddings",
-    "guardrails",
     "vector",
     "python",
-    "rag"
+    "llm"
    ],
    "company": "Turing",
    "company_tier": "global",
@@ -2226,7 +2215,7 @@
    "id": "b12da8b27b841f15",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 60
+   "days_listed": 61
   },
   {
    "title": "Lead Software Engineer - Site Reliability",
@@ -2238,9 +2227,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 60 days ago"
+    "posted 61 days ago"
    ],
-   "age_days": 60,
+   "age_days": 61,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2256,7 +2245,7 @@
    "id": "51f08f6bb890441a",
    "first_seen": "2026-09-25T08:59:06.248875+00:00",
    "is_new": false,
-   "days_listed": 60
+   "days_listed": 61
   },
   {
    "title": "Lead Software Engineer - Full Stack",
@@ -2268,9 +2257,9 @@
    "veto": null,
    "skill_gaps": [],
    "flags": [
-    "posted 134 days ago"
+    "posted 135 days ago"
    ],
-   "age_days": 134,
+   "age_days": 135,
    "location_tier": 5,
    "location_label": "Hyderabad",
    "experience_bucket": 2,
@@ -2286,7 +2275,7 @@
    "id": "99eba567d0eb0c37",
    "first_seen": "2026-09-07T09:50:21.309043+00:00",
    "is_new": false,
-   "days_listed": 78
+   "days_listed": 79
   }
  ]
 }
